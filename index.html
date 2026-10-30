@@ -100,14 +100,14 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
-<script src="bulbimg.js?v=20261030d"></script>
+<script src="bulbimg.js?v=20261030e"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
 const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402b-9937-7c3d3afc9140';
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261030d')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261030e')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
@@ -147,7 +147,12 @@ function conf(r){const c=String(r.confidence||'').trim();if(c.startsWith('manual
 function region(r){const t=[r.region_condition,r.source_title,r.source_url,r.notes].join(' '),id=r.row_id||'';
  if(/-JP\d*$/.test(id)||/[\u3040-\u30ff]/.test((r.source_title||'')+(r.source_url||'')))return 'מהדורה יפנית';
  if(/-(GB|UK|EU|DE|FI)\d*$/.test(id))return 'מהדורה אירופית';
- if(/-(US|CA)\d*$/.test(id))return 'מהדורה אמריקאית';
+ if(/-CA\d*$/.test(id))return 'מהדורת קנדה';
+ if(/-US\d*$/.test(id))return 'מהדורה אמריקאית';
+ if(/canada|קנדה|\/en-ca\//i.test(t))return 'מהדורת קנדה';
+ if(/ארה"ב|ארצות הברית|צפון אמריקה/.test(t))return 'מהדורה אמריקאית';
+ if(/אירופ|בריטניה|גרמניה/.test(r.source_title||''))return 'מהדורה אירופית';
+ if(/יפן/.test(r.source_title||''))return 'מהדורה יפנית';
  if(/[\u0590-\u05ff]/.test(r.source_title||'')||/\.co\.il|\bisrael(i)? (edition|market|manual)/i.test(t))return 'מהדורה ישראלית';
  if(/japan|\bJDM\b|\.jp\b|\bJP\b/i.test(t))return 'מהדורה יפנית';
  if(/\b(USA|US|U\.S\.|North America|Canada)\b|\.com\/us|owners\.(honda|toyota|ford)\.com/i.test(t))return 'מהדורה אמריקאית';
@@ -186,7 +191,7 @@ function render(v,pi,matches){
     const VKH={m:'מומלץ לפי ספר הרכב',o:'לפי המוצר שספר הרכב ממליץ עליו',s:'הדרגה היחידה שבספר הרכב',f:'ראשונה בטבלת ספר הרכב (הספר אינו מסמן דרגה מועדפת)'};
     const chips=(a,c)=>a.map(g=>'<span class="vchip '+c+'">'+esc(g)+'</span>').join('');
     const vis=has('engine_oil_viscosity')?(r.VP?kv('צמיגות',chips(r.VP,'vp')+' <span class="mut" style="font-size:12px">'+VKH[r.VK]+'</span>'+(r.VA?'<div style="margin-top:3px">'+chips(r.VA,'va')+' <span class="mut" style="font-size:12px">חלופה מפורשת בספר הרכב</span></div>':'')+(r.VN>r.VP.length+(r.VA||[]).length?'<details class="vall"><summary>הצג את כל האפשרויות מטבלת ספר הרכב ('+r.VN+' דרגות)</summary><div dir="auto">'+tx('engine_oil_viscosity')+'</div></details>':'')):F('צמיגות','engine_oil_viscosity')):(r.VD?kv('צמיגות','<b>'+esc(r.VD.join(' / '))+'</b> <span class="mut">(נגזר מטקסט התקן/המוצר בקטלוג)</span>'):'');
-    const eb=vis+F('תקן','engine_oil_spec')+(r.RP?kv('מוצר מומלץ','<a href="'+esc(r.RP[1])+'" target="_blank" rel="noopener">'+esc(r.RP[0])+'</a> <span class="mut" style="font-size:12px">· המוצר שבספר הרכב, מאומת בקטלוג אוטו פוינט</span>'):'')+F('כמות עם פילטר','engine_oil_cap_l_with_filter',1)+F('כמות בלי פילטר','engine_oil_cap_l_without_filter',1);
+    const eb=vis+F('תקן','engine_oil_spec')+(r.RP?kv('מוצר מומלץ','<a href="'+esc(r.RP[1])+'" target="_blank" rel="noopener">'+esc(r.RP[0])+'</a> <span class="mut" style="font-size:12px">· המוצר שבספר הרכב, מאומת בקטלוג אוטו פוינט</span>'):r.RU?kv('מוצר מומלץ','<span dir="auto">'+esc(r.RU)+'</span> <span class="mut" style="font-size:12px">· לפי ספר הרכב (טרם אומת בקטלוג אוטו פוינט)</span>'):'')+F('כמות עם פילטר','engine_oil_cap_l_with_filter',1)+F('כמות בלי פילטר','engine_oil_cap_l_without_filter',1);
     C('שמן מנוע', eb?eb+(has('engine_oil_cap_l_with_filter')||has('engine_oil_cap_l_without_filter')?'':NOCAP)+lk(L.eng):'','eng');
     const hg=k=>has(k+'_fluid_spec')||has(k+'_fluid_cap_l')||has(k+'_cap_l');
     const GN={mt:'תיבה ידנית',at:'תיבה אוטומטית',dct:'תיבה רובוטית כפולת מצמד (DCT)',hybrid_transaxle:'תמסורת היברידית (e-CVT)'};
@@ -226,7 +231,7 @@ function render(v,pi,matches){
      h+=cat('נורות',bl||EM,'bulb');
      const IN=n=>Math.round(n/25.4);
      const mm=x=>{const v=String(x).match(/\d+(?:\.\d+)?/g);return v?'<b dir="ltr">'+v.map(n=>IN(+n)+'"').join(' / ')+'</b> <span class="mut" style="font-size:11px">('+esc(String(x))+' מ״מ)</span>':'<b>'+esc(x)+'</b>';};
-     const mmTxt=t=>esc(t).replace(/((?:\d{3}|—)(?:\s*\/\s*(?:\d{3}|—))*)(\s*)(mm|מ״מ|מ"מ|מ&quot;מ)/gi,(q,g,sp,u)=>/\d/.test(g)?g.split("/").map(x=>/\d/.test(x)?IN(+x.trim())+'"':x.trim()).join("/")+" ("+g+sp+u+")":q);
+     const mmTxt=t=>esc(t).replace(/((?:\d{3}|—)(?:\s*\/\s*(?:\d{3}|—))*)(\s*)(mm|מ״מ|מ"מ|מ&quot;מ)/gi,(q,g,sp,u)=>/\d/.test(g)?'<bdi dir="ltr">'+g.split("/").map(x=>/\d/.test(x)?IN(+x.trim())+'"':x.trim()).join("/")+'</bdi> (<bdi dir="ltr">'+g+'</bdi>'+sp+u+')':q);
      const hw=x=>x&&(E(x.front_wipers_driver_mm)||E(x.front_wipers_passenger_mm)||E(x.rear_wiper_mm));
      let w=null;if(b&&E(b.wiper_source_url))w=Object.assign({},b,{source_title:b.wiper_source_title,source_url:b.wiper_source_url,confidence:b.wiper_confidence,notes:b.wiper_notes,source_page:'',region_condition:''});else if(hw(b))w=b;else w=bwModel(v,'__wiper_models');
      if(w&&w!==b)ROW=Object.assign({row_id:m.id},w);

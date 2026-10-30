@@ -26,7 +26,7 @@ const CODES=[[/\bH4\b/,'H4','H4'],[/\bH7(LL)?\b/,'H7','H7'],[/\bH1\b/,'H1','H1']
 /* base-type words printed in Hebrew books (only when the book states the base type; no code assumed) */
 const WORDS=[[/(טריז|בסיס יתד)/,'WEDGE'],[/(קצה כפול|שני קצוות|בעלות שני קצוות)/,'FEST'],[/(קצה יחיד|צד אחד|צד אחר)/,'BAY'],[/\bLED\b/,'LED']];
 /* Real photos (Wikimedia Commons, free licences – see ATTRIBUTION.md), keyed by printed code. Codes without a photo keep the SVG drawing above. */
-const V='20261030d';
+const V='20261030e';
 const PH=[[/^H1$/,'H1'],[/^H3$/,'H3'],[/^H4$/,'H4'],[/^H7(LL)?$/,'H7'],[/^H(8|9|11|16)B?$/,'H11'],[/^(HB3A?|9005|HB4A?|9006)$/,'HB'],[/^D[1-4][SR]$/,'XEN'],
  [/^(W5W|WY5W|T10|W3W|W2\.3W|194|168|2825|W16W|WY16W|T15|T16|921|912)$/,'W5W'],[/^(W21W|WY21W|W21\/5W|T20|7440|7443|3156|3157|3157NA)$/,'W21W'],
  [/^(P21\/5W|P21\/4W|P27\/7W|BAY15d|1157|2357|1157NA|2357NA|3157A)$/,'P215W'],[/^(PY21W|BAU15s)$/,'PY21W'],[/^(P21W|BA15s|1156|7506|1141)$/,'P21W'],[/^(R5W|R10W|RY10W)$/,'R5W'],
@@ -36,10 +36,10 @@ const BASE={H1:'P14.5s',H3:'PK22s',H4:'P43t',H7:'PX26d',H8:'PGJ19-1',H9:'PGJ19-5
  W21W:'W3x16d',WY21W:'W3x16d','W21/5W':'W3x16q',P21W:'BA15s',PY21W:'BAU15s','P21/5W':'BAY15d','P21/4W':'BAZ15d',P27W:'W2.5x16d','P27/7W':'W2.5x16q',R5W:'BA15s',R10W:'BA15s',
  H6W:'BAX9s',H21W:'BAY9s',C5W:'SV8.5',C10W:'SV8.5',C21W:'SV8.5',C3W:'SV7'};
 const BFAM={WEDGE:'בסיס טריז (זכוכית)',BAY:'בסיס כידון',BAY2:'בסיס כידון דו-חוטי',FEST:'דו-קצה (פסטון)',LED:'LED'};
-const photo=l=>{for(const [re,k] of PH) if(re.test(l)) return k; return null;};
+const photo=l=>{l=String(l).replace(/LL$/,'');for(const [re,k] of PH) if(re.test(l)) return k; return null;};
 window.bulbParse=function(txt){
   if(!txt) return [];
-  const s=String(txt),out=[],seen=new Set();
+  const s=String(txt).replace(/\b([A-Z0-9/]*\dW)LL\b/g,'$1'),out=[],seen=new Set();
   for(const [re,fam,lab] of CODES){const g=new RegExp(re.source,re.flags.includes('g')?re.flags:re.flags+'g');for(const m of s.matchAll(g)){const L=lab||m[0];if(!seen.has(L)){seen.add(L);out.push([fam,L]);}}}
   if(!out.some(o=>o[0]!=='LED')) for(const [re,fam] of WORDS){if(re.test(s)&&!out.some(o=>o[0]===fam)){
     let f=fam; if(fam==='BAY'&&/\d+\/\d+\s*W?/.test(s)) f='BAY2'; out.push([f,fam==='LED'?'LED':'']);}}
@@ -55,7 +55,7 @@ const esc=x=>String(x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 window.bulbCard=function(pos,txt){
   const P=window.bulbParse(txt);
   const th=P.length?P.slice(0,2).map(([f,l])=>thumb(f,l)).join(''):'<span class="bnone">—</span>';
-  const bases=[...new Set(P.map(([f,l])=>BASE[l]||(l?'':BFAM[f]||'')).filter(Boolean))].join(' / ');
+  const bases=[...new Set(P.map(([f,l])=>BASE[String(l).replace(/LL$/,'')]||(l?'':BFAM[f]||'')).filter(Boolean))].join(' / ');
   const t=String(txt).trim();
   return '<div class="bcard"><div class="bth">'+th+'</div><div class="bpos">'+esc(pos)+'</div><div class="bcode" dir="auto" title="'+esc(t)+'">'+esc(t.length>34?t.slice(0,32)+'…':t)+'</div>'+(bases?'<div class="bbase">בסיס: <span dir="ltr">'+esc(bases)+'</span></div>':'')+'</div>';
 };
