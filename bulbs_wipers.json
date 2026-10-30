@@ -16539,6 +16539,40 @@
 ],
 "year_from": 2017,
 "year_to": 2021
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם לפי Bosch 2023: Hyundai Ioniq 5 [NE] 2021→. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. Bosch AR813S ו-Valeo ‏(650/450) – המידות תואמות. המגב האחורי הושמט.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^IONIQ5$",
+"tozeret_cd": [
+481
+],
+"year_from": 2021,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 350,
+"notes": "דגם לפי Bosch 2023: Kia Picanto [JA] 04.17→. קדמיים 600/350 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול TopWipers (קטלוג אירופי, הגה שמאלי) – המידות תואמות. Valeo 600/350, TopWipers 600/340. המגב האחורי הושמט – מידה לא מאומתת.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^PICANTO$",
+"tozeret_cd": [
+885
+],
+"year_from": 2018,
+"year_to": 2026
 }
 ]
 }
