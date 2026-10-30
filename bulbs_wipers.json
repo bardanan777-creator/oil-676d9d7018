@@ -4952,40 +4952,547 @@
 "source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_owners_manual_.pdf"
 },
 "SU-FOR-SK-FB25-IL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "אור חניה",
+"type": "LED"
+},
+{
+"position": "ערפל",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 692-693",
+"source_title": "SUBARU FORESTER (SK) 取扱説明書 A8290JJ-A",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8290JJ-A.pdf",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Subaru Forester [S14] 05.19→: A156S (650/400 mm) + rear H354 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"SU-FOR-SK-FB25-IL-YALIAS-2018": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "אור חניה",
+"type": "LED"
+},
+{
+"position": "ערפל",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 692-693",
+"source_title": "SUBARU FORESTER (SK) 取扱説明書 A8290JJ-A",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8290JJ-A.pdf"
+},
+"SU-FOR-SK-FB25-US": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "אור חניה",
+"type": "LED"
+},
+{
+"position": "ערפל",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 692-693",
+"source_title": "SUBARU FORESTER (SK) 取扱説明書 A8290JJ-A",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8290JJ-A.pdf"
+},
+"SU-FORESTER-SJ-FB20-RU13": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3",
+"headlight_low": "H11 (הלוגן) / D4R (קסנון – במוסך)",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. לפני מתיחת פנים 2016. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 459-460",
+"source_title": "SUBARU FORESTER (SJ) 取扱説明書 A8210JJ-D",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8210JJ-D.pdf"
+},
+"SU-FORESTER-SJ-FB20-RU14": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3",
+"headlight_low": "H11 (הלוגן) / D4R (קסנון – במוסך)",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. לפני מתיחת פנים 2016. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 459-460",
+"source_title": "SUBARU FORESTER (SJ) 取扱説明書 A8210JJ-D",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8210JJ-D.pdf"
+},
+"SU-JP-FORT-SJA-FA20": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3",
+"headlight_low": "H11 (הלוגן) / D4R (קסנון – במוסך)",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. לפני מתיחת פנים 2016. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 459-460",
+"source_title": "SUBARU FORESTER (SJ) 取扱説明書 A8210JJ-D",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8210JJ-D.pdf"
+},
+"SU-JP-FORT-SJB-FA20": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3",
+"headlight_low": "H11 (הלוגן) / D4R (קסנון – במוסך)",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. לפני מתיחת פנים 2016. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 459-460",
+"source_title": "SUBARU FORESTER (SJ) 取扱説明書 A8210JJ-D",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8210JJ-D.pdf"
+},
+"SU-JP-FORT-SJC-FA20": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3",
+"headlight_low": "H11 (הלוגן) / D4R (קסנון – במוסך)",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. לפני מתיחת פנים 2016. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 459-460",
+"source_title": "SUBARU FORESTER (SJ) 取扱説明書 A8210JJ-D",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8210JJ-D.pdf"
+},
 "SU-XV-GP-FB-IL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3",
+"headlight_low": "H11 (הלוגן) / D2R (קסנון – במוסך)",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-43–8-44 (PDF 473-474)",
+"source_title": "SUBARU XV (GP) 取扱説明書 A1290JJ-C",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/xv/pdf/A1290JJ-C.pdf",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Subaru XV [G33/GP] 08.11-11.17: AR653S (650/400 mm) + rear H306 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"SU-XV-GP-FB-X": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3",
+"headlight_low": "H11 (הלוגן) / D2R (קסנון – במוסך)",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-43–8-44 (PDF 473-474)",
+"source_title": "SUBARU XV (GP) 取扱説明書 A1290JJ-C",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/xv/pdf/A1290JJ-C.pdf"
+},
+"SU-XV-GT-FB": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED",
+"headlight_low": "H11 (הלוגן) / LED",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "רוורס",
+"type": "W21W"
+},
+{
+"position": "אור אחורי",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "532-533",
+"source_title": "SUBARU XV (GT) 取扱説明書 A1320JJ-I",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/xv/pdf/A1320JJ-I.pdf"
+},
+"SU-XV-GT-FB-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED",
+"headlight_low": "H11 (הלוגן) / LED",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "רוורס",
+"type": "W21W"
+},
+{
+"position": "אור אחורי",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "532-533",
+"source_title": "SUBARU XV (GT) 取扱説明書 A1320JJ-I",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/xv/pdf/A1320JJ-I.pdf"
+},
+"SU-XV-GT-FB-IL-YALIAS-XV-2024-x179": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED",
+"headlight_low": "H11 (הלוגן) / LED",
+"notes": "ספר רכב רשמי של סובארו יפן (subaru.jp) – מפרט נורות זהה בדרך כלל לדגם האירופי; יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "רוורס",
+"type": "W21W"
+},
+{
+"position": "אור אחורי",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "532-533",
+"source_title": "SUBARU XV (GT) 取扱説明書 A1320JJ-I",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/xv/pdf/A1320JJ-I.pdf"
 },
 "SZ-ALTO-GF-K10B": {
 "brake_light": "P21/5W 12V 21/5W",
