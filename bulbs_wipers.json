@@ -16573,6 +16573,296 @@
 ],
 "year_from": 2018,
 "year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם: Suzuki Swift [FZ] 2010-2017. קדמיים 530/450 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: Bosch 2023 (AR531S) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%95%D7%96%D7%95%D7%A7%D7%99/1954-Swift",
+"rear_wiper_mm": "",
+"source_title": "Bosch 2023 (AR531S) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%95%D7%96%D7%95%D7%A7%D7%99/1954-Swift"
+},
+"kinuy_re": "^SWIFT$",
+"tozeret_cd": [
+299
+],
+"year_from": 2011,
+"year_to": 2016
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 340,
+"notes": "דגם: Suzuki Celerio 10.14→. קדמיים 530/340 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: Bosch 2023 (AR530U + AR340U) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ). המגב האחורי הושמט – לא אומת בשני מקורות. מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%95%D7%96%D7%95%D7%A7%D7%99/1948-Celerio",
+"rear_wiper_mm": "",
+"source_title": "Bosch 2023 (AR530U + AR340U) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%95%D7%96%D7%95%D7%A7%D7%99/1948-Celerio"
+},
+"kinuy_re": "^CELERIO$",
+"tozeret_cd": [
+380
+],
+"year_from": 2015,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 450,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם: Suzuki Jimny [FJ] 1998-2018. קדמיים 450/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: Bosch 2023 (AR450U + AR400U) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%95%D7%96%D7%95%D7%A7%D7%99/1951-Jimny",
+"rear_wiper_mm": "",
+"source_title": "Bosch 2023 (AR450U + AR400U) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%95%D7%96%D7%95%D7%A7%D7%99/1951-Jimny"
+},
+"kinuy_re": "^JIMNY$",
+"tozeret_cd": [
+683
+],
+"year_from": 2001,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 340,
+"notes": "דגם: Nissan Juke [F15] 2010-2017. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: Bosch 2023 (AR553S) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ). המגב האחורי הושמט – לא אומת בשני מקורות. מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A0%D7%99%D7%A1%D7%90%D7%9F/1808-Juke",
+"rear_wiper_mm": "",
+"source_title": "Bosch 2023 (AR553S) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A0%D7%99%D7%A1%D7%90%D7%9F/1808-Juke"
+},
+"kinuy_re": "^JUKE$",
+"tozeret_cd": [
+637
+],
+"year_from": 2011,
+"year_to": 2016
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם: Honda Insight [ZE2] 03.09-02.14. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: Bosch 2023 (AR653S) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%94%D7%95%D7%A0%D7%93%D7%94/1630-Insight",
+"rear_wiper_mm": "",
+"source_title": "Bosch 2023 (AR653S) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%94%D7%95%D7%A0%D7%93%D7%94/1630-Insight"
+},
+"kinuy_re": "^INSIGHT HYBRID$",
+"tozeret_cd": [
+312
+],
+"year_from": 2009,
+"year_to": 2013
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם: Hyundai Bayon [BC3] 08.21→. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: Bosch 2023 (AP24U + AP16U) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99/2683-Bayon",
+"rear_wiper_mm": "",
+"source_title": "Bosch 2023 (AP24U + AP16U) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99/2683-Bayon"
+},
+"kinuy_re": "^BAYON$",
+"tozeret_cd": [
+845
+],
+"year_from": 2022,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם: Hyundai i20 [BC3] 02.20→. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: TopWipers (https://topwipers.com/en-de/auto/wiper-blades/hyundai/i20/bc3-2020) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99/1645-i20",
+"rear_wiper_mm": "",
+"source_title": "TopWipers (https://topwipers.com/en-de/auto/wiper-blades/hyundai/i20/bc3-2020) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99/1645-i20"
+},
+"kinuy_re": "^I20$",
+"tozeret_cd": [
+845
+],
+"year_from": 2021,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם: Subaru Impreza [G12/G22] 06.07-12.11. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: Bosch 2023 (AR601S) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%95%D7%91%D7%90%D7%A8%D7%95/1936-Impreza",
+"rear_wiper_mm": "",
+"source_title": "Bosch 2023 (AR601S) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%95%D7%91%D7%90%D7%A8%D7%95/1936-Impreza"
+},
+"kinuy_re": "^IMPREZA( B3)?$",
+"tozeret_cd": [
+650
+],
+"year_from": 2008,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם: Mitsubishi Lancer [CS] 2000-2007. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: Bosch 2023 (AR604S) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%9E%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%A9%D7%99/809-Lancer",
+"rear_wiper_mm": "",
+"source_title": "Bosch 2023 (AR604S) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%9E%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%A9%D7%99/809-Lancer"
+},
+"kinuy_re": "^LANCER$",
+"tozeret_cd": [
+590
+],
+"year_from": 2004,
+"year_to": 2007
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם: Mitsubishi Outlander IV [GN] 2021→. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: TopWipers (https://topwipers.com/en-de/auto/wiper-blades/mitsubishi/outlander) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%9E%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%A9%D7%99/1799-Outlander",
+"rear_wiper_mm": "",
+"source_title": "TopWipers (https://topwipers.com/en-de/auto/wiper-blades/mitsubishi/outlander) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%9E%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%A9%D7%99/1799-Outlander"
+},
+"kinuy_re": "^OUTLANDER$",
+"tozeret_cd": [
+590
+],
+"year_from": 2022,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": "",
+"notes": "דגם: Toyota Yaris [XP130] 2011-2020 (מגב קדמי יחיד). מגב נהג 700 מ״מ (מגב הנוסע הושמט – סתירה בין המקורות או מגב יחיד), אחורי 300 מ״מ. המידות תואמות בין שני מקורות בלתי תלויים: Bosch 2023 (707U + rear 300) ו-TopWipers ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ). carwiper מציג מגב יחיד 28\" ומגב אחורי 12\" גם לייצור צרפתי וגם לייצור יפני. מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%98%D7%95%D7%99%D7%95%D7%98%D7%94/1283-Yaris",
+"rear_wiper_mm": 300,
+"source_title": "Bosch 2023 (707U + rear 300) ו-TopWipers + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%98%D7%95%D7%99%D7%95%D7%98%D7%94/1283-Yaris"
+},
+"kinuy_re": "^YARIS( HYBRID)?$",
+"tozeret_cd": [
+672
+],
+"year_from": 2012,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם: Citroën Berlingo [B9] 05.08-12.18. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: TopWipers (https://topwipers.com/en-de/auto/wiper-blades/citroen/berlingo/b9-2008) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ). המגב האחורי הושמט – משתנה לפי סוג הדלת האחורית. מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%99%D7%98%D7%A8%D7%95%D7%90%D7%9F/2758-Berlingo",
+"rear_wiper_mm": "",
+"source_title": "TopWipers (https://topwipers.com/en-de/auto/wiper-blades/citroen/berlingo/b9-2008) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%99%D7%98%D7%A8%D7%95%D7%90%D7%9F/2758-Berlingo"
+},
+"kinuy_re": "^BERLINGO$",
+"tozeret_cd": [
+496,
+279
+],
+"year_from": 2009,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 430,
+"notes": "דגם: MG HS / eHS [AS23] 2018-2024. קדמיים 600/430 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: TopWipers (https://topwipers.com/en-de/auto/wiper-blades/mg/hs/2018) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-MG/3041-HS",
+"rear_wiper_mm": "",
+"source_title": "TopWipers (https://topwipers.com/en-de/auto/wiper-blades/mg/hs/2018) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-MG/3041-HS"
+},
+"kinuy_re": "^(EHS PHEV|HS)$",
+"tozeret_cd": [
+443
+],
+"year_from": 2020,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם: MG4 EV 2022→. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: TopWipers (https://topwipers.com/en-de/auto/wiper-blades/mg/4-ev/2023) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-MG/3046-MG",
+"rear_wiper_mm": "",
+"source_title": "TopWipers (https://topwipers.com/en-de/auto/wiper-blades/mg/4-ev/2023) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-MG/3046-MG"
+},
+"kinuy_re": "^MG4$",
+"tozeret_cd": [
+443
+],
+"year_from": 2022,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": "",
+"notes": "דגם: Jaecoo 7 2023→. מגב נהג 600 מ״מ (מגב הנוסע הושמט – סתירה בין המקורות או מגב יחיד), מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: TopWipers (https://topwipers.com/en-de/auto/wiper-blades/jaecoo/j7/j7-2023) – נהג בלבד; נוסע: TopWipers 450 מול carwiper 16\" (400) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-JAECOO/2115-JAECOO",
+"rear_wiper_mm": "",
+"source_title": "TopWipers (https://topwipers.com/en-de/auto/wiper-blades/jaecoo/j7/j7-2023) – נהג בלבד; נוסע: TopWipers 450 מול carwiper 16\" (400) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-JAECOO/2115-JAECOO"
+},
+"kinuy_re": "^(JAECOO ?7|JAECOO ?7 PHEV)$",
+"tozeret_cd": [
+1604
+],
+"year_from": 2023,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": "",
+"notes": "דגם: BYD Dolphin 2021→. מגב נהג 600 מ״מ (מגב הנוסע הושמט – סתירה בין המקורות או מגב יחיד), מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: TopWipers (https://topwipers.com/en-de/auto/wiper-blades/byd/dolphin/2021) – נהג בלבד; נוסע: TopWipers 400 מול carwiper 15\" (380) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-BYD/2659-Dolphin",
+"rear_wiper_mm": "",
+"source_title": "TopWipers (https://topwipers.com/en-de/auto/wiper-blades/byd/dolphin/2021) – נהג בלבד; נוסע: TopWipers 400 מול carwiper 15\" (380) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-BYD/2659-Dolphin"
+},
+"kinuy_re": "^(BYD )?DOLPHIN$",
+"tozeret_cd": [
+1014
+],
+"year_from": 2023,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": "",
+"notes": "דגם: BYD Seal 2022→. מגב נהג 600 מ״מ (מגב הנוסע הושמט – סתירה בין המקורות או מגב יחיד), מגב אחורי: אין נתון. המידות תואמות בין שני מקורות בלתי תלויים: TopWipers (https://topwipers.com/en-de/auto/wiper-blades/byd/seal/2022) – נהג בלבד; נוסע: TopWipers 450 מול carwiper 19\" (480) ו-carwiper.co.il (מידות באינץ׳, הומרו למ״מ סטנדרטי; סטייה של עד 10 מ״מ).  מקור: https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-BYD/2657-Seal",
+"rear_wiper_mm": "",
+"source_title": "TopWipers (https://topwipers.com/en-de/auto/wiper-blades/byd/seal/2022) – נהג בלבד; נוסע: TopWipers 450 מול carwiper 19\" (480) + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-BYD/2657-Seal"
+},
+"kinuy_re": "^SEAL$",
+"tozeret_cd": [
+1014
+],
+"year_from": 2023,
+"year_to": 2026
 }
 ]
 }
