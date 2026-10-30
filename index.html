@@ -140,13 +140,16 @@ const lk=a=>a&&a.length?'<div class="links">'+a.map(([t,u])=>'<a href="'+esc(u)+
 
 const CONF={'manual-verbatim':[90,'מועתק מספר הרכב','#5fd08a','ביטחון גבוה – הנתונים הועתקו מספר הרכב, אך עדיין אינם מובטחים ב־100%.'],'high':[90,'גבוהה','#5fd08a','רמת ביטחון גבוהה – סביר מאוד שנכון, אך אינו מובטח ב־100%; במקרה ספק לאמת מול ספר הרכב.'],'medium-high':[75,'בינונית־גבוהה','#b9d36a','רמת ביטחון בינונית־גבוהה – סביר שנכון, אך ההתאמה אינה מובטחת; מומלץ לאמת מול ספר הרכב.'],'medium':[50,'בינונית','#f0b54a','רמת ביטחון בינונית – ההתאמה אינה מובטחת, יש לאמת מול ספר הרכב.'],'low':[25,'נמוכה','#e8857a','ביטחון נמוך – לאמת בהכרח מול ספר הרכב לפני מילוי.']};
 function conf(r){const c=String(r.confidence||'').trim();if(c.startsWith('manual-verbatim; primary'))return [75,'ספר הרכב (תקן שמן ראשי חסר)','#b9d36a','הנתונים מספר הרכב, אך תקן השמן הראשי אינו מופיע בו – יש לאמת.'];return CONF[c.split(/[;\s]/)[0]]||[25,'לא ידועה','#e8857a','רמת הביטחון לא צוינה – לאמת בהכרח.'];}
-function region(r){const t=[r.region_condition,r.source_title,r.source_url,r.notes].join(' ');
- if(/[\u0590-\u05ff]|\bisrael|\.co\.il|\bIL\b/i.test(t))return 'מהדורה ישראלית';
- if(/[\u3040-\u30ff]|japan|\bJDM\b|\.jp\b|\bJP\b/i.test(t))return 'מהדורה יפנית';
+function region(r){const t=[r.region_condition,r.source_title,r.source_url,r.notes].join(' '),id=r.row_id||'';
+ if(/-JP\d*$/.test(id)||/[\u3040-\u30ff]/.test((r.source_title||'')+(r.source_url||'')))return 'מהדורה יפנית';
+ if(/-(GB|UK|EU|DE|FI)\d*$/.test(id))return 'מהדורה אירופית';
+ if(/-(US|CA)\d*$/.test(id))return 'מהדורה אמריקאית';
+ if(/[\u0590-\u05ff]/.test(r.source_title||'')||/\.co\.il|\bisrael(i)? (edition|market|manual)/i.test(t))return 'מהדורה ישראלית';
+ if(/japan|\bJDM\b|\.jp\b|\bJP\b/i.test(t))return 'מהדורה יפנית';
  if(/\b(USA|US|U\.S\.|North America|Canada)\b|\.com\/us|owners\.(honda|toyota|ford)\.com/i.test(t))return 'מהדורה אמריקאית';
  if(/\b(EU|Europe|European|UK|GBR|Germany|Deutschland|ECE)\b|\.co\.uk|\.de\b|\.fr\b|\.eu\b|ford_eu/i.test(t))return 'מהדורה אירופית';
  return 'אזור מהדורה לא צוין';}
-function srcName(r){const h=hv('source_title'),o=r.source_title||'';if(/[\u0590-\u05ff]/.test(o))return esc(o);if(h)return esc(clean(h));return '<span class="mut">מקור (ראו טקסט מקור)</span>';}
+function srcName(r){const h=hv('source_title'),o=r.source_title||'';if(h)return esc(clean(h));if(/[\u0590-\u05ff]/.test(o))return esc(o);if(h)return esc(clean(h));return '<span class="mut">מקור (ראו טקסט מקור)</span>';}
 const stars=p=>{const n=Math.round(p/20);return '<span class="stars" aria-hidden="true">'+'★'.repeat(n)+'<i>'+'★'.repeat(5-n)+'</i></span>';};
 function qstrip(r){const [p,l,c]=conf(r);return '<div class="qs" style="--qc:'+c+'"><span class="qp">'+p+'%</span>'+stars(p)+'<span>אמינות: <b>'+l+'</b></span><span class="dot">·</span><span>'+srcName(r)+'</span><span class="dot">·</span><span>'+region(r)+'</span></div>';}
 function confTop(r){const [p,l,c,t]=conf(r);return '<div class="card conf" style="--qc:'+c+'"><div class="cbig"><span class="cbadge">'+l+'</span><span class="cpct">אמינות משוערת: '+p+'%</span></div><div class="ctxt">'+t+'</div><div class="cnote">האחוז הוא הערכה פנימית לפי סוג המקור ואופן ההתאמה לרכב – לא דיוק שנמדד בפועל.</div>'+qstrip(r)+'</div>';}
@@ -161,8 +164,8 @@ function render(v,pi,matches){
   if(!matches.length) return h+'<div class="card"><h2 class="miss">לא נמצא בקטלוג</h2><div class="meta">אין לרכב זה התאמה בקטלוג השמנים. אין להסתמך על ניחוש – יש לבדוק בספר הרכב.</div></div>';
   if(matches.length>1) h+='<div class="card warn">נמצאו '+matches.length+' התאמות אפשריות בקטלוג – יש לבחור לפי הרכב בפועל.</div>';
   for(const m of matches){
-    const r=DATA.rows[m.id], L=r.L||{}; ROW=r;
-    h+='<div class="card"><div class="meta" style="margin-top:0">שורת קטלוג: <b>'+esc(m.id)+'</b> · '+esc([r.brand_en,r.model_en,r.engine_name_manual,r.year_from+(r.year_to?'–'+r.year_to:'')].filter(Boolean).join(' · '))+'</div>'+
+    const r=DATA.rows[m.id], L=r.L||{}; ROW=r; r.row_id=m.id;
+    h+='<div class="card"><div class="meta" style="margin-top:0">שורת קטלוג: <b>'+esc(m.id)+'</b> · '+esc([r.brand_en,r.model_en,(hv('engine_name_manual')?clean(hv('engine_name_manual')):clean(r.engine_name_manual||'')),r.year_from+(r.year_to?'–'+r.year_to:'')].filter(Boolean).join(' · '))+'</div>'+
        (m.how?'<div class="warn">'+esc(m.how)+'</div>':'')+'</div>'+confTop(r);
     h+='<div class="cats">';
     const has=f=>!!(r[f]&&String(r[f]).trim());
