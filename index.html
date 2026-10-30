@@ -81,6 +81,7 @@ button:disabled{opacity:.6}
 details summary{cursor:pointer;color:var(--gold);font-size:12px}
 footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spacing:.1em}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+.bimgs{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}.bimg{display:inline-flex;align-items:center;gap:6px;background:#f6f9fc;border:1px solid #dde6ee;border-radius:8px;padding:3px 8px 3px 3px}.bcap{font-size:12px;line-height:1.3;color:#334}
 </style>
 </head>
 <body>
@@ -98,6 +99,7 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
+<script src="bulbimg.js"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
 const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402b-9937-7c3d3afc9140';
@@ -189,10 +191,10 @@ function render(v,pi,matches){
     const pb=F('סוג/תקן','power_steering_fluid');
     C('נוזל הגה', pb?pb+lk(L.ps):'','ps');
     {const b=BW[m.id]||bwModel(v),sv=ROW;const E=x=>x!=null&&String(x).trim()!=='';
-     const EM='<div class="empty">אין נתון בקטלוג</div>';
+     const EM='<div class="empty">אין נתון בקטלוג</div>';const BI=t=>{const i=window.bulbIcons?window.bulbIcons(t):'';return '<b>'+esc(t)+'</b>'+(i?'<div class="bimgs">'+i+'</div>':'');};
      if(b){ROW=Object.assign({row_id:m.id,source_pdf_page:b.source_page},b);}
-     const bl=b?(E(b.headlight_low)?kv('פנס ראשי – אור נמוך','<b>'+esc(b.headlight_low)+'</b>'):'')+(E(b.headlight_high)?kv('פנס ראשי – אור גבוה','<b>'+esc(b.headlight_high)+'</b>'):'')+(E(b.brake_light)?kv('אור בלימה','<b>'+esc(b.brake_light)+'</b>'):'')+
-       (Array.isArray(b.other_bulbs)?b.other_bulbs.filter(o=>o&&E(o.type)).map(o=>kv(esc(o.position||'נורה נוספת'),'<b>'+esc(o.type)+'</b>')).join(''):''):'';
+     const bl=b?(E(b.headlight_low)?kv('פנס ראשי – אור נמוך',BI(b.headlight_low)):'')+(E(b.headlight_high)?kv('פנס ראשי – אור גבוה',BI(b.headlight_high)):'')+(E(b.brake_light)?kv('אור בלימה',BI(b.brake_light)):'')+
+       (Array.isArray(b.other_bulbs)?b.other_bulbs.filter(o=>o&&E(o.type)).map(o=>kv(esc(o.position||'נורה נוספת'),BI(o.type))).join(''):''):'';
      h+=cat('נורות',bl||EM,'bulb');
      const mm=x=>'<b>'+esc(x)+'</b> מ״מ';
      const wb=b?(E(b.front_wipers_driver_mm)?kv('מגב קדמי – נהג',mm(b.front_wipers_driver_mm)):'')+(E(b.front_wipers_passenger_mm)?kv('מגב קדמי – נוסע',mm(b.front_wipers_passenger_mm)):'')+(E(b.rear_wiper_mm)?kv('מגב אחורי',mm(b.rear_wiper_mm)):''):'';

@@ -4281,6 +4281,80 @@
 "source_title": "Suzuki VITARA Instrukcja obsługi 99999-SD-93 (suzuki.pl)",
 "source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/VITARA/VITARA%202017.pdf"
 },
+"T-AURIS-HV-E18": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "D4S 35W (קסנון); HIR2 55W (הלוגן)",
+"headlight_low": "D4S 35W (קסנון); HIR2 55W (הלוגן)",
+"notes": "Brake/tail 21/5W row is marked \"except hybrid model\", so no brake bulb for this hybrid row. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי איתות פניה קדמיים",
+"type": "21W נורת קצה יחיד כתומה"
+},
+{
+"position": "פנסי איתות פניה צדדיים",
+"type": "5W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנסי איתות פניה אחוריים",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "425 (PDF p.426)",
+"source_title": "Toyota Auris Hybrid 2013-2015 ספר רכב (Union Motors file 48)",
+"source_url": "https://books.union-motors.co.il/app/api/files/48/download"
+},
+"T-CCROSS-HV": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "Headlamps and brake lamps not in the bulb table (LED). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים (סוג נורה)",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנסי נהיגה ביום / פנסי חניה קדמיים (סוג נורה)",
+"type": "21/5W נורת טריז שקופה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "467 (PDF p.468)",
+"source_title": "Toyota Corolla Cross 2022-2026 ספר רכב (Union Motors file 954)",
+"source_url": "https://books.union-motors.co.il/app/api/files/954/download"
+},
 "T-CHR-HV1": {
 "brake_light": "",
 "confidence": "manual-verbatim",
@@ -4582,6 +4656,205 @@
 "source_title": "Toyota Corolla Sedan Hybrid 2020-2024 ספר רכב (Union Motors file 726)",
 "source_url": "https://books.union-motors.co.il/app/api/files/726/download"
 },
+"T-HILUX-AN120-D": {
+"brake_light": "21/5W נורת צד אחד שקופה (עם פנסי בלימה LED); קוד ECE לא מודפס",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (סוג A); HB3 60W (סוג B)",
+"headlight_low": "H4 60/55W (פנסים ראשיים הלוגן סוג A); H11 55W (סוג B)",
+"notes": "Brake row printed as \"(עם פנסי בלימה LED)\" in the book. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים הלוגן*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים (פנסים ראשיים הלוגן)",
+"type": "5W / 21/5W נורת טריז שקופה"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "21W נורת צד אחד/טריז כתומה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "21W נורת צד אחד שקופה"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "21W נורת צד אחד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "612 (PDF p.613)",
+"source_title": "Toyota Hilux 2020-2026 ספר רכב (Union Motors file 694)",
+"source_url": "https://books.union-motors.co.il/app/api/files/694/download"
+},
+"T-LC150-1GD-A": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (נורות הלוגן)*",
+"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי איתות פניה קדמיים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי חניה קדמיים (נורות הלוגן)*",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנסי איתות פניה אחוריים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנסי ערפל אחוריים*",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "589 (PDF p.590)",
+"source_title": "Toyota Land Cruiser 2015-2016 ספר רכב (Union Motors file 192)",
+"source_url": "https://books.union-motors.co.il/app/api/files/192/download"
+},
+"T-LC150-1GD-B-E45": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*",
+"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W נורת טריז שקופה"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "21W נורת טריז שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "740 (PDF p.741)",
+"source_title": "Toyota Land Cruiser 2020-2026 ספר רכב (Union Motors file 669)",
+"source_url": "https://books.union-motors.co.il/app/api/files/669/download"
+},
+"T-LC150-1GD-B-E5": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*",
+"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W נורת טריז שקופה"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "21W נורת טריז שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "740 (PDF p.741)",
+"source_title": "Toyota Land Cruiser 2020-2026 ספר רכב (Union Motors file 669)",
+"source_url": "https://books.union-motors.co.il/app/api/files/669/download"
+},
+"T-PRIUS-XW30": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (נורות הלוגן)*",
+"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חנייה קדמיים",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנסי איתות פניה קדמיים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה אחוריים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "388 (PDF p.389)",
+"source_title": "Toyota Prius 2009-2015 ספר רכב (Union Motors file 211)",
+"source_url": "https://books.union-motors.co.il/app/api/files/211/download"
+},
 "T-RAV4-HV-A": {
 "brake_light": "",
 "confidence": "manual-verbatim",
@@ -4659,6 +4932,174 @@
 "source_page": "518 (PDF p.519)",
 "source_title": "Toyota RAV4 2013-2016 ספר רכב (Union Motors file 242)",
 "source_url": "https://books.union-motors.co.il/app/api/files/242/download"
+},
+"T-VERSO-2ZR": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (הלוגן); D4S 35W (קסנון, אורות נסיעה ודרך)",
+"headlight_low": "H11 55W (הלוגן); D4S 35W (קסנון)",
+"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים (נורות הלוגן)",
+"type": "21/5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנסי איתות פניה קדמיים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה אחוריים",
+"type": "21W נורת קצה יחיד כתומה"
+},
+{
+"position": "פנסים אחוריים",
+"type": "5W נורת קצה יחיד שקופה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "21W נורת קצה יחיד שקופה"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W נורת קצה יחיד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "421 (PDF p.422)",
+"source_title": "Toyota Verso 2013-2017 ספר רכב (Union Motors file 282)",
+"source_url": "https://books.union-motors.co.il/app/api/files/282/download"
+},
+"T-YARIS-HV-1NZ": {
+"brake_light": "21/5W נורת קצה יחיד שקופה (סוג נורה; קוד ECE לא מודפס)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W",
+"headlight_low": "HIR2 55W",
+"notes": "Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים/פנסי תאורת יום (סוג נורה)",
+"type": "21/5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנסי איתות פניה קדמיים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה צדדיים",
+"type": "5W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה אחוריים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "493 (PDF p.494)",
+"source_title": "Toyota Yaris Hybrid 2019-2022 ספר רכב (Union Motors file 590)",
+"source_url": "https://books.union-motors.co.il/app/api/files/590/download"
+},
+"T-YARIS-HV-1NZ-YALIAS-2021": {
+"brake_light": "21/5W נורת קצה יחיד שקופה (סוג נורה; קוד ECE לא מודפס)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W",
+"headlight_low": "HIR2 55W",
+"notes": "Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים/פנסי תאורת יום (סוג נורה)",
+"type": "21/5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנסי איתות פניה קדמיים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה צדדיים",
+"type": "5W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה אחוריים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "493 (PDF p.494)",
+"source_title": "Toyota Yaris Hybrid 2019-2022 ספר רכב (Union Motors file 590)",
+"source_url": "https://books.union-motors.co.il/app/api/files/590/download"
+},
+"T-YARIS-HV-M15A": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
+"headlight_low": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
+"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים (סוג נורה)",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים (סוג נורה)",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנס איתות קדמי (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנס איתות אחורי (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "370 (PDF p.371)",
+"source_title": "Toyota Yaris Hybrid 2023-2024 ספר רכב (Union Motors file 1127)",
+"source_url": "https://books.union-motors.co.il/app/api/files/1127/download"
 },
 "T-YARIS-XP130-1NR": {
 "brake_light": "21/5W נורת בסיס טריז שקופה (קוד ECE לא מודפס) (סוג נורה)",
@@ -4811,6 +5252,76 @@
 "source_page": "415 (PDF p.416)",
 "source_title": "Toyota Yaris Cross Hybrid 2022-2024 ספר רכב (Union Motors file 943)",
 "source_url": "https://books.union-motors.co.il/app/api/files/943/download"
+},
+"TM-LC-1GD-20": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*",
+"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W נורת טריז שקופה"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "21W נורת טריז שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "740 (PDF p.741)",
+"source_title": "Toyota Land Cruiser 2020-2026 ספר רכב (Union Motors file 669)",
+"source_url": "https://books.union-motors.co.il/app/api/files/669/download"
+},
+"TM-LC-1GD20-REGANOM": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*",
+"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W נורת טריז שקופה"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "21W נורת טריז שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "740 (PDF p.741)",
+"source_title": "Toyota Land Cruiser 2020-2026 ספר רכב (Union Motors file 669)",
+"source_url": "https://books.union-motors.co.il/app/api/files/669/download"
 },
 "__models": []
 }
