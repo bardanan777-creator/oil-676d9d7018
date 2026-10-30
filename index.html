@@ -82,7 +82,7 @@ button:disabled{opacity:.6}
 details summary{cursor:pointer;color:var(--gold);font-size:12px}
 footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spacing:.1em}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
-.bimgs{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}.bimg{display:inline-flex;align-items:center;gap:8px;background:#f6f9fc;border:1px solid #c9d6e2;border-radius:10px;padding:4px 10px 4px 4px;min-width:150px}.bimg svg{width:64px;height:64px;flex:0 0 64px;background:#fff;border-radius:8px}.bcap{font-size:13px;line-height:1.35;color:#223}.bcap b{font-size:15px;color:#0b2540}.nod{color:#e8a87a;font-size:13px}.nod small{display:block;color:var(--mut);font-size:12px;margin-top:2px}
+.bimgs{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}.bimg{display:inline-flex;align-items:center;gap:8px;background:#f6f9fc;border:1px solid #c9d6e2;border-radius:10px;padding:4px 10px 4px 4px;min-width:150px}.bimg svg{width:64px;height:64px;flex:0 0 64px;background:#fff;border-radius:8px}.bcap{font-size:13px;line-height:1.35;color:#223}.bcap b{font-size:15px;color:#0b2540}.nod{color:#e8a87a;font-size:13px}.nod small,.nod>small{display:block;color:var(--mut);font-size:12px;margin-top:2px}
 </style>
 </head>
 <body>
@@ -100,14 +100,14 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
-<script src="bulbimg.js?v=20261030b"></script>
+<script src="bulbimg.js?v=20261030c"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
 const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402b-9937-7c3d3afc9140';
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261030b')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261030c')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
@@ -175,12 +175,12 @@ function render(v,pi,matches){
     const has=f=>!!(r[f]&&String(r[f]).trim());
     const F=(lab,f,l)=>has(f)?kv(lab,(l?txl(f):tx(f))+(r.P&&r.P[f]?'<div class="mut" style="font-size:11px">הועבר משורת קטלוג אחות מאותו ספר בעלים ('+esc(r.P[f])+')</div>':'')):'';
     const GX=(DATA.gx||{})[[v.tozeret_cd,v.degem_cd,v.shnat_yitzur,up(v.degem_manoa)].join('|')]||'';
-    const SRC=r.source_title?' ('+esc(clean(hv('source_title')||r.source_title)).slice(0,90)+')':'';
+    const SRC=r.source_title?' ('+esc(clean(r.source_title).slice(0,90))+')':'';
     const NOTEK={gear:/\b(ATF|CVTF?|DSG|DCT|MTF|gear ?oil|transmission|transaxle|gearbox)\b|תיבת|גיר/i,diff:/\bdiff|differential|דיפרנציאל/i,tc:/transfer|טרנספר/i,cool:/coolant|LLC|G1[23]|קירור/i,brake:/brake|DOT ?[345]|בלמ/i,ps:/steering|PSF|הגה/i};
     const nsn=k=>{const n=String(r.notes||'');if(!n||!NOTEK[k])return '';const hit=n.split(/(?<=[.;])\s+/).filter(x=>NOTEK[k].test(x));return hit.length?'<small>מהערות הקטלוג: <span dir="auto">'+esc(hit.join(' ').slice(0,400))+'</span></small>':'';};
     const WHY={gear:'הנתון לא מופיע במקור שממנו נבנתה שורת הקטלוג'+SRC,diff:(/2/.test(GX)&&!/4/.test(GX))?'רכב בהנעה 4X2 לפי משרד התחבורה – בדרך כלל אין דיפרנציאל אחורי נפרד':'הנתון לא מופיע במקור'+SRC,tc:(/2/.test(GX)&&!/4/.test(GX))?'רכב בהנעה 4X2 לפי משרד התחבורה – אין תיבת העברה (טרנספר)':'הנתון לא מופיע במקור'+SRC,
       cool:'הנתון לא מופיע במקור'+SRC,brake:'הנתון לא מופיע במקור'+SRC,ps:'לא צוין במקור'+SRC+'. ברוב הרכבים החדשים ההגה חשמלי (EPS) ללא נוזל – לאמת בספר הרכב',eng:'הנתון לא מופיע במקור'+SRC};
-    const EMP=k=>'<div class="empty nod">אין נתון – '+(WHY[k]||'לא מופיע במקור')+nsn(k)+'</div>';
+    const EMP=k=>'<div class="empty"><span class="nod">אין נתון – '+(WHY[k]||'לא מופיע במקור')+nsn(k)+'</span></div>';
     const C=(t,body,k,w)=>{h+=body?cat(t,body,k,w):cat(t,EMP(k),k,w);};
     const NOCAP=kv('כמות','<span class="miss">אין כמות</span> <span class="mut" style="font-size:12px">(לא מופיעה במקור)</span>');
     const vis=has('engine_oil_viscosity')?F('צמיגות','engine_oil_viscosity'):(r.VD?kv('צמיגות','<b>'+esc(r.VD.join(' / '))+'</b> <span class="mut">(נגזר מטקסט התקן/המוצר בקטלוג)</span>'):'');
