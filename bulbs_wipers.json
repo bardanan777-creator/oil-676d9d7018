@@ -1991,8 +1991,8 @@
 "K-PIC-TA-10": {
 "brake_light": "P21/5W 21/5 / LED (מסוג LED)*",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "H4 L/L 55/60",
 "headlight_low": "H4 L/L 55/60 (פנסים ראשיים אור נמוך/גבוה)",
 "notes": "Values read from rendered page (Hebrew text layer garbled). * = אם קיים. Wiper blade sizes not printed in the book.",
@@ -2026,10 +2026,14 @@
 "type": "W5W 5"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 300,
 "source_page": "408 (printed 8-2)",
 "source_title": "Kia Picanto 2011-2016 ספר רכב (Kia Israel) – הספקי נורות",
-"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-2011-2016.pdf"
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-2011-2016.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Kia Picanto [TA] 05.11→: AR552S (550/400 mm) + rear H312 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-PIC-TA-125": {
 "brake_light": "P21/5W 21/5 / LED (מסוג LED)*",
@@ -3244,148 +3248,1229 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "MZ-2-DE-ZY-CA": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W 21/5W",
+"confidence": "medium",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB2 60/55W (SAE; קוד ECE לא מודפס)",
+"headlight_low": "HB2 60/55W (SAE; קוד ECE לא מודפס)",
+"notes": "HB2 is the SAE designation of the H4-type twin-filament bulb; the manual prints only the SAE code. Official Mazda North America owner's manual (US edition, not the Israeli book); ECE codes as printed in the ECE R column. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "WY5W 5W (מובנה ביחידה)"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "10-5 (PDF p.338)",
+"source_title": "Mazda2 2012 (DE) Owner's Manual 8CC7-EA-11H (Mazda USA)",
+"source_url": "https://www.mazdausa.com/siteassets/global-resources/vehicle-resources/owner-manuals/2012/mazda2/2012-mazda2-owners-manual.pdf",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Mazda 2 [DE] 06.07-12.14: AR605S (600/340 mm); rear omitted (hatch/sedan both registered under MAZDA 2). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "MZ-2-DJ-G15": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W 21/5W (סוג נורה); LED (סוג LED)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W (הלוגן); LED (פנסי LED)",
+"headlight_low": "H4 60/55W (הלוגן); LED (פנסי LED)",
+"notes": "Israeli Hebrew Mazda book (archived mazda.co.il), bulb table read from the rendered page image. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "W21/5W 21/5W (הלוגן); LED"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W (הלוגן); LED"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "9-7 (PDF p.599)",
+"source_title": "Mazda2 (DJ) 2014 ספר רכב 8EC3-EE-14H (mazda.co.il)",
+"source_url": "https://web.archive.org/web/20150813114203id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/4.pdf",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Mazda 2 [DJ] 10.14→: AR552S (550/400 mm) + rear H354 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "MZ-2-DJFL-G15": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (סוג LED); W21/5W 21/5W (סוג נורה)",
+"confidence": "high",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "LED; W21/5W 21W (סוג נורה)"
+},
+{
+"position": "תאורת חנייה",
+"type": "LED; W5W 5W (סוג נורה)"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "LED; W16W 16W (סוג נורה)"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W (סדאן); LED (האצ'בק)"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "Mazda2 (DJ facelift) Owner's Manual 8HG7-EE-19G",
+"source_url": "https://owners-manual.mazda.com/gen/en/mazda2/mazda2_8hg7ee19g/contents/10020108.html",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Mazda 2 [DJ] 10.14→: AR552S (550/400 mm) + rear H354 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"MZ-3-BK-LF-CA": {
+"brake_light": "W21/5W 21/5W (סוג נורה); LED (סוג LED)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן); D2S 35W (קסנון)",
+"notes": "Official Mazda North America owner's manual (US edition, not the Israeli book); ECE codes as printed in the ECE R column. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים/סימון צד",
+"type": "27/8W (#1157NA)"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W (סוג A); HB4 51W (סוג B)"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "WY5W 5W (מובנה ביחידה)"
+},
+{
+"position": "אור בלימה עילי",
+"type": "W16W 18W (סוג נורה); LED (5 דלתות, סוג LED)"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-7 (PDF p.409)",
+"source_title": "Mazda3 2009 (BK) Owner's Manual 8Z87-EA-08F (Mazda USA)",
+"source_url": "https://www.mazdausa.com/siteassets/pdf/owners-optimized/2009/mazda3-5door/2009-mazda3-owners-manaul.pdf"
+},
+"MZ-3-BL-LF-CA": {
+"brake_light": "W21/5W 21/5W (סוג נורה); LED (סוג LED)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (הלוגן); D2S 35W (קסנון)",
+"headlight_low": "H11 55W (הלוגן); D2S 35W (קסנון)",
+"notes": "Official Mazda North America owner's manual (US edition, not the Israeli book); ECE codes as printed in the ECE R column. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51W (למעט 2.3 טורבו); H11 55W (2.3 טורבו)"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "WY5W 5W (סוג נורה, מובנה ביחידה); LED (במראה)"
+},
+{
+"position": "אור בלימה עילי",
+"type": "W21W 21W (4 דלתות); W16W 18W / LED (5 דלתות)"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (PDF p.489)",
+"source_title": "Mazda3 2010 (BL) Owner's Manual 8AR3-EA-09E (Mazda USA)",
+"source_url": "https://www.mazdausa.com/siteassets/global-resources/vehicle-resources/owner-manuals/2010/mazda3/2010-mazda3-owners-manual-built-before-nov-1-2009.pdf"
+},
+"MZ-3-BM-P5": {
+"brake_light": "W21/5W 21/5W (הלוגן); LED (פנסי LED)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W / H15 55/15W (הלוגן, עם אורות נסיעה ביום); LED",
+"headlight_low": "H11 55W (הלוגן); LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "H15 55/15W (הלוגן); LED"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W (הלוגן); LED"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W (סדאן); W21W 21W (האצ'בק)"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "Mazda3 (BM/BN) Owner's Manual 8GD7-EE-17H",
+"source_url": "https://owners-manual.mazda.com/gen/en/mazda3/mazda3_8gd7ee17h/contents/10020108.html"
+},
 "MZ-3-BM-P5-IL13": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W 21/5W (נורה סטנדרטית); LED (נורות LED)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H15 55W (הלוגן); D4S 35W (קסנון)",
+"headlight_low": "H11 55W (הלוגן); D4S 35W (קסנון)",
+"notes": "Israeli Hebrew Mazda book (archived mazda.co.il), bulb table read from the rendered page image. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום",
+"type": "H15 15W (הלוגן); LED (קסנון)"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W (הלוגן); LED (קסנון)"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W (סדאן); W21W 21W (האצ'בק)"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "9-9 (PDF p.615)",
+"source_title": "Mazda3 (BM) ספר רכב 8CX3-EE-13G (mazda.co.il)",
+"source_url": "https://web.archive.org/web/20151122131902id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/2.pdf",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Mazda 3 [BM] 08.13→: AR602S (600/450 mm); rear omitted (sedan/hatch mixed). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"MZ-3-BM-PE": {
+"brake_light": "W21/5W 21/5W (הלוגן); LED (פנסי LED)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W / H15 55/15W (הלוגן, עם אורות נסיעה ביום); LED",
+"headlight_low": "H11 55W (הלוגן); LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "H15 55/15W (הלוגן); LED"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W (הלוגן); LED"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W (סדאן); W21W 21W (האצ'בק)"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "Mazda3 (BM/BN) Owner's Manual 8GD7-EE-17H",
+"source_url": "https://owners-manual.mazda.com/gen/en/mazda3/mazda3_8gd7ee17h/contents/10020108.html"
+},
+"MZ-3-BM-PE-IL13": {
+"brake_light": "W21/5W 21/5W (נורה סטנדרטית); LED (נורות LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55W (הלוגן); D4S 35W (קסנון)",
+"headlight_low": "H11 55W (הלוגן); D4S 35W (קסנון)",
+"notes": "Israeli Hebrew Mazda book (archived mazda.co.il), bulb table read from the rendered page image. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום",
+"type": "H15 15W (הלוגן); LED (קסנון)"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W (הלוגן); LED (קסנון)"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W (סדאן); W21W 21W (האצ'בק)"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-9 (PDF p.615)",
+"source_title": "Mazda3 (BM) ספר רכב 8CX3-EE-13G (mazda.co.il)",
+"source_url": "https://web.archive.org/web/20151122131902id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/2.pdf"
+},
+"MZ-3-BM-PY": {
+"brake_light": "W21/5W 21/5W (הלוגן); LED (פנסי LED)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W / H15 55/15W (הלוגן, עם אורות נסיעה ביום); LED",
+"headlight_low": "H11 55W (הלוגן); LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "H15 55/15W (הלוגן); LED"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W (הלוגן); LED"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W (סדאן); W21W 21W (האצ'בק)"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "Mazda3 (BM/BN) Owner's Manual 8GD7-EE-17H",
+"source_url": "https://owners-manual.mazda.com/gen/en/mazda3/mazda3_8gd7ee17h/contents/10020108.html"
+},
+"MZ-3-BP-P5": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום/חנייה",
+"type": "LED; W21/5W 21/5W (סוג נורה)"
+},
+{
+"position": "כל שאר התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "Mazda3 (BP) Owner's Manual 8HC8-EE-19B",
+"source_url": "https://owners-manual.mazda.com/gen/en/mazda3/mazda3_8hc8ee19b/contents/10020108.html"
+},
 "MZ-3-BP-PE": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום/חנייה",
+"type": "LED; W21/5W 21/5W (סוג נורה)"
+},
+{
+"position": "כל שאר התאורה החיצונית",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "Mazda3 (BP) Owner's Manual 8HC8-EE-19B",
+"source_url": "https://owners-manual.mazda.com/gen/en/mazda3/mazda3_8hc8ee19b/contents/10020108.html",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Mazda 3 [BP] 01.19→: AR653S (650/400 mm); rear omitted (sedan/hatch mixed). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"MZ-3-BP-PY": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום/חנייה",
+"type": "LED; W21/5W 21/5W (סוג נורה)"
+},
+{
+"position": "כל שאר התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "Mazda3 (BP) Owner's Manual 8HC8-EE-19B",
+"source_url": "https://owners-manual.mazda.com/gen/en/mazda3/mazda3_8hc8ee19b/contents/10020108.html"
+},
+"MZ-5-CW-LF-IL12": {
+"brake_light": "W21/5W 21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן); D2S 35W (קסנון)",
+"notes": "Israeli Hebrew Mazda book (archived mazda.co.il), bulb table read from the rendered page image. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21W"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5W (נורות רגילות, יחידה שלמה); LED (במראות)"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W21W 16W (כפי שמודפס)"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-5 (PDF p.417)",
+"source_title": "Mazda5 (CW) ספר רכב 8CS2-EE-12I (mazda.co.il)",
+"source_url": "https://web.archive.org/web/20151122132626id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/6.pdf"
+},
+"MZ-6-GJ-PE": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום",
+"type": "LED; W21/5W 21/5W (סוג נורה)"
+},
+{
+"position": "כל שאר התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "Mazda6 (GJ/GL) Owner's Manual 8GK3-EE-18C",
+"source_url": "https://owners-manual.mazda.com/gen/en/mazda6/mazda6_8gk3ee18c/contents/10020108.html"
+},
+"MZ-6-GJ-PE-IL14": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (ללא אורות נסיעה ביום) / H15 55/15W (עם אורות נסיעה ביום) (הלוגן); LED",
+"headlight_low": "H11 55W (הלוגן); LED",
+"notes": "Israeli Hebrew Mazda book (archived mazda.co.il), bulb table read from the rendered page image. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "H15 55/15W (הלוגן); LED"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W (הלוגן); LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W (הלוגן); LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-9 (PDF p.717)",
+"source_title": "Mazda6 (GJ) ספר רכב 8EA5-EE-14K (mazda.co.il)",
+"source_url": "https://web.archive.org/web/20151122132752id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/13.pdf"
+},
+"MZ-6-GJ-PY": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום",
+"type": "LED; W21/5W 21/5W (סוג נורה)"
+},
+{
+"position": "כל שאר התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "Mazda6 (GJ/GL) Owner's Manual 8GK3-EE-18C",
+"source_url": "https://owners-manual.mazda.com/gen/en/mazda6/mazda6_8gk3ee18c/contents/10020108.html"
+},
+"MZ-6-GJ-PY-IL14": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (ללא אורות נסיעה ביום) / H15 55/15W (עם אורות נסיעה ביום) (הלוגן); LED",
+"headlight_low": "H11 55W (הלוגן); LED",
+"notes": "Israeli Hebrew Mazda book (archived mazda.co.il), bulb table read from the rendered page image. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "H15 55/15W (הלוגן); LED"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W (הלוגן); LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W (הלוגן); LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-9 (PDF p.717)",
+"source_title": "Mazda6 (GJ) ספר רכב 8EA5-EE-14K (mazda.co.il)",
+"source_url": "https://web.archive.org/web/20151122132752id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/13.pdf"
+},
+"MZ-CX3-PE": {
+"brake_light": "W21/5W 21/5W (פנסי הלוגן); LED (פנסי LED)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (ללא אורות נסיעה ביום) / H15 15/55W (עם אורות נסיעה ביום) (הלוגן); LED",
+"headlight_low": "H11 55W (הלוגן); LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "H15 15/55W (הלוגן); LED"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W (הלוגן); LED"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "LED"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "CX-3 (DK) 2016 Owner's Manual (EC)",
+"source_url": "https://owners-manual.mazda.com/gen/en/2016/cx-3_en/contents/10020108.html"
+},
+"MZ-CX30-PE": {
+"brake_light": "LED (לא להחלפה עצמית)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (לא להחלפה עצמית)",
+"headlight_low": "LED (לא להחלפה עצמית)",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "LED; W21/5W 21W (סוג נורה)"
+},
+{
+"position": "כל שאר התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "CX-30 (DM) Owner's Manual 8HQ1-EE-19I",
+"source_url": "https://owners-manual.mazda.com/gen/en/cx-30/cx-30_8hq1ee19i/contents/10020108.html"
+},
+"MZ-CX30-PY": {
+"brake_light": "LED (לא להחלפה עצמית)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (לא להחלפה עצמית)",
+"headlight_low": "LED (לא להחלפה עצמית)",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "LED; W21/5W 21W (סוג נורה)"
+},
+{
+"position": "כל שאר התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "CX-30 (DM) Owner's Manual 8HQ1-EE-19I",
+"source_url": "https://owners-manual.mazda.com/gen/en/cx-30/cx-30_8hq1ee19i/contents/10020108.html"
+},
 "MZ-CX5-KE-PE-IL13": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W 21/5W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W (ללא אורות נסיעה ביום) / H15 55W (עם אורות נסיעה ביום) (הלוגן); D4S 35W (קסנון)",
+"headlight_low": "H11 55W (הלוגן); D4S 35W (קסנון)",
+"notes": "Israeli Hebrew Mazda book (archived mazda.co.il), bulb table read from the rendered page image. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "H15 15W (הלוגן); P13W 13W (קסנון)"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21W"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "אורות אחוריים (דלת אחורית)",
+"type": "W5W 5W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "9-8 (PDF p.534)",
+"source_title": "Mazda CX-5 (KE) ספר רכב 8CU8-EE-13A (mazda.co.il)",
+"source_url": "https://web.archive.org/web/20151106142728id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/11.pdf",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Mazda CX-5 [KE] 11.11→: AR602S (600/450 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"MZ-CX5-KE-PY-IL13": {
+"brake_light": "W21/5W 21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (ללא אורות נסיעה ביום) / H15 55W (עם אורות נסיעה ביום) (הלוגן); D4S 35W (קסנון)",
+"headlight_low": "H11 55W (הלוגן); D4S 35W (קסנון)",
+"notes": "Israeli Hebrew Mazda book (archived mazda.co.il), bulb table read from the rendered page image. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "H15 15W (הלוגן); P13W 13W (קסנון)"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21W"
+},
+{
+"position": "תאורת חנייה",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "אורות אחוריים (דלת אחורית)",
+"type": "W5W 5W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-8 (PDF p.534)",
+"source_title": "Mazda CX-5 (KE) ספר רכב 8CU8-EE-13A (mazda.co.il)",
+"source_url": "https://web.archive.org/web/20151106142728id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/11.pdf"
+},
 "MZ-CX5-KF-PE": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (סוג LED); W21/5W 21/5W (סוג נורה)",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "LED; W21/5W 21/5W (סוג נורה)"
+},
+{
+"position": "תאורת חנייה",
+"type": "LED; W5W 5W (סוג נורה)"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "CX-5 (KF) Owner's Manual 8HD5-EE-18K",
+"source_url": "https://owners-manual.mazda.com/gen/en/cx-5/cx-5_8hd5ee18k/contents/10020108.html",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Mazda CX-5 [KF] 02.17→: A398S (600/450 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "MZ-CX5-KF-PE-IL17": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (פנסי LED); W21/5W 21/5W (פנסי הלוגן)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Israeli Hebrew Mazda book (text layer). The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "LED; W21/5W 21/5W (פנסי הלוגן)"
+},
+{
+"position": "תאורת חנייה",
+"type": "LED; W5W 5W (פנסי הלוגן)"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "9-7 (PDF p.705)",
+"source_title": "Mazda CX-5 (KF) ספר רכב 8FY4-EE-17E (mazda.co.il, 12-7-2017)",
+"source_url": "https://web.archive.org/web/20221013091335id_/https://www.mazda.co.il/Uploads//ProductPage/Management/170229_Mazda_CX-5_New_OM_12-7-2017_LR_1.pdf",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Mazda CX-5 [KF] 02.17→: A398S (600/450 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MZ-CX5-KF-PY": {
+"brake_light": "LED (סוג LED); W21/5W 21/5W (סוג נורה)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "LED; W21/5W 21/5W (סוג נורה)"
+},
+{
+"position": "תאורת חנייה",
+"type": "LED; W5W 5W (סוג נורה)"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (10020108)",
+"source_title": "CX-5 (KF) Owner's Manual 8HD5-EE-18K",
+"source_url": "https://owners-manual.mazda.com/gen/en/cx-5/cx-5_8hd5ee18k/contents/10020108.html"
+},
+"MZ-CX5-KF-PY-IL17": {
+"brake_light": "LED (פנסי LED); W21/5W 21/5W (פנסי הלוגן)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Israeli Hebrew Mazda book (text layer). The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "אורות נסיעה ביום*",
+"type": "LED; W21/5W 21/5W (פנסי הלוגן)"
+},
+{
+"position": "תאורת חנייה",
+"type": "LED; W5W 5W (פנסי הלוגן)"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "LED"
+},
+{
+"position": "אור בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-7 (PDF p.705)",
+"source_title": "Mazda CX-5 (KF) ספר רכב 8FY4-EE-17E (mazda.co.il, 12-7-2017)",
+"source_url": "https://web.archive.org/web/20221013091335id_/https://www.mazda.co.il/Uploads//ProductPage/Management/170229_Mazda_CX-5_New_OM_12-7-2017_LR_1.pdf"
 },
 "NI-JUKE-F15-HR16DE": {
 "brake_light": "P21/5W 21/5W",
@@ -5773,7 +6858,200 @@
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
-"__models": [],
+"__models": [
+{
+"data": {
+"brake_light": "W21/5W 21/5W (סוג נורה); LED (סוג LED)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן); D2S 35W (קסנון)",
+"notes": "Official Mazda North America owner's manual (US edition, not the Israeli book); ECE codes as printed in the ECE R column. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים/סימון צד",
+"type": "27/8W (#1157NA)"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W (סוג A); HB4 51W (סוג B)"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "WY5W 5W (מובנה ביחידה)"
+},
+{
+"position": "אור בלימה עילי",
+"type": "W16W 18W (סוג נורה); LED (5 דלתות, סוג LED)"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-7 (PDF p.409)",
+"source_title": "Mazda3 2009 (BK) Owner's Manual 8Z87-EA-08F (Mazda USA)",
+"source_url": "https://www.mazdausa.com/siteassets/pdf/owners-optimized/2009/mazda3-5door/2009-mazda3-owners-manaul.pdf"
+},
+"kinuy_re": "^MAZDA ?3([- ]?SPORT)?$",
+"tozeret_cd": 588,
+"year_from": 2004,
+"year_to": 2008
+},
+{
+"data": {
+"brake_light": "W21/5W 21/5W (סוג נורה); LED (סוג LED)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (הלוגן); D2S 35W (קסנון)",
+"headlight_low": "H11 55W (הלוגן); D2S 35W (קסנון)",
+"notes": "Official Mazda North America owner's manual (US edition, not the Israeli book); ECE codes as printed in the ECE R column. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51W (למעט 2.3 טורבו); H11 55W (2.3 טורבו)"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "WY5W 5W (סוג נורה, מובנה ביחידה); LED (במראה)"
+},
+{
+"position": "אור בלימה עילי",
+"type": "W21W 21W (4 דלתות); W16W 18W / LED (5 דלתות)"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications > Light Bulbs (PDF p.489)",
+"source_title": "Mazda3 2010 (BL) Owner's Manual 8AR3-EA-09E (Mazda USA)",
+"source_url": "https://www.mazdausa.com/siteassets/global-resources/vehicle-resources/owner-manuals/2010/mazda3/2010-mazda3-owners-manual-built-before-nov-1-2009.pdf"
+},
+"kinuy_re": "^MAZDA ?3([- ]?SPORT)?$",
+"tozeret_cd": 588,
+"year_from": 2010,
+"year_to": 2013
+},
+{
+"data": {
+"brake_light": "W21/5W 21/5W (סוג נורה); LED (סוג LED)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן); D2S 35W (קסנון)",
+"notes": "Official Mazda North America owner's manual (US edition, not the Israeli book); ECE codes as printed in the ECE R column. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים/סימון צד",
+"type": "27/8W (#1157NA)"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "WY5W 5W (מובנה ביחידה)"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 18W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "T10 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-6 (PDF p.369)",
+"source_title": "Mazda5 2008 (CR) Owner's Manual 8X53-EA-07I (Mazda USA)",
+"source_url": "https://www.mazdausa.com/siteassets/global-resources/vehicle-resources/owner-manuals/2008/mazda5/2008-mazda5-owners-manual.pdf"
+},
+"kinuy_re": "^MAZDA ?5$",
+"tozeret_cd": 588,
+"year_from": 2006,
+"year_to": 2009
+},
+{
+"data": {
+"brake_light": "W21/5W 21/5W",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H1 55W (הלוגן); D2S 35W (קסנון)",
+"notes": "Official Mazda North America owner's manual (US edition, not the Israeli book); ECE codes as printed in the ECE R column. The manual does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים",
+"type": "27W (#2357A)"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "אור בלימה עילי",
+"type": "W16W 18.4W (סדאן); W21W 21W (5 דלתות/סטיישן); LED"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W (סדאן/5 דלתות); W21W 21W (סטיישן)"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 18.4W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-7 (PDF p.376)",
+"source_title": "Mazda6 2007 (GG) Owner's Manual 8W89-EA-06K (Mazda USA)",
+"source_url": "https://www.mazdausa.com/siteassets/global-resources/vehicle-resources/owner-manuals/2007/mazda6/2007-mazda6-owners-manual.pdf"
+},
+"kinuy_re": "^MAZDA ?6$",
+"tozeret_cd": 588,
+"year_from": 2003,
+"year_to": 2007
+}
+],
 "__wiper_models": [
 {
 "data": {
