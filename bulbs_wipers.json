@@ -1,1 +1,1478 @@
-{}
+{
+"K-NIRO-DEPE-HEV16": {
+"brake_light": "P21/5W 21/5 (פנס אחורי/פנס בלימה) / LED (פנס בלימה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60 (מסוג נורת ליבון); LED (מסוג LED)",
+"headlight_low": "HB3 60 (מסוג נורת ליבון, אלומה נמוכה/גבוהה); LED (מסוג LED)",
+"notes": "Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנס מהבהבי פנייה קדמי",
+"type": "PY21W 21 / LED"
+},
+{
+"position": "פנס מהבהבי פנייה אחורי",
+"type": "P21W 21"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16"
+},
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "659 (printed 8-5)",
+"source_title": "Kia Niro Facelift 2019 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Niro-2019.pdf"
+},
+"K-NIROPLUS-DEPBV": {
+"brake_light": "P21/5W 21/5 (פנס אחורי משולב סוג A); LED (סוג B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60 (סוג A); LED (סוג B)",
+"headlight_low": "HB3 60 (פנס ראשי סוג A, אור גבוה/נמוך); LED (סוג B)",
+"notes": "Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנס מהבהבי פנייה קדמי",
+"type": "PY21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "פנס מהבהבי פנייה אחורי",
+"type": "PY21W 21 (סוג A); P21WLL 21 (סוג B)"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "W16W 16"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "408 (printed 9-4)",
+"source_title": "Kia Niro Plus HEV/PHEV 2022 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Niro-Plus-HEV-PHEV-OM-2022.pdf"
+},
+"K-PIC-JA-10": {
+"brake_light": "P21/5W LL או LED 21W או LED (צד חיצוני)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4LL 60W (סטנדרטית); 9005 HL+ 60W (אופציה*)",
+"headlight_low": "H4LL 55W (סטנדרטית); 9005 HL+ 60W (אופציה*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "W5W LL 5W X 4EA"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21/5W LL או LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W LL 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "פנסי חנייה",
+"type": "W5W LL או LED"
+},
+{
+"position": "תאורת נסיעה ביום*",
+"type": "P21W LL או LED"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "P21W LL 21W"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W LL 5W X 2EA"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "510 (printed 9-4)",
+"source_title": "Kia Picanto JA 2017-2020 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-JA-2017-2020.pdf"
+},
+"K-PIC-JA-10T": {
+"brake_light": "P21/5W LL או LED 21W או LED (צד חיצוני)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4LL 60W (סטנדרטית); 9005 HL+ 60W (אופציה*)",
+"headlight_low": "H4LL 55W (סטנדרטית); 9005 HL+ 60W (אופציה*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "W5W LL 5W X 4EA"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21/5W LL או LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W LL 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "פנסי חנייה",
+"type": "W5W LL או LED"
+},
+{
+"position": "תאורת נסיעה ביום*",
+"type": "P21W LL או LED"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "P21W LL 21W"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W LL 5W X 2EA"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "510 (printed 9-4)",
+"source_title": "Kia Picanto JA 2017-2020 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-JA-2017-2020.pdf"
+},
+"K-PIC-JA-12": {
+"brake_light": "P21/5W LL או LED 21W או LED (צד חיצוני)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4LL 60W (סטנדרטית); 9005 HL+ 60W (אופציה*)",
+"headlight_low": "H4LL 55W (סטנדרטית); 9005 HL+ 60W (אופציה*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "W5W LL 5W X 4EA"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21/5W LL או LED"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W LL 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "פנסי חנייה",
+"type": "W5W LL או LED"
+},
+{
+"position": "תאורת נסיעה ביום*",
+"type": "P21W LL או LED"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "P21W LL 21W"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W LL 5W X 2EA"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "510 (printed 9-4)",
+"source_title": "Kia Picanto JA 2017-2020 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-JA-2017-2020.pdf"
+},
+"K-PIC-JAPE-10MPI": {
+"brake_light": "P21/5W 21/5W (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
+"headlight_low": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
+"notes": "Headlamp H4 is a dual-filament bulb (55W low / 60W high). Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "W5W 5W X 4EA"
+},
+{
+"position": "מהבהב פנייה קדמי",
+"type": "PY21W 21W / LED"
+},
+{
+"position": "מהבהב פנייה אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W16W 16W (סוג A, סוג C); P21W 21W (סוג B)"
+},
+{
+"position": "פנסי חניה מלפנים",
+"type": "W5W 5W / LED"
+},
+{
+"position": "תאורת יום אוטומטית",
+"type": "P21W 21W / LED"
+},
+{
+"position": "פנס ערפל קדמי*",
+"type": "HB4 51W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "P21W 21W (סוג A); LED (סוג B, סוג C)"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "562 (printed 9-4)",
+"source_title": "Kia Picanto Facelift (AMT) 2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-AMT-2021.pdf"
+},
+"K-PIC-JAPE-12MPI": {
+"brake_light": "P21/5W 21/5W (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
+"headlight_low": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
+"notes": "Headlamp H4 is a dual-filament bulb (55W low / 60W high). Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "W5W 5W X 4EA"
+},
+{
+"position": "מהבהב פנייה קדמי",
+"type": "PY21W 21W / LED"
+},
+{
+"position": "מהבהב פנייה אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W16W 16W (סוג A, סוג C); P21W 21W (סוג B)"
+},
+{
+"position": "פנסי חניה מלפנים",
+"type": "W5W 5W / LED"
+},
+{
+"position": "תאורת יום אוטומטית",
+"type": "P21W 21W / LED"
+},
+{
+"position": "פנס ערפל קדמי*",
+"type": "HB4 51W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "P21W 21W (סוג A); LED (סוג B, סוג C)"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "562 (printed 9-4)",
+"source_title": "Kia Picanto Facelift (AMT) 2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-AMT-2021.pdf"
+},
+"K-PIC-JAPE-G10": {
+"brake_light": "P21/5W 21/5W (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
+"headlight_low": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
+"notes": "Headlamp H4 is a dual-filament bulb (55W low / 60W high). Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "W5W 5W X 4EA"
+},
+{
+"position": "מהבהב פנייה קדמי",
+"type": "PY21W 21W / LED"
+},
+{
+"position": "מהבהב פנייה אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W16W 16W (סוג A, סוג C); P21W 21W (סוג B)"
+},
+{
+"position": "פנסי חניה מלפנים",
+"type": "W5W 5W / LED"
+},
+{
+"position": "תאורת יום אוטומטית",
+"type": "P21W 21W / LED"
+},
+{
+"position": "פנס ערפל קדמי*",
+"type": "HB4 51W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "P21W 21W (סוג A); LED (סוג B, סוג C)"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "562 (printed 9-4)",
+"source_title": "Kia Picanto Facelift (AMT) 2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-AMT-2021.pdf"
+},
+"K-PIC-JAPE-G12": {
+"brake_light": "P21/5W 21/5W (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
+"headlight_low": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
+"notes": "Headlamp H4 is a dual-filament bulb (55W low / 60W high). Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "W5W 5W X 4EA"
+},
+{
+"position": "מהבהב פנייה קדמי",
+"type": "PY21W 21W / LED"
+},
+{
+"position": "מהבהב פנייה אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W16W 16W (סוג A, סוג C); P21W 21W (סוג B)"
+},
+{
+"position": "פנסי חניה מלפנים",
+"type": "W5W 5W / LED"
+},
+{
+"position": "תאורת יום אוטומטית",
+"type": "P21W 21W / LED"
+},
+{
+"position": "פנס ערפל קדמי*",
+"type": "HB4 51W"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "P21W 21W (סוג A); LED (סוג B, סוג C)"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "562 (printed 9-4)",
+"source_title": "Kia Picanto Facelift (AMT) 2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-AMT-2021.pdf"
+},
+"K-PIC-TA-10": {
+"brake_light": "P21/5W 21/5 / LED (מסוג LED)*",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 L/L 55/60",
+"headlight_low": "H4 L/L 55/60 (פנסים ראשיים אור נמוך/גבוה)",
+"notes": "Values read from rendered page (Hebrew text layer garbled). * = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנסים ראשיים (H7)*",
+"type": "H7 L/L 55"
+},
+{
+"position": "מהבהבי פנייה קדמיים*",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "P21W 21"
+},
+{
+"position": "פנס בלימה עילי*",
+"type": "W5W 5 / LED"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "GE881 27"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "408 (printed 8-2)",
+"source_title": "Kia Picanto 2011-2016 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-2011-2016.pdf"
+},
+"K-PIC-TA-125": {
+"brake_light": "P21/5W 21/5 / LED (מסוג LED)*",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 L/L 55/60",
+"headlight_low": "H4 L/L 55/60 (פנסים ראשיים אור נמוך/גבוה)",
+"notes": "Values read from rendered page (Hebrew text layer garbled). * = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנסים ראשיים (H7)*",
+"type": "H7 L/L 55"
+},
+{
+"position": "מהבהבי פנייה קדמיים*",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W16W 16"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "P21W 21"
+},
+{
+"position": "פנס בלימה עילי*",
+"type": "W5W 5 / LED"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "GE881 27"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "408 (printed 8-2)",
+"source_title": "Kia Picanto 2011-2016 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-2011-2016.pdf"
+},
+"K-SPO-NQ5-D16": {
+"brake_light": "P21/5W 21/5 (סוג A); LED (סוג B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנס מהבהבי פנייה קדמי",
+"type": "PY21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "פנס מהבהבי פנייה אחורי",
+"type": "PY21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "531 (printed 9-5)",
+"source_title": "Kia Sportage NQ5 2022 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage_NQ5_2022.pdf"
+},
+"K-SPO-NQ5-G16T": {
+"brake_light": "P21/5W 21/5 (סוג A); LED (סוג B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנס מהבהבי פנייה קדמי",
+"type": "PY21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "פנס מהבהבי פנייה אחורי",
+"type": "PY21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "531 (printed 9-5)",
+"source_title": "Kia Sportage NQ5 2022 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage_NQ5_2022.pdf"
+},
+"K-SPO-NQ5-G20": {
+"brake_light": "P21/5W 21/5 (סוג A); LED (סוג B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנס מהבהבי פנייה קדמי",
+"type": "PY21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "פנס מהבהבי פנייה אחורי",
+"type": "PY21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "531 (printed 9-5)",
+"source_title": "Kia Sportage NQ5 2022 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage_NQ5_2022.pdf"
+},
+"K-SPO-NQ5-G4FP-26-GB": {
+"brake_light": "P21/5W 21/5 (סוג A); LED (סוג B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "פנס מהבהבי פנייה קדמי",
+"type": "PY21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "פנס מהבהבי פנייה אחורי",
+"type": "PY21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21 (סוג A); LED (סוג B)"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "531 (printed 9-5)",
+"source_title": "Kia Sportage NQ5 2022 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage_NQ5_2022.pdf"
+},
+"K-SPO-QL-16GDI": {
+"brake_light": "P21/5W 21/5 (פנסי בלימה ופנסים אחוריים – צד חיצוני) / LED (סוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; D3S 35 (מסוג HID*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי*",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "608 (printed 9-6)",
+"source_title": "Kia Sportage QLe 2016-2018 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2016-2018.pdf"
+},
+"K-SPO-QL-16TGDI": {
+"brake_light": "P21/5W 21/5 (פנסי בלימה ופנסים אחוריים – צד חיצוני) / LED (סוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; D3S 35 (מסוג HID*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי*",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "608 (printed 9-6)",
+"source_title": "Kia Sportage QLe 2016-2018 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2016-2018.pdf"
+},
+"K-SPO-QL-17TCI": {
+"brake_light": "P21/5W 21/5 (פנסי בלימה ופנסים אחוריים – צד חיצוני) / LED (סוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; D3S 35 (מסוג HID*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי*",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "608 (printed 9-6)",
+"source_title": "Kia Sportage QLe 2016-2018 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2016-2018.pdf"
+},
+"K-SPO-QL-20MPI": {
+"brake_light": "P21/5W 21/5 (פנסי בלימה ופנסים אחוריים – צד חיצוני) / LED (סוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; D3S 35 (מסוג HID*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי*",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "608 (printed 9-6)",
+"source_title": "Kia Sportage QLe 2016-2018 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2016-2018.pdf"
+},
+"K-SPO-QL-20TCI": {
+"brake_light": "P21/5W 21/5 (פנסי בלימה ופנסים אחוריים – צד חיצוני) / LED (סוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; D3S 35 (מסוג HID*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי*",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "608 (printed 9-6)",
+"source_title": "Kia Sportage QLe 2016-2018 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2016-2018.pdf"
+},
+"K-SPO-QL-24GDI": {
+"brake_light": "P21/5W 21/5 (פנסי בלימה ופנסים אחוריים – צד חיצוני) / LED (סוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; D3S 35 (מסוג HID*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי*",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "P21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "608 (printed 9-6)",
+"source_title": "Kia Sportage QLe 2016-2018 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2016-2018.pdf"
+},
+"K-SPO-QLPE-16GDI": {
+"brake_light": "P21/5W 21/5 (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; LED (מסוג LED*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21 / LED*"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "PR21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "666 (printed 9-6)",
+"source_title": "Kia Sportage PE (QLe) 2019-2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
+},
+"K-SPO-QLPE-16TCI": {
+"brake_light": "P21/5W 21/5 (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; LED (מסוג LED*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21 / LED*"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "PR21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "666 (printed 9-6)",
+"source_title": "Kia Sportage PE (QLe) 2019-2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
+},
+"K-SPO-QLPE-16TGDI": {
+"brake_light": "P21/5W 21/5 (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; LED (מסוג LED*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21 / LED*"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "PR21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "666 (printed 9-6)",
+"source_title": "Kia Sportage PE (QLe) 2019-2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
+},
+"K-SPO-QLPE-20MPI": {
+"brake_light": "P21/5W 21/5 (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; LED (מסוג LED*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21 / LED*"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "PR21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "666 (printed 9-6)",
+"source_title": "Kia Sportage PE (QLe) 2019-2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
+},
+"K-SPO-QLPE-20TCI": {
+"brake_light": "P21/5W 21/5 (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; LED (מסוג LED*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21 / LED*"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "PR21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "666 (printed 9-6)",
+"source_title": "Kia Sportage PE (QLe) 2019-2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
+},
+"K-SPO-QLPE-24GDI": {
+"brake_light": "P21/5W 21/5 (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; LED (מסוג LED*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21 / LED*"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "PR21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "666 (printed 9-6)",
+"source_title": "Kia Sportage PE (QLe) 2019-2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
+},
+"K-SPO-QLPE-G16GDI-IL": {
+"brake_light": "P21/5W 21/5 (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; LED (מסוג LED*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21 / LED*"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "PR21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "666 (printed 9-6)",
+"source_title": "Kia Sportage PE (QLe) 2019-2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
+},
+"K-SPO-QLPE-G16T-IL": {
+"brake_light": "P21/5W 21/5 (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; LED (מסוג LED*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21 / LED*"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "PR21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "666 (printed 9-6)",
+"source_title": "Kia Sportage PE (QLe) 2019-2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
+},
+"K-SPO-QLPE-G20-IL": {
+"brake_light": "P21/5W 21/5 (מסוג נורת ליבון) / LED (מסוג LED)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60",
+"headlight_low": "HB3 60; LED (מסוג LED*)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "LED"
+},
+{
+"position": "מהבהבי פנייה קדמיים",
+"type": "PY21W 21 / LED*"
+},
+{
+"position": "מהבהבי פנייה אחוריים",
+"type": "PY21W 21"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "P21W 21"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "HB4 51 / LED"
+},
+{
+"position": "פנסי ערפל אחוריים",
+"type": "PR21W 21"
+},
+{
+"position": "מהבהבי פנייה צדיים",
+"type": "WY5W 5"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "666 (printed 9-6)",
+"source_title": "Kia Sportage PE (QLe) 2019-2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
+},
+"K-STONIC-FL-14": {
+"brake_light": "P21/5W או LED 21W או LED (בחוץ); LED (בפנים)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B); LED (סוג C)",
+"headlight_low": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B); LED (סוג C)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "W5W 5W X 4EA"
+},
+{
+"position": "מהבהב פנייה קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "מהבהב פנייה אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת פניות סטטית*",
+"type": "H7 55W"
+},
+{
+"position": "פנס ערפל קדמי*",
+"type": "HB4 או LED 51W או LED"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "P21W 21W"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5W X 2EA"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "582 (printed 8-4)",
+"source_title": "Kia Stonic Facelift 2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Stonic_Facelift_2021.pdf"
+},
+"K-STONIC-FL-G10T": {
+"brake_light": "P21/5W או LED 21W או LED (בחוץ); LED (בפנים)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B); LED (סוג C)",
+"headlight_low": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B); LED (סוג C)",
+"notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
+"other_bulbs": [
+{
+"position": "פנס בלימה עילי",
+"type": "W5W 5W X 4EA"
+},
+{
+"position": "מהבהב פנייה קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "מהבהב פנייה אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת פניות סטטית*",
+"type": "H7 55W"
+},
+{
+"position": "פנס ערפל קדמי*",
+"type": "HB4 או LED 51W או LED"
+},
+{
+"position": "פנס ערפל אחורי*",
+"type": "P21W 21W"
+},
+{
+"position": "פנס תאורת לוחית רישוי",
+"type": "W5W 5W X 2EA"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "582 (printed 8-4)",
+"source_title": "Kia Stonic Facelift 2021 ספר רכב (Kia Israel) – הספקי נורות",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Stonic_Facelift_2021.pdf"
+}
+}
