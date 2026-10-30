@@ -8604,6 +8604,228 @@
 "tozeret_cd": 423,
 "year_from": 2017,
 "year_to": 2019
+},
+{
+"data": {
+"brake_light": "P21W LL (פנס אחורי בנורות) / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 LL (הלוגן) / LED (Full-LED)",
+"headlight_low": "H7 LL (הלוגן) / LED (Full-LED)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W (הלוגן)"
+},
+{
+"position": "ערפל קדמי/פנייה",
+"type": "H8"
+},
+{
+"position": "אור צד אחורי",
+"type": "P21W LL"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W LL"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 60-61",
+"source_title": "SEAT Ateca Owner's manual 07/20",
+"source_url": "https://www.seat.com/datamanual-manual/ateca/my21_w30/en-uk/ATECA_07_20_EN.pdf"
+},
+"kinuy_re": "^ATECA",
+"tozeret_cd": 778,
+"year_from": 2017,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "2 x P21W LL (פנס אחורי בנורות) / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (Full-LED)",
+"headlight_low": "LED (Full-LED, ECOLED/High)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "ערפל אחורי",
+"type": "W21W / LED"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W NA LL"
+},
+{
+"position": "איתות צד ובלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 254-255",
+"source_title": "SEAT Ibiza Owner's manual 06/22",
+"source_url": "https://www.seat.co.uk/datamanual-manual/ibiza/my23_w25/en-uk/IBIZA_06_22_EN.pdf"
+},
+"kinuy_re": "^IBIZA",
+"tozeret_cd": 778,
+"year_from": 2022,
+"year_to": 2026
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (Full-LED)",
+"headlight_low": "LED (Full-LED, לא ניתן להחלפה)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "ערפל, אחורי, לוחית, איתות צד, בלם עליון",
+"type": "LED – החלפה במוסך"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 324",
+"source_title": "SEAT Leon Owner's manual 11/22",
+"source_url": "https://www.seat.co.uk/datamanual-manual/leon/my23_w45/en-uk/LEON_11_22_EN.pdf"
+},
+"kinuy_re": "^LEON",
+"tozeret_cd": 778,
+"year_from": 2020,
+"year_to": 2026
+},
+{
+"data": {
+"brake_light": "P21W LL (פנס אחורי בנורות) / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 LL (הלוגן) / LED (Full-LED)",
+"headlight_low": "H7 LL (הלוגן) / LED (Full-LED)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W (הלוגן)"
+},
+{
+"position": "ערפל קדמי/פנייה",
+"type": "H8"
+},
+{
+"position": "אור צד אחורי",
+"type": "P21W LL"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W LL"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 60-61",
+"source_title": "SEAT Ateca Owner's manual 07/20",
+"source_url": "https://www.seat.com/datamanual-manual/ateca/my21_w30/en-uk/ATECA_07_20_EN.pdf"
+},
+"kinuy_re": "^ATECA",
+"tozeret_cd": 423,
+"year_from": 2017,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "2 x P21W LL (פנס אחורי בנורות) / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (Full-LED)",
+"headlight_low": "LED (Full-LED, ECOLED/High)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "ערפל אחורי",
+"type": "W21W / LED"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W NA LL"
+},
+{
+"position": "איתות צד ובלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 254-255",
+"source_title": "SEAT Ibiza Owner's manual 06/22",
+"source_url": "https://www.seat.co.uk/datamanual-manual/ibiza/my23_w25/en-uk/IBIZA_06_22_EN.pdf"
+},
+"kinuy_re": "^IBIZA",
+"tozeret_cd": 423,
+"year_from": 2022,
+"year_to": 2026
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (Full-LED)",
+"headlight_low": "LED (Full-LED, לא ניתן להחלפה)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "ערפל, אחורי, לוחית, איתות צד, בלם עליון",
+"type": "LED – החלפה במוסך"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 324",
+"source_title": "SEAT Leon Owner's manual 11/22",
+"source_url": "https://www.seat.co.uk/datamanual-manual/leon/my23_w45/en-uk/LEON_11_22_EN.pdf"
+},
+"kinuy_re": "^LEON",
+"tozeret_cd": 423,
+"year_from": 2020,
+"year_to": 2026
 }
 ],
 "__wiper_models": [
