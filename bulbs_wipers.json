@@ -16335,6 +16335,210 @@
 ],
 "year_from": 2016,
 "year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Hyundai ix35 [LM] 2009-2015. קדמיים 600/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג OXIMO (פולין, יישומים אירופיים) – המידות תואמות. Bosch AR601S + H312.",
+"rear_wiper_mm": 300,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^IX35$",
+"tozeret_cd": [
+481
+],
+"year_from": 2010,
+"year_to": 2015
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Hyundai i20 [PB] 2008-2014. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג OXIMO (פולין, יישומים אירופיים) – המידות תואמות. המגב האחורי הושמט – מידת Bosch לא מאומתת.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^I20$",
+"tozeret_cd": [
+845
+],
+"year_from": 2011,
+"year_to": 2014
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Hyundai Accent [MC] 2006-2011. קדמיים 550/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג OXIMO (פולין, יישומים אירופיים) – המידות תואמות. המגב האחורי הושמט – משתנה לפי מרכב.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^ACCENT$",
+"tozeret_cd": [
+845
+],
+"year_from": 2007,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Hyundai Accent [RB/HC] 2011→. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג OXIMO (פולין, יישומים אירופיים) – המידות תואמות. Bosch AR653S ו-Valeo 650/400 – זהה בדורות RB ו-HC.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^ACCENT$",
+"tozeret_cd": [
+502
+],
+"year_from": 2019,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם לפי Bosch 2023: Kia Cerato/Forte [TD] 2008-2013. קדמיים 600/500 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג OXIMO (פולין, יישומים אירופיים) – המידות תואמות. Bosch AR606S.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^FORTE$",
+"tozeret_cd": [
+885
+],
+"year_from": 2009,
+"year_to": 2012
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Opel Corsa F 2019→. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג OXIMO (פולין, יישומים אירופיים) – המידות תואמות. Bosch A295S. המגב האחורי הושמט – מידה לא מאומתת.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^CORSA$",
+"tozeret_cd": [
+103
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Toyota Hilux [AN120/AN130] 05.15→. קדמיים 550/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול TopWipers (קטלוג אירופי, הגה שמאלי) – המידות תואמות. Bosch 550/400.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^HILUX$",
+"tozeret_cd": [
+187
+],
+"year_from": 2016,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: Toyota Hilux [AN10/AN20/AN30] 2005-2015. קדמיים 530/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול TopWipers (קטלוג אירופי, הגה שמאלי) – המידות תואמות. Bosch AR533S ‏(530/475), TopWipers 530/480.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^HILUX$",
+"tozeret_cd": [
+187
+],
+"year_from": 2009,
+"year_to": 2014
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: Toyota Hilux [AN10/AN20/AN30] 2005-2015. קדמיים 530/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול TopWipers (קטלוג אירופי, הגה שמאלי) – המידות תואמות. Bosch AR533S ‏(530/475), TopWipers 530/480.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^HILUX$",
+"tozeret_cd": [
+413
+],
+"year_from": 2006,
+"year_to": 2006
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Kia Niro [DE] 2016-2022 / [SG2] 2022→. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. מידות זהות בשני הדורות: Bosch AR653S ו-Valeo ‏(650/400) לדור DE; Valeo ו-TopWipers ‏(650/400) לדור SG2. המגב האחורי הושמט.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(NIRO HEV|NIRO PHEV|NIRO EV|NIRO PLUS EV)$",
+"tozeret_cd": [
+885
+],
+"year_from": 2019,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם לפי Bosch 2023: Mitsubishi Outlander III [GF] 2012-2021. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Bosch AR813S). המגב האחורי הושמט.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^OUTLANDER$",
+"tozeret_cd": [
+590
+],
+"year_from": 2013,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם לפי Bosch 2023: Mitsubishi Outlander III PHEV [GG] 2013-2021. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Bosch AR813S). המגב האחורי הושמט.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^OUTLANDER PHEV$",
+"tozeret_cd": [
+590
+],
+"year_from": 2017,
+"year_to": 2021
 }
 ]
 }
