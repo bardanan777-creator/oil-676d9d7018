@@ -119,6 +119,7 @@ function findRows(v,pi){
   return c.filter(id=>{const r=D.rows[id];const a=parseInt(r.year_from),b=parseInt(r.year_to||r.year_from);return !(a&&b)||(y>=a&&y<=b);})
           .map(id=>({id,how:'יבוא אישי: התאמה לפי יצרן + דגם + קוד מנוע ושנת ייצור בטווח השורה בקטלוג (אין קוד דגם במאגר יבוא אישי) – מומלץ לאמת.'}));
 }
+function bwModel(v){const y=Number(v.shnat_yitzur);for(const e of (BW.__models||[])){const tc=[].concat(e.tozeret_cd).map(String);if(!tc.includes(String(v.tozeret_cd)))continue;if(!new RegExp(e.kinuy_re,'i').test(v.kinuy_mishari||v.degem_nm||''))continue;if(e.year_from&&y<e.year_from)continue;if(e.year_to&&y>e.year_to)continue;if(e.degem_cd&&!e.degem_cd.map(String).includes(String(v.degem_cd)))continue;return e.data;}return null;}
 const MISS='<span class="miss">לא נמצא בקטלוג</span>';
 
 const CJK=/[\u3040-\u30ff\u3400-\u9fff\uff01-\uff60\u3000-\u303f]/;
@@ -187,7 +188,7 @@ function render(v,pi,matches){
     C('נוזל בלמים', bb?bb+lk(L.brake):'','brake');
     const pb=F('סוג/תקן','power_steering_fluid');
     C('נוזל הגה', pb?pb+lk(L.ps):'','ps');
-    {const b=BW[m.id],sv=ROW;const E=x=>x!=null&&String(x).trim()!=='';
+    {const b=BW[m.id]||bwModel(v),sv=ROW;const E=x=>x!=null&&String(x).trim()!=='';
      const EM='<div class="empty">אין נתון בקטלוג</div>';
      if(b){ROW=Object.assign({row_id:m.id,source_pdf_page:b.source_page},b);}
      const bl=b?(E(b.headlight_low)?kv('פנס ראשי – אור נמוך','<b>'+esc(b.headlight_low)+'</b>'):'')+(E(b.headlight_high)?kv('פנס ראשי – אור גבוה','<b>'+esc(b.headlight_high)+'</b>'):'')+(E(b.brake_light)?kv('אור בלימה','<b>'+esc(b.brake_light)+'</b>'):'')+
