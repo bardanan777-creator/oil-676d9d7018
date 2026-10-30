@@ -2,6 +2,7 @@
 <html lang="he" dir="rtl">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="Cache-Control" content="no-cache, must-revalidate">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow,noarchive">
 <title>איתור שמנים ונוזלים לפי מספר רכב</title>
@@ -81,7 +82,7 @@ button:disabled{opacity:.6}
 details summary{cursor:pointer;color:var(--gold);font-size:12px}
 footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spacing:.1em}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
-.bimgs{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}.bimg{display:inline-flex;align-items:center;gap:6px;background:#f6f9fc;border:1px solid #dde6ee;border-radius:8px;padding:3px 8px 3px 3px}.bcap{font-size:12px;line-height:1.3;color:#334}
+.bimgs{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}.bimg{display:inline-flex;align-items:center;gap:8px;background:#f6f9fc;border:1px solid #c9d6e2;border-radius:10px;padding:4px 10px 4px 4px;min-width:150px}.bimg svg{width:64px;height:64px;flex:0 0 64px;background:#fff;border-radius:8px}.bcap{font-size:13px;line-height:1.35;color:#223}.bcap b{font-size:15px;color:#0b2540}.nod{color:#e8a87a;font-size:13px}.nod small{display:block;color:var(--mut);font-size:12px;margin-top:2px}
 </style>
 </head>
 <body>
@@ -99,14 +100,14 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
-<script src="bulbimg.js"></script>
+<script src="bulbimg.js?v=20261030b"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
 const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402b-9937-7c3d3afc9140';
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json',{cache:'force-cache'})).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261030b')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
@@ -173,14 +174,28 @@ function render(v,pi,matches){
     h+='<div class="cats">';
     const has=f=>!!(r[f]&&String(r[f]).trim());
     const F=(lab,f,l)=>has(f)?kv(lab,(l?txl(f):tx(f))+(r.P&&r.P[f]?'<div class="mut" style="font-size:11px">הועבר משורת קטלוג אחות מאותו ספר בעלים ('+esc(r.P[f])+')</div>':'')):'';
-    const EMPTY='<div class="empty">אין נתון בקטלוג לרכב זה</div>';
-    const C=(t,body,k,w)=>{h+=body?cat(t,body,k,w):cat(t,EMPTY,k,w);};
+    const GX=(DATA.gx||{})[[v.tozeret_cd,v.degem_cd,v.shnat_yitzur,up(v.degem_manoa)].join('|')]||'';
+    const SRC=r.source_title?' ('+esc(clean(hv('source_title')||r.source_title)).slice(0,90)+')':'';
+    const NOTEK={gear:/\b(ATF|CVTF?|DSG|DCT|MTF|gear ?oil|transmission|transaxle|gearbox)\b|תיבת|גיר/i,diff:/\bdiff|differential|דיפרנציאל/i,tc:/transfer|טרנספר/i,cool:/coolant|LLC|G1[23]|קירור/i,brake:/brake|DOT ?[345]|בלמ/i,ps:/steering|PSF|הגה/i};
+    const nsn=k=>{const n=String(r.notes||'');if(!n||!NOTEK[k])return '';const hit=n.split(/(?<=[.;])\s+/).filter(x=>NOTEK[k].test(x));return hit.length?'<small>מהערות הקטלוג: <span dir="auto">'+esc(hit.join(' ').slice(0,400))+'</span></small>':'';};
+    const WHY={gear:'הנתון לא מופיע במקור שממנו נבנתה שורת הקטלוג'+SRC,diff:(/2/.test(GX)&&!/4/.test(GX))?'רכב בהנעה 4X2 לפי משרד התחבורה – בדרך כלל אין דיפרנציאל אחורי נפרד':'הנתון לא מופיע במקור'+SRC,tc:(/2/.test(GX)&&!/4/.test(GX))?'רכב בהנעה 4X2 לפי משרד התחבורה – אין תיבת העברה (טרנספר)':'הנתון לא מופיע במקור'+SRC,
+      cool:'הנתון לא מופיע במקור'+SRC,brake:'הנתון לא מופיע במקור'+SRC,ps:'לא צוין במקור'+SRC+'. ברוב הרכבים החדשים ההגה חשמלי (EPS) ללא נוזל – לאמת בספר הרכב',eng:'הנתון לא מופיע במקור'+SRC};
+    const EMP=k=>'<div class="empty nod">אין נתון – '+(WHY[k]||'לא מופיע במקור')+nsn(k)+'</div>';
+    const C=(t,body,k,w)=>{h+=body?cat(t,body,k,w):cat(t,EMP(k),k,w);};
+    const NOCAP=kv('כמות','<span class="miss">אין כמות</span> <span class="mut" style="font-size:12px">(לא מופיעה במקור)</span>');
     const vis=has('engine_oil_viscosity')?F('צמיגות','engine_oil_viscosity'):(r.VD?kv('צמיגות','<b>'+esc(r.VD.join(' / '))+'</b> <span class="mut">(נגזר מטקסט התקן/המוצר בקטלוג)</span>'):'');
     const eb=vis+F('תקן','engine_oil_spec')+F('מוצר מומלץ','engine_oil_oem_product')+F('כמות עם פילטר','engine_oil_cap_l_with_filter',1)+F('כמות בלי פילטר','engine_oil_cap_l_without_filter',1);
-    C('שמן מנוע', eb?eb+(has('engine_oil_cap_l_with_filter')||has('engine_oil_cap_l_without_filter')?'':kv('כמות','<span class="miss">אין כמות</span>'))+lk(L.eng):'','eng');
-    const g=[['mt','ידני'],['at','אוטומטי'],['dct','רובוטי כפול מצמד (DCT)'],['hybrid_transaxle','תמסורת היברידית']].filter(([k])=>has(k+'_fluid_spec')||has(k+'_fluid_cap_l')||has(k+'_cap_l'));
-    C('שמן גיר', g.map(([k,t])=>{const cf=has(k+'_fluid_cap_l')?k+'_fluid_cap_l':k+'_cap_l';return '<div class="sec"><h3>'+t+'</h3>'+F('סוג/תקן',k+'_fluid_spec')+(has(cf)?F('כמות',cf,1):kv('כמות','<span class="miss">אין כמות</span>'))+lk(L[k])+'</div>';}).join(''),'gear',1);
-    const two=(sp,cp,lks)=>{const x=F('סוג/תקן',sp)+F('כמות',cp,1);return x?x+(has(cp)?'':kv('כמות','<span class="miss">אין כמות</span>'))+lk(lks):'';};
+    C('שמן מנוע', eb?eb+(has('engine_oil_cap_l_with_filter')||has('engine_oil_cap_l_without_filter')?'':NOCAP)+lk(L.eng):'','eng');
+    const GT=[['mt','ידני'],['at','אוטומטי'],['dct','רובוטי כפול מצמד (DCT)'],['hybrid_transaxle','תמסורת היברידית']];
+    const hg=k=>has(k+'_fluid_spec')||has(k+'_fluid_cap_l')||has(k+'_cap_l');
+    const mine=/h|e/.test(GX)?['hybrid_transaxle','at','dct']:/a/.test(GX)?['at','dct','hybrid_transaxle']:/m/.test(GX)?['mt']:[];
+    const g=GT.filter(([k])=>hg(k)).sort((x,y)=>(mine.includes(y[0])?1:0)-(mine.includes(x[0])?1:0));
+    const gtxt={a:'אוטומטית',m:'ידנית'}[(GX.match(/[am]/)||[''])[0]]||'';
+    let gh=g.map(([k,t])=>{const cf=has(k+'_fluid_cap_l')?k+'_fluid_cap_l':k+'_cap_l';return '<div class="sec"><h3>'+t+(mine.includes(k)?' <span class="mut" style="font-size:12px">· מתאים לתיבת רכב זה</span>':'')+'</h3>'+F('סוג/תקן',k+'_fluid_spec')+(has(cf)?F('כמות',cf,1):NOCAP)+lk(L[k])+'</div>';}).join('');
+    if(gh&&mine.length&&!g.some(([k])=>mine.includes(k))) gh='<div class="empty nod" style="margin-bottom:6px">לרכב זה תיבה '+(/h/.test(GX)?'היברידית':/e/.test(GX)?'של רכב חשמלי':gtxt)+' לפי משרד התחבורה – אין בקטלוג נתון לסוג תיבה זה. הנתונים שלהלן לסוג תיבה אחר ואינם מתאימים בהכרח:</div>'+gh;
+    if(gh) gh=(gtxt?'<div class="mut" style="font-size:12px;margin-bottom:4px">תיבת הילוכים לפי משרד התחבורה: '+gtxt+(/h/.test(GX)?' (היברידי)':/e/.test(GX)?' (חשמלי)':'')+'</div>':'')+gh;
+    C('שמן גיר', gh,'gear',1);
+    const two=(sp,cp,lks)=>{const x=F('סוג/תקן',sp)+F('כמות',cp,1);return x?x+(has(cp)?'':NOCAP)+lk(lks):'';};
     C('שמן דיפרנציאל', two('rear_diff_oil_spec','rear_diff_cap_l',L.rd),'diff');
     C('שמן טרנספר', two('transfer_case_oil_spec','transfer_case_cap_l',L.tc),'tc');
     const cc=has('coolant_color')?kv('צבע',swatch(r.coolant_color)+tx('coolant_color')):'';
