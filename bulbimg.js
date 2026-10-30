@@ -21,7 +21,7 @@ const F={
 };
 const HE={H4:'הלוגן דו-חוטית (H4)',H7:'הלוגן',H1:'הלוגן',H3:'הלוגן עם כבל',H11:'הלוגן בסיס פלסטיק',HB:'הלוגן בסיס פלסטיק',XEN:'קסנון (פריקה)',WEDGE:'בסיס טריז (ללא מתכת)',BAY:'בסיס כידון מתכתי (חד-קצה), חוט אחד',BAY2:'בסיס כידון מתכתי (חד-קצה), שני חוטים',FEST:'נורת קצוות (פסטון)',LED:'LED – לא מוחלף כנורה'};
 /* explicit printed ECE codes -> family. Unknown codes => no image. */
-const CODES=[[/\bH4\b/,'H4','H4'],[/\bH7\b/,'H7','H7'],[/\bH1\b/,'H1','H1'],[/\bH3\b/,'H3','H3'],[/\bH(8|9|11|16)\b/,'H11',null],[/\bHB3\b/,'HB','HB3'],[/\bHB4\b/,'HB','HB4'],[/\bHIR2\b/,'HB','HIR2'],[/\bD[1-8][SR]\b/,'XEN',null],
+const CODES=[[/\bH4\b/,'H4','H4'],[/\bH7(LL)?\b/,'H7','H7'],[/\bH1\b/,'H1','H1'],[/\bH3\b/,'H3','H3'],[/\bH(8|9|11|16)\b/,'H11',null],[/\b(HB3|9005)/,'HB','HB3'],[/\b(HB4|9006)/,'HB','HB4'],[/\bHIR2\b/,'HB','HIR2'],[/\bD[1-8][SR]\b/,'XEN',null],
  [/\b(W5W|WY5W|W16W|W21W|WY21W|W21\/5W|W3W|T10|T20|T16)\b/,'WEDGE',null],[/\b(P21\/5W|P21\/4W|BAY15d)\b/,'BAY2',null],[/\b(P21W|PY21W|R5W|R10W|RY10W|BA15s|BAU15s)\b/,'BAY',null],[/\b(C5W|C10W|C21W|SV8\.5)\b/,'FEST',null]];
 /* base-type words printed in Hebrew books (only when the book states the base type; no code assumed) */
 const WORDS=[[/(טריז|בסיס יתד)/,'WEDGE'],[/(קצה כפול|שני קצוות|בעלות שני קצוות)/,'FEST'],[/(קצה יחיד|צד אחד|צד אחר)/,'BAY'],[/\bLED\b/,'LED']];
