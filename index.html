@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow,noarchive">
+<title>איתור שמנים ונוזלים לפי מספר רכב</title>
+<style>
+:root{--bg:#070b14;--card:#0e1626;--line:#1d2b45;--txt:#e6f0ff;--mut:#8aa0c2;--acc:#22d3ee;--acc2:#a855f7;--warn:#fbbf24;--bad:#f87171}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;background:radial-gradient(1200px 600px at 80% -10%,#1b1440 0,transparent 60%),radial-gradient(900px 500px at 0% 0%,#06303a 0,transparent 55%),var(--bg);color:var(--txt);min-height:100vh}
+.wrap{max-width:860px;margin:0 auto;padding:20px 14px 60px}
+h1{font-size:clamp(20px,5vw,30px);margin:8px 0 4px;background:linear-gradient(90deg,var(--acc),var(--acc2));-webkit-background-clip:text;background-clip:text;color:transparent}
+.sub{color:var(--mut);font-size:14px;margin-bottom:18px}
+form{display:flex;gap:10px;flex-wrap:wrap}
+input{flex:1 1 200px;min-width:0;font-size:22px;letter-spacing:2px;text-align:center;padding:14px;border-radius:14px;border:1px solid var(--line);background:#0a1220;color:var(--txt);outline:none;direction:ltr}
+input:focus{border-color:var(--acc);box-shadow:0 0 0 3px #22d3ee33,0 0 24px #22d3ee55}
+button{flex:0 0 auto;font-size:18px;font-weight:700;padding:14px 26px;border:0;border-radius:14px;color:#04101a;background:linear-gradient(90deg,var(--acc),var(--acc2));cursor:pointer;box-shadow:0 0 22px #22d3ee66}
+button:disabled{opacity:.5}
+.card{background:linear-gradient(180deg,#0f1a2ecc,#0b1322cc);border:1px solid var(--line);border-radius:18px;padding:16px;margin-top:16px;box-shadow:0 0 30px #0008}
+.veh{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
+.veh div{background:#0a1220;border:1px solid var(--line);border-radius:12px;padding:10px}
+.veh b{display:block;color:var(--mut);font-size:12px;font-weight:500;margin-bottom:3px}
+.cat h2{margin:0 0 10px;font-size:19px;display:flex;align-items:center;gap:8px}
+.cat h2:before{content:"";width:9px;height:9px;border-radius:50%;background:var(--acc);box-shadow:0 0 12px var(--acc)}
+.sec{border-top:1px dashed var(--line);padding-top:8px;margin-top:8px}
+.sec h3{margin:0 0 6px;font-size:15px;color:var(--acc)}
+.kv{display:flex;gap:10px;padding:4px 0;flex-wrap:wrap}
+.kv span:first-child{color:var(--mut);min-width:110px;font-size:14px}
+.kv span:last-child{flex:1 1 220px;word-break:break-word}
+.liters{display:inline-block;padding:2px 10px;border-radius:999px;background:#22d3ee1a;border:1px solid #22d3ee66;color:var(--acc);font-weight:700}
+.miss{color:var(--bad)}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
+.links a{text-decoration:none;color:var(--txt);font-size:14px;padding:9px 14px;border-radius:12px;border:1px solid #a855f788;background:#a855f71a;box-shadow:0 0 14px #a855f744}
+.links a:hover{background:#a855f733}
+.meta{color:var(--mut);font-size:12px;margin-top:12px;line-height:1.5;word-break:break-word}
+.meta a{color:var(--mut)}
+.warn{display:inline-block;margin-top:8px;padding:6px 12px;border-radius:10px;background:#fbbf241a;border:1px solid var(--warn);color:var(--warn);font-weight:700}
+.err{color:var(--bad)}
+.status{color:var(--mut);margin-top:12px}
+details summary{cursor:pointer;color:var(--mut);font-size:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<h1>שמנים ונוזלים לפי מספר רכב</h1>
+<div class="sub">הקלידו מספר רישוי (ספרות בלבד) וקבלו את סוגי השמנים והנוזלים המומלצים והכמויות לפי הקטלוג.</div>
+<form id="f"><input id="plate" inputmode="numeric" autocomplete="off" placeholder="12-345-67" maxlength="12" autofocus><button id="go">חיפוש</button></form>
+<div id="status" class="status"></div>
+<div id="out"></div>
+</div>
+<script>
+const API='https://data.gov.il/api/3/action/datastore_search';
+const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402b-9937-7c3d3afc9140';
+let DATA=null;
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json',{cache:'force-cache'})).json(); } return DATA; }
+async function reg(res,plate){
+  const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
+  const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
+  const j=await r.json(); return (j.result&&j.result.records||[])[0]||null;
+}
+const up=s=>String(s??'').trim().toUpperCase();
+function findRows(v,pi){
+  const D=DATA;
+  if(!pi){ const id=D.keys[[v.tozeret_cd,v.degem_cd,v.shnat_yitzur,up(v.degem_manoa)].join('|')]; return id?[{id,how:''}]:[]; }
+  const c=D.alt[[v.tozeret_cd,up(v.degem_nm),up(v.degem_manoa)].join('|')]||[];
+  const y=Number(v.shnat_yitzur);
+  return c.filter(id=>{const r=D.rows[id];const a=parseInt(r.year_from),b=parseInt(r.year_to||r.year_from);return !(a&&b)||(y>=a&&y<=b);})
+          .map(id=>({id,how:'יבוא אישי: התאמה לפי יצרן + דגם + קוד מנוע ושנת ייצור בטווח השורה בקטלוג (אין קוד דגם במאגר יבוא אישי) – מומלץ לאמת.'}));
+}
+const MISS='<span class="miss">לא נמצא בקטלוג</span>';
+const val=x=>x?esc(x):MISS;
+const lit=x=>x?'<span class="liters">'+esc(x)+(/[לL]/.test(x)?'':' ל׳')+'</span>':'<span class="miss">אין כמות</span>';
+const kv=(k,v)=>'<div class="kv"><span>'+k+'</span><span>'+v+'</span></div>';
+const lk=a=>a&&a.length?'<div class="links">'+a.map(([t,u])=>'<a href="'+esc(u)+'" target="_blank" rel="noopener">🛒 '+esc(t)+' – אוטו פוינט</a>').join('')+'</div>':'';
+function cat(title,body){return '<div class="card cat"><h2>'+title+'</h2>'+body+'</div>';}
+function render(v,pi,matches){
+  let h='<div class="card"><div class="veh">'+
+   [['יצרן',v.tozeret_nm],['דגם',v.kinuy_mishari||v.degem_nm],['קוד דגם',v.degem_nm],['שנת ייצור',v.shnat_yitzur],['קוד מנוע',v.degem_manoa],['נפח מנוע',v.nefach_manoa?v.nefach_manoa+' סמ״ק':''],['דלק',v.sug_delek_nm],['רמת גימור',v.ramat_gimur],['סוג יבוא',pi?(v.sug_yevu||'יבוא אישי'):'']]
+   .filter(x=>x[1]).map(x=>'<div><b>'+x[0]+'</b>'+esc(x[1])+'</div>').join('')+'</div></div>';
+  if(!matches.length) return h+'<div class="card"><h2 class="miss">לא נמצא בקטלוג</h2><div class="meta">אין לרכב זה התאמה בקטלוג השמנים. אין להסתמך על ניחוש – יש לבדוק בספר הרכב.</div></div>';
+  if(matches.length>1) h+='<div class="card warn">נמצאו '+matches.length+' התאמות אפשריות בקטלוג – יש לבחור לפי הרכב בפועל.</div>';
+  for(const m of matches){
+    const r=DATA.rows[m.id], L=r.L||{};
+    h+='<div class="card"><div class="meta" style="margin-top:0">שורת קטלוג: <b>'+esc(m.id)+'</b> · '+esc([r.brand_en,r.model_en,r.engine_name_manual,r.year_from+(r.year_to?'–'+r.year_to:'')].filter(Boolean).join(' · '))+'</div>'+
+       (String(r.confidence).startsWith('low')?'<div class="warn">ביטחון נמוך – לאמת</div>':'')+(m.how?'<div class="warn">'+esc(m.how)+'</div>':'')+'</div>';
+    h+=cat('שמן מנוע', kv('צמיגות',val(r.engine_oil_viscosity))+kv('תקן',val(r.engine_oil_spec))+(r.engine_oil_oem_product?kv('מוצר מומלץ',esc(r.engine_oil_oem_product)):'')+kv('כמות עם פילטר',lit(r.engine_oil_cap_l_with_filter))+(r.engine_oil_cap_l_without_filter?kv('כמות בלי פילטר',lit(r.engine_oil_cap_l_without_filter)):'')+lk(L.eng));
+    const g=[['mt','ידני'],['at','אוטומטי'],['dct','רובוטי כפול מצמד (DCT)'],['hybrid_transaxle','תמסורת היברידית']].filter(([k])=>r[k+'_fluid_spec']||r[k+'_fluid_cap_l']||r[k+'_cap_l']);
+    h+=cat('שמן גיר', g.length?g.map(([k,t])=>'<div class="sec"><h3>'+t+'</h3>'+kv('סוג/תקן',val(r[k+'_fluid_spec']))+kv('כמות',lit(r[k+'_fluid_cap_l']||r[k+'_cap_l']))+lk(L[k])+'</div>').join('') : kv('סוג/תקן',MISS)+kv('כמות','<span class="miss">אין כמות</span>'));
+    h+=cat('שמן דיפרנציאל', kv('סוג/תקן',val(r.rear_diff_oil_spec))+kv('כמות',lit(r.rear_diff_cap_l))+lk(L.rd));
+    h+=cat('שמן טרנספר', kv('סוג/תקן',val(r.transfer_case_oil_spec))+kv('כמות',lit(r.transfer_case_cap_l))+lk(L.tc));
+    h+=cat('נוזל קירור', kv('סוג/תקן',val(r.coolant_spec))+kv('צבע',val(r.coolant_color))+kv('כמות',lit(r.coolant_cap_l))+(r.secondary_coolant_spec_cap?kv('מעגל קירור משני',esc(r.secondary_coolant_spec_cap)):'')+lk(L.cool));
+    h+=cat('נוזל בלמים', kv('סוג/תקן',val(r.brake_fluid_spec))+kv('כמות',lit(r.brake_fluid_cap_l))+(r.clutch_actuator_fluid?kv('נוזל מצמד',esc(r.clutch_actuator_fluid)):'')+lk(L.brake));
+    h+=cat('נוזל הגה', kv('סוג/תקן',val(r.power_steering_fluid))+lk(L.ps));
+    h+='<div class="card meta">רמת ביטחון: <b>'+esc(r.confidence||'—')+'</b><br>מקור: '+(r.source_url?'<a href="'+esc(r.source_url)+'" target="_blank" rel="noopener">'+esc(r.source_title||r.source_url)+'</a>':esc(r.source_title||'—'))+(r.source_pdf_page?' (עמ׳ '+esc(r.source_pdf_page)+')':'')+
+       (r.region_condition?'<br>תנאי אזור: '+esc(r.region_condition):'')+(r.notes?'<details><summary>הערות מהקטלוג</summary>'+esc(r.notes)+'</details>':'')+'</div>';
+  }
+  return h;
+}
+$('f').addEventListener('submit',async e=>{
+  e.preventDefault(); const plate=$('plate').value.replace(/\D/g,'');
+  $('out').innerHTML='';
+  if(plate.length<5||plate.length>8){$('status').innerHTML='<span class="err">יש להקליד מספר רכב תקין (5–8 ספרות).</span>';return;}
+  $('go').disabled=true;
+  try{
+    const dp=loadData();
+    $('status').textContent='מחפש במאגר משרד התחבורה…';
+    let v=await reg(RES_MAIN,plate), pi=false;
+    if(!v){ v=await reg(RES_PI,plate); pi=!!v; }
+    await dp;
+    if(!v){$('status').innerHTML='<span class="err">מספר הרכב '+esc(plate)+' לא נמצא במאגר הרכבים הממשלתי.</span>';return;}
+    $('status').textContent='רכב '+plate;
+    $('out').innerHTML=render(v,pi,findRows(v,pi));
+  }catch(err){$('status').innerHTML='<span class="err">שגיאה בחיפוש: '+esc(err.message)+'. נסו שוב.</span>';}
+  finally{$('go').disabled=false;}
+});
+</script>
+</body>
+</html>
