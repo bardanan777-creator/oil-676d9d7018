@@ -5,49 +5,96 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="noindex,nofollow,noarchive">
 <title>איתור שמנים ונוזלים לפי מספר רכב</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Frank+Ruhl+Libre:wght@500;700;900&family=Heebo:wght@300;400;500;700&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#070b14;--card:#0e1626;--line:#1d2b45;--txt:#e6f0ff;--mut:#8aa0c2;--acc:#22d3ee;--acc2:#a855f7;--warn:#fbbf24;--bad:#f87171}
+:root{--bg:#07070a;--card:#111014;--line:#2a2419;--txt:#f3ede2;--mut:#a59c8a;--gold:#d8b86a;--gold2:#f3dfa8;--gold3:#9c7a35;--warn:#f0b54a;--bad:#e8857a}
 *{box-sizing:border-box}
-body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;background:radial-gradient(1200px 600px at 80% -10%,#1b1440 0,transparent 60%),radial-gradient(900px 500px at 0% 0%,#06303a 0,transparent 55%),var(--bg);color:var(--txt);min-height:100vh}
-.wrap{max-width:860px;margin:0 auto;padding:20px 14px 60px}
-h1{font-size:clamp(20px,5vw,30px);margin:8px 0 4px;background:linear-gradient(90deg,var(--acc),var(--acc2));-webkit-background-clip:text;background-clip:text;color:transparent}
-.sub{color:var(--mut);font-size:14px;margin-bottom:18px}
-form{display:flex;gap:10px;flex-wrap:wrap}
-input{flex:1 1 200px;min-width:0;font-size:22px;letter-spacing:2px;text-align:center;padding:14px;border-radius:14px;border:1px solid var(--line);background:#0a1220;color:var(--txt);outline:none;direction:ltr}
-input:focus{border-color:var(--acc);box-shadow:0 0 0 3px #22d3ee33,0 0 24px #22d3ee55}
-button{flex:0 0 auto;font-size:18px;font-weight:700;padding:14px 26px;border:0;border-radius:14px;color:#04101a;background:linear-gradient(90deg,var(--acc),var(--acc2));cursor:pointer;box-shadow:0 0 22px #22d3ee66}
-button:disabled{opacity:.5}
-.card{background:linear-gradient(180deg,#0f1a2ecc,#0b1322cc);border:1px solid var(--line);border-radius:18px;padding:16px;margin-top:16px;box-shadow:0 0 30px #0008}
-.veh{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:10px}
-.veh div{background:#0a1220;border:1px solid var(--line);border-radius:12px;padding:10px}
-.veh b{display:block;color:var(--mut);font-size:12px;font-weight:500;margin-bottom:3px}
-.cat h2{margin:0 0 10px;font-size:19px;display:flex;align-items:center;gap:8px}
-.cat h2:before{content:"";width:9px;height:9px;border-radius:50%;background:var(--acc);box-shadow:0 0 12px var(--acc)}
-.sec{border-top:1px dashed var(--line);padding-top:8px;margin-top:8px}
-.sec h3{margin:0 0 6px;font-size:15px;color:var(--acc)}
-.kv{display:flex;gap:10px;padding:4px 0;flex-wrap:wrap}
-.kv span:first-child{color:var(--mut);min-width:110px;font-size:14px}
-.kv span:last-child{flex:1 1 220px;word-break:break-word}
-.liters{display:inline-block;padding:2px 10px;border-radius:999px;background:#22d3ee1a;border:1px solid #22d3ee66;color:var(--acc);font-weight:700}
+html,body{overflow-x:clip}
+body{margin:0;font-family:Heebo,system-ui,Arial,sans-serif;font-weight:400;color:var(--txt);background:var(--bg);min-height:100vh;min-height:100dvh}
+.bg{position:fixed;inset:0;z-index:-1;overflow:hidden;background:radial-gradient(900px 600px at 85% -10%,#2a2012 0,transparent 60%),radial-gradient(800px 500px at 0% 110%,#1a1408 0,transparent 60%),var(--bg)}
+.bg .orb{position:absolute;border-radius:50%;filter:blur(70px);opacity:.35;animation:float 18s ease-in-out infinite alternate}
+.bg .o1{width:420px;height:420px;background:#b48a3c;top:-120px;right:-100px}
+.bg .o2{width:360px;height:360px;background:#5a4420;bottom:-120px;left:-80px;animation-delay:-6s}
+.bg .grid{position:absolute;inset:0;background-image:linear-gradient(#d8b86a0d 1px,transparent 1px),linear-gradient(90deg,#d8b86a0d 1px,transparent 1px);background-size:56px 56px;mask-image:radial-gradient(ellipse at center,#000 20%,transparent 75%);-webkit-mask-image:radial-gradient(ellipse at center,#000 20%,transparent 75%)}
+.bg svg.road{position:absolute;bottom:0;left:0;width:100%;height:160px;opacity:.5}
+.dash{stroke-dasharray:40 40;animation:road 2.5s linear infinite}
+@keyframes road{to{stroke-dashoffset:-80}}
+@keyframes float{to{transform:translate(-40px,50px) scale(1.1)}}
+.wrap{max-width:880px;margin:0 auto;padding:28px 16px 70px;min-height:100vh;min-height:100dvh;display:flex;flex-direction:column;justify-content:center;transition:padding .6s ease}
+body.has .wrap{justify-content:flex-start;padding-top:18px}
+.hero{text-align:center;transition:all .5s ease}
+.emblem{width:92px;height:92px;margin:0 auto 14px;filter:drop-shadow(0 0 18px #d8b86a66);transition:all .5s}
+body.has .emblem{width:52px;height:52px;margin-bottom:6px}
+.eyebrow{font-size:12px;letter-spacing:.35em;color:var(--gold);text-transform:uppercase;margin-bottom:6px}
+h1{font-family:"Frank Ruhl Libre",serif;font-weight:700;font-size:clamp(28px,7vw,48px);line-height:1.15;margin:0 0 10px;background:linear-gradient(180deg,var(--gold2),var(--gold) 55%,var(--gold3));-webkit-background-clip:text;background-clip:text;color:transparent}
+body.has h1{font-size:clamp(22px,5vw,30px)}
+.sub{color:var(--mut);font-size:15px;font-weight:300;max-width:520px;margin:0 auto 26px;line-height:1.6}
+body.has .sub{display:none}
+.sbox{position:sticky;top:10px;z-index:5;max-width:560px;width:100%;margin:0 auto;padding:8px;border-radius:22px;background:linear-gradient(135deg,#d8b86a55,#d8b86a10 40%,#d8b86a44);box-shadow:0 20px 60px #000a,0 0 40px #d8b86a1f}
+form{display:flex;gap:8px;background:#0d0c10f2;border-radius:16px;padding:6px;backdrop-filter:blur(10px)}
+.plate{flex:1 1 auto;min-width:0;display:flex;align-items:stretch;border-radius:12px;overflow:hidden;background:#f2c94c;border:2px solid #1a1a1a;box-shadow:inset 0 0 0 1px #fff6}
+.plate i{flex:0 0 30px;background:#1f4fa8;color:#fff;font:700 10px Heebo;display:flex;flex-direction:column;align-items:center;justify-content:center;font-style:normal;gap:2px}
+input{flex:1;min-width:0;font:700 clamp(20px,5.5vw,26px) Heebo,monospace;letter-spacing:3px;text-align:center;padding:12px 6px;border:0;background:transparent;color:#111;outline:none;direction:ltr}
+input::placeholder{color:#0005}
+button{flex:0 0 auto;font:700 17px Heebo;padding:0 24px;border:0;border-radius:12px;color:#1a1306;background:linear-gradient(180deg,var(--gold2),var(--gold) 60%,var(--gold3));cursor:pointer;box-shadow:0 6px 20px #d8b86a44;transition:transform .2s,box-shadow .2s}
+button:hover{transform:translateY(-1px);box-shadow:0 10px 30px #d8b86a66}
+button:disabled{opacity:.6}
+.status{color:var(--mut);margin-top:14px;text-align:center;min-height:1.4em;font-size:14px}
+.card{background:linear-gradient(180deg,#16141acc,#0e0d11e6);border:1px solid var(--line);border-radius:20px;padding:18px;margin-top:16px;box-shadow:0 10px 40px #0009,inset 0 1px 0 #ffffff08;animation:rise .6s cubic-bezier(.2,.8,.2,1) both}
+#out .card:nth-child(2){animation-delay:.05s}#out .card:nth-child(3){animation-delay:.1s}#out .card:nth-child(4){animation-delay:.15s}#out .card:nth-child(5){animation-delay:.2s}#out .card:nth-child(6){animation-delay:.25s}#out .card:nth-child(n+7){animation-delay:.3s}
+@keyframes rise{from{opacity:0;transform:translateY(18px)}}
+.veh{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
+.veh div{background:#0b0a0d;border:1px solid var(--line);border-radius:14px;padding:10px 12px;word-break:break-word}
+.veh b{display:block;color:var(--gold);font-size:11px;font-weight:500;letter-spacing:.05em;margin-bottom:3px}
+.cats{display:grid;grid-template-columns:1fr;gap:0}
+@media(min-width:900px){.cats{grid-template-columns:1fr 1fr;gap:0 16px}.cats .wide{grid-column:1/-1}}
+.cat h2{margin:0 0 12px;font:700 21px "Frank Ruhl Libre",serif;display:flex;align-items:center;gap:12px;color:var(--gold2)}
+.ic{flex:0 0 40px;width:40px;height:40px;border-radius:12px;display:grid;place-items:center;background:radial-gradient(circle at 30% 30%,#3a2e16,#16120a);border:1px solid #d8b86a55;box-shadow:0 0 18px #d8b86a22}
+.ic svg{width:22px;height:22px;stroke:var(--gold2);fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.sec{border-top:1px solid var(--line);padding-top:10px;margin-top:10px}
+.sec h3{margin:0 0 6px;font-size:15px;font-weight:500;color:var(--gold)}
+.kv{display:flex;gap:10px;padding:5px 0;flex-wrap:wrap;border-bottom:1px dashed #2a241955}
+.kv span:first-child{color:var(--mut);min-width:100px;font-size:13px}
+.kv span:last-child{flex:1 1 200px;word-break:break-word}
+.liters{display:inline-block;padding:2px 12px;border-radius:999px;background:linear-gradient(180deg,#d8b86a2a,#d8b86a10);border:1px solid #d8b86a88;color:var(--gold2);font-weight:700}
 .miss{color:var(--bad)}
-.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px}
-.links a{text-decoration:none;color:var(--txt);font-size:14px;padding:9px 14px;border-radius:12px;border:1px solid #a855f788;background:#a855f71a;box-shadow:0 0 14px #a855f744}
-.links a:hover{background:#a855f733}
-.meta{color:var(--mut);font-size:12px;margin-top:12px;line-height:1.5;word-break:break-word}
-.meta a{color:var(--mut)}
-.warn{display:inline-block;margin-top:8px;padding:6px 12px;border-radius:10px;background:#fbbf241a;border:1px solid var(--warn);color:var(--warn);font-weight:700}
+.links{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.links a{text-decoration:none;color:var(--txt);font-size:13px;padding:9px 14px;border-radius:999px;border:1px solid #d8b86a66;background:#d8b86a12;transition:all .25s;word-break:break-word}
+.links a:hover{background:#d8b86a2a;box-shadow:0 0 18px #d8b86a44;color:var(--gold2)}
+.meta{color:var(--mut);font-size:12px;margin-top:12px;line-height:1.6;word-break:break-word}
+.meta a{color:var(--gold)}
+.warn{display:inline-block;margin-top:8px;padding:6px 12px;border-radius:10px;background:#f0b54a14;border:1px solid var(--warn);color:var(--warn);font-weight:500;font-size:14px}
 .err{color:var(--bad)}
-.status{color:var(--mut);margin-top:12px}
-details summary{cursor:pointer;color:var(--mut);font-size:12px}
+.mut{color:var(--mut)}
+.conf{border-color:var(--qc);box-shadow:0 0 30px color-mix(in srgb,var(--qc) 25%,transparent)}
+.cbig{display:flex;flex-wrap:wrap;align-items:center;gap:12px}
+.cbadge{font:900 22px Heebo;padding:6px 16px;border-radius:999px;background:var(--qc);color:#120e05}
+.cpct{font:900 clamp(24px,6vw,34px) Heebo;color:var(--qc)}
+.ctxt{font-size:17px;font-weight:700;margin-top:10px;line-height:1.5}
+.cnote{font-size:11px;color:var(--mut);margin-top:6px}
+.qs{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;margin-top:14px;padding:9px 12px;border-radius:12px;background:#0b0a0d;border:1px solid var(--line);border-right:4px solid var(--qc);font-size:12px;color:var(--mut)}
+.qs b{color:var(--qc)}.qp{font:900 16px Heebo;color:var(--qc)}.stars{color:var(--qc);letter-spacing:1px}.stars i{font-style:normal;color:#3a342a}.qs .dot{opacity:.5}
+.src{margin-top:4px}.src summary{font-size:11px}.src div{font-size:12px;color:var(--mut);margin-top:4px;line-height:1.5;word-break:break-word}
+details summary{cursor:pointer;color:var(--gold);font-size:12px}
+footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spacing:.1em}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
+<div class="bg" aria-hidden="true"><div class="orb o1"></div><div class="orb o2"></div><div class="grid"></div>
+<svg class="road" viewBox="0 0 1200 160" preserveAspectRatio="none"><defs><linearGradient id="rg" x1="0" x2="1"><stop offset="0" stop-color="#d8b86a" stop-opacity="0"/><stop offset=".5" stop-color="#d8b86a"/><stop offset="1" stop-color="#d8b86a" stop-opacity="0"/></linearGradient></defs><path d="M0 120 Q600 60 1200 120" stroke="url(#rg)" stroke-width="1.5" fill="none"/><path class="dash" d="M0 140 Q600 90 1200 140" stroke="url(#rg)" stroke-width="2" fill="none"/></svg></div>
 <div class="wrap">
+<header class="hero">
+<svg class="emblem" viewBox="0 0 100 100" aria-hidden="true"><defs><linearGradient id="gg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f3dfa8"/><stop offset=".6" stop-color="#d8b86a"/><stop offset="1" stop-color="#9c7a35"/></linearGradient></defs><circle cx="50" cy="50" r="46" fill="none" stroke="url(#gg)" stroke-width="1.5"/><circle cx="50" cy="50" r="40" fill="none" stroke="url(#gg)" stroke-width=".6" stroke-dasharray="2 4"/><path d="M50 22 C50 22 32 44 32 57 a18 18 0 0 0 36 0 C68 44 50 22 50 22Z" fill="url(#gg)" opacity=".92"/><path d="M42 58 a8 8 0 0 0 8 8" stroke="#1a1306" stroke-width="2.5" fill="none" stroke-linecap="round"/></svg>
+<div class="eyebrow">Oil &amp; Fluids</div>
 <h1>שמנים ונוזלים לפי מספר רכב</h1>
 <div class="sub">הקלידו מספר רישוי (ספרות בלבד) וקבלו את סוגי השמנים והנוזלים המומלצים והכמויות לפי הקטלוג.</div>
-<form id="f"><input id="plate" inputmode="numeric" autocomplete="off" placeholder="12-345-67" maxlength="12" autofocus><button id="go">חיפוש</button></form>
+</header>
+<div class="sbox"><form id="f"><label class="plate"><i>IL<span>🇮🇱</span></i><input id="plate" inputmode="numeric" autocomplete="off" placeholder="12-345-67" maxlength="12" aria-label="מספר רכב" autofocus></label><button id="go">חיפוש</button></form></div>
 <div id="status" class="status"></div>
 <div id="out"></div>
+<footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
@@ -71,11 +118,38 @@ function findRows(v,pi){
           .map(id=>({id,how:'יבוא אישי: התאמה לפי יצרן + דגם + קוד מנוע ושנת ייצור בטווח השורה בקטלוג (אין קוד דגם במאגר יבוא אישי) – מומלץ לאמת.'}));
 }
 const MISS='<span class="miss">לא נמצא בקטלוג</span>';
-const val=x=>x?esc(x):MISS;
-const lit=x=>x?'<span class="liters">'+esc(x)+(/[לL]/.test(x)?'':' ל׳')+'</span>':'<span class="miss">אין כמות</span>';
+
+const CJK=/[\u3040-\u30ff\u3400-\u9fff\uff01-\uff60\u3000-\u303f]/;
+const JW=[['オイルフィルター同時交換時','עם החלפת פילטר'],['オイル交換時','ללא פילטר'],['推奨オイル','שמן מומלץ'],['参考値','ערך לעיון'],['または','או'],['約','כ־']];
+function clean(x){let t=String(x);for(const [j,h] of JW)t=t.split(j).join(' '+h+' ');
+ t=t.replace(/[（]/g,'(').replace(/[）]/g,')').replace(/[：]/g,':').replace(/[、，]/g,',').replace(/[［]/g,'[').replace(/[］]/g,']');
+ t=t.replace(/[\u3040-\u30ff\u3400-\u9fff\uff01-\uff60\u3000-\u303f\u2160-\u217f]+/g,' ');
+ for(let i=0;i<3;i++)t=t.replace(/\(\s*[,:;=\/·\-]*\s*\)/g,'').replace(/\[\s*\]/g,'').replace(/\s*=\s*(?=[),;]|$)/g,'').replace(/(^|[;\/,:])\s*[,:;\/=]+/g,'$1');
+ t=t.replace(/\(\s*[,;:]\s*/g,'(').replace(/^\s*או\s+/,'').replace(/([^\s(])\(/g,'$1 (').replace(/\)(?=[^\s,;:)\]])/g,') ').replace(/\s+([,;:)])/g,'$1').replace(/\(\s+/g,'(').replace(/\s{2,}/g,' ').replace(/^[\s,;:\/=·\-]+|[\s,;:\/=·(]+$/g,'').trim();return t;}
+const src=x=>'<details class="src"><summary>טקסט מקור</summary><div dir="auto">'+esc(x)+'</div></details>';
+let ROW=null;
+const hv=f=>{const H=ROW&&ROW.H||{};return H[f];};
+const tx=(f,x)=>{x=x===undefined?ROW[f]:x;if(!x)return MISS;const h=hv(f);if(h)return esc(clean(h))+src(x);return val(x);};
+const txl=f=>{const x=ROW[f];if(!x)return '<span class="miss">אין כמות</span>';const h=hv(f);if(!h)return lit(x);const c=clean(h);return (/\d/.test(c)?'<span class="liters">'+esc(c)+'</span>':'<span class="mut">ראו טקסט מקור</span>')+src(x);};
+const val=x=>{if(!x)return MISS;if(!CJK.test(x))return esc(x);const c=clean(x);return (c?esc(c):'<span class="mut">ראו טקסט מקור</span>')+src(x);};
+const lit=x=>{if(!x)return '<span class="miss">אין כמות</span>';const j=CJK.test(x),c=j?clean(x):x;const pill=/\d/.test(c)?'<span class="liters">'+esc(c)+(/[לL]/.test(c)?'':' ל׳')+'</span>':'<span class="mut">ראו טקסט מקור</span>';return pill+(j?src(x):'');};
 const kv=(k,v)=>'<div class="kv"><span>'+k+'</span><span>'+v+'</span></div>';
-const lk=a=>a&&a.length?'<div class="links">'+a.map(([t,u])=>'<a href="'+esc(u)+'" target="_blank" rel="noopener">🛒 '+esc(t)+' – אוטו פוינט</a>').join('')+'</div>':'';
-function cat(title,body){return '<div class="card cat"><h2>'+title+'</h2>'+body+'</div>';}
+const lk=a=>a&&a.length?'<div class="links">'+a.map(([t,u])=>'<a href="'+esc(u)+'" target="_blank" rel="noopener">'+esc(t)+' · אוטו פוינט ←</a>').join('')+'</div>':'';
+
+const CONF={'manual-verbatim':[90,'מועתק מספר הרכב','#5fd08a','ביטחון גבוה – הנתונים הועתקו מספר הרכב, אך עדיין אינם מובטחים ב־100%.'],'high':[90,'גבוהה','#5fd08a','רמת ביטחון גבוהה – סביר מאוד שנכון, אך אינו מובטח ב־100%; במקרה ספק לאמת מול ספר הרכב.'],'medium-high':[75,'בינונית־גבוהה','#b9d36a','רמת ביטחון בינונית־גבוהה – סביר שנכון, אך ההתאמה אינה מובטחת; מומלץ לאמת מול ספר הרכב.'],'medium':[50,'בינונית','#f0b54a','רמת ביטחון בינונית – ההתאמה אינה מובטחת, יש לאמת מול ספר הרכב.'],'low':[25,'נמוכה','#e8857a','ביטחון נמוך – לאמת בהכרח מול ספר הרכב לפני מילוי.']};
+function conf(r){const c=String(r.confidence||'').trim();if(c.startsWith('manual-verbatim; primary'))return [75,'ספר הרכב (תקן שמן ראשי חסר)','#b9d36a','הנתונים מספר הרכב, אך תקן השמן הראשי אינו מופיע בו – יש לאמת.'];return CONF[c.split(/[;\s]/)[0]]||[25,'לא ידועה','#e8857a','רמת הביטחון לא צוינה – לאמת בהכרח.'];}
+function region(r){const t=[r.region_condition,r.source_title,r.source_url,r.notes].join(' ');
+ if(/[\u0590-\u05ff]|\bisrael|\.co\.il|\bIL\b/i.test(t))return 'מהדורה ישראלית';
+ if(/[\u3040-\u30ff]|japan|\bJDM\b|\.jp\b|\bJP\b/i.test(t))return 'מהדורה יפנית';
+ if(/\b(USA|US|U\.S\.|North America|Canada)\b|\.com\/us|owners\.(honda|toyota|ford)\.com/i.test(t))return 'מהדורה אמריקאית';
+ if(/\b(EU|Europe|European|UK|GBR|Germany|Deutschland|ECE)\b|\.co\.uk|\.de\b|\.fr\b|\.eu\b|ford_eu/i.test(t))return 'מהדורה אירופית';
+ return 'אזור מהדורה לא צוין';}
+function srcName(r){const h=hv('source_title'),o=r.source_title||'';if(/[\u0590-\u05ff]/.test(o))return esc(o);if(h)return esc(clean(h));return '<span class="mut">מקור (ראו טקסט מקור)</span>';}
+const stars=p=>{const n=Math.round(p/20);return '<span class="stars" aria-hidden="true">'+'★'.repeat(n)+'<i>'+'★'.repeat(5-n)+'</i></span>';};
+function qstrip(r){const [p,l,c]=conf(r);return '<div class="qs" style="--qc:'+c+'"><span class="qp">'+p+'%</span>'+stars(p)+'<span>אמינות: <b>'+l+'</b></span><span class="dot">·</span><span>'+srcName(r)+'</span><span class="dot">·</span><span>'+region(r)+'</span></div>';}
+function confTop(r){const [p,l,c,t]=conf(r);return '<div class="card conf" style="--qc:'+c+'"><div class="cbig"><span class="cbadge">'+l+'</span><span class="cpct">אמינות משוערת: '+p+'%</span></div><div class="ctxt">'+t+'</div><div class="cnote">האחוז הוא הערכה פנימית לפי סוג המקור ואופן ההתאמה לרכב – לא דיוק שנמדד בפועל.</div>'+qstrip(r)+'</div>';}
+const IC={"eng": "<path d=\"M4 10h3l2-3h6v3h3l2 2v5h-2v2h-4l-2-2H9l-1 2H4z\"/><path d=\"M11 7V4h4\"/>", "gear": "<circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1 7 17M17 7l2.1-2.1\"/>", "diff": "<circle cx=\"12\" cy=\"12\" r=\"7\"/><circle cx=\"12\" cy=\"12\" r=\"2.5\"/><path d=\"M2 12h3M19 12h3\"/>", "tc": "<rect x=\"7\" y=\"7\" width=\"10\" height=\"10\" rx=\"2\"/><path d=\"M2 9h5M2 15h5M17 12h5M12 2v5M12 17v5\"/>", "cool": "<path d=\"M12 3v11\"/><circle cx=\"12\" cy=\"17\" r=\"3.5\"/><path d=\"M8 20c-3 0-4-2-4-2M16 20c3 0 4-2 4-2M15 6h2M15 10h2\"/>", "brake": "<circle cx=\"12\" cy=\"12\" r=\"8\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M5 6a9 9 0 0 0 0 12M19 6a9 9 0 0 1 0 12\"/>", "ps": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M3.5 10h6.5M14 10h6.5M12 14v7\"/>"};
+function cat(title,body,k,w){return '<div class="card cat'+(w?' wide':'')+'"><h2><span class="ic"><svg viewBox="0 0 24 24">'+IC[k]+'</svg></span>'+title+'</h2>'+body+qstrip(ROW)+'</div>';}
 function render(v,pi,matches){
   let h='<div class="card"><div class="veh">'+
    [['יצרן',v.tozeret_nm],['דגם',v.kinuy_mishari||v.degem_nm],['קוד דגם',v.degem_nm],['שנת ייצור',v.shnat_yitzur],['קוד מנוע',v.degem_manoa],['נפח מנוע',v.nefach_manoa?v.nefach_manoa+' סמ״ק':''],['דלק',v.sug_delek_nm],['רמת גימור',v.ramat_gimur],['סוג יבוא',pi?(v.sug_yevu||'יבוא אישי'):'']]
@@ -83,19 +157,21 @@ function render(v,pi,matches){
   if(!matches.length) return h+'<div class="card"><h2 class="miss">לא נמצא בקטלוג</h2><div class="meta">אין לרכב זה התאמה בקטלוג השמנים. אין להסתמך על ניחוש – יש לבדוק בספר הרכב.</div></div>';
   if(matches.length>1) h+='<div class="card warn">נמצאו '+matches.length+' התאמות אפשריות בקטלוג – יש לבחור לפי הרכב בפועל.</div>';
   for(const m of matches){
-    const r=DATA.rows[m.id], L=r.L||{};
+    const r=DATA.rows[m.id], L=r.L||{}; ROW=r;
     h+='<div class="card"><div class="meta" style="margin-top:0">שורת קטלוג: <b>'+esc(m.id)+'</b> · '+esc([r.brand_en,r.model_en,r.engine_name_manual,r.year_from+(r.year_to?'–'+r.year_to:'')].filter(Boolean).join(' · '))+'</div>'+
-       (String(r.confidence).startsWith('low')?'<div class="warn">ביטחון נמוך – לאמת</div>':'')+(m.how?'<div class="warn">'+esc(m.how)+'</div>':'')+'</div>';
-    h+=cat('שמן מנוע', kv('צמיגות',val(r.engine_oil_viscosity))+kv('תקן',val(r.engine_oil_spec))+(r.engine_oil_oem_product?kv('מוצר מומלץ',esc(r.engine_oil_oem_product)):'')+kv('כמות עם פילטר',lit(r.engine_oil_cap_l_with_filter))+(r.engine_oil_cap_l_without_filter?kv('כמות בלי פילטר',lit(r.engine_oil_cap_l_without_filter)):'')+lk(L.eng));
+       (m.how?'<div class="warn">'+esc(m.how)+'</div>':'')+'</div>';
+    h+='<div class="cats">';
+    h+=cat('שמן מנוע', kv('צמיגות',tx('engine_oil_viscosity'))+kv('תקן',tx('engine_oil_spec'))+(r.engine_oil_oem_product?kv('מוצר מומלץ',tx('engine_oil_oem_product')):'')+kv('כמות עם פילטר',txl('engine_oil_cap_l_with_filter'))+(r.engine_oil_cap_l_without_filter?kv('כמות בלי פילטר',txl('engine_oil_cap_l_without_filter')):'')+lk(L.eng),'eng');
     const g=[['mt','ידני'],['at','אוטומטי'],['dct','רובוטי כפול מצמד (DCT)'],['hybrid_transaxle','תמסורת היברידית']].filter(([k])=>r[k+'_fluid_spec']||r[k+'_fluid_cap_l']||r[k+'_cap_l']);
-    h+=cat('שמן גיר', g.length?g.map(([k,t])=>'<div class="sec"><h3>'+t+'</h3>'+kv('סוג/תקן',val(r[k+'_fluid_spec']))+kv('כמות',lit(r[k+'_fluid_cap_l']||r[k+'_cap_l']))+lk(L[k])+'</div>').join('') : kv('סוג/תקן',MISS)+kv('כמות','<span class="miss">אין כמות</span>'));
-    h+=cat('שמן דיפרנציאל', kv('סוג/תקן',val(r.rear_diff_oil_spec))+kv('כמות',lit(r.rear_diff_cap_l))+lk(L.rd));
-    h+=cat('שמן טרנספר', kv('סוג/תקן',val(r.transfer_case_oil_spec))+kv('כמות',lit(r.transfer_case_cap_l))+lk(L.tc));
-    h+=cat('נוזל קירור', kv('סוג/תקן',val(r.coolant_spec))+kv('צבע',val(r.coolant_color))+kv('כמות',lit(r.coolant_cap_l))+(r.secondary_coolant_spec_cap?kv('מעגל קירור משני',esc(r.secondary_coolant_spec_cap)):'')+lk(L.cool));
-    h+=cat('נוזל בלמים', kv('סוג/תקן',val(r.brake_fluid_spec))+kv('כמות',lit(r.brake_fluid_cap_l))+(r.clutch_actuator_fluid?kv('נוזל מצמד',esc(r.clutch_actuator_fluid)):'')+lk(L.brake));
-    h+=cat('נוזל הגה', kv('סוג/תקן',val(r.power_steering_fluid))+lk(L.ps));
-    h+='<div class="card meta">רמת ביטחון: <b>'+esc(r.confidence||'—')+'</b><br>מקור: '+(r.source_url?'<a href="'+esc(r.source_url)+'" target="_blank" rel="noopener">'+esc(r.source_title||r.source_url)+'</a>':esc(r.source_title||'—'))+(r.source_pdf_page?' (עמ׳ '+esc(r.source_pdf_page)+')':'')+
-       (r.region_condition?'<br>תנאי אזור: '+esc(r.region_condition):'')+(r.notes?'<details><summary>הערות מהקטלוג</summary>'+esc(r.notes)+'</details>':'')+'</div>';
+    h+=cat('שמן גיר', g.length?g.map(([k,t])=>'<div class="sec"><h3>'+t+'</h3>'+kv('סוג/תקן',tx(k+'_fluid_spec'))+kv('כמות',txl(r[k+'_fluid_cap_l']?k+'_fluid_cap_l':k+'_cap_l'))+lk(L[k])+'</div>').join('') : kv('סוג/תקן',MISS)+kv('כמות','<span class="miss">אין כמות</span>'),'gear',1);
+    h+=cat('שמן דיפרנציאל', kv('סוג/תקן',tx('rear_diff_oil_spec'))+kv('כמות',txl('rear_diff_cap_l'))+lk(L.rd),'diff');
+    h+=cat('שמן טרנספר', kv('סוג/תקן',tx('transfer_case_oil_spec'))+kv('כמות',txl('transfer_case_cap_l'))+lk(L.tc),'tc');
+    h+=cat('נוזל קירור', kv('סוג/תקן',tx('coolant_spec'))+kv('צבע',tx('coolant_color'))+kv('כמות',txl('coolant_cap_l'))+(r.secondary_coolant_spec_cap?kv('מעגל קירור משני',tx('secondary_coolant_spec_cap')):'')+lk(L.cool),'cool');
+    h+=cat('נוזל בלמים', kv('סוג/תקן',tx('brake_fluid_spec'))+kv('כמות',txl('brake_fluid_cap_l'))+(r.clutch_actuator_fluid?kv('נוזל מצמד',tx('clutch_actuator_fluid')):'')+lk(L.brake),'brake');
+    h+=cat('נוזל הגה', kv('סוג/תקן',tx('power_steering_fluid'))+lk(L.ps),'ps');
+    h+='</div>';
+    h+='<div class="card meta">רמת ביטחון: <b>'+conf(r)[1]+'</b><br>מקור: '+(r.source_url?'<a href="'+esc(r.source_url)+'" target="_blank" rel="noopener">'+srcName(r)+'</a>':srcName(r))+(/^[\d\s,.\-–]+$/.test(r.source_pdf_page||'')?' (עמ׳ '+esc(r.source_pdf_page)+')':'')+(r.source_title&&!/[\u0590-\u05ff]/.test(r.source_title)?src(r.source_title):'')+
+       (r.region_condition?'<br>תנאי אזור: '+tx('region_condition'):'')+(r.notes?'<details><summary>הערות מהקטלוג</summary>'+tx('notes')+'</details>':'')+'</div>';
   }
   return h;
 }
@@ -112,6 +188,7 @@ $('f').addEventListener('submit',async e=>{
     await dp;
     if(!v){$('status').innerHTML='<span class="err">מספר הרכב '+esc(plate)+' לא נמצא במאגר הרכבים הממשלתי.</span>';return;}
     $('status').textContent='רכב '+plate;
+    document.body.classList.add('has');
     $('out').innerHTML=render(v,pi,findRows(v,pi));
   }catch(err){$('status').innerHTML='<span class="err">שגיאה בחיפוש: '+esc(err.message)+'. נסו שוב.</span>';}
   finally{$('go').disabled=false;}
