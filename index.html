@@ -226,7 +226,7 @@ function render(v,pi,matches){
      h+=cat('נורות',bl||EM,'bulb');
      const IN=n=>Math.round(n/25.4);
      const mm=x=>{const v=String(x).match(/\d+(?:\.\d+)?/g);return v?'<b dir="ltr">'+v.map(n=>IN(+n)+'"').join(' / ')+'</b> <span class="mut" style="font-size:11px">('+esc(String(x))+' מ״מ)</span>':'<b>'+esc(x)+'</b>';};
-     const mmTxt=t=>esc(t).replace(/(\d{3})(\s*)(mm|מ״מ|מ"מ|מ&quot;מ)/gi,(q,n,sp,u)=>IN(+n)+'" ('+n+sp+u+')');
+     const mmTxt=t=>esc(t).replace(/((?:\d{3}|—)(?:\s*\/\s*(?:\d{3}|—))*)(\s*)(mm|מ״מ|מ"מ|מ&quot;מ)/gi,(q,g,sp,u)=>/\d/.test(g)?g.split("/").map(x=>/\d/.test(x)?IN(+x.trim())+'"':x.trim()).join("/")+" ("+g+sp+u+")":q);
      const hw=x=>x&&(E(x.front_wipers_driver_mm)||E(x.front_wipers_passenger_mm)||E(x.rear_wiper_mm));
      let w=null;if(b&&E(b.wiper_source_url))w=Object.assign({},b,{source_title:b.wiper_source_title,source_url:b.wiper_source_url,confidence:b.wiper_confidence,notes:b.wiper_notes,source_page:'',region_condition:''});else if(hw(b))w=b;else w=bwModel(v,'__wiper_models');
      if(w&&w!==b)ROW=Object.assign({row_id:m.id},w);
