@@ -121,7 +121,7 @@ function findRows(v,pi){
   return c.filter(id=>{const r=D.rows[id];const a=parseInt(r.year_from),b=parseInt(r.year_to||r.year_from);return !(a&&b)||(y>=a&&y<=b);})
           .map(id=>({id,how:'יבוא אישי: התאמה לפי יצרן + דגם + קוד מנוע ושנת ייצור בטווח השורה בקטלוג (אין קוד דגם במאגר יבוא אישי) – מומלץ לאמת.'}));
 }
-function bwModel(v){const y=Number(v.shnat_yitzur);for(const e of (BW.__models||[])){const tc=[].concat(e.tozeret_cd).map(String);if(!tc.includes(String(v.tozeret_cd)))continue;if(!new RegExp(e.kinuy_re,'i').test(v.kinuy_mishari||v.degem_nm||''))continue;if(e.year_from&&y<e.year_from)continue;if(e.year_to&&y>e.year_to)continue;if(e.degem_cd&&!e.degem_cd.map(String).includes(String(v.degem_cd)))continue;return e.data;}return null;}
+function bwModel(v,K){const y=Number(v.shnat_yitzur);for(const e of (BW[K||'__models']||[])){const tc=[].concat(e.tozeret_cd).map(String);if(!tc.includes(String(v.tozeret_cd)))continue;if(!new RegExp(e.kinuy_re,'i').test(v.kinuy_mishari||v.degem_nm||''))continue;if(e.year_from&&y<e.year_from)continue;if(e.year_to&&y>e.year_to)continue;if(e.degem_cd&&!e.degem_cd.map(String).includes(String(v.degem_cd)))continue;return e.data;}return null;}
 const MISS='<span class="miss">לא נמצא בקטלוג</span>';
 
 const CJK=/[\u3040-\u30ff\u3400-\u9fff\uff01-\uff60\u3000-\u303f]/;
@@ -197,8 +197,11 @@ function render(v,pi,matches){
        (Array.isArray(b.other_bulbs)?b.other_bulbs.filter(o=>o&&E(o.type)).map(o=>kv(esc(o.position||'נורה נוספת'),BI(o.type))).join(''):''):'';
      h+=cat('נורות',bl||EM,'bulb');
      const mm=x=>'<b>'+esc(x)+'</b> מ״מ';
-     const wb=b?(E(b.front_wipers_driver_mm)?kv('מגב קדמי – נהג',mm(b.front_wipers_driver_mm)):'')+(E(b.front_wipers_passenger_mm)?kv('מגב קדמי – נוסע',mm(b.front_wipers_passenger_mm)):'')+(E(b.rear_wiper_mm)?kv('מגב אחורי',mm(b.rear_wiper_mm)):''):'';
-     h+=cat('מגבים',wb||EM,'wiper');
+     const hw=x=>x&&(E(x.front_wipers_driver_mm)||E(x.front_wipers_passenger_mm)||E(x.rear_wiper_mm));
+     let w=null;if(b&&E(b.wiper_source_url))w=Object.assign({},b,{source_title:b.wiper_source_title,source_url:b.wiper_source_url,confidence:b.wiper_confidence,notes:b.wiper_notes,source_page:'',region_condition:''});else if(hw(b))w=b;else w=bwModel(v,'__wiper_models');
+     if(w&&w!==b)ROW=Object.assign({row_id:m.id},w);
+     const wb=w?(E(w.front_wipers_driver_mm)?kv('מגב קדמי – נהג',mm(w.front_wipers_driver_mm)):'')+(E(w.front_wipers_passenger_mm)?kv('מגב קדמי – נוסע',mm(w.front_wipers_passenger_mm)):'')+(E(w.rear_wiper_mm)?kv('מגב אחורי',mm(w.rear_wiper_mm)):'')+(w!==b&&E(w.source_url)?'<div class="note" style="font-size:12px;opacity:.8">מקור מידות המגבים: <a href="'+esc(w.source_url)+'" target="_blank" rel="noopener">'+esc(w.source_title)+'</a>'+(E(w.notes)?'<br>'+esc(w.notes):'')+'</div>':''):'';
+     h+=cat('מגבים',(hw(w)&&wb)||EM,'wiper');
      ROW=sv;}
     h+='</div>';
     h+='<div class="card meta">רמת ביטחון: <b>'+conf(r)[1]+'</b><br>מקור: '+(r.source_url?'<a href="'+esc(r.source_url)+'" target="_blank" rel="noopener">'+srcName(r)+'</a>':srcName(r))+(/^[\d\s,.\-–]+$/.test(r.source_pdf_page||'')?' (עמ׳ '+esc(r.source_pdf_page)+')':'')+(r.source_title&&!/[\u0590-\u05ff]/.test(r.source_title)?src(r.source_title):'')+
