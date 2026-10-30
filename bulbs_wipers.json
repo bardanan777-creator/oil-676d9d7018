@@ -1,4 +1,22 @@
 {
+"CI-BERLINGO-YH01": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 425,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Citroen Berlingo [K9] 07.18→: A543S (650/425 mm); rear omitted (tailgate vs. barn-door variants). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
 "H-ELA-CN7-HEV": {
 "brake_light": "28/8W 28 (סוג A); LED (סוג B)",
 "confidence": "manual-verbatim",
@@ -45,8 +63,8 @@
 "H-ELA-MD-16": {
 "brake_light": "PY21/5W 21/5 (פנס אחורי / בלימה)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H1 55",
 "headlight_low": "H7 55",
 "notes": "Brake/tail bulb printed as \"PY21/5W\" in the Israeli book (verbatim). Bulb table only; the book does not print wiper blade sizes.",
@@ -91,7 +109,11 @@
 "rear_wiper_mm": "",
 "source_page": "8-2 (PDF p.332)",
 "source_title": "Hyundai Elantra 2011-2015 ספר רכב (Colmobil)",
-"source_url": "https://res.cloudinary.com/colmobil/images/v1716388110/ספר-רכב-יונדאי-אלנטרה-היברידית-2011-2015_5602d83f9/ספר-רכב-יונדאי-אלנטרה-היברידית-2011-2015_5602d83f9.pdf"
+"source_url": "https://res.cloudinary.com/colmobil/images/v1716388110/ספר-רכב-יונדאי-אלנטרה-היברידית-2011-2015_5602d83f9/ספר-רכב-יונדאי-אלנטרה-היברידית-2011-2015_5602d83f9.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai Elantra [MD,UD] 02.11→: AR654S (650/340 mm); sedan. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-I10-AC3-10": {
 "brake_light": "PY21WLL 21/5 (פנסי אחורי ופנס עצירה)",
@@ -147,8 +169,8 @@
 "H-I10-AC3-12": {
 "brake_light": "PY21WLL 21/5 (פנסי אחורי ופנס עצירה)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "H19 60/55 (סוג A); HB3 60 (סוג B)",
 "headlight_low": "H19 60/55 (סוג A, גבוה/נמוך); H7LL 55 (סוג B, תאורת אור נמוך סטטית)",
 "notes": "Type A = MFR reflector, type B = Bi-Function projection headlight. Rear stop/tail printed \"PY21WLL 21/5\" (verbatim). Bulb table only; the book does not print wiper blade sizes.",
@@ -190,10 +212,14 @@
 "type": "W5WLL 10"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 280,
 "source_page": "2-9/2-10 (PDF p.23-24)",
 "source_title": "Hyundai i10 2020-2021 ספר רכב (Colmobil)",
-"source_url": "https://res.cloudinary.com/colmobil/images/v1716388493/ספר-רכב-יונדאי-i10-2020-2021_533471256/ספר-רכב-יונדאי-i10-2020-2021_533471256.pdf"
+"source_url": "https://res.cloudinary.com/colmobil/images/v1716388493/ספר-רכב-יונדאי-i10-2020-2021_533471256/ספר-רכב-יונדאי-i10-2020-2021_533471256.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai i10 [AC3] 02.20→: AR612S (600/400 mm) + rear H284 (280 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-I10-IA-10": {
 "brake_light": "21/5 (וואט, פנסי בלימה ואחוריים; סוג לא מודפס)",
@@ -245,8 +271,8 @@
 "H-I10-IA-12": {
 "brake_light": "21/5 (וואט, פנסי בלימה ואחוריים; סוג לא מודפס)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "55/60 (וואט; סוג הנורה לא מודפס)",
 "headlight_low": "55/60 (וואט; סוג הנורה לא מודפס)",
 "notes": "The Israeli book (and the UK book p.8-3) print ONLY wattages, no bulb type codes – types left unstated rather than guessed. Bulb table only; the book does not print wiper blade sizes.",
@@ -284,10 +310,14 @@
 "type": "5"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 275,
 "source_page": "8-3 (PDF p.406, read from rendered page)",
 "source_title": "Hyundai i10 2014-2019 ספר רכב (Colmobil)",
-"source_url": "https://res.cloudinary.com/colmobil/images/v1716388497/ספר-רכב-יונדאי-i10-2014-2019_53335bdc4/ספר-רכב-יונדאי-i10-2014-2019_53335bdc4.pdf"
+"source_url": "https://res.cloudinary.com/colmobil/images/v1716388497/ספר-רכב-יונדאי-i10-2014-2019_53335bdc4/ספר-רכב-יונדאי-i10-2014-2019_53335bdc4.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai i10 [IA] 09.13→: AR552S (550/400 mm) + rear H275 (275 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-I10-IA-12-2020": {
 "brake_light": "21/5 (וואט, פנסי בלימה ואחוריים; סוג לא מודפס)",
@@ -629,8 +659,8 @@
 "H-I20-PB-14-XEU": {
 "brake_light": "21/5 W (Stop and tail; type not printed)",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "55/55 W (High/Low; bulb type not printed)",
 "headlight_low": "55/55 W (High/Low; bulb type not printed)",
 "notes": "Official Hyundai UK edition prints wattages only. Wipers not printed.",
@@ -668,10 +698,14 @@
 "type": "5"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 300,
 "source_page": "8-2 (PDF p.391)",
 "source_title": "Hyundai i20 (PB) owner manual (Hyundai UK)",
-"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/i20+PB+1-combinedpdf"
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/i20+PB+1-combinedpdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai i20 [PB] 12.08-12.14: AR601S (600/400 mm) + rear H309 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-I20-PB-G12-UK": {
 "brake_light": "21/5 W (Stop and tail; type not printed)",
@@ -825,8 +859,8 @@
 "H-IONIQ-AE-HEV1": {
 "brake_light": "P21/W 21 (דגם A, פנס אחורי/בלמים); LED (דגם B)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "+9005HL 55 (דגם A); D8S 25 (דגם B)",
 "headlight_low": "H7LL 60 (דגם A); D8S 25 (דגם B)",
 "notes": "Values exactly as printed (incl. \"P21/W\", \"+9005HL\", rear turn \"PY21/5W 21/5\" for model A). Model B = HID (D8S) headlamps. Bulb table only; the book does not print wiper blade sizes.",
@@ -859,13 +893,17 @@
 "rear_wiper_mm": "",
 "source_page": "7-3 (PDF p.386)",
 "source_title": "Hyundai IONIQ 2016-2019 ספר רכב (Colmobil)",
-"source_url": "https://res.cloudinary.com/colmobil/images/v1738680462/IONIQ_2016-2018_heb/IONIQ_2016-2018_heb.pdf"
+"source_url": "https://res.cloudinary.com/colmobil/images/v1738680462/IONIQ_2016-2018_heb/IONIQ_2016-2018_heb.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai Ioniq [AE] 03.16→: AR813S (650/450 mm); no rear blade listed by Bosch. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-IONIQ-AE-HEV2": {
 "brake_light": "P21/5W 21/5 (סוג A); LED (סוג B)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "9005HL+ 60 (סוג A); LED (סוג B)",
 "headlight_low": "H7LL 55 (סוג A); LED (סוג B)",
 "notes": "Bulb table only; the book does not print wiper blade sizes.",
@@ -902,7 +940,11 @@
 "rear_wiper_mm": "",
 "source_page": "8-3 (PDF p.546, read from rendered page)",
 "source_title": "Hyundai IONIQ 2020-2023 ספר רכב (Colmobil)",
-"source_url": "https://res.cloudinary.com/colmobil/images/v1738680487/IONIQ_2020-2021-_heb/IONIQ_2020-2021-_heb.pdf"
+"source_url": "https://res.cloudinary.com/colmobil/images/v1738680487/IONIQ_2020-2021-_heb/IONIQ_2020-2021-_heb.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai Ioniq [AE] 03.16→: AR813S (650/450 mm); no rear blade listed by Bosch. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-IX35-LM-G20": {
 "brake_light": "21/5 W (Stop and tail, outside; type not printed)",
@@ -1170,6 +1212,24 @@
 "source_title": "Hyundai Kona Hybrid 2024 / 2026 ספר רכב (Colmobil)",
 "source_url": "https://res.cloudinary.com/colmobil/images/v1777977578/KONA-hybrid-2026-web-low-1_30738826c5/KONA-hybrid-2026-web-low-1_30738826c5.pdf?_i=AA"
 },
+"H-TUC-NX4-G4FP-GN21": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 275,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai Tucson IV [NX4] 09.20→: A945S (650/400 mm) + rear H275 (275 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
 "H-TUC-TLE-G16": {
 "brake_light": "21/5W 21/5 (Type A, Tail/Stop); LED (Type B)",
 "confidence": "high",
@@ -1267,8 +1327,8 @@
 "H-TUC-TLE-G20-ME": {
 "brake_light": "21/5W 21/5 (Type A, Tail/Stop); LED (Type B)",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "HB3 60 (Type A, B); LED (Type C, D)",
 "headlight_low": "H7 55 (Type A, B); LED (Type C, D)",
 "notes": "Official Hyundai UK (European) edition, not the Israeli book; Israeli-spec trim mix may differ. Wipers not printed.",
@@ -1306,10 +1366,14 @@
 "type": "W5W 5"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 350,
 "source_page": "8-3 (PDF p.700)",
 "source_title": "Hyundai Tucson TLe owner manual (Hyundai UK)",
-"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/Tucscon+TLepdf"
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/Tucscon+TLepdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai Tucson [TL] 06.15-12.20: AR653S (650/400 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-TUC-TLE-G20-XME": {
 "brake_light": "21/5W 21/5 (Type A, Tail/Stop); LED (Type B)",
@@ -1405,11 +1469,83 @@
 "source_title": "Hyundai Venue 2020-2021 ספר רכב (Colmobil)",
 "source_url": "https://res.cloudinary.com/colmobil/images/v1716388211/%D7%A1%D7%A4%D7%A8-%D7%A8%D7%9B%D7%91-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99-%D7%95%D7%99%D7%A0%D7%95-2020-2021_55382f38b/%D7%A1%D7%A4%D7%A8-%D7%A8%D7%9B%D7%91-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99-%D7%95%D7%99%D7%A0%D7%95-2020-2021_55382f38b.pdf?_i=AA"
 },
+"HG-ACC-RB-G16": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai Accent [RB] 11.10→: AR653S (650/400 mm); rear omitted (sedan/hatch mixed). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HG-TUC-TL-G20": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai Tucson [TL] 06.15-12.20: AR653S (650/400 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HO-CIVIC-FK-R18Z4": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 450,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Honda Civic Hatchback [FK] 09.11-02.17: AR813S (650/450 mm) + rear H450 (450 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HY-I30-FD-G4FC-KR0811": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Hyundai i30 [FD] 09.07-03.10 A187S and 04.10-01.13 AR604S (both 600/450 mm) + rear H312 (300 mm, hatch & CW). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
 "K-NIRO-DEPE-HEV16": {
 "brake_light": "P21/5W 21/5 (פנס אחורי/פנס בלימה) / LED (פנס בלימה)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "HB3 60 (מסוג נורת ליבון); LED (מסוג LED)",
 "headlight_low": "HB3 60 (מסוג נורת ליבון, אלומה נמוכה/גבוהה); LED (מסוג LED)",
 "notes": "Wiper blade sizes not printed in the book.",
@@ -1439,10 +1575,14 @@
 "type": "W5W 5"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 300,
 "source_page": "659 (printed 8-5)",
 "source_title": "Kia Niro Facelift 2019 ספר רכב (Kia Israel) – הספקי נורות",
-"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Niro-2019.pdf"
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Niro-2019.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Kia Niro [DE] 10.16→: AR653S (650/400 mm) + rear A300H (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-NIROPLUS-DEPBV": {
 "brake_light": "P21/5W 21/5 (פנס אחורי משולב סוג A); LED (סוג B)",
@@ -1588,8 +1728,8 @@
 "K-PIC-JA-12": {
 "brake_light": "P21/5W LL או LED 21W או LED (צד חיצוני)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H4LL 60W (סטנדרטית); 9005 HL+ 60W (אופציה*)",
 "headlight_low": "H4LL 55W (סטנדרטית); 9005 HL+ 60W (אופציה*)",
 "notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
@@ -1631,10 +1771,14 @@
 "type": "W5W LL 5W X 2EA"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 275,
 "source_page": "510 (printed 9-4)",
 "source_title": "Kia Picanto JA 2017-2020 ספר רכב (Kia Israel) – הספקי נורות",
-"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-JA-2017-2020.pdf"
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-JA-2017-2020.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Kia Picanto [JA] 04.17→: AR605S (600/340 mm) + rear H275 (275 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-PIC-JAPE-10MPI": {
 "brake_light": "P21/5W 21/5W (מסוג נורת ליבון) / LED (מסוג LED)",
@@ -1792,8 +1936,8 @@
 "K-PIC-JAPE-G12": {
 "brake_light": "P21/5W 21/5W (מסוג נורת ליבון) / LED (מסוג LED)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
 "headlight_low": "H4 55W/60W (סוג A); HB3 60W/60W (סוג B, סוג C)",
 "notes": "Headlamp H4 is a dual-filament bulb (55W low / 60W high). Wiper blade sizes not printed in the book.",
@@ -1835,10 +1979,14 @@
 "type": "W5W 5W"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 275,
 "source_page": "562 (printed 9-4)",
 "source_title": "Kia Picanto Facelift (AMT) 2021 ספר רכב (Kia Israel) – הספקי נורות",
-"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-AMT-2021.pdf"
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-AMT-2021.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Kia Picanto [JA] 04.17→: AR605S (600/340 mm) + rear H275 (275 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-PIC-TA-10": {
 "brake_light": "P21/5W 21/5 / LED (מסוג LED)*",
@@ -1886,8 +2034,8 @@
 "K-PIC-TA-125": {
 "brake_light": "P21/5W 21/5 / LED (מסוג LED)*",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "H4 L/L 55/60",
 "headlight_low": "H4 L/L 55/60 (פנסים ראשיים אור נמוך/גבוה)",
 "notes": "Values read from rendered page (Hebrew text layer garbled). * = אם קיים. Wiper blade sizes not printed in the book.",
@@ -1921,10 +2069,32 @@
 "type": "W5W 5"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 300,
 "source_page": "408 (printed 8-2)",
 "source_title": "Kia Picanto 2011-2016 ספר רכב (Kia Israel) – הספקי נורות",
-"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-2011-2016.pdf"
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Picanto-2011-2016.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Kia Picanto [TA] 05.11→: AR552S (550/400 mm) + rear H312 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"K-RIO-UB-14": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Kia Rio [UB] 06.11→: AR653S (650/400 mm); rear omitted (sedan/hatch mixed). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-SPO-NQ5-D16": {
 "brake_light": "P21/5W 21/5 (סוג A); LED (סוג B)",
@@ -2085,8 +2255,8 @@
 "K-SPO-QL-16GDI": {
 "brake_light": "P21/5W 21/5 (פנסי בלימה ופנסים אחוריים – צד חיצוני) / LED (סוג LED)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "HB3 60",
 "headlight_low": "HB3 60; D3S 35 (מסוג HID*)",
 "notes": "* = אם קיים. Wiper blade sizes not printed in the book.",
@@ -2124,10 +2294,14 @@
 "type": "W5W 5"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 275,
 "source_page": "608 (printed 9-6)",
 "source_title": "Kia Sportage QLe 2016-2018 ספר רכב (Kia Israel) – הספקי נורות",
-"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2016-2018.pdf"
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2016-2018.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Kia Sportage [QL] 01.16→: AR653S (650/400 mm) + rear H275 (275 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-SPO-QL-16TGDI": {
 "brake_light": "P21/5W 21/5 (פנסי בלימה ופנסים אחוריים – צד חיצוני) / LED (סוג LED)",
@@ -2966,8 +3140,8 @@
 "MI-OUT-GF-4J11": {
 "brake_light": "LED (פנסי בלימה: −, לא ניתן להחלפה)",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "HB3 60W (הלוגן); LED",
 "headlight_low": "H7 55W (הלוגן); LED",
 "notes": "Official Mitsubishi Motors UK manual (European edition, not the Israeli book). The book does not print wiper blade sizes.",
@@ -3005,16 +3179,20 @@
 "type": "LED"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 300,
 "source_page": "10-26 (PDF p.480)",
 "source_title": "Mitsubishi Outlander 20MY Petrol Owner's Manual OGFE20E1 (UK)",
-"source_url": "https://mitsubishi-motors.co.uk/wp-content/uploads/2026/02/20MY-Outlander-Petrol-Owners-Manual_compressed.pdf"
+"source_url": "https://mitsubishi-motors.co.uk/wp-content/uploads/2026/02/20MY-Outlander-Petrol-Owners-Manual_compressed.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mitsubishi Outlander III [GF,GG] 04.12→: AR813S (650/450 mm) + rear H306 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "MI-SPACESTAR-3A92": {
 "brake_light": "P21/5W 21/5W (Type A); LED (Type B)",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H4 60/55W (Type A הלוגן); D5S 25W (Type B קסנון)",
 "headlight_low": "H4 60/55W (Type A הלוגן); D5S 25W (Type B קסנון)",
 "notes": "Headlamp row prints one H4 bulb for low+high. Official Mitsubishi Motors UK manual (European edition, not the Israeli book). The book does not print wiper blade sizes.",
@@ -3056,10 +3234,158 @@
 "type": "W5W 5W"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 300,
 "source_page": "10-21/10-22 (PDF p.279-280)",
 "source_title": "Mitsubishi Space Star/Mirage 19MY Owner's Manual OA0X19E2 (UK)",
-"source_url": "https://mitsubishi-motors.co.uk/wp-content/uploads/2026/02/19MY-Mirage-Owners-Manual.pdf"
+"source_url": "https://mitsubishi-motors.co.uk/wp-content/uploads/2026/02/19MY-Mirage-Owners-Manual.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mitsubishi Space Star [A0] 11.12→: AR553S (550/340 mm) + rear H309 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MZ-2-DE-ZY-CA": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 340,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mazda 2 [DE] 06.07-12.14: AR605S (600/340 mm); rear omitted (hatch/sedan both registered under MAZDA 2). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MZ-2-DJ-G15": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mazda 2 [DJ] 10.14→: AR552S (550/400 mm) + rear H354 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MZ-2-DJFL-G15": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mazda 2 [DJ] 10.14→: AR552S (550/400 mm) + rear H354 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MZ-3-BM-P5-IL13": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mazda 3 [BM] 08.13→: AR602S (600/450 mm); rear omitted (sedan/hatch mixed). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MZ-3-BP-PE": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mazda 3 [BP] 01.19→: AR653S (650/400 mm); rear omitted (sedan/hatch mixed). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MZ-CX5-KE-PE-IL13": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mazda CX-5 [KE] 11.11→: AR602S (600/450 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MZ-CX5-KF-PE": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mazda CX-5 [KF] 02.17→: A398S (600/450 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MZ-CX5-KF-PE-IL17": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Mazda CX-5 [KF] 02.17→: A398S (600/450 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-JUKE-F15-HR16DE": {
 "brake_light": "P21/5W 21/5W",
@@ -3111,10 +3437,14 @@
 "type": "W5W 5W"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 300,
 "source_page": "8-28 (PDF p.294)",
 "source_title": "Nissan Juke F15 Βιβλίο Οδηγιών (Nissan Greece)",
-"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/juke/Juke_F15_owners_manual_.pdf"
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/juke/Juke_F15_owners_manual_.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Nissan Juke [F15] 07.10-03.17 AR553S (550/340) vs 04.17→ A519S (600/340): front differs inside row → front omitted; rear H301 (300 mm) both. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-JUKE-F15-HR16DE-YALIAS-2020": {
 "brake_light": "P21/5W 21/5W",
@@ -3229,8 +3559,8 @@
 "NI-MICRA-K13-HR12DE": {
 "brake_light": "LED* או 21/5W (סוג לא מודפס)",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H4 60W",
 "headlight_low": "H4 55W",
 "notes": "Only headlamp bulb type (H4) is printed; other lamps wattage only. Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
@@ -3272,10 +3602,14 @@
 "type": "5W"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 300,
 "source_page": "8-23 (PDF p.239)",
 "source_title": "Nissan Micra K13 Βιβλίο Οδηγιών (Nissan Greece)",
-"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/micra/Micra_K13_owners_manual_.pdf"
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/micra/Micra_K13_owners_manual_.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Nissan Micra [K13K] 07.10→: AR530U + AR340U singles (530/340 mm) + rear H306 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ-J11-HRA2DDT": {
 "brake_light": "LED",
@@ -3532,11 +3866,47 @@
 "source_title": "Nissan Qashqai J11 Βιβλίο Οδηγιών (Nissan Greece)",
 "source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_owners_manual_.pdf"
 },
+"SU-FOR-SK-FB25-IL": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Subaru Forester [S14] 05.19→: A156S (650/400 mm) + rear H354 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"SU-XV-GP-FB-IL": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Subaru XV [G33/GP] 08.11-11.17: AR653S (650/400 mm) + rear H306 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
 "SZ-ALTO-GF-K10B": {
 "brake_light": "P21/5W 12V 21/5W",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H4 12V 60/55W",
 "headlight_low": "H4 12V 60/55W",
 "notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
@@ -3581,7 +3951,11 @@
 "rear_wiper_mm": "",
 "source_page": "11-3 (PDF p.208)",
 "source_title": "Suzuki ALTO Instrukcja obsługi (suzuki.pl)",
-"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/ALTO/ALTO.pdf"
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/ALTO/ALTO.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Suzuki Alto [AMF] 12.08-12.14: AR553S (550/340 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SZ-BALENO-K12C": {
 "brake_light": "LED",
@@ -3637,8 +4011,8 @@
 "SZ-SCROSS-JY-M16A-16": {
 "brake_light": "P21/5W 12V 21/5W",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H4 12V 60/55W (הלוגן); D4S 12V 35W (קסנון)",
 "headlight_low": "H4 12V 60/55W (הלוגן); D4S 12V 35W (קסנון)",
 "notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
@@ -3680,10 +4054,14 @@
 "type": "P21W 21W"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 250,
 "source_page": "11-3 (PDF p.461)",
 "source_title": "Suzuki SX4 S-CROSS Instrukcja obsługi 99999-SD-72 (06/2016, suzuki.pl)",
-"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SCROSS/SX4%20S-CROSS%202016.pdf"
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SCROSS/SX4%20S-CROSS%202016.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Suzuki SX4 S-Cross 10.13→: AR654S (650/340 mm) + rear H250 (250 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SZ-SCROSS-JYF-K10C": {
 "brake_light": "P21/5W 12V 21/5W; LED",
@@ -3739,8 +4117,8 @@
 "SZ-SCROSS-JYF-K14C": {
 "brake_light": "P21/5W 12V 21/5W; LED",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H7 12V 55W (הלוגן); LED",
 "headlight_low": "H11 12V 55W (הלוגן); LED",
 "notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
@@ -3782,10 +4160,14 @@
 "type": "P21W 21W"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 250,
 "source_page": "11-4 (PDF p.448)",
 "source_title": "Suzuki SX4 S-CROSS Instrukcja obsługi 99999-SD-74 (suzuki.pl)",
-"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SCROSS/SX4%20S-CROSS%202019.pdf"
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SCROSS/SX4%20S-CROSS%202019.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Suzuki SX4 S-Cross 10.13→: AR654S (650/340 mm) + rear H250 (250 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SZ-SCROSS-JYF-M16A": {
 "brake_light": "P21/5W 12V 21/5W; LED",
@@ -3970,8 +4352,8 @@
 "SZ-SX4-GY-M16A": {
 "brake_light": "P21/5W 12V 21/5W",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H4 12V 60/55W",
 "headlight_low": "H4 12V 60/55W",
 "notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
@@ -4012,7 +4394,11 @@
 "rear_wiper_mm": "",
 "source_page": "12-3 (PDF p.249)",
 "source_title": "Suzuki SX4 Instrukcja obsługi 99999-SD-53 (11/2010, suzuki.pl)",
-"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SX4/SX4%202010.pdf"
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SX4/SX4%202010.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Suzuki SX4 hatchback & sedan 2006-2015: AR654S (650/340 mm); rear omitted (hatch/sedan mixed). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SZ-SX4-K12BREG-2013": {
 "brake_light": "P21/5W 12V 21/5W",
@@ -4358,8 +4744,8 @@
 "T-CHR-HV1": {
 "brake_light": "",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "HIR2 55W (הלוגן)",
 "headlight_low": "HIR2 55W (הלוגן)",
 "notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
@@ -4393,16 +4779,20 @@
 "type": "5W נורת טריז שקופה"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 350,
 "source_page": "662 (PDF p.664)",
 "source_title": "Toyota C-HR Hybrid 2017-2018 ספר רכב (Union Motors file 355)",
-"source_url": "https://books.union-motors.co.il/app/api/files/355/download"
+"source_url": "https://books.union-motors.co.il/app/api/files/355/download",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Toyota C-HR 10.16→: A156S (650/400 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-CHR-HV2": {
 "brake_light": "21/5W נורת בסיס טריז שקופה (קוד ECE לא מודפס) (סוג נורה)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "",
 "headlight_low": "",
 "notes": "Headlamps not in the bulb table (LED, not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
@@ -4436,10 +4826,14 @@
 "type": "5W נורת בסיס יתד שקופה"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 350,
 "source_page": "545 (PDF p.546)",
 "source_title": "Toyota C-HR Hybrid 2020-2023 ספר רכב (Union Motors file 742)",
-"source_url": "https://books.union-motors.co.il/app/api/files/742/download"
+"source_url": "https://books.union-motors.co.il/app/api/files/742/download",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Toyota C-HR 10.16→: A156S (650/400 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-CHR-HV2-CALIAS-CHRHYBRID-2021-x1810": {
 "brake_light": "21/5W נורת בסיס טריז שקופה (קוד ECE לא מודפס) (סוג נורה)",
@@ -4487,8 +4881,8 @@
 "T-COR-E15-1ZR": {
 "brake_light": "21/5W נורת בסיס טריז שקופה (קוד ECE לא מודפס)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "HB3 60W",
 "headlight_low": "HB4 51W (הלוגן); D4R 35W (פריקה)",
 "notes": "Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
@@ -4529,13 +4923,17 @@
 "rear_wiper_mm": "",
 "source_page": "261 (PDF p.280)",
 "source_title": "Toyota Corolla 2009-2013 ספר רכב (Union Motors file 110)",
-"source_url": "https://books.union-motors.co.il/app/api/files/110/download"
+"source_url": "https://books.union-motors.co.il/app/api/files/110/download",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Toyota Corolla [E14,E15] 11.06-04.13: AR654S (650/340 mm); sedan, no rear wiper listed. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-COR-E17-1ZR": {
 "brake_light": "21/5W נורת בסיס טריז שקופה (קוד ECE לא מודפס)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "HB3 60W",
 "headlight_low": "H11 55W",
 "notes": "Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
@@ -4576,13 +4974,17 @@
 "rear_wiper_mm": "",
 "source_page": "459 (PDF p.460)",
 "source_title": "Toyota Corolla 2013-2016 ספר רכב (Union Motors file 119)",
-"source_url": "https://books.union-motors.co.il/app/api/files/119/download"
+"source_url": "https://books.union-motors.co.il/app/api/files/119/download",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Toyota Corolla [E17] 09.13→: AR654S (650/340 mm); sedan, no rear wiper listed. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-COR-E17PE-1ZR": {
 "brake_light": "21/5W נורת בסיס טריז שקופה (קוד ECE לא מודפס) (סוג נורה)",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "HB3 60W (סוג נורה)",
 "headlight_low": "H11 55W (סוג נורה)",
 "notes": "Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
@@ -4623,7 +5025,11 @@
 "rear_wiper_mm": "",
 "source_page": "511 (PDF p.512)",
 "source_title": "Toyota Corolla 2017-2018 ספר רכב (Union Motors file 419)",
-"source_url": "https://books.union-motors.co.il/app/api/files/419/download"
+"source_url": "https://books.union-motors.co.il/app/api/files/419/download",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Toyota Corolla [E17] 09.13→: AR654S (650/340 mm); sedan, no rear wiper listed. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-COR-E21-HV": {
 "brake_light": "LED",
@@ -4659,8 +5065,8 @@
 "T-HILUX-AN120-D": {
 "brake_light": "21/5W נורת צד אחד שקופה (עם פנסי בלימה LED); קוד ECE לא מודפס",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "H4 60/55W (סוג A); HB3 60W (סוג B)",
 "headlight_low": "H4 60/55W (פנסים ראשיים הלוגן סוג A); H11 55W (סוג B)",
 "notes": "Brake row printed as \"(עם פנסי בלימה LED)\" in the book. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
@@ -4697,7 +5103,11 @@
 "rear_wiper_mm": "",
 "source_page": "612 (PDF p.613)",
 "source_title": "Toyota Hilux 2020-2026 ספר רכב (Union Motors file 694)",
-"source_url": "https://books.union-motors.co.il/app/api/files/694/download"
+"source_url": "https://books.union-motors.co.il/app/api/files/694/download",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Toyota Hilux [N12,N13] 06.15→: AR552S (550/400 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-LC150-1GD-A": {
 "brake_light": "",
@@ -4858,8 +5268,8 @@
 "T-RAV4-HV-A": {
 "brake_light": "",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "",
 "headlight_low": "",
 "notes": "Headlamps and brake lamps are not in the bulb table (LED, dealer replacement). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
@@ -4885,10 +5295,14 @@
 "type": "5W נורת בסיס יתד שקופה"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 300,
 "source_page": "448 (PDF p.449)",
 "source_title": "Toyota RAV4 Hybrid 2019-2021 ספר רכב (Union Motors file 638)",
-"source_url": "https://books.union-motors.co.il/app/api/files/638/download"
+"source_url": "https://books.union-motors.co.il/app/api/files/638/download",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Toyota RAV4 [A5] 11.18→: AR653S (650/400 mm) + rear H307 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-RAV4-XA40-3ZR": {
 "brake_light": "21/5W נורת בסיס טריז שקופה (קוד ECE לא מודפס)",
@@ -5323,5 +5737,751 @@
 "source_title": "Toyota Land Cruiser 2020-2026 ספר רכב (Union Motors file 669)",
 "source_url": "https://books.union-motors.co.il/app/api/files/669/download"
 },
-"__models": []
+"TM-RAV4-HV-23": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Toyota RAV4 [A5] 11.18→: AR653S (650/400 mm) + rear H307 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"TS-M3-1723": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "Bosch 2023: Tesla Model 3 09.16→: A102S (650/475 mm); no rear wiper. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"__models": [],
+"__wiper_models": [
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 340,
+"notes": "Bosch 2023: Toyota Corolla Hatchback & Touring Sports [E21] 01.19→: AR705S (700/340 mm) + rear H309 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 300,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(TOYOTA )?COROLLA(?! ?CROSS).*(TS|SW|HB)",
+"tozeret_cd": [
+430
+],
+"year_from": 2019,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 340,
+"notes": "Bosch 2023: Toyota Corolla [E21] 01.19→: AR705S (700/340 mm) (sedan; rear only where kinuy marks HB/TS). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(TOYOTA )?COROLLA(?! ?CROSS)",
+"tozeret_cd": [
+413,
+430,
+839
+],
+"year_from": 2019,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: Toyota Corolla [E12] sedan 08.00-08.08: AR728S (550/475 mm); RUNX hatch skipped (two conflicting Bosch fitments). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^COROLLA$",
+"tozeret_cd": [
+413,
+839
+],
+"year_from": 2002,
+"year_to": 2007
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Mazda 3 Hatchback [BK] 07.03-12.08: AR531S (530/450 mm) + rear H351 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 350,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^MAZDA ?3[- ]?SPORT",
+"tozeret_cd": [
+588
+],
+"year_from": 2004,
+"year_to": 2008
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: Mazda 3 Hatchback [BL] 12.08-12.13: AR607S (600/475 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 350,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^MAZDA ?3[- ]?SPORT",
+"tozeret_cd": [
+588
+],
+"year_from": 2010,
+"year_to": 2013
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Mazda 3 [BK] 07.03-12.08: AR531S (530/450 mm); body unknown → rear omitted; model-year 2009 skipped (BK/BL overlap). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^MAZDA ?3$",
+"tozeret_cd": [
+588
+],
+"year_from": 2004,
+"year_to": 2008
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: Mazda 3 [BL] 12.08-12.13: AR607S (600/475 mm); body unknown → rear omitted. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^MAZDA ?3$",
+"tozeret_cd": [
+588
+],
+"year_from": 2010,
+"year_to": 2013
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: Skoda Octavia [1Z] 05.04-06.13 liftback & Combi: A936S (600/475 mm) + rear A400H (400 mm); 2013 skipped (1Z/5E overlap). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 400,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^OCTAVIA$",
+"tozeret_cd": [
+676
+],
+"year_from": 2005,
+"year_to": 2012
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: Skoda Octavia [5E] 11.12→: A620S (600/475 mm); rear omitted (liftback 400 / Combi 380); 2020 skipped (5E/NX overlap). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(NEW )?OCTAVIA$",
+"tozeret_cd": [
+676
+],
+"year_from": 2014,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: Skoda Octavia [NX] 01.20→: A102S (650/475 mm); rear omitted (liftback none listed / Combi 330). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^OCTAVIA( FL)?$",
+"tozeret_cd": [
+676
+],
+"year_from": 2021,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 530,
+"notes": "Bosch 2023: Skoda Fabia [5J] 12.06-12.14: A051S (530/530 mm); rear omitted (hatch/Combi differ). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^FABIA$",
+"tozeret_cd": [
+676
+],
+"year_from": 2008,
+"year_to": 2012
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "Bosch 2023: Skoda Fabia [NJ] 08.14→: A138S (600/400 mm); rear omitted (hatch 330 / Combi 400). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^FABIA$",
+"tozeret_cd": [
+676
+],
+"year_from": 2015,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Skoda Fabia [PJ] 06.21→: A863S (650/450 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^FABIA$",
+"tozeret_cd": [
+676
+],
+"year_from": 2022,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 530,
+"notes": "Bosch 2023: Skoda Kodiaq [NS7] 02.17→: A862S (600/530 mm); rear omitted (330 pre-05.21, unlisted after). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^KODIAQ( FL)?$",
+"tozeret_cd": [
+676
+],
+"year_from": 2017,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "Bosch 2023: Skoda Rapid [NH3] 07.12-12.19 & Spaceback: 600/400 mm (AR601S / A555S) + rear A403H (400 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 400,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^RAPID",
+"tozeret_cd": [
+676
+],
+"year_from": 2013,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Skoda Kamiq [NW4] 07.19→: A863S (650/450 mm) + rear A331H (330 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 330,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^KAMIQ( FL)?$",
+"tozeret_cd": [
+676
+],
+"year_from": 2020,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Skoda Karoq [NU7] 07.17→: A863S (650/450 mm) + rear A331H (330 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 330,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^KAROQ( FL)?$",
+"tozeret_cd": [
+676
+],
+"year_from": 2018,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Skoda Superb [3V] 05.15→ liftback & Combi: A863S (650/450 mm) + rear A403H (400 mm); 2015 skipped (3T/3V overlap). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 400,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(NEW )?SUPERB( FL)?$",
+"tozeret_cd": [
+676
+],
+"year_from": 2016,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Skoda Superb [3T] 03.08-05.15: A187S (600/450 mm); rear omitted (sedan none / Combi 400). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^SUPERB$",
+"tozeret_cd": [
+676
+],
+"year_from": 2009,
+"year_to": 2014
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Skoda Scala [NW1] 02.19→: A863S (650/450 mm); rear omitted (Bosch lists 400 and 330 variants). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^SCALA( FL)?$",
+"tozeret_cd": [
+676
+],
+"year_from": 2019,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: Skoda Yeti [5L7] 05.09-12.17: A979S (600/475 mm) + rear A282H (280 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 280,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^YETI$",
+"tozeret_cd": [
+676
+],
+"year_from": 2010,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 530,
+"notes": "Bosch 2023: Skoda Roomster [5J7] 03.06-05.15: A051S (530/530 mm) + rear 330 mm (A330H/A331H). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 330,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^ROOMSTER$",
+"tozeret_cd": [
+676
+],
+"year_from": 2007,
+"year_to": 2015
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "Bosch 2023: Seat Ibiza [6J] 02.08-05.17: A295S (600/400 mm); rear omitted (5d/SC/ST differ). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^IBIZA$",
+"tozeret_cd": [
+778
+],
+"year_from": 2010,
+"year_to": 2016
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "Bosch 2023: Seat Ibiza [KJ1] 01.17→: A945S (650/400 mm) + rear A331H (330 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 330,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^IBIZA$",
+"tozeret_cd": [
+778
+],
+"year_from": 2018,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Seat Arona [KJ7] 07.17→: A863S (650/450 mm) + rear A251H (250 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 250,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^ARONA$",
+"tozeret_cd": [
+778
+],
+"year_from": 2018,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "Bosch 2023: Seat Leon III [5F] 09.12-2020: A945S (650/400 mm); rear omitted (5d 330 / SC 380 / ST 330). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^LEON$",
+"tozeret_cd": [
+778
+],
+"year_from": 2014,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Seat Leon IV [KL] 05.20→ 5d & ST: A863S (650/450 mm) + rear A332H (330 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 330,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^LEON$",
+"tozeret_cd": [
+778
+],
+"year_from": 2021,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: Seat Ateca [KH7] 04.16→: A863S (650/450 mm) + rear A282H (280 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 280,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^ATECA$",
+"tozeret_cd": [
+423,
+778
+],
+"year_from": 2017,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: VW Golf V [1K] 10.03-11.08 hatch & Variant: A936S/A979S (600/475 mm) + rear A330H (330 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 330,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^GOLF$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2006,
+"year_to": 2008
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: VW Golf VI [5K] 10.08-11.12: A979S (600/475 mm); rear omitted (hatch 280 / Variant 330). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^GOLF$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2009,
+"year_to": 2012
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: VW Golf VII [5G] 08.12→ hatch & Variant: A863S (650/450 mm) + rear A282H (280 mm); 2013 skipped. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 280,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^GOLF$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2014,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: VW Golf VIII [CD] 10.19→: A863S (650/450 mm); rear omitted (hatch 250 / Variant n/a). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^GOLF$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2021,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "Bosch 2023: VW Polo [6R] 06.09→: A555S (600/400 mm); rear omitted (hatch/sedan). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^POLO$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2010,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: VW Polo [AW1] 06.17→: A863S (650/450 mm) + rear A282H (280 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 280,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^POLO$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2018,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: VW Jetta [162/163/AV2] 02.11→: A620S (600/475 mm); sedan. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^JETTA$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2012,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: VW Jetta [1K2] 12.05-10.10: A979S (600/475 mm); sedan. LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^JETTA$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2007,
+"year_to": 2010
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 530,
+"notes": "Bosch 2023: VW Tiguan [5N] 11.07-08.17: A430S/A966S (600/530 mm); rear omitted (two Bosch variants). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^TIGUAN$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2008,
+"year_to": 2015
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 625,
+"front_wipers_passenger_mm": 550,
+"notes": "Bosch 2023: VW Tiguan [AD1/BT1/AX1] 01.16→: A244S (625/550 mm) + rear A383H (380 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 380,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^TIGUAN$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2017,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"notes": "Bosch 2023: VW Passat [3G/CB] 08.14→: A102S (650/475 mm); rear omitted (sedan none / Variant 330). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": "",
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^PASSAT$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2015,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 625,
+"front_wipers_passenger_mm": 450,
+"notes": "Bosch 2023: VW T-Cross [C11] 12.18→: A318S (625/450 mm) + rear A251H (250 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
+"rear_wiper_mm": 250,
+"source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^T-CROSS$",
+"tozeret_cd": [
+724,
+727,
+715
+],
+"year_from": 2019,
+"year_to": 2026
+}
+]
 }
