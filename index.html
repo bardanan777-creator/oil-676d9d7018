@@ -104,7 +104,7 @@ const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json',{cache:'force-cache'})).json(); } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json',{cache:'force-cache'})).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
@@ -129,9 +129,9 @@ function clean(x){let t=String(x);for(const [j,h] of JW)t=t.split(j).join(' '+h+
  for(let i=0;i<3;i++)t=t.replace(/\(\s*[,:;=\/·\-]*\s*\)/g,'').replace(/\[\s*\]/g,'').replace(/\s*=\s*(?=[),;]|$)/g,'').replace(/(^|[;\/,:])\s*[,:;\/=]+/g,'$1');
  t=t.replace(/\(\s*[,;:]\s*/g,'(').replace(/^\s*או\s+/,'').replace(/([^\s(])\(/g,'$1 (').replace(/\)(?=[^\s,;:)\]])/g,') ').replace(/\s+([,;:)])/g,'$1').replace(/\(\s+/g,'(').replace(/\s{2,}/g,' ').replace(/^[\s,;:\/=·\-]+|[\s,;:\/=·(]+$/g,'').trim();return t;}
 const src=x=>'<details class="src"><summary>טקסט מקור</summary><div dir="auto">'+esc(x)+'</div></details>';
-let ROW=null;
+let ROW=null,BW={};
 const hv=f=>{const H=ROW&&ROW.H||{};return H[f];};
-const tx=(f,x)=>{x=x===undefined?ROW[f]:x;if(!x)return MISS;const h=hv(f);if(h)return esc(clean(h))+src(x);return val(x);};
+const tx=(f,x)=>{x=x===undefined?ROW[f]:x;if(!x)return MISS;const h=hv(f);if(h)return esc(clean(h))+src(x);if(h==='')return '<span class="mut">ראו טקסט מקור</span>'+src(x);return val(x);};
 const txl=f=>{const x=ROW[f];if(!x)return '<span class="miss">אין כמות</span>';const h=hv(f);if(!h)return lit(x);const c=clean(h);return (/\d/.test(c)?'<span class="liters">'+esc(c)+'</span>':'<span class="mut">ראו טקסט מקור</span>')+src(x);};
 const val=x=>{if(!x)return MISS;if(!CJK.test(x))return esc(x);const c=clean(x);return (c?esc(c):'<span class="mut">ראו טקסט מקור</span>')+src(x);};
 const lit=x=>{if(!x)return '<span class="miss">אין כמות</span>';const j=CJK.test(x),c=j?clean(x):x;const pill=/\d/.test(c)?'<span class="liters">'+esc(c)+(/[לL]/.test(c)?'':' ל׳')+'</span>':'<span class="mut">ראו טקסט מקור</span>';return pill+(j?src(x):'');};
@@ -155,7 +155,7 @@ function qstrip(r){const [p,l,c]=conf(r);return '<div class="qs" style="--qc:'+c
 function confTop(r){const [p,l,c,t]=conf(r);return '<div class="card conf" style="--qc:'+c+'"><div class="cbig"><span class="cbadge">'+l+'</span><span class="cpct">אמינות משוערת: '+p+'%</span></div><div class="ctxt">'+t+'</div><div class="cnote">האחוז הוא הערכה פנימית לפי סוג המקור ואופן ההתאמה לרכב – לא דיוק שנמדד בפועל.</div>'+qstrip(r)+'</div>';}
 const SW=[[/green|ירוק|緑|vihr/i,'#3fbf5f'],[/pink|ורוד|ピンク/i,'#f08cc0'],[/purple|violet|סגול|紫/i,'#a064e0'],[/red|אדום|赤|punai/i,'#e04848'],[/orange|כתום|オレンジ/i,'#f08a2a'],[/yellow|צהוב|黄/i,'#f0d040'],[/blue|כחול|青|sini/i,'#3f7fe0']];
 function swatch(c){const m=SW.filter(([re])=>re.test(c));return m.map(([,h])=>'<span class="sw" style="background:'+h+'"></span>').join('');}
-const IC={"eng": "<path d=\"M4 10h3l2-3h6v3h3l2 2v5h-2v2h-4l-2-2H9l-1 2H4z\"/><path d=\"M11 7V4h4\"/>", "gear": "<circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1 7 17M17 7l2.1-2.1\"/>", "diff": "<circle cx=\"12\" cy=\"12\" r=\"7\"/><circle cx=\"12\" cy=\"12\" r=\"2.5\"/><path d=\"M2 12h3M19 12h3\"/>", "tc": "<rect x=\"7\" y=\"7\" width=\"10\" height=\"10\" rx=\"2\"/><path d=\"M2 9h5M2 15h5M17 12h5M12 2v5M12 17v5\"/>", "cool": "<path d=\"M12 3v11\"/><circle cx=\"12\" cy=\"17\" r=\"3.5\"/><path d=\"M8 20c-3 0-4-2-4-2M16 20c3 0 4-2 4-2M15 6h2M15 10h2\"/>", "brake": "<circle cx=\"12\" cy=\"12\" r=\"8\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M5 6a9 9 0 0 0 0 12M19 6a9 9 0 0 1 0 12\"/>", "ps": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M3.5 10h6.5M14 10h6.5M12 14v7\"/>"};
+const IC={"bulb":"<path d=\"M9 18h6M10 21h4\"/><path d=\"M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z\"/>","wiper":"<path d=\"M12 20 4 6\"/><path d=\"M3 20h18\"/><path d=\"M4 6c4-2 10-2 16 2\"/>","eng": "<path d=\"M4 10h3l2-3h6v3h3l2 2v5h-2v2h-4l-2-2H9l-1 2H4z\"/><path d=\"M11 7V4h4\"/>", "gear": "<circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1 7 17M17 7l2.1-2.1\"/>", "diff": "<circle cx=\"12\" cy=\"12\" r=\"7\"/><circle cx=\"12\" cy=\"12\" r=\"2.5\"/><path d=\"M2 12h3M19 12h3\"/>", "tc": "<rect x=\"7\" y=\"7\" width=\"10\" height=\"10\" rx=\"2\"/><path d=\"M2 9h5M2 15h5M17 12h5M12 2v5M12 17v5\"/>", "cool": "<path d=\"M12 3v11\"/><circle cx=\"12\" cy=\"17\" r=\"3.5\"/><path d=\"M8 20c-3 0-4-2-4-2M16 20c3 0 4-2 4-2M15 6h2M15 10h2\"/>", "brake": "<circle cx=\"12\" cy=\"12\" r=\"8\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M5 6a9 9 0 0 0 0 12M19 6a9 9 0 0 1 0 12\"/>", "ps": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M3.5 10h6.5M14 10h6.5M12 14v7\"/>"};
 function cat(title,body,k,w){return '<div class="card cat'+(w?' wide':'')+'"><h2><span class="ic"><svg viewBox="0 0 24 24">'+IC[k]+'</svg></span>'+title+'</h2>'+body+(body.indexOf('class="empty"')<0?qstrip(ROW):'')+'</div>';}
 function render(v,pi,matches){
   let h='<div class="card"><div class="veh">'+
@@ -187,6 +187,16 @@ function render(v,pi,matches){
     C('נוזל בלמים', bb?bb+lk(L.brake):'','brake');
     const pb=F('סוג/תקן','power_steering_fluid');
     C('נוזל הגה', pb?pb+lk(L.ps):'','ps');
+    {const b=BW[m.id],sv=ROW;const E=x=>x!=null&&String(x).trim()!=='';
+     const EM='<div class="empty">אין נתון בקטלוג</div>';
+     if(b){ROW=Object.assign({row_id:m.id,source_pdf_page:b.source_page},b);}
+     const bl=b?(E(b.headlight_low)?kv('פנס ראשי – אור נמוך','<b>'+esc(b.headlight_low)+'</b>'):'')+(E(b.headlight_high)?kv('פנס ראשי – אור גבוה','<b>'+esc(b.headlight_high)+'</b>'):'')+(E(b.brake_light)?kv('אור בלימה','<b>'+esc(b.brake_light)+'</b>'):'')+
+       (Array.isArray(b.other_bulbs)?b.other_bulbs.filter(o=>o&&E(o.type)).map(o=>kv(esc(o.position||'נורה נוספת'),'<b>'+esc(o.type)+'</b>')).join(''):''):'';
+     h+=cat('נורות',bl||EM,'bulb');
+     const mm=x=>'<b>'+esc(x)+'</b> מ״מ';
+     const wb=b?(E(b.front_wipers_driver_mm)?kv('מגב קדמי – נהג',mm(b.front_wipers_driver_mm)):'')+(E(b.front_wipers_passenger_mm)?kv('מגב קדמי – נוסע',mm(b.front_wipers_passenger_mm)):'')+(E(b.rear_wiper_mm)?kv('מגב אחורי',mm(b.rear_wiper_mm)):''):'';
+     h+=cat('מגבים',wb||EM,'wiper');
+     ROW=sv;}
     h+='</div>';
     h+='<div class="card meta">רמת ביטחון: <b>'+conf(r)[1]+'</b><br>מקור: '+(r.source_url?'<a href="'+esc(r.source_url)+'" target="_blank" rel="noopener">'+srcName(r)+'</a>':srcName(r))+(/^[\d\s,.\-–]+$/.test(r.source_pdf_page||'')?' (עמ׳ '+esc(r.source_pdf_page)+')':'')+(r.source_title&&!/[\u0590-\u05ff]/.test(r.source_title)?src(r.source_title):'')+
        (r.region_condition?'<br>תנאי אזור: '+tx('region_condition'):'')+(r.notes?'<details><summary>הערות מהקטלוג</summary>'+tx('notes')+'</details>':'')+'</div>';
