@@ -2881,5 +2881,1405 @@
 "source_title": "Kia Stonic Facelift 2021 ספר רכב (Kia Israel) – הספקי נורות",
 "source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Stonic_Facelift_2021.pdf"
 },
+"MI-ASX-4B11": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "20MY book lists headlamps and stop lamps as LED; earlier ASX years may differ. Official Mitsubishi Motors UK manual (European edition, not the Israeli book). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות צד בכנף",
+"type": "5W (סוג לא מודפס)"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "WY21W 21W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס בלימה גבוה / נסיעה לאחור",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-24 (PDF p.392)",
+"source_title": "Mitsubishi ASX 20MY Owner's Manual OGAE20E1 (UK)",
+"source_url": "https://mitsubishi-motors.co.uk/wp-content/uploads/2026/02/20MY-ASX-Owners-Manual.pdf"
+},
+"MI-ECLIPSE-4B40": {
+"brake_light": "LED (פנסי בלימה: −)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (הלוגן); LED",
+"headlight_low": "HIR2 55W (הלוגן); LED",
+"notes": "Book prints a single \"Headlamps Halogen: 55 W (HIR2)\" line. Official Mitsubishi Motors UK manual (European edition, not the Israeli book). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H8 35W"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "WY21W 21W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "W21W 21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-26 (PDF p.482)",
+"source_title": "Mitsubishi Eclipse Cross 20MY Owner's Manual OGKE20E1 (UK)",
+"source_url": "https://mitsubishi-motors.co.uk/wp-content/uploads/2026/02/20MY-Eclipse-Cross-Owners-Manual.pdf"
+},
+"MI-OUT-GF-4J11": {
+"brake_light": "LED (פנסי בלימה: −, לא ניתן להחלפה)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (הלוגן); LED",
+"headlight_low": "H7 55W (הלוגן); LED",
+"notes": "Official Mitsubishi Motors UK manual (European edition, not the Israeli book). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי ערפל קדמיים (הלוגן)",
+"type": "H16 19W"
+},
+{
+"position": "איתות צד בכנף",
+"type": "5W (סוג לא מודפס)"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "WY21W 21W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "W21W 21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-26 (PDF p.480)",
+"source_title": "Mitsubishi Outlander 20MY Petrol Owner's Manual OGFE20E1 (UK)",
+"source_url": "https://mitsubishi-motors.co.uk/wp-content/uploads/2026/02/20MY-Outlander-Petrol-Owners-Manual_compressed.pdf"
+},
+"MI-SPACESTAR-3A92": {
+"brake_light": "P21/5W 21/5W (Type A); LED (Type B)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (Type A הלוגן); D5S 25W (Type B קסנון)",
+"headlight_low": "H4 60/55W (Type A הלוגן); D5S 25W (Type B קסנון)",
+"notes": "Headlamp row prints one H4 bulb for low+high. Official Mitsubishi Motors UK manual (European edition, not the Israeli book). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W (Type A)"
+},
+{
+"position": "אורות יום",
+"type": "P13W 13W"
+},
+{
+"position": "פנסי ערפל קדמיים",
+"type": "H8 35W"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "P21W 21W (Type A) / PY21W 21W (Type B)"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "P21W 21W (Type A) / W16W 16W (Type B)"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "W5W 5W (סוג נורה)"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-21/10-22 (PDF p.279-280)",
+"source_title": "Mitsubishi Space Star/Mirage 19MY Owner's Manual OA0X19E2 (UK)",
+"source_url": "https://mitsubishi-motors.co.uk/wp-content/uploads/2026/02/19MY-Mirage-Owners-Manual.pdf"
+},
+"NI-JUKE-F15-HR16DE": {
+"brake_light": "P21/5W 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W",
+"notes": "Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס ערפל קדמי*",
+"type": "H8 35W"
+},
+{
+"position": "אורות יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "P18W 18W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-28 (PDF p.294)",
+"source_title": "Nissan Juke F15 Βιβλίο Οδηγιών (Nissan Greece)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/juke/Juke_F15_owners_manual_.pdf"
+},
+"NI-JUKE-F15-HR16DE-YALIAS-2020": {
+"brake_light": "P21/5W 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W",
+"notes": "Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס ערפל קדמי*",
+"type": "H8 35W"
+},
+{
+"position": "אורות יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "P18W 18W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-28 (PDF p.294)",
+"source_title": "Nissan Juke F15 Βιβλίο Οδηγιών (Nissan Greece)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/juke/Juke_F15_owners_manual_.pdf"
+},
+"NI-JUKE-F15-MR16DDT-GR": {
+"brake_light": "P21/5W 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W",
+"notes": "Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס ערפל קדמי*",
+"type": "H8 35W"
+},
+{
+"position": "אורות יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "P18W 18W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-28 (PDF p.294)",
+"source_title": "Nissan Juke F15 Βιβλίο Οδηγιών (Nissan Greece)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/juke/Juke_F15_owners_manual_.pdf"
+},
+"NI-MICRA-K13-HR12DE": {
+"brake_light": "LED* או 21/5W (סוג לא מודפס)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60W",
+"headlight_low": "H4 55W",
+"notes": "Only headlamp bulb type (H4) is printed; other lamps wattage only. Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "21W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "5W"
+},
+{
+"position": "פנס ערפל קדמי",
+"type": "55W"
+},
+{
+"position": "איתות צד",
+"type": "5W"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED* או 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-23 (PDF p.239)",
+"source_title": "Nissan Micra K13 Βιβλίο Οδηγιών (Nissan Greece)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/micra/Micra_K13_owners_manual_.pdf"
+},
+"NI-QQ-J11-HRA2DDT": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 60W; LED (אם קיים)",
+"headlight_low": "H11 55W; LED (אם קיים)",
+"notes": "Rendered page read. Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "21W"
+},
+{
+"position": "פנס צד קדמי",
+"type": "LED"
+},
+{
+"position": "פנס ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-31 (PDF p.313)",
+"source_title": "Nissan Qashqai J11 Βιβλίο Οδηγιών (Nissan Greece)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_owners_manual_.pdf"
+},
+"NI-QQ-J11-HRA2DDT-ALIAS-H5F": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 60W; LED (אם קיים)",
+"headlight_low": "H11 55W; LED (אם קיים)",
+"notes": "Rendered page read. Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "21W"
+},
+{
+"position": "פנס צד קדמי",
+"type": "LED"
+},
+{
+"position": "פנס ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-31 (PDF p.313)",
+"source_title": "Nissan Qashqai J11 Βιβλίο Οδηγιών (Nissan Greece)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_owners_manual_.pdf"
+},
+"NI-QQ-J11-HRA2DDT-CALIAS-QASHQAI-2014-x180": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 60W; LED (אם קיים)",
+"headlight_low": "H11 55W; LED (אם קיים)",
+"notes": "Rendered page read. Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "21W"
+},
+{
+"position": "פנס צד קדמי",
+"type": "LED"
+},
+{
+"position": "פנס ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-31 (PDF p.313)",
+"source_title": "Nissan Qashqai J11 Βιβλίο Οδηγιών (Nissan Greece)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_owners_manual_.pdf"
+},
+"NI-QQ-J11-K9K": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 60W; LED (אם קיים)",
+"headlight_low": "H11 55W; LED (אם קיים)",
+"notes": "Rendered page read. Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "21W"
+},
+{
+"position": "פנס צד קדמי",
+"type": "LED"
+},
+{
+"position": "פנס ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-31 (PDF p.313)",
+"source_title": "Nissan Qashqai J11 Βιβλίο Οδηγιών (Nissan Greece)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_owners_manual_.pdf"
+},
+"NI-QQ-J11-R9M": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 60W; LED (אם קיים)",
+"headlight_low": "H11 55W; LED (אם קיים)",
+"notes": "Rendered page read. Official Nissan Greece manual (Greek). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי",
+"type": "21W"
+},
+{
+"position": "פנס צד קדמי",
+"type": "LED"
+},
+{
+"position": "פנס ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס איתות אחורי",
+"type": "21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-31 (PDF p.313)",
+"source_title": "Nissan Qashqai J11 Βιβλίο Οδηγιών (Nissan Greece)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_owners_manual_.pdf"
+},
+"SZ-ALTO-GF-K10B": {
+"brake_light": "P21/5W 12V 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 12V 60/55W",
+"headlight_low": "H4 12V 60/55W",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-3 (PDF p.208)",
+"source_title": "Suzuki ALTO Instrukcja obsługi (suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/ALTO/ALTO.pdf"
+},
+"SZ-BALENO-K12C": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 12V 60/55W (הלוגן); D8S 12V 25W (קסנון)",
+"headlight_low": "H4 12V 60/55W (הלוגן); D8S 12V 25W (קסנון)",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה (הלוגן)",
+"type": "W5W 5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות צד בכנף",
+"type": "WY5W 5W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-3 (PDF p.440)",
+"source_title": "Suzuki BALENO Instrukcja obsługi (suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/BALENO/BALENO.pdf"
+},
+"SZ-SCROSS-JY-M16A-16": {
+"brake_light": "P21/5W 12V 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 12V 60/55W (הלוגן); D4S 12V 35W (קסנון)",
+"headlight_low": "H4 12V 60/55W (הלוגן); D4S 12V 35W (קסנון)",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנס חניה/אור יום קדמי",
+"type": "W21/5W 21/5W; LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "5W / LED"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "W5W 5W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-3 (PDF p.461)",
+"source_title": "Suzuki SX4 S-CROSS Instrukcja obsługi 99999-SD-72 (06/2016, suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SCROSS/SX4%20S-CROSS%202016.pdf"
+},
+"SZ-SCROSS-JYF-K10C": {
+"brake_light": "P21/5W 12V 21/5W; LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 12V 55W (הלוגן); LED",
+"headlight_low": "H11 12V 55W (הלוגן); LED",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H8 35W / H11 55W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W / LED"
+},
+{
+"position": "אורות יום",
+"type": "P13W 13W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "W5W 5W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-4 (PDF p.448)",
+"source_title": "Suzuki SX4 S-CROSS Instrukcja obsługi 99999-SD-74 (suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SCROSS/SX4%20S-CROSS%202019.pdf"
+},
+"SZ-SCROSS-JYF-K14C": {
+"brake_light": "P21/5W 12V 21/5W; LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 12V 55W (הלוגן); LED",
+"headlight_low": "H11 12V 55W (הלוגן); LED",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H8 35W / H11 55W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W / LED"
+},
+{
+"position": "אורות יום",
+"type": "P13W 13W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "W5W 5W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-4 (PDF p.448)",
+"source_title": "Suzuki SX4 S-CROSS Instrukcja obsługi 99999-SD-74 (suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SCROSS/SX4%20S-CROSS%202019.pdf"
+},
+"SZ-SCROSS-JYF-M16A": {
+"brake_light": "P21/5W 12V 21/5W; LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 12V 55W (הלוגן); LED",
+"headlight_low": "H11 12V 55W (הלוגן); LED",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H8 35W / H11 55W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W / LED"
+},
+{
+"position": "אורות יום",
+"type": "P13W 13W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "W5W 5W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-4 (PDF p.448)",
+"source_title": "Suzuki SX4 S-CROSS Instrukcja obsługi 99999-SD-74 (suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SCROSS/SX4%20S-CROSS%202019.pdf"
+},
+"SZ-SCROSS-YI-K14D": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H16 19W (למעט K15C) / LED (K15C)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W / LED"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "12-6 (PDF p.573)",
+"source_title": "Suzuki S-CROSS Instrukcja obsługi 99011-63TB0-01PL (06/2022, suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SCROSS/NEW%20SX4%20S-CROSS%202022.pdf"
+},
+"SZ-SWIFT-AZ-K12C": {
+"brake_light": "W21/5W 12V 21/5W; LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 12V 60/55W (הלוגן); LED",
+"headlight_low": "H4 12V 60/55W (הלוגן); LED",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W / LED"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-4 (PDF p.530)",
+"source_title": "Suzuki SWIFT Instrukcja obsługi 99999-SD-308 (2021, suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SWIFT/SWIFT%202021.pdf"
+},
+"SZ-SWIFT-AZ-K12D": {
+"brake_light": "W21/5W 12V 21/5W; LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 12V 60/55W (הלוגן); LED",
+"headlight_low": "H4 12V 60/55W (הלוגן); LED",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W / LED"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-4 (PDF p.530)",
+"source_title": "Suzuki SWIFT Instrukcja obsługi 99999-SD-308 (2021, suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SWIFT/SWIFT%202021.pdf"
+},
+"SZ-SX4-GY-M16A": {
+"brake_light": "P21/5W 12V 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 12V 60/55W",
+"headlight_low": "H4 12V 60/55W",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "12-3 (PDF p.249)",
+"source_title": "Suzuki SX4 Instrukcja obsługi 99999-SD-53 (11/2010, suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SX4/SX4%202010.pdf"
+},
+"SZ-SX4-K12BREG-2013": {
+"brake_light": "P21/5W 12V 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 12V 60/55W",
+"headlight_low": "H4 12V 60/55W",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "12-3 (PDF p.249)",
+"source_title": "Suzuki SX4 Instrukcja obsługi 99999-SD-53 (11/2010, suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SX4/SX4%202010.pdf"
+},
+"SZ-VIT-LY-K14C": {
+"brake_light": "P21/5W 12V 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 12V 60W",
+"headlight_low": "H11 12V 55W; LED (עם הדלקה אוטומטית)",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W / H8 35W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "אורות יום",
+"type": "P13W 13W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W / LED"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-3 (PDF p.449)",
+"source_title": "Suzuki VITARA Instrukcja obsługi 99999-SD-93 (suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/VITARA/VITARA%202017.pdf"
+},
+"SZ-VIT-LY-K14D": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 12V 60W (הלוגן); LED",
+"headlight_low": "H11 12V 55W (הלוגן); LED",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W / H8 35W; LED (K15C)"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W; LED (K14D/K15C)"
+},
+{
+"position": "אורות יום",
+"type": "P13W 13W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W / LED"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W / LED"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-5 (PDF p.575)",
+"source_title": "Suzuki VITARA Instrukcja obsługi (2021 ed., suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/VITARA/VITARA%202021.pdf"
+},
+"SZ-VIT-LY-K15C-VITARA": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 12V 60W (הלוגן); LED",
+"headlight_low": "H11 12V 55W (הלוגן); LED",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W / H8 35W; LED (K15C)"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W; LED (K14D/K15C)"
+},
+{
+"position": "אורות יום",
+"type": "P13W 13W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W / LED"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W / LED"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-5 (PDF p.575)",
+"source_title": "Suzuki VITARA Instrukcja obsługi (2021 ed., suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/VITARA/VITARA%202021.pdf"
+},
+"SZ-VIT-LY-M16A": {
+"brake_light": "P21/5W 12V 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 12V 60W",
+"headlight_low": "H11 12V 55W; LED (עם הדלקה אוטומטית)",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W / H8 35W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "אורות יום",
+"type": "P13W 13W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W / LED"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-3 (PDF p.449)",
+"source_title": "Suzuki VITARA Instrukcja obsługi 99999-SD-93 (suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/VITARA/VITARA%202017.pdf"
+},
 "__models": []
 }
