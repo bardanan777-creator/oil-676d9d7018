@@ -1281,8 +1281,8 @@
 "H-I10-PA-11-UK": {
 "brake_light": "21/5 W (Stop and tail; type not printed)",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "60/55 W (High/Low; bulb type not printed)",
 "headlight_low": "60/55 W (High/Low; bulb type not printed)",
 "notes": "Official UK edition prints wattages only. Wipers not printed.",
@@ -1315,13 +1315,17 @@
 "rear_wiper_mm": "",
 "source_page": "9-2 (PDF p.278)",
 "source_title": "Hyundai i10 (PA) Owner's Manual (UK, Hyundai Motor India)",
-"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/i10+PA+Combinedpdf"
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/i10+PA+Combinedpdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Hyundai i10 [PA] 2008-2013. קדמיים 550/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג Valeo 2024-25 (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
+"wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג Valeo 2024-25",
+"wiper_source_url": "https://www.valeoservice.com"
 },
 "H-I10-PA-12-UK": {
 "brake_light": "21/5 W (Stop and tail; type not printed)",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "60/55 W (High/Low; bulb type not printed)",
 "headlight_low": "60/55 W (High/Low; bulb type not printed)",
 "notes": "Official UK edition prints wattages only. Wipers not printed.",
@@ -1354,7 +1358,11 @@
 "rear_wiper_mm": "",
 "source_page": "9-2 (PDF p.278)",
 "source_title": "Hyundai i10 (PA) Owner's Manual (UK, Hyundai Motor India)",
-"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/i10+PA+Combinedpdf"
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/i10+PA+Combinedpdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Hyundai i10 [PA] 2008-2013. קדמיים 550/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג Valeo 2024-25 (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
+"wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג Valeo 2024-25",
+"wiper_source_url": "https://www.valeoservice.com"
 },
 "H-I20-GB-G125-UK": {
 "brake_light": "",
@@ -15696,6 +15704,637 @@
 ],
 "year_from": 2010,
 "year_to": 2015
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Mazda 5 [CR/CW] 2005-2015. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": 300,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^MAZDA 5$",
+"tozeret_cd": [
+588
+],
+"year_from": 2006,
+"year_to": 2016
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Mazda 6 [GH] 2008-2012. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^MAZDA 6$",
+"tozeret_cd": [
+588
+],
+"year_from": 2009,
+"year_to": 2012
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": "",
+"notes": "דגם לפי Bosch 2023: Mazda 6 [GG] 2002-2007. קדמיים 550/— מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. רק מגב הנהג – הנוסע הושמט: סתירה בין Bosch (475) ל-Valeo (450). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^MAZDA 6$",
+"tozeret_cd": [
+588
+],
+"year_from": 2003,
+"year_to": 2006
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Toyota Avensis [T27] 2008-2018. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^AVENSIS$",
+"tozeret_cd": [
+430
+],
+"year_from": 2009,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 300,
+"notes": "דגם לפי Bosch 2023: Renault Clio V [BF] 2019→. קדמיים 700/300 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. Bosch A981S ‏(700/300) + קטלוג OXIMO (פולין, יישומים אירופיים) – מידות תואמות.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^CLIO$",
+"tozeret_cd": [
+771
+],
+"year_from": 2020,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: Seat Ibiza IV [6J] 2008-2017. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^IBIZA$",
+"tozeret_cd": [
+778
+],
+"year_from": 2009,
+"year_to": 2009
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 650,
+"notes": "דגם לפי Bosch 2023: Seat Leon II [1P] 2005-2012. קדמיים 650/650 מ״מ, אחורי 280 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": 280,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^LEON$",
+"tozeret_cd": [
+778
+],
+"year_from": 2006,
+"year_to": 2012
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם לפי Bosch 2023: Seat Ateca [KH7] 2016→. קדמיים 650/450 מ״מ, אחורי 280 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": 280,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(ATECA STYLE|ATECA|CUPRA ATECA)$",
+"tozeret_cd": [
+423,
+778
+],
+"year_from": 2017,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": "",
+"notes": "דגם לפי Bosch 2023: Cupra Formentor [KM7] 2020→. קדמיים 650/— מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. רק מגב הנהג – הנוסע הושמט: סתירה בין Bosch (450) ל-Valeo (430). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^FORMENTOR",
+"tozeret_cd": [
+1583
+],
+"year_from": 2021,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": "",
+"notes": "דגם לפי Bosch 2023: Seat Arona [KJ7] 2017→. קדמיים 650/— מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. רק מגב הנהג – מגב הנוסע אינו תואם בין המקורות. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^ARONA$",
+"tozeret_cd": [
+778
+],
+"year_from": 2018,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם לפי Bosch 2023: Seat/Cupra Leon IV [KL1] 2020→. קדמיים 650/450 מ״מ, אחורי 330 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": 330,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^LEON$",
+"tozeret_cd": [
+778
+],
+"year_from": 2021,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: VW Passat B6/B7 2005-2014. קדמיים 600/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^PASSAT$",
+"tozeret_cd": [
+724
+],
+"year_from": 2006,
+"year_to": 2014
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": "",
+"notes": "דגם לפי Bosch 2023: VW Polo IV [9N] 2001-2009. קדמיים 530/— מ״מ, אחורי 330 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. רק מגב הנהג – הנוסע הושמט: סתירה בין Bosch (450) ל-Valeo (475). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": 330,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^POLO$",
+"tozeret_cd": [
+727
+],
+"year_from": 2004,
+"year_to": 2008
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: VW Jetta VI [1B] 2010-2018. קדמיים 600/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^JETTA$",
+"tozeret_cd": [
+715
+],
+"year_from": 2011,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם לפי Bosch 2023: VW Caddy III/IV [2K] 2010-2020. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^CADDY( MAXI| KOMBI| GP)?$",
+"tozeret_cd": [
+301
+],
+"year_from": 2011,
+"year_to": 2020
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: VW Caddy V [SB] 2020→. קדמיים 700/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^CADDY( MAXI| KOMBI| GP)?$",
+"tozeret_cd": [
+301
+],
+"year_from": 2022,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 500,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם לפי Bosch 2023: BMW 1 [E87/E81] 2004-2011. קדמיים 500/500 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^118I$",
+"tozeret_cd": [
+143
+],
+"year_from": 2007,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם לפי Bosch 2023: BMW 1 [F20/F21] 2011-2019. קדמיים 550/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": 300,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^118I$",
+"tozeret_cd": [
+143
+],
+"year_from": 2012,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 425,
+"notes": "דגם לפי Bosch 2023: BMW 1 [F40] 2019→. קדמיים 650/425 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": 350,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^118I$",
+"tozeret_cd": [
+143
+],
+"year_from": 2020,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": "",
+"notes": "דגם לפי Bosch 2023: BMW 3 [E90/E91] 2005-2012. קדמיים 600/— מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. רק מגב הנהג – מגב הנוסע משתנה לפי מרכב (475/400 מ״מ). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(318I|320I)$",
+"tozeret_cd": [
+143
+],
+"year_from": 2006,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: BMW 3 [F30/F31] 2012-2019. קדמיים 600/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(318I|320I)$",
+"tozeret_cd": [
+143
+],
+"year_from": 2013,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם לפי Bosch 2023: BMW 4 [F32/F33/F36] 2013-2020. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^420I$",
+"tozeret_cd": [
+143
+],
+"year_from": 2014,
+"year_to": 2020
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: BMW 5 [G30] 2017-2023. קדמיים 650/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^530E$",
+"tozeret_cd": [
+143
+],
+"year_from": 2018,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם לפי Bosch 2023: BMW X1 [F48] 2015-2022. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – סתירה בין Bosch (330) ל-Valeo (350). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^X1 SDRIVE18I$",
+"tozeret_cd": [
+143
+],
+"year_from": 2016,
+"year_to": 2021
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם לפי Bosch 2023: BMW X4 [G02] 2018→. קדמיים 650/500 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^X4 XDRIVE20I$",
+"tozeret_cd": [
+722
+],
+"year_from": 2019,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: Mercedes CLA [C117/C118] 2013-2025. קדמיים 600/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^CLA180$",
+"tozeret_cd": [
+152,
+593
+],
+"year_from": 2014,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: Mercedes GLA [X156] 2014-2020. קדמיים 600/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – סתירה בין Bosch (265) ל-Valeo (280-300). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^GLA200$",
+"tozeret_cd": [
+593
+],
+"year_from": 2015,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: Mercedes GLA [H247] 2020→. קדמיים 650/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – סתירה בין Bosch (330) ל-Valeo (350). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^GLA200$",
+"tozeret_cd": [
+593
+],
+"year_from": 2021,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 600,
+"notes": "דגם לפי Bosch 2023: Mercedes C [W204] 2007-2014. קדמיים 600/600 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(C180|C300)$",
+"tozeret_cd": [
+593
+],
+"year_from": 2010,
+"year_to": 2013
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 550,
+"notes": "דגם לפי Bosch 2023: Mercedes C [W205] 2014-2021. קדמיים 550/550 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^(C180|C300)$",
+"tozeret_cd": [
+593
+],
+"year_from": 2015,
+"year_to": 2020
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: Mercedes A [W176] 2012-2018. קדמיים 600/475 מ״מ, אחורי 240 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": 240,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^A180$",
+"tozeret_cd": [
+593
+],
+"year_from": 2013,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: Mercedes A [W177/V177] 2018→. קדמיים 600/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^A180$",
+"tozeret_cd": [
+593
+],
+"year_from": 2019,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם לפי Bosch 2023: Mercedes EQA [H243] 2021→. קדמיים 650/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – סתירה בין Bosch (330) ל-Valeo (350). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^EQA250$",
+"tozeret_cd": [
+593
+],
+"year_from": 2021,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 550,
+"notes": "דגם לפי Bosch 2023: Mercedes E [W213] 2016-2023. קדמיים 600/550 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^E300E$",
+"tozeret_cd": [
+593
+],
+"year_from": 2019,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 575,
+"notes": "דגם לפי Bosch 2023: Mercedes GLE [W166] 2015-2019. קדמיים 650/575 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^GLE 350D 4MATIC$",
+"tozeret_cd": [
+830
+],
+"year_from": 2016,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 550,
+"notes": "דגם לפי Bosch 2023: Mercedes GLE [V167] 2019→. קדמיים 650/550 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^GLE 350D 4MATIC$",
+"tozeret_cd": [
+830
+],
+"year_from": 2020,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם לפי Bosch 2023: Mercedes Vito [W447] 2014→. קדמיים 700/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. המגב האחורי הושמט – משתנה לפי מרכב. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^VITO$",
+"tozeret_cd": [
+806
+],
+"year_from": 2016,
+"year_to": 2025
 }
 ]
 }
