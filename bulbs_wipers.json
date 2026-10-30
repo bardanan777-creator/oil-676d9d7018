@@ -1230,6 +1230,57 @@
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"H-TUC-TL-G4FD-UK": {
+"brake_light": "21/5W (סוג A) / LED (סוג B)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W (סוג A/B) / LED (סוג C)",
+"notes": "Hyundai general export owner's manual (hyundai.com). ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור חניה",
+"type": "W5W / LED"
+},
+{
+"position": "תאורת פנייה",
+"type": "H7 / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-2 (PDF 602) Bulb wattage",
+"source_title": "Hyundai Tucson (TL) 2017 Owner's Manual, general export",
+"source_url": "https://www.hyundai.com/content/dam/hyundai/template_en/en/data/marketing/manual/tucson/2017tucson-full-version.pdf"
+},
 "H-TUC-TLE-G16": {
 "brake_light": "21/5W 21/5 (Type A, Tail/Stop); LED (Type B)",
 "confidence": "high",
@@ -1469,37 +1520,225 @@
 "source_title": "Hyundai Venue 2020-2021 ספר רכב (Colmobil)",
 "source_url": "https://res.cloudinary.com/colmobil/images/v1716388211/%D7%A1%D7%A4%D7%A8-%D7%A8%D7%9B%D7%91-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99-%D7%95%D7%99%D7%A0%D7%95-2020-2021_55382f38b/%D7%A1%D7%A4%D7%A8-%D7%A8%D7%9B%D7%91-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99-%D7%95%D7%99%D7%A0%D7%95-2020-2021_55382f38b.pdf?_i=AA"
 },
+"HG-ACC-RB-G14": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 L/L 55/60W (סוג A) / H3B L/L 60W (סוג B)",
+"headlight_low": "H4 L/L 55/60W (רפלקטור, סוג A) / H3B L/L 60W (פרויקטור, סוג B)",
+"notes": "Hyundai general export owner's manual (hyundai.com). ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור חניה",
+"type": "W5W L/L / LED"
+},
+{
+"position": "אור יום",
+"type": "H4 L/L / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "GE881 27W"
+},
+{
+"position": "ערפל אחורי",
+"type": "PR21W (4 דל') / P21W (5 דל')"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W (4 דל') / PY21W (5 דל')"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "בלם עליון",
+"type": "W16W (4 דל') / W5W L/L (5 דל')"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W L/L"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-2 (PDF 398) Bulb wattage",
+"source_title": "Hyundai Accent (RB) 2017 Owner's Manual, general export",
+"source_url": "https://www.hyundai.com/content/dam/hyundai/template_en/en/data/marketing/manual/accent/2017accent-full-version.pdf"
+},
 "HG-ACC-RB-G16": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 L/L 55/60W (סוג A) / H3B L/L 60W (סוג B)",
+"headlight_low": "H4 L/L 55/60W (רפלקטור, סוג A) / H3B L/L 60W (פרויקטור, סוג B)",
+"notes": "Hyundai general export owner's manual (hyundai.com). ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור חניה",
+"type": "W5W L/L / LED"
+},
+{
+"position": "אור יום",
+"type": "H4 L/L / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "GE881 27W"
+},
+{
+"position": "ערפל אחורי",
+"type": "PR21W (4 דל') / P21W (5 דל')"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W (4 דל') / PY21W (5 דל')"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "בלם עליון",
+"type": "W16W (4 דל') / W5W L/L (5 דל')"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W L/L"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-2 (PDF 398) Bulb wattage",
+"source_title": "Hyundai Accent (RB) 2017 Owner's Manual, general export",
+"source_url": "https://www.hyundai.com/content/dam/hyundai/template_en/en/data/marketing/manual/accent/2017accent-full-version.pdf",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Hyundai Accent [RB] 11.10→: AR653S (650/400 mm); rear omitted (sedan/hatch mixed). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"HG-ACC-RB-K14": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 L/L 55/60W (סוג A) / H3B L/L 60W (סוג B)",
+"headlight_low": "H4 L/L 55/60W (רפלקטור, סוג A) / H3B L/L 60W (פרויקטור, סוג B)",
+"notes": "Hyundai general export owner's manual (hyundai.com). ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור חניה",
+"type": "W5W L/L / LED"
+},
+{
+"position": "אור יום",
+"type": "H4 L/L / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "GE881 27W"
+},
+{
+"position": "ערפל אחורי",
+"type": "PR21W (4 דל') / P21W (5 דל')"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W (4 דל') / PY21W (5 דל')"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "בלם עליון",
+"type": "W16W (4 דל') / W5W L/L (5 דל')"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W L/L"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-2 (PDF 398) Bulb wattage",
+"source_title": "Hyundai Accent (RB) 2017 Owner's Manual, general export",
+"source_url": "https://www.hyundai.com/content/dam/hyundai/template_en/en/data/marketing/manual/accent/2017accent-full-version.pdf"
+},
 "HG-TUC-TL-G20": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21/5W (סוג A) / LED (סוג B)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W (סוג A/B) / LED (סוג C)",
+"notes": "Hyundai general export owner's manual (hyundai.com). ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור חניה",
+"type": "W5W / LED"
+},
+{
+"position": "תאורת פנייה",
+"type": "H7 / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-2 (PDF 602) Bulb wattage",
+"source_title": "Hyundai Tucson (TL) 2017 Owner's Manual, general export",
+"source_url": "https://www.hyundai.com/content/dam/hyundai/template_en/en/data/marketing/manual/tucson/2017tucson-full-version.pdf",
 "wiper_confidence": "medium",
 "wiper_notes": "Bosch 2023: Hyundai Tucson [TL] 06.15-12.20: AR653S (650/400 mm) + rear H352 (350 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
@@ -6470,6 +6709,147 @@
 "source_title": "Toyota C-HR Hybrid 2020-2023 ספר רכב (Union Motors file 742)",
 "source_url": "https://books.union-motors.co.il/app/api/files/742/download"
 },
+"T-COR-E12-3ZZ": {
+"brake_light": "21/5W (P21/5W או W21/5W לפי גרסת מרכב)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W / H7 55W (לפי גרסת מרכב)",
+"headlight_low": "H7 55W",
+"notes": "הספר מדפיס הספק וסוג בסיס; קוד ECE מודפס רק לנורות הלוגן (H7/HB3/HB4/H10). ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "HB4 51W / H10 55W (לפי גרסה)"
+},
+{
+"position": "אור חניה",
+"type": "5W טריז שקוף"
+},
+{
+"position": "איתות קדמי",
+"type": "21W כתום"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "285, 294, 303 (PDF 295/304/313) – שלוש טבלאות לפי מרכב",
+"source_title": "Toyota Corolla owner manual OM12A67T (Toyota Türkiye, 2006)",
+"source_url": "https://turkiye.toyota.com.tr/Files/KILAVUZ/COROLLA/COROLLA_OM12A67T_2006.pdf"
+},
+"T-COR-E12-3ZZ-CALIAS-3ZZ-2003": {
+"brake_light": "21/5W (P21/5W או W21/5W לפי גרסת מרכב)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W / H7 55W (לפי גרסת מרכב)",
+"headlight_low": "H7 55W",
+"notes": "הספר מדפיס הספק וסוג בסיס; קוד ECE מודפס רק לנורות הלוגן (H7/HB3/HB4/H10). ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "HB4 51W / H10 55W (לפי גרסה)"
+},
+{
+"position": "אור חניה",
+"type": "5W טריז שקוף"
+},
+{
+"position": "איתות קדמי",
+"type": "21W כתום"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "285, 294, 303 (PDF 295/304/313) – שלוש טבלאות לפי מרכב",
+"source_title": "Toyota Corolla owner manual OM12A67T (Toyota Türkiye, 2006)",
+"source_url": "https://turkiye.toyota.com.tr/Files/KILAVUZ/COROLLA/COROLLA_OM12A67T_2006.pdf"
+},
+"T-COR-E12-3ZZ-CALIAS-COROLLA-2002-x189": {
+"brake_light": "21/5W (P21/5W או W21/5W לפי גרסת מרכב)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W / H7 55W (לפי גרסת מרכב)",
+"headlight_low": "H7 55W",
+"notes": "הספר מדפיס הספק וסוג בסיס; קוד ECE מודפס רק לנורות הלוגן (H7/HB3/HB4/H10). ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "HB4 51W / H10 55W (לפי גרסה)"
+},
+{
+"position": "אור חניה",
+"type": "5W טריז שקוף"
+},
+{
+"position": "איתות קדמי",
+"type": "21W כתום"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "285, 294, 303 (PDF 295/304/313) – שלוש טבלאות לפי מרכב",
+"source_title": "Toyota Corolla owner manual OM12A67T (Toyota Türkiye, 2006)",
+"source_url": "https://turkiye.toyota.com.tr/Files/KILAVUZ/COROLLA/COROLLA_OM12A67T_2006.pdf"
+},
 "T-COR-E15-1ZR": {
 "brake_light": "21/5W נורת בסיס טריז שקופה (קוד ECE לא מודפס)",
 "confidence": "manual-verbatim",
@@ -7346,6 +7726,139 @@
 "wiper_notes": "Bosch 2023: Toyota RAV4 [A5] 11.18→: AR653S (650/400 mm) + rear H307 (300 mm). LHD/European fitment; Bosch prints mm. Single source (Bosch) – verify blade length before fitting.",
 "wiper_source_title": "Bosch Wiper Blades Catalogue 2023 (Nordic/European LHD application list)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"TM-YARIS-1NR-1117": {
+"brake_light": "21/5W נורת בסיס טריז שקופה (קוד ECE לא מודפס) (סוג נורה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (סוג מחזיר אור); HIR2 55W (סוג זרקור)",
+"headlight_low": "H4 60/55W (סוג מחזיר אור); HIR2 55W (סוג זרקור)",
+"notes": "שורת יריס ללא קוד דור: לפי שנים, מקביל לדור XP130 – אותו ספר רכב. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים/תאורה לנהיגה ביום (סוג נורה)",
+"type": "21/5W נורת טריז שקופה"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "5W נורת טריז כתומה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת צד אחד שקופה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "21W נורת טריז שקופה"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W נורת טריז שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "464 (PDF p.465)",
+"source_title": "Toyota Yaris 2014-2016 ספר רכב (Union Motors file 307)",
+"source_url": "https://books.union-motors.co.il/app/api/files/307/download"
+},
+"TM-YARIS-2NR": {
+"brake_light": "21/5W נורת בעלות שני קצוות שקופה (סוג נורה; קוד ECE לא מודפס)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (סוג מחזירור); HIR2 55W (סוג זרקור)",
+"headlight_low": "H4 60/55W (סוג מחזירור); HIR2 55W (סוג זרקור)",
+"notes": "שורת יריס ללא קוד דור: לפי שנים, מקביל לדור XP130 מתיחת פנים – אותו ספר רכב. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים/תאורה לנהיגה ביום (סוג נורה)",
+"type": "21/5W נורת טריז שקופה"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנסי איתות צדדיים",
+"type": "5W נורת טריז כתומה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W נורת טריז שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "587 (PDF p.588)",
+"source_title": "Toyota Yaris 2016-2018 ספר רכב (Union Motors file 315)",
+"source_url": "https://books.union-motors.co.il/app/api/files/315/download"
+},
+"TM-YARIS-HV-20": {
+"brake_light": "21/5W נורת קצה יחיד שקופה (סוג נורה; קוד ECE לא מודפס)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W",
+"headlight_low": "HIR2 55W",
+"notes": "שורת יריס ללא קוד דור: לפי שנים, מקביל לדור XP130 היברידי – אותו ספר רכב. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים/פנסי תאורת יום (סוג נורה)",
+"type": "21/5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנסי איתות פניה קדמיים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה צדדיים",
+"type": "5W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה אחוריים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "תאורת נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "493 (PDF p.494)",
+"source_title": "Toyota Yaris Hybrid 2019-2022 ספר רכב (Union Motors file 590)",
+"source_url": "https://books.union-motors.co.il/app/api/files/590/download"
 },
 "TS-M3-1723": {
 "brake_light": "",
