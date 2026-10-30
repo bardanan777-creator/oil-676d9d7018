@@ -82,7 +82,7 @@ button:disabled{opacity:.6}
 details summary{cursor:pointer;color:var(--gold);font-size:12px}
 footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spacing:.1em}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
-.bimgs{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}.bimg{display:inline-flex;align-items:center;gap:8px;background:#f6f9fc;border:1px solid #c9d6e2;border-radius:10px;padding:4px 10px 4px 4px;min-width:150px}.bimg svg{width:64px;height:64px;flex:0 0 64px;background:#fff;border-radius:8px}.bcap{font-size:13px;line-height:1.35;color:#223}.bcap b{font-size:15px;color:#0b2540}.nod{color:#e8a87a;font-size:13px}.nod small,.nod>small{display:block;color:var(--mut);font-size:12px;margin-top:2px}
+.bimgs{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}.bimg{display:inline-flex;align-items:center;gap:8px;background:#f6f9fc;border:1px solid #c9d6e2;border-radius:10px;padding:4px 10px 4px 4px;min-width:150px}.bimg svg{width:64px;height:64px;flex:0 0 64px;background:#fff;border-radius:8px}.bcap{font-size:13px;line-height:1.35;color:#223}.bcap b{font-size:15px;color:#0b2540}.nod{color:#e8a87a;font-size:13px}.bgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(86px,1fr));gap:6px;margin-top:4px}.bcard{background:#f6f9fc;border:1px solid #c9d6e2;border-radius:10px;padding:5px 4px;text-align:center;color:#223;min-width:0}.bth{display:flex;justify-content:center;gap:3px;height:48px;align-items:center}.bth img,.bth svg{width:48px;height:48px;object-fit:contain;background:#fff;border-radius:8px}.bcard .bth>*+*{width:36px!important;height:36px!important}.bpos{font-size:11.5px;font-weight:700;margin-top:4px;line-height:1.25;color:#0b2540}.bcode{font-size:11.5px;margin-top:2px;word-break:break-word;color:#123}.bbase{font-size:11px;color:#5a6a7a;margin-top:1px}.bnone{color:#999}.bcred{font-size:11px;color:var(--mut);margin-top:8px}.bcred a{color:var(--mut)}.vchip{display:inline-block;padding:1px 10px;border-radius:999px;border:1px solid #d8b86a88;margin:0 0 2px 4px;font-weight:700;direction:ltr}.vchip.va{border-style:dashed;font-weight:500}.vall summary{cursor:pointer;color:var(--gold);font-size:12px;margin-top:4px}.cdot{display:inline-block;width:14px;height:14px;border-radius:50%;border:1px solid #fff8;vertical-align:-2px;margin-left:5px}.nod small,.nod>small{display:block;color:var(--mut);font-size:12px;margin-top:2px}
 </style>
 </head>
 <body>
@@ -100,14 +100,14 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
-<script src="bulbimg.js?v=20261030c"></script>
+<script src="bulbimg.js?v=20261030d"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
 const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402b-9937-7c3d3afc9140';
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261030c')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261030d')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
@@ -183,23 +183,34 @@ function render(v,pi,matches){
     const EMP=k=>'<div class="empty"><span class="nod">אין נתון – '+(WHY[k]||'לא מופיע במקור')+nsn(k)+'</span></div>';
     const C=(t,body,k,w)=>{h+=body?cat(t,body,k,w):cat(t,EMP(k),k,w);};
     const NOCAP=kv('כמות','<span class="miss">אין כמות</span> <span class="mut" style="font-size:12px">(לא מופיעה במקור)</span>');
-    const vis=has('engine_oil_viscosity')?F('צמיגות','engine_oil_viscosity'):(r.VD?kv('צמיגות','<b>'+esc(r.VD.join(' / '))+'</b> <span class="mut">(נגזר מטקסט התקן/המוצר בקטלוג)</span>'):'');
-    const eb=vis+F('תקן','engine_oil_spec')+F('מוצר מומלץ','engine_oil_oem_product')+F('כמות עם פילטר','engine_oil_cap_l_with_filter',1)+F('כמות בלי פילטר','engine_oil_cap_l_without_filter',1);
+    const VKH={m:'מומלץ לפי ספר הרכב',o:'לפי המוצר שספר הרכב ממליץ עליו',s:'הדרגה היחידה שבספר הרכב',f:'ראשונה בטבלת ספר הרכב (הספר אינו מסמן דרגה מועדפת)'};
+    const chips=(a,c)=>a.map(g=>'<span class="vchip '+c+'">'+esc(g)+'</span>').join('');
+    const vis=has('engine_oil_viscosity')?(r.VP?kv('צמיגות',chips(r.VP,'vp')+' <span class="mut" style="font-size:12px">'+VKH[r.VK]+'</span>'+(r.VA?'<div style="margin-top:3px">'+chips(r.VA,'va')+' <span class="mut" style="font-size:12px">חלופה מפורשת בספר הרכב</span></div>':'')+(r.VN>r.VP.length+(r.VA||[]).length?'<details class="vall"><summary>הצג את כל האפשרויות מטבלת ספר הרכב ('+r.VN+' דרגות)</summary><div dir="auto">'+tx('engine_oil_viscosity')+'</div></details>':'')):F('צמיגות','engine_oil_viscosity')):(r.VD?kv('צמיגות','<b>'+esc(r.VD.join(' / '))+'</b> <span class="mut">(נגזר מטקסט התקן/המוצר בקטלוג)</span>'):'');
+    const eb=vis+F('תקן','engine_oil_spec')+(r.RP?kv('מוצר מומלץ','<a href="'+esc(r.RP[1])+'" target="_blank" rel="noopener">'+esc(r.RP[0])+'</a> <span class="mut" style="font-size:12px">· המוצר שבספר הרכב, מאומת בקטלוג אוטו פוינט</span>'):'')+F('כמות עם פילטר','engine_oil_cap_l_with_filter',1)+F('כמות בלי פילטר','engine_oil_cap_l_without_filter',1);
     C('שמן מנוע', eb?eb+(has('engine_oil_cap_l_with_filter')||has('engine_oil_cap_l_without_filter')?'':NOCAP)+lk(L.eng):'','eng');
-    const GT=[['mt','ידני'],['at','אוטומטי'],['dct','רובוטי כפול מצמד (DCT)'],['hybrid_transaxle','תמסורת היברידית']];
     const hg=k=>has(k+'_fluid_spec')||has(k+'_fluid_cap_l')||has(k+'_cap_l');
-    const mine=/h|e/.test(GX)?['hybrid_transaxle','at','dct']:/a/.test(GX)?['at','dct','hybrid_transaxle']:/m/.test(GX)?['mt']:[];
-    const g=GT.filter(([k])=>hg(k)).sort((x,y)=>(mine.includes(y[0])?1:0)-(mine.includes(x[0])?1:0));
-    const gtxt={a:'אוטומטית',m:'ידנית'}[(GX.match(/[am]/)||[''])[0]]||'';
-    let gh=g.map(([k,t])=>{const cf=has(k+'_fluid_cap_l')?k+'_fluid_cap_l':k+'_cap_l';return '<div class="sec"><h3>'+t+(mine.includes(k)?' <span class="mut" style="font-size:12px">· מתאים לתיבת רכב זה</span>':'')+'</h3>'+F('סוג/תקן',k+'_fluid_spec')+(has(cf)?F('כמות',cf,1):NOCAP)+lk(L[k])+'</div>';}).join('');
-    if(gh&&mine.length&&!g.some(([k])=>mine.includes(k))) gh='<div class="empty nod" style="margin-bottom:6px">לרכב זה תיבה '+(/h/.test(GX)?'היברידית':/e/.test(GX)?'של רכב חשמלי':gtxt)+' לפי משרד התחבורה – אין בקטלוג נתון לסוג תיבה זה. הנתונים שלהלן לסוג תיבה אחר ואינם מתאימים בהכרח:</div>'+gh;
-    if(gh) gh=(gtxt?'<div class="mut" style="font-size:12px;margin-bottom:4px">תיבת הילוכים לפי משרד התחבורה: '+gtxt+(/h/.test(GX)?' (היברידי)':/e/.test(GX)?' (חשמלי)':'')+'</div>':'')+gh;
+    const GN={mt:'תיבה ידנית',at:'תיבה אוטומטית',dct:'תיבה רובוטית כפולת מצמד (DCT)',hybrid_transaxle:'תמסורת היברידית (e-CVT)'};
+    const gbt=String(r.gearbox_type||'')+' '+String(r.mt_fluid_cap_l||'');
+    const isAMT=/\bAMT\b|\bASG\b|\bAGS\b|robot|Dualogic|\bMMT\b|Easytronic|\bSMG\b|\bETG\b/i.test(gbt),isDCT=/DCT|DSG|\bEDC\b|PDK|S.?tronic|Powershift|DDCT/i.test(gbt),isCVT=/CVT|Multidrive|Xtronic|Lineartronic/i.test(gbt);
+    let sel=[],lab='',why='';
+    if(/e/.test(GX)){lab='רכב חשמלי';sel=['hybrid_transaxle','at'].filter(hg).slice(0,1);}
+    else if(/h/.test(GX)){if(hg('hybrid_transaxle')){sel=['hybrid_transaxle'];lab='תמסורת היברידית (e-CVT)';}else if(isDCT&&hg('dct')){sel=['dct'];lab='היברידי עם תיבה רובוטית כפולת מצמד (DCT)';}else if(hg('at')){sel=['at'];lab=isCVT?'היברידי – תיבה רציפה (CVT)':'היברידי – תיבה אוטומטית';}else lab='היברידי';}
+    else if(/a/.test(GX)){const kinds=[isAMT&&'amt',isDCT&&'dct',isCVT&&'cvt'].filter(Boolean);
+      if(kinds.length===1&&kinds[0]==='amt'){lab='רובוטית (AMT)';if(hg('mt')&&(/AMT/i.test(String(r.mt_fluid_cap_l||'')+' '+String(r.mt_fluid_spec||''))||(!hg('at')&&!hg('dct')))){sel=['mt'];why='ספר הרכב מגדיר לתיבה הרובוטית (AMT) את נוזל התיבה הידנית';}}
+      else if(kinds.length===1&&kinds[0]==='dct'){lab='רובוטית כפולת מצמד (DCT)';sel=['dct'].filter(hg);}
+      else if(kinds.length===1&&kinds[0]==='cvt'){lab='רציפה (CVT)';sel=['at'].filter(hg);}
+      else{const au=['at','dct','hybrid_transaxle'].filter(hg);if(au.length<=1&&!kinds.length){lab='אוטומטית';sel=au;}else{lab='אוטומטית (סוג מדויק לא ידוע)';sel=au;why='ספר הרכב מפרט כמה סוגי תיבות אוטומטיות; הסוג המדויק לא נקבע ממשרד התחבורה';}}}
+    else if(/m/.test(GX)){lab='ידנית';sel=['mt'].filter(hg);}
+    const known=!!lab;if(!known)sel=['mt','at','dct','hybrid_transaxle'].filter(hg);
+    let gh=sel.map(k=>{const cf=has(k+'_fluid_cap_l')?k+'_fluid_cap_l':k+'_cap_l';return '<div class="sec"><h3>'+(k==='mt'&&isAMT&&/a/.test(GX)?'נוזל תיבה ידנית/רובוטית (AMT)':GN[k])+'</h3>'+F('סוג/תקן',k+'_fluid_spec')+(has(cf)?F('כמות',cf,1):NOCAP)+lk(L[k])+'</div>';}).join('');
+    if(known&&!gh&&['mt','at','dct','hybrid_transaxle'].some(hg)) gh='<div class="empty"><span class="nod">אין בקטלוג נתון לתיבה מסוג זה ('+esc(lab)+')</span></div>';
+    if(gh) gh='<div class="mut" style="font-size:12px;margin-bottom:4px">'+(known?'סוג תיבה לרכב זה: <b>'+esc(lab)+'</b> (לפי משרד התחבורה'+(String(r.gearbox_type||'')?' וספר הרכב':'')+')'+(why?' – '+why:''):'סוג התיבה לא ידוע ממשרד התחבורה – מוצגים כל הסוגים שבספר הרכב')+'</div>'+gh;
     C('שמן גיר', gh,'gear',1);
     const two=(sp,cp,lks)=>{const x=F('סוג/תקן',sp)+F('כמות',cp,1);return x?x+(has(cp)?'':NOCAP)+lk(lks):'';};
     C('שמן דיפרנציאל', two('rear_diff_oil_spec','rear_diff_cap_l',L.rd),'diff');
     C('שמן טרנספר', two('transfer_case_oil_spec','transfer_case_cap_l',L.tc),'tc');
-    const cc=has('coolant_color')?kv('צבע',swatch(r.coolant_color)+tx('coolant_color')):'';
-    const cb=(has('coolant_spec')&&!has('coolant_color')&&swatch(r.coolant_spec)?kv('גוון',swatch(r.coolant_spec)):'')+F('סוג/תקן','coolant_spec')+cc+F('כמות','coolant_cap_l',1)+F('מעגל קירור משני','secondary_coolant_spec_cap');
+    const cc=r.CC?kv('צבע',r.CC.c.map(([n,x])=>'<span class="cdot" style="background:'+x+'"></span>'+esc(n)).join(' / ')+(has('coolant_color')?' <span class="mut" style="font-size:12px">('+tx('coolant_color')+')</span>':'')+'<div class="mut" style="font-size:11px">מקור הצבע: '+esc(r.CC.src)+'</div>'):(has('coolant_color')?kv('צבע',tx('coolant_color')):'');
+    const cb=F('סוג/תקן','coolant_spec')+cc+F('כמות','coolant_cap_l',1)+F('מעגל קירור משני','secondary_coolant_spec_cap');
     C('נוזל קירור', cb?cb+lk(L.cool):'','cool');
     const bb=F('סוג/תקן','brake_fluid_spec')+F('כמות','brake_fluid_cap_l',1)+F('נוזל מצמד','clutch_actuator_fluid');
     C('נוזל בלמים', bb?bb+lk(L.brake):'','brake');
@@ -208,14 +219,18 @@ function render(v,pi,matches){
     {const b=BW[m.id]||bwModel(v),sv=ROW;const E=x=>x!=null&&String(x).trim()!=='';
      const EM='<div class="empty">אין נתון בקטלוג</div>';const BI=t=>{const i=window.bulbIcons?window.bulbIcons(t):'';return '<b>'+esc(t)+'</b>'+(i?'<div class="bimgs">'+i+'</div>':'');};
      if(b){ROW=Object.assign({row_id:m.id,source_pdf_page:b.source_page},b);}
-     const bl=b?(E(b.headlight_low)?kv('פנס ראשי – אור נמוך',BI(b.headlight_low)):'')+(E(b.headlight_high)?kv('פנס ראשי – אור גבוה',BI(b.headlight_high)):'')+(E(b.brake_light)?kv('אור בלימה',BI(b.brake_light)):'')+
-       (Array.isArray(b.other_bulbs)?b.other_bulbs.filter(o=>o&&E(o.type)).map(o=>kv(esc(o.position||'נורה נוספת'),BI(o.type))).join(''):''):'';
+     const BC=(p,t)=>window.bulbCard?window.bulbCard(p,t):kv(esc(p),BI(t));
+     const bc=b?(E(b.headlight_low)?BC('פנס ראשי – אור נמוך',b.headlight_low):'')+(E(b.headlight_high)?BC('פנס ראשי – אור גבוה',b.headlight_high):'')+(E(b.brake_light)?BC('אור בלימה',b.brake_light):'')+
+       (Array.isArray(b.other_bulbs)?b.other_bulbs.filter(o=>o&&E(o.type)).map(o=>BC(o.position||'נורה נוספת',o.type)).join(''):''):'';
+     const bl=bc?'<div class="bgrid">'+bc+'</div><div class="bcred">תמונות הנורות: Wikimedia Commons, ברישיונות חופשיים (CC0 / נחלת הכלל / CC BY-SA / GFDL) · <a href="ATTRIBUTION.md" target="_blank" rel="noopener">קרדיט מלא לכל תמונה</a> · התמונה ממחישה את סוג הנורה; כשאין תמונה מוצג שרטוט.</div>':'';
      h+=cat('נורות',bl||EM,'bulb');
-     const mm=x=>'<b>'+esc(x)+'</b> מ״מ';
+     const IN=n=>Math.round(n/25.4);
+     const mm=x=>{const v=String(x).match(/\d+(?:\.\d+)?/g);return v?'<b dir="ltr">'+v.map(n=>IN(+n)+'"').join(' / ')+'</b> <span class="mut" style="font-size:11px">('+esc(String(x))+' מ״מ)</span>':'<b>'+esc(x)+'</b>';};
+     const mmTxt=t=>esc(t).replace(/(\d{3})(\s*)(mm|מ״מ|מ"מ|מ&quot;מ)/gi,(q,n,sp,u)=>IN(+n)+'" ('+n+sp+u+')');
      const hw=x=>x&&(E(x.front_wipers_driver_mm)||E(x.front_wipers_passenger_mm)||E(x.rear_wiper_mm));
      let w=null;if(b&&E(b.wiper_source_url))w=Object.assign({},b,{source_title:b.wiper_source_title,source_url:b.wiper_source_url,confidence:b.wiper_confidence,notes:b.wiper_notes,source_page:'',region_condition:''});else if(hw(b))w=b;else w=bwModel(v,'__wiper_models');
      if(w&&w!==b)ROW=Object.assign({row_id:m.id},w);
-     const wb=w?(E(w.front_wipers_driver_mm)?kv('מגב קדמי – נהג',mm(w.front_wipers_driver_mm)):'')+(E(w.front_wipers_passenger_mm)?kv('מגב קדמי – נוסע',mm(w.front_wipers_passenger_mm)):'')+(E(w.rear_wiper_mm)?kv('מגב אחורי',mm(w.rear_wiper_mm)):'')+(w!==b&&E(w.source_url)?'<div class="note" style="font-size:12px;opacity:.8">מקור מידות המגבים: <a href="'+esc(w.source_url)+'" target="_blank" rel="noopener">'+esc(w.source_title)+'</a>'+(E(w.notes)?'<br>'+esc(w.notes):'')+'</div>':''):'';
+     const wb=w?(E(w.front_wipers_driver_mm)?kv('מגב קדמי – נהג',mm(w.front_wipers_driver_mm)):'')+(E(w.front_wipers_passenger_mm)?kv('מגב קדמי – נוסע',mm(w.front_wipers_passenger_mm)):'')+(E(w.rear_wiper_mm)?kv('מגב אחורי',mm(w.rear_wiper_mm)):'')+(w!==b&&E(w.source_url)?'<div class="note" style="font-size:12px;opacity:.8">מקור מידות המגבים: <a href="'+esc(w.source_url)+'" target="_blank" rel="noopener">'+esc(w.source_title)+'</a>'+(E(w.notes)?'<br>'+mmTxt(w.notes):'')+'</div>':''):'';
      h+=cat('מגבים',(hw(w)&&wb)||EM,'wiper');
      ROW=sv;}
     h+='</div>';

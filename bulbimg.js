@@ -1,4 +1,4 @@
-/* Bulb illustrations: original SVG drawings (otopoint), one per base-type family. No third-party images. */
+/* Bulb images: real Wikimedia Commons photos where available (ATTRIBUTION.md); otherwise original SVG drawings per base-type family. */
 (function(){
 let N=0;const G=()=>'<defs><radialGradient id="bg'+N+'" cx=".45" cy=".4" r=".6"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#cfe3f1"/></radialGradient></defs>';
 const S=(b)=>{N++;return '<svg viewBox="0 0 64 64" width="64" height="64" role="img" xmlns="http://www.w3.org/2000/svg">'+G()+b.replace(/url\(#bg\)/g,'url(#bg'+N+')')+'</svg>';};
@@ -25,13 +25,39 @@ const CODES=[[/\bH4\b/,'H4','H4'],[/\bH7(LL)?\b/,'H7','H7'],[/\bH1\b/,'H1','H1']
  [/\b(W5W|WY5W|W16W|WY16W|W21W|WY21W|W21\/5W|W3W|W2\.3W|W10W|T10|T20|T16|T15|194|168|7440|7443|3156|3157|3157NA|921|912)\b/,'WEDGE',null],[/\b(P21\/5W|P21\/4W|P27\/7W|BAY15d|1157|2357|1157NA|2357NA|3157NA|3157A)\b/,'BAY2',null],[/\b(P21W|PY21W|P27W|PY24W|HY21W|PR21W|R5W|R10W|RY10W|BA15s|BAU15s|BAY9s|H6W|H21W|1156|7506|1141)\b/,'BAY',null],[/\b(C5W|C10W|C21W|C3W|SV8\.5|SV7|T10x3[16]|T11x3[16]|6411|DE3175|DE3021)\b/i,'FEST',null]];
 /* base-type words printed in Hebrew books (only when the book states the base type; no code assumed) */
 const WORDS=[[/(טריז|בסיס יתד)/,'WEDGE'],[/(קצה כפול|שני קצוות|בעלות שני קצוות)/,'FEST'],[/(קצה יחיד|צד אחד|צד אחר)/,'BAY'],[/\bLED\b/,'LED']];
-window.bulbIcons=function(txt){
-  if(!txt) return '';
+/* Real photos (Wikimedia Commons, free licences – see ATTRIBUTION.md), keyed by printed code. Codes without a photo keep the SVG drawing above. */
+const V='20261030d';
+const PH=[[/^H1$/,'H1'],[/^H3$/,'H3'],[/^H4$/,'H4'],[/^H7(LL)?$/,'H7'],[/^H(8|9|11|16)B?$/,'H11'],[/^(HB3A?|9005|HB4A?|9006)$/,'HB'],[/^D[1-4][SR]$/,'XEN'],
+ [/^(W5W|WY5W|T10|W3W|W2\.3W|194|168|2825|W16W|WY16W|T15|T16|921|912)$/,'W5W'],[/^(W21W|WY21W|W21\/5W|T20|7440|7443|3156|3157|3157NA)$/,'W21W'],
+ [/^(P21\/5W|P21\/4W|P27\/7W|BAY15d|1157|2357|1157NA|2357NA|3157A)$/,'P215W'],[/^(PY21W|BAU15s)$/,'PY21W'],[/^(P21W|BA15s|1156|7506|1141)$/,'P21W'],[/^(R5W|R10W|RY10W)$/,'R5W'],
+ [/^(C5W|C10W|C21W|C3W|SV8\.5|6411|DE3175|DE3021)$/i,'C5W'],[/^H6W$/,'H6W'],[/^LED$/,'LED']];
+const BASE={H1:'P14.5s',H3:'PK22s',H4:'P43t',H7:'PX26d',H8:'PGJ19-1',H9:'PGJ19-5',H11:'PGJ19-2',H16:'PGJ19-3',HB3:'P20d',HB4:'P22d',HB3A:'P20d',HB4A:'P22d',9005:'P20d',9006:'P22d',
+ D1S:'PK32d-2',D2S:'P32d-2',D3S:'PK32d-5',D4S:'P32d-5',D1R:'PK32d-3',D2R:'P32d-3',D3R:'PK32d-6',D4R:'P32d-6',W5W:'W2.1x9.5d',WY5W:'W2.1x9.5d',T10:'W2.1x9.5d',W16W:'W2.1x9.5d',W3W:'W2.1x9.5d',
+ W21W:'W3x16d',WY21W:'W3x16d','W21/5W':'W3x16q',P21W:'BA15s',PY21W:'BAU15s','P21/5W':'BAY15d','P21/4W':'BAZ15d',P27W:'W2.5x16d','P27/7W':'W2.5x16q',R5W:'BA15s',R10W:'BA15s',
+ H6W:'BAX9s',H21W:'BAY9s',C5W:'SV8.5',C10W:'SV8.5',C21W:'SV8.5',C3W:'SV7'};
+const BFAM={WEDGE:'בסיס טריז (זכוכית)',BAY:'בסיס כידון',BAY2:'בסיס כידון דו-חוטי',FEST:'דו-קצה (פסטון)',LED:'LED'};
+const photo=l=>{for(const [re,k] of PH) if(re.test(l)) return k; return null;};
+window.bulbParse=function(txt){
+  if(!txt) return [];
   const s=String(txt),out=[],seen=new Set();
-  for(const [re,fam,lab] of CODES){const g=new RegExp(re.source,re.flags.includes('g')?re.flags:re.flags+'g');for(const m of s.matchAll(g)){const L=lab||m[0];if(!seen.has(fam+L)){seen.add(fam+L);out.push([fam,L]);}}}
+  for(const [re,fam,lab] of CODES){const g=new RegExp(re.source,re.flags.includes('g')?re.flags:re.flags+'g');for(const m of s.matchAll(g)){const L=lab||m[0];if(!seen.has(L)){seen.add(L);out.push([fam,L]);}}}
   if(!out.some(o=>o[0]!=='LED')) for(const [re,fam] of WORDS){if(re.test(s)&&!out.some(o=>o[0]===fam)){
     let f=fam; if(fam==='BAY'&&/\d+\/\d+\s*W?/.test(s)) f='BAY2'; out.push([f,fam==='LED'?'LED':'']);}}
   if(/\bLED\b/.test(s)&&!out.some(o=>o[0]==='LED')) out.push(['LED','LED']);
-  return out.map(([f,l])=>`<span class="bimg" title="${HE[f]}">${F[f]()}<span class="bcap">${l?'<b dir="ltr">'+l+'</b><br>':''}${HE[f]}</span></span>`).join('');
+  return out;
 };
+const thumb=(f,l)=>{const p=l&&photo(l);return p?'<img src="img/bulbs/'+p+'.webp?v='+V+'" alt="'+(l||HE[f])+'" width="48" height="48" decoding="async">':F[f]();};
+window.bulbIcons=function(txt){
+  return window.bulbParse(txt).map(([f,l])=>`<span class="bimg" title="${HE[f]}">${thumb(f,l)}<span class="bcap">${l?'<b dir="ltr">'+l+'</b><br>':''}${HE[f]}</span></span>`).join('');
+};
+const esc=x=>String(x).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+/* compact card: photo + Hebrew position + code + base type */
+window.bulbCard=function(pos,txt){
+  const P=window.bulbParse(txt);
+  const th=P.length?P.slice(0,2).map(([f,l])=>thumb(f,l)).join(''):'<span class="bnone">—</span>';
+  const bases=[...new Set(P.map(([f,l])=>BASE[l]||(l?'':BFAM[f]||'')).filter(Boolean))].join(' / ');
+  const t=String(txt).trim();
+  return '<div class="bcard"><div class="bth">'+th+'</div><div class="bpos">'+esc(pos)+'</div><div class="bcode" dir="auto" title="'+esc(t)+'">'+esc(t.length>34?t.slice(0,32)+'…':t)+'</div>'+(bases?'<div class="bbase">בסיס: <span dir="ltr">'+esc(bases)+'</span></div>':'')+'</div>';
+};
+window.bulbPhotoMissing=function(txt){return window.bulbParse(txt).filter(([f,l])=>!(l&&photo(l))).map(([f,l])=>l||HE[f]);};
 })();
