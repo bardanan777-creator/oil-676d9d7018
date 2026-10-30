@@ -11385,6 +11385,43 @@
 },
 {
 "data": {
+"brake_light": "P21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / קסנון – החלפה במוסך בלבד",
+"headlight_low": "H7 55W (הלוגן) / קסנון – החלפה במוסך בלבד",
+"notes": "C-Class W204 מתיחת פנים (2011-2014); שנים 2011-2013 בלבד, כי 2014 חופפת לדור W205. ",
+"other_bulbs": [
+{
+"position": "אור חניה (הלוגן)",
+"type": "W5W"
+},
+{
+"position": "תאורת פנייה (Bi-Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "רוורס",
+"type": "P21W"
+},
+{
+"position": "בלם/חניה אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "117 Overview: changing bulbs/bulb types",
+"source_title": "Mercedes-Benz C-Class Sedan 2012 (W204) Operator's Manual (קנדה)",
+"source_url": "https://static.oneweb.mercedes-benz.com/css-oom-assets/en-ca/pdf/mercedes-c-class-sedan-2012-w204-operators-manual-1.pdf"
+},
+"kinuy_re": "^C ?[1-3]\\d\\d",
+"tozeret_cd": 593,
+"year_from": 2011,
+"year_to": 2013
+},
+{
+"data": {
 "brake_light": "אין נתון",
 "confidence": "high",
 "front_wipers_driver_mm": "",
