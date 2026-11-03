@@ -16359,13 +16359,13 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-CCROSS-HV": {
-"brake_light": "",
+"brake_light": "LED",
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "Headlamps and brake lamps not in the bulb table (LED). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. Headlamps and brake lamps not in the bulb table (LED). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי איתות קדמיים (סוג נורה)",
@@ -16463,9 +16463,9 @@
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "Headlamps not in the bulb table (LED, not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. Headlamps not in the bulb table (LED, not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים (סוג נורה)*",
@@ -16510,9 +16510,9 @@
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": "",
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "Headlamps not in the bulb table (LED, not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. Headlamps not in the bulb table (LED, not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים (סוג נורה)*",
@@ -17121,13 +17121,13 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-RAV4-HV-A": {
-"brake_light": "",
+"brake_light": "LED",
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "Headlamps and brake lamps are not in the bulb table (LED, dealer replacement). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. Headlamps and brake lamps are not in the bulb table (LED, dealer replacement). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים*",
@@ -19273,6 +19273,382 @@
 "tozeret_cd": 423,
 "year_from": 2020,
 "year_to": 2026
+},
+{
+"data": {
+"brake_light": "P21/5W Long Life",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פנס כפול) / H4 Long Life (פנס יחיד) / D1S (קסנון)",
+"headlight_low": "H7 Long Life (פנס כפול) / H4 Long Life (פנס יחיד) / D1S (קסנון)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W Long Life"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור יום",
+"type": "P21W Super Long Life"
+},
+{
+"position": "ערפל קדמי/פנייה",
+"type": "H11"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "רוורס",
+"type": "R10W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W Long Life"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 211",
+"source_title": "SEAT Ibiza (6J) Owner's manual MY11",
+"source_url": "https://www.seat.com/datamanual-manual/ibiza/my11_w22/en-uk/Ibiza_EN.pdf"
+},
+"kinuy_re": "^IBIZA",
+"tozeret_cd": 778,
+"year_from": 2008,
+"year_to": 2012
+},
+{
+"data": {
+"brake_light": "P21W / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1",
+"headlight_low": "H7 / D1S (קסנון)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור יום",
+"type": "P21W SLL"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "רוורס",
+"type": "P21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 257",
+"source_title": "SEAT Leon (1P) Owner's manual MY13",
+"source_url": "https://www.seat.com/datamanual-manual/leon/my13_w22/en-uk/Leon_EN.pdf"
+},
+"kinuy_re": "^LEON",
+"tozeret_cd": 778,
+"year_from": 2005,
+"year_to": 2012
+},
+{
+"data": {
+"brake_light": "P21W LL / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 LL (הלוגן) / LED (Full-LED)",
+"headlight_low": "H7 LL (הלוגן) / LED (Full-LED, לא ניתן להחלפה)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור יום/חניה",
+"type": "P21W SLL"
+},
+{
+"position": "איתות",
+"type": "PY21W LL"
+},
+{
+"position": "ערפל קדמי/פנייה",
+"type": "H8"
+},
+{
+"position": "אור צד אחורי",
+"type": "2 x W5W LL"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "רוורס",
+"type": "P21W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 294",
+"source_title": "SEAT Leon (5F) Owner's manual MY14",
+"source_url": "https://www.seat.com/datamanual-manual/leon/my14_w45/en-uk/Gama%20Leon_EN.pdf"
+},
+"kinuy_re": "^LEON",
+"tozeret_cd": 778,
+"year_from": 2013,
+"year_to": 2016
+},
+{
+"data": {
+"brake_light": "P21W LL / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. מהדורה 01/24 – הוחלה גם על שנת 2024.",
+"other_bulbs": [
+{
+"position": "איתות אחורי",
+"type": "PY21W NA LL"
+},
+{
+"position": "רוורס",
+"type": "P21W LL"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W LL / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 262",
+"source_title": "SEAT Arona Owner's manual 01/24",
+"source_url": "https://www.seat.co.uk/datamanual-manual/arona/my25_w03/en-uk/ARONA_01_24_GB.pdf"
+},
+"kinuy_re": "^ARONA",
+"tozeret_cd": 778,
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "P21/5W Long Life",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פנס כפול) / H4 Long Life (פנס יחיד) / D1S (קסנון)",
+"headlight_low": "H7 Long Life (פנס כפול) / H4 Long Life (פנס יחיד) / D1S (קסנון)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W Long Life"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור יום",
+"type": "P21W Super Long Life"
+},
+{
+"position": "ערפל קדמי/פנייה",
+"type": "H11"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "רוורס",
+"type": "R10W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W Long Life"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 211",
+"source_title": "SEAT Ibiza (6J) Owner's manual MY11",
+"source_url": "https://www.seat.com/datamanual-manual/ibiza/my11_w22/en-uk/Ibiza_EN.pdf"
+},
+"kinuy_re": "^IBIZA",
+"tozeret_cd": 423,
+"year_from": 2008,
+"year_to": 2012
+},
+{
+"data": {
+"brake_light": "P21W / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1",
+"headlight_low": "H7 / D1S (קסנון)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור יום",
+"type": "P21W SLL"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "רוורס",
+"type": "P21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 257",
+"source_title": "SEAT Leon (1P) Owner's manual MY13",
+"source_url": "https://www.seat.com/datamanual-manual/leon/my13_w22/en-uk/Leon_EN.pdf"
+},
+"kinuy_re": "^LEON",
+"tozeret_cd": 423,
+"year_from": 2005,
+"year_to": 2012
+},
+{
+"data": {
+"brake_light": "P21W LL / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 LL (הלוגן) / LED (Full-LED)",
+"headlight_low": "H7 LL (הלוגן) / LED (Full-LED, לא ניתן להחלפה)",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור יום/חניה",
+"type": "P21W SLL"
+},
+{
+"position": "איתות",
+"type": "PY21W LL"
+},
+{
+"position": "ערפל קדמי/פנייה",
+"type": "H8"
+},
+{
+"position": "אור צד אחורי",
+"type": "2 x W5W LL"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "רוורס",
+"type": "P21W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 294",
+"source_title": "SEAT Leon (5F) Owner's manual MY14",
+"source_url": "https://www.seat.com/datamanual-manual/leon/my14_w45/en-uk/Gama%20Leon_EN.pdf"
+},
+"kinuy_re": "^LEON",
+"tozeret_cd": 423,
+"year_from": 2013,
+"year_to": 2016
+},
+{
+"data": {
+"brake_light": "P21W LL / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. מהדורה 01/24 – הוחלה גם על שנת 2024.",
+"other_bulbs": [
+{
+"position": "איתות אחורי",
+"type": "PY21W NA LL"
+},
+{
+"position": "רוורס",
+"type": "P21W LL"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W LL / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 262",
+"source_title": "SEAT Arona Owner's manual 01/24",
+"source_url": "https://www.seat.co.uk/datamanual-manual/arona/my25_w03/en-uk/ARONA_01_24_GB.pdf"
+},
+"kinuy_re": "^ARONA",
+"tozeret_cd": 423,
+"year_from": 2024,
+"year_to": 2024
 }
 ],
 "__wiper_models": [
@@ -22206,6 +22582,126 @@
 "tozeret_cd": 590,
 "year_from": 2004,
 "year_to": 2006
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 480,
+"notes": "מקור יחיד (carwiper.co.il) – ביטחון נמוך, יש לוודא מול הרכב.",
+"rear_wiper_mm": "",
+"source_title": "carwiper.co.il (מקור יחיד)",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%9E%D7%99%D7%A6%D7%95%D7%91%D7%99%D7%A9%D7%99/1797-L200"
+},
+"kinuy_re": "^L200$",
+"tozeret_cd": 603,
+"year_from": 2007,
+"year_to": 2015
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 480,
+"notes": "מקור יחיד (carwiper.co.il) – ביטחון נמוך, יש לוודא מול הרכב.",
+"rear_wiper_mm": "",
+"source_title": "carwiper.co.il (מקור יחיד)",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%90%D7%99%D7%A1%D7%95%D7%96%D7%95/1671-Max"
+},
+"kinuy_re": "^PICK-UP$",
+"tozeret_cd": 973,
+"year_from": 2007,
+"year_to": 2020
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 480,
+"notes": "מקור יחיד (carwiper.co.il) – ביטחון נמוך, יש לוודא מול הרכב.",
+"rear_wiper_mm": "",
+"source_title": "carwiper.co.il (מקור יחיד)",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%90%D7%99%D7%A1%D7%95%D7%96%D7%95/1671-Max"
+},
+"kinuy_re": "^D-MAX$",
+"tozeret_cd": 973,
+"year_from": 2021,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 430,
+"notes": "מקור יחיד (carwiper.co.il) – ביטחון נמוך, יש לוודא מול הרכב.",
+"rear_wiper_mm": 350,
+"source_title": "carwiper.co.il (מקור יחיד)",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-MG/1771-MG"
+},
+"kinuy_re": "^MG ?3$",
+"tozeret_cd": 443,
+"year_from": 2011,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 430,
+"notes": "מקור יחיד (carwiper.co.il) – ביטחון נמוך, יש לוודא מול הרכב.",
+"rear_wiper_mm": "",
+"source_title": "carwiper.co.il (מקור יחיד)",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-MG/1771-MG"
+},
+"kinuy_re": "^MG ?3$",
+"tozeret_cd": 443,
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 480,
+"notes": "מקור יחיד (carwiper.co.il) – ביטחון נמוך, יש לוודא מול הרכב.",
+"rear_wiper_mm": "",
+"source_title": "carwiper.co.il (מקור יחיד)",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-MG/1771-MG"
+},
+"kinuy_re": "^MG ?3$",
+"tozeret_cd": 443,
+"year_from": 2025,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "מקור יחיד (carwiper.co.il) – ביטחון נמוך, יש לוודא מול הרכב.",
+"rear_wiper_mm": "",
+"source_title": "carwiper.co.il (מקור יחיד)",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%A1%D7%95%D7%91%D7%90%D7%A8%D7%95/2348-Crosstrek"
+},
+"kinuy_re": "^CROSSTREK$",
+"tozeret_cd": 650,
+"year_from": 2023,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "מקור יחיד (carwiper.co.il) – ביטחון נמוך, יש לוודא מול הרכב.",
+"rear_wiper_mm": "",
+"source_title": "carwiper.co.il (מקור יחיד)",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-CUPRA/2495-Formentor"
+},
+"kinuy_re": "^CUPRA$",
+"tozeret_cd": 778,
+"year_from": 2020,
+"year_to": 2025
 }
 ]
 }
