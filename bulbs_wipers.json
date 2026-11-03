@@ -168,6 +168,116 @@
 "wiper_source_title": "WiperIndex / AutoPadre / WiperBladesUSA – Chevrolet Spark 2016-2022 (M400)",
 "wiper_source_url": "https://wiperindex.com/make/chevrolet/spark/2017"
 },
+"CH-T7PHEV-SQRH4J15-PL25": {
+"brake_light": "P21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "מהדורת פולין (אירופה). כל הנורות: להחלפה בתחנת שירות מורשית.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "אור חניה קדמי",
+"type": "LED"
+},
+{
+"position": "אור חניה אחורי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "270-271 (PDF 137) Specyfikacja żarówki",
+"source_title": "Chery Tiggo 7 Super Hybrid Instrukcja obsługi (Chery Polska, 02/2025)",
+"source_url": "https://www.cherypolska.pl/fileadmin/media/instrukcje/Instrukcja_obs%C5%82ugi_-_Tiggo_7_Super_Hybrid.pdf"
+},
+"CH-T7PRO-SQRF4J16-PL25": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "מהדורת פולין (אירופה) של דגם 24FL. שורה 2022-2026 – בדגמים שלפני מתיחת הפנים ייתכנו הבדלים.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "אור חניה קדמי",
+"type": "LED"
+},
+{
+"position": "אור חניה אחורי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 140 Specyfikacja żarówki",
+"source_title": "Chery Tiggo 7 Instrukcja obsługi (Chery Polska, 2025)",
+"source_url": "https://www.cherypolska.pl/fileadmin/media/instrukcje/Instrukcja_obs%C5%82ugi_-_Tiggo_7.pdf"
+},
 "CH-T8PROPHEV-SQRH4J15-PL25": {
 "brake_light": "LED",
 "confidence": "manual-verbatim",
@@ -207,6 +317,57 @@
 "source_title": "Chery Tiggo 8 Super Hybrid – Instrukcja obsługi (PL)",
 "source_url": "https://www.cherypolska.pl/fileadmin/media/instrukcje/Instrukcja_obs%C5%82ugi_-_Tiggo_8_Super_Hybrid.pdf"
 },
+"CH-T9PHEV-SQRH4J15-PL25": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "מהדורת פולין (אירופה). כל הנורות LED, להחלפה בתחנת שירות מורשית.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "אור חניה קדמי",
+"type": "LED"
+},
+{
+"position": "אור חניה אחורי",
+"type": "LED"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 170 Specyfikacja żarówki",
+"source_title": "Chery Tiggo 9 Super Hybrid Instrukcja obsługi (Chery Polska, 07/2025)",
+"source_url": "https://www.cherypolska.pl/fileadmin/media/instrukcje/Instrukcja_obs%C5%82ugi_-_Tiggo_9_.pdf"
+},
 "CH-TRAX-14T-IL": {
 "brake_light": "",
 "confidence": "",
@@ -242,6 +403,53 @@
 "wiper_notes": "דגם לפי Bosch 2023: Chevrolet Trax 2013-2021. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"CI-BERLINGO-YH01": {
+"brake_light": "P21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 (הלוגן) / LED (Full LED בגרסאות 2024 ואילך)",
+"headlight_low": "H7 (הלוגן) / LED (Full LED בגרסאות 2024 ואילך)",
+"notes": "לפי ספר 2024-2025 (CBERLCO2402en): גרסה A עם הלוגן H7/H1, גרסאות B/C עם פנסי Full LED.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "W21/5W או LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 (עד 2023) / LED (2024 ואילך)"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "162-166 (PDF 164-167); ed.02-24 PDF 218-221",
+"source_title": "Citroën Berlingo (K9) Handbook ed.01-19 (en-GB) + ed.02-24",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/berlingo.k9/eGuide_k9vp_ed01-19/pdfs/9999_9999_292_en-GB.pdf"
 },
 "CI-C3-EB2NA": {
 "brake_light": "P21/5W",
@@ -374,6 +582,53 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"DA-CF-SANDERO3SW-H4D-2526": {
+"brake_light": "P21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "LED (נורה מוחלפת אצל המשווק)",
+"notes": "ספר משתמש רשמי של דאצ'יה לסנדרו 3 / סטפוויי. אור נמוך ותאורת יום מסוג LED – החלפה אצל המשווק.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "323-327 (PDF 325-329)",
+"source_title": "Dacia Sandero / Sandero Stepway User Manual NU 1688-1 (en-GB)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/GUI_NU_DAC_BJI_1688_1_0_LHD-RHD_PRNT-en-GB.pdf"
+},
 "DA-DOKKER-K9K": {
 "brake_light": "",
 "confidence": "",
@@ -410,23 +665,385 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"DA-DUSTER-H5F": {
+"brake_light": "P21/5W / P21W (לפי סוג הפנס)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (אנטי UV)",
+"headlight_low": "H7 55W (אנטי UV)",
+"notes": "שורה 2010-2024: ספר דאסטר 2 (2018 ואילך) וספר דאסטר 1 פאזה 2 (1079-10, 2014-2017) נותנים אותן נורות ראשיות; פאזה 1 (2010-2013) לא נבדקה. ספר 1079-10: https://www.user-manual.dacia.com/sites/dacia/files/Duster_Ph2_-_1079-10_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H11 (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
+"source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
+},
+"DA-DUSTER-H5F-CALIAS-HRA2": {
+"brake_light": "P21/5W / P21W (לפי סוג הפנס)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (אנטי UV)",
+"headlight_low": "H7 55W (אנטי UV)",
+"notes": "דאסטר 1 פאזה 2 (ספר 1079-10). ספר 1079-10: https://www.user-manual.dacia.com/sites/dacia/files/Duster_Ph2_-_1079-10_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H11 (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
+"source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
+},
 "DA-DUSTER-H5H": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / P21W (לפי סוג הפנס)",
+"confidence": "high",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 475,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W (אנטי UV)",
+"headlight_low": "H7 55W (אנטי UV)",
+"notes": "ספר 1079-10: https://www.user-manual.dacia.com/sites/dacia/files/Duster_Ph2_-_1079-10_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H11 (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 290,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
+"source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Dacia Duster II [HM] 01.18→. קדמיים 550/475 מ״מ, אחורי 290 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"DA-DUSTER-H5H-CALIAS-H5HB4B": {
+"brake_light": "P21/5W / P21W (לפי סוג הפנס)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (אנטי UV)",
+"headlight_low": "H7 55W (אנטי UV)",
+"notes": "ספר 1079-10: https://www.user-manual.dacia.com/sites/dacia/files/Duster_Ph2_-_1079-10_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H11 (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
+"source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
+},
+"DA-DUSTER-H5H-CALIAS-H5HB4B-YALIAS-2019": {
+"brake_light": "P21/5W / P21W (לפי סוג הפנס)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (אנטי UV)",
+"headlight_low": "H7 55W (אנטי UV)",
+"notes": "ספר 1079-10: https://www.user-manual.dacia.com/sites/dacia/files/Duster_Ph2_-_1079-10_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H11 (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
+"source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
+},
+"DA-DUSTER-H5H-CALIAS-HR13": {
+"brake_light": "P21/5W / P21W (לפי סוג הפנס)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (אנטי UV)",
+"headlight_low": "H7 55W (אנטי UV)",
+"notes": "ספר 1079-10: https://www.user-manual.dacia.com/sites/dacia/files/Duster_Ph2_-_1079-10_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H11 (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
+"source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
+},
+"DA-DUSTER-H5H-YALIAS-2019": {
+"brake_light": "P21/5W / P21W (לפי סוג הפנס)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (אנטי UV)",
+"headlight_low": "H7 55W (אנטי UV)",
+"notes": "ספר 1079-10: https://www.user-manual.dacia.com/sites/dacia/files/Duster_Ph2_-_1079-10_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H11 (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
+"source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
+},
+"DA-DUSTER-K9K": {
+"brake_light": "P21/5W / P21W (לפי סוג הפנס)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (אנטי UV)",
+"headlight_low": "H7 55W (אנטי UV)",
+"notes": "שורה 2010-2024: ספר דאסטר 2 (2018 ואילך) וספר דאסטר 1 פאזה 2 (1079-10, 2014-2017) נותנים אותן נורות ראשיות; פאזה 1 (2010-2013) לא נבדקה. ספר 1079-10: https://www.user-manual.dacia.com/sites/dacia/files/Duster_Ph2_-_1079-10_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H11 (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
+"source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
 },
 "DA-LODGY-K9K": {
 "brake_light": "",
@@ -463,6 +1080,53 @@
 "wiper_notes": "דגם לפי Bosch 2023: Dacia Lodgy [JS] 2012-2022. קדמיים 550/400 מ״מ, אחורי 290 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"DA-NEWDUSTER-K9K": {
+"brake_light": "P21/5W / P21W (לפי סוג הפנס)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (אנטי UV)",
+"headlight_low": "H7 55W (אנטי UV)",
+"notes": "ספר 1079-10: https://www.user-manual.dacia.com/sites/dacia/files/Duster_Ph2_-_1079-10_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H11 (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
+"source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
 },
 "DF-BOX-TZ180XSD70-NL": {
 "brake_light": "LED",
@@ -635,11 +1299,47 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"FI-500-312-169A4-ALIAS-FIAT2SP500": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 340,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 290,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Fiat 500 [312] 07.07→. קדמיים 600/340 מ״מ, אחורי 290 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. OXIMO ו-Valeo (Abarth 595 על בסיס 312): 600/350, אחורי 290. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/fiat/500/hatchback-2007-10-01/"
+},
+"FI-500-312-169A4-FIAT500": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 340,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 290,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Fiat 500 [312] 07.07→. קדמיים 600/340 מ״מ, אחורי 290 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. OXIMO ו-Valeo (Abarth 595 על בסיס 312): 600/350, אחורי 290. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/fiat/500/hatchback-2007-10-01/"
+},
 "FI-500-312-169A4-FIAT50012": {
 "brake_light": "P21W",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 340,
 "headlight_high": "H1 55W",
 "headlight_low": "H7 55W / קסנון 35W",
 "notes": "טקסט ה-PDF סרוק (OCR \"HI\"/\"2I\" = H1/21).",
@@ -685,10 +1385,14 @@
 "type": "C5W"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 290,
 "source_page": "143 (PDF 147)",
 "source_title": "Fiat 500 Owner Handbook 09/2013 (EN, EU)",
-"source_url": "https://aftersales.fiat.com/eLumData/EN/00/150_500/00_150_500_603.99.418_EN_01_09.13_L_LG/00_150_500_603.99.418_EN_01_09.13_L_LG.pdf"
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/150_500/00_150_500_603.99.418_EN_01_09.13_L_LG/00_150_500_603.99.418_EN_01_09.13_L_LG.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Fiat 500 [312] 07.07→. קדמיים 600/340 מ״מ, אחורי 290 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. OXIMO ו-Valeo (Abarth 595 על בסיס 312): 600/350, אחורי 290. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/fiat/500/hatchback-2007-10-01/"
 },
 "FI-500X-55263624-EU": {
 "brake_light": "P21W",
@@ -1168,54 +1872,165 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS3-MGDA": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W 21/5W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 725,
 "front_wipers_passenger_mm": 725,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר אירופי (CG3568en, Ford of Europe) – למרות הקידומת ENUSA בשם הקובץ באתר Ford.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "תאורת תא מטען",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "63 (PDF 65)",
+"source_title": "Ford Focus Owner's Handbook CG3568en 01/2012 (Europe)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3568_FOC_og_201201.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Focus III [DYB] 01.11-2018. קדמיים 725/725 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Valeo: 730/730 מ״מ). המגב האחורי הושמט – משתנה לפי מרכב (סדאן/האצ׳בק/סטיישן).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS3-PNDA": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W 21/5W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 725,
 "front_wipers_passenger_mm": 725,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר אירופי (CG3568en, Ford of Europe) – למרות הקידומת ENUSA בשם הקובץ באתר Ford.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "תאורת תא מטען",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "63 (PDF 65)",
+"source_title": "Ford Focus Owner's Handbook CG3568en 01/2012 (Europe)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3568_FOC_og_201201.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Focus III [DYB] 01.11-2018. קדמיים 725/725 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Valeo: 730/730 מ״מ). המגב האחורי הושמט – משתנה לפי מרכב (סדאן/האצ׳בק/סטיישן).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS3-PNDA-CALIAS-IQJA-2012": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W 21/5W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 725,
 "front_wipers_passenger_mm": 725,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר אירופי (CG3568en, Ford of Europe) – למרות הקידומת ENUSA בשם הקובץ באתר Ford.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "תאורת תא מטען",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "63 (PDF 65)",
+"source_title": "Ford Focus Owner's Handbook CG3568en 01/2012 (Europe)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3568_FOC_og_201201.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Focus III [DYB] 01.11-2018. קדמיים 725/725 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Valeo: 730/730 מ״מ). המגב האחורי הושמט – משתנה לפי מרכב (סדאן/האצ׳בק/סטיישן).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -4246,8 +5061,8 @@
 "H-VEL-FS-G4FD-UK": {
 "brake_light": "P21/5W",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "H7 55W",
 "headlight_low": "H7 55W / LED",
 "notes": "",
@@ -4288,7 +5103,11 @@
 "rear_wiper_mm": "",
 "source_page": "8-2 (PDF 300)",
 "source_title": "Hyundai Veloster (FS) Owner's Manual (UK)",
-"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/Velostar+FS+1-combinedpdf"
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/Velostar+FS+1-combinedpdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Hyundai Veloster [FS] 06.11-01.18. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-VENUE-QX-G16": {
 "brake_light": "P21/5W 21/5 (סוג A); LED (סוג B)",
@@ -4729,90 +5548,294 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-CIVIC-FC-L15B-CIVIC-ALIAS-CIVIC_15": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "60W (HB3) / LED",
+"headlight_low": "55W (H11) / LED",
+"notes": "הלוגן או LED לפי רמת גימור. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "35W (H8) / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "21W (Amber) / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "725 (PDF 726)",
+"source_title": "Honda Civic 4dr Petrol Owner's Manual 2017 (UK, incl. Israeli models)",
+"source_url": "https://www.honda.co.uk/content/dam/local/uk/cars/owners/manuals/CIVIC-4D/2017%20Civic%204dr%20Petrol%20Owners%20Manual.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Civic [FC] 2017-2021. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"HO-CIVIC-FC-L15B-CIVIC4D": {
+"brake_light": "21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "60W (HB3) / LED",
+"headlight_low": "55W (H11) / LED",
+"notes": "הלוגן או LED לפי רמת גימור. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "35W (H8) / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "21W (Amber) / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "725 (PDF 726)",
+"source_title": "Honda Civic 4dr Petrol Owner's Manual 2017 (UK, incl. Israeli models)",
+"source_url": "https://www.honda.co.uk/content/dam/local/uk/cars/owners/manuals/CIVIC-4D/2017%20Civic%204dr%20Petrol%20Owners%20Manual.pdf"
+},
 "HO-CIVIC-FC-L15B-CIVIC5D": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר האצ'בק 5 דלתות (FK7). ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED / 5W (Amber)"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 806",
+"source_title": "Honda Civic 5D Owner's Manual (Honda UK, 32TGG631, 1.0/1.5 L)",
+"source_url": "https://www.honda.co.uk/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1/textColumn/richtextdownload_5f7/file.res/32TGG6310_web_compressed.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Civic [FC] 2017-2021. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-CIVIC-FC-L15B-CIVIC5D15": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר האצ'בק 5 דלתות (FK7). ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED / 5W (Amber)"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 806",
+"source_title": "Honda Civic 5D Owner's Manual (Honda UK, 32TGG631, 1.0/1.5 L)",
+"source_url": "https://www.honda.co.uk/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1/textColumn/richtextdownload_5f7/file.res/32TGG6310_web_compressed.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Civic [FC] 2017-2021. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-CIVIC-FC-R16B1-CIVIC": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "60W (HB3) / LED",
+"headlight_low": "55W (H11) / LED",
+"notes": "הלוגן או LED לפי רמת גימור. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "35W (H8) / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "21W (Amber) / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "725 (PDF 726)",
+"source_title": "Honda Civic 4dr Petrol Owner's Manual 2017 (UK, incl. Israeli models)",
+"source_url": "https://www.honda.co.uk/content/dam/local/uk/cars/owners/manuals/CIVIC-4D/2017%20Civic%204dr%20Petrol%20Owners%20Manual.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Civic [FC] 2017-2021. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-CIVIC-FC-R16B1-CIVIC4D": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "60W (HB3) / LED",
+"headlight_low": "55W (H11) / LED",
+"notes": "הלוגן או LED לפי רמת גימור. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "35W (H8) / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "21W (Amber) / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "725 (PDF 726)",
+"source_title": "Honda Civic 4dr Petrol Owner's Manual 2017 (UK, incl. Israeli models)",
+"source_url": "https://www.honda.co.uk/content/dam/local/uk/cars/owners/manuals/CIVIC-4D/2017%20Civic%204dr%20Petrol%20Owners%20Manual.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Civic [FC] 2017-2021. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -4866,54 +5889,165 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-CIVIC-FK7-P10A-CIVIC": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר האצ'בק 5 דלתות (FK7). ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED / 5W (Amber)"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 340,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 806",
+"source_title": "Honda Civic 5D Owner's Manual (Honda UK, 32TGG631, 1.0/1.5 L)",
+"source_url": "https://www.honda.co.uk/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1/textColumn/richtextdownload_5f7/file.res/32TGG6310_web_compressed.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Honda Civic X hatchback [FK7] 2017-2020. קדמיים 650/450 מ״מ, אחורי 340 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/civic/"
 },
 "HO-CIVIC-FK7-P10A-CIVIC_5D": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר האצ'בק 5 דלתות (FK7). ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED / 5W (Amber)"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 340,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 806",
+"source_title": "Honda Civic 5D Owner's Manual (Honda UK, 32TGG631, 1.0/1.5 L)",
+"source_url": "https://www.honda.co.uk/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1/textColumn/richtextdownload_5f7/file.res/32TGG6310_web_compressed.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Honda Civic X hatchback [FK7] 2017-2020. קדמיים 650/450 מ״מ, אחורי 340 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/civic/"
 },
 "HO-CIVIC-FK7-P10A-CIVIC_5D_1.0": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר האצ'בק 5 דלתות (FK7). ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED / 5W (Amber)"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 340,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 806",
+"source_title": "Honda Civic 5D Owner's Manual (Honda UK, 32TGG631, 1.0/1.5 L)",
+"source_url": "https://www.honda.co.uk/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1/textColumn/richtextdownload_5f7/file.res/32TGG6310_web_compressed.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Honda Civic X hatchback [FK7] 2017-2020. קדמיים 650/450 מ״מ, אחורי 340 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
@@ -5051,6 +6185,78 @@
 "source_title": "Honda HR-V Owner's Manual 2018 (UK)",
 "source_url": "https://www.honda.co.uk/content/dam/local/uk/cars/owners/manuals/HR-V/2018%20HR-V%20Owners%20Manual.pdf"
 },
+"HO-JAZZ-GD-L13A-HU": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz II [GD] 2002-2008. מגבים קדמיים: אין נתון אמין, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. המגבים הקדמיים הושמטו – סתירה בין המקורות (Bosch 530/380, OXIMO 525/375, Valeo 500/350 מ״מ). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/hatchback-ii-gd-2002-03-01/"
+},
+"HO-JAZZ-GD-L13A-HU-09": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz II [GD] 2002-2008. מגבים קדמיים: אין נתון אמין, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. המגבים הקדמיים הושמטו – סתירה בין המקורות (Bosch 530/380, OXIMO 525/375, Valeo 500/350 מ״מ). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/hatchback-ii-gd-2002-03-01/"
+},
+"HO-JAZZ-GD-L13A-JP": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz II [GD] 2002-2008. מגבים קדמיים: אין נתון אמין, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. המגבים הקדמיים הושמטו – סתירה בין המקורות (Bosch 530/380, OXIMO 525/375, Valeo 500/350 מ״מ). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/hatchback-ii-gd-2002-03-01/"
+},
+"HO-JAZZ-GD-L13A-JP-09": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 350,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz II [GD] 2002-2008. מגבים קדמיים: אין נתון אמין, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. המגבים הקדמיים הושמטו – סתירה בין המקורות (Bosch 530/380, OXIMO 525/375, Valeo 500/350 מ״מ). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/hatchback-ii-gd-2002-03-01/"
+},
 "HO-JAZZ-GE-L12B1-HU": {
 "brake_light": "",
 "confidence": "",
@@ -5088,22 +6294,389 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-JAZZ-GK-L13B": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 360,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "60/55W (H4, H4/HB2)",
+"headlight_low": "60/55W (H4, H4/HB2)",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "5W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W (Amber)"
+},
+{
+"position": "ערפל קדמי",
+"type": "35W (H8LL)"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 584",
+"source_title": "Honda Jazz 2016 Owner's Manual (Honda UK, 16 FIT JAZZ 32T5A6000)",
+"source_url": "https://www.honda.co.uk/content/dam/local/uk/cars/owners/manuals/JAZZ/2016%20Jazz%20Owners%20Manual.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Jazz [GK] 2015-2020. קדמיים 650/360 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HO-JAZZ-GR-LEB8-JAZZ": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 350,
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים, ערפל ותאורת יום LED – החלפה במרכז שירות מורשה של Honda. ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "557-559 (PDF 636 טבלת מפרט)",
+"source_title": "Honda Jazz e:HEV 2021 Owner's Manual (Honda UK, 21 JAZZ HYBRID 32TZA6000)",
+"source_url": "https://www.honda.co.uk/content/honda/en_gb/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1653971839/textColumn/richtextdownload_90f/file.res/2021%20Jazz%20Owner%60s%20Manual.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz V [GR] 2020→. קדמיים 650/350 מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/liftback-v-gr-2020-02-01/"
+},
+"HO-JAZZ-GR-LEB8-JAZZ15": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 350,
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים, ערפל ותאורת יום LED – החלפה במרכז שירות מורשה של Honda. ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "557-559 (PDF 636 טבלת מפרט)",
+"source_title": "Honda Jazz e:HEV 2021 Owner's Manual (Honda UK, 21 JAZZ HYBRID 32TZA6000)",
+"source_url": "https://www.honda.co.uk/content/honda/en_gb/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1653971839/textColumn/richtextdownload_90f/file.res/2021%20Jazz%20Owner%60s%20Manual.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz V [GR] 2020→. קדמיים 650/350 מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/liftback-v-gr-2020-02-01/"
+},
+"HO-JAZZ-GR-LEB8-JAZZHYBRID": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 350,
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים, ערפל ותאורת יום LED – החלפה במרכז שירות מורשה של Honda. ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "557-559 (PDF 636 טבלת מפרט)",
+"source_title": "Honda Jazz e:HEV 2021 Owner's Manual (Honda UK, 21 JAZZ HYBRID 32TZA6000)",
+"source_url": "https://www.honda.co.uk/content/honda/en_gb/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1653971839/textColumn/richtextdownload_90f/file.res/2021%20Jazz%20Owner%60s%20Manual.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz V [GR] 2020→. קדמיים 650/350 מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/liftback-v-gr-2020-02-01/"
+},
+"HO-JAZZ-GR-LEB8-JAZZ_CROSSTAR": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 350,
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים, ערפל ותאורת יום LED – החלפה במרכז שירות מורשה של Honda. ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "557-559 (PDF 636 טבלת מפרט)",
+"source_title": "Honda Jazz e:HEV 2021 Owner's Manual (Honda UK, 21 JAZZ HYBRID 32TZA6000)",
+"source_url": "https://www.honda.co.uk/content/honda/en_gb/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1653971839/textColumn/richtextdownload_90f/file.res/2021%20Jazz%20Owner%60s%20Manual.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz V [GR] 2020→. קדמיים 650/350 מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/liftback-v-gr-2020-02-01/"
+},
+"HO-JAZZ-GR-LEB8-JAZZ_CROSTAR": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 350,
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים, ערפל ותאורת יום LED – החלפה במרכז שירות מורשה של Honda. ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "557-559 (PDF 636 טבלת מפרט)",
+"source_title": "Honda Jazz e:HEV 2021 Owner's Manual (Honda UK, 21 JAZZ HYBRID 32TZA6000)",
+"source_url": "https://www.honda.co.uk/content/honda/en_gb/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1653971839/textColumn/richtextdownload_90f/file.res/2021%20Jazz%20Owner%60s%20Manual.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz V [GR] 2020→. קדמיים 650/350 מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/liftback-v-gr-2020-02-01/"
+},
+"HO-JAZZ-GR-LEB8-JAZZ_HEV": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 350,
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים, ערפל ותאורת יום LED – החלפה במרכז שירות מורשה של Honda. ",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W (Amber)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "557-559 (PDF 636 טבלת מפרט)",
+"source_title": "Honda Jazz e:HEV 2021 Owner's Manual (Honda UK, 21 JAZZ HYBRID 32TZA6000)",
+"source_url": "https://www.honda.co.uk/content/honda/en_gb/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1653971839/textColumn/richtextdownload_90f/file.res/2021%20Jazz%20Owner%60s%20Manual.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Honda Jazz V [GR] 2020→. קדמיים 650/350 מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/liftback-v-gr-2020-02-01/"
 },
 "HO-JAZZHYB-GP1-LDA3-JP11": {
 "brake_light": "",
@@ -5320,6 +6893,403 @@
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Santa Fe [CM] 2006-2012. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"JC-J5-BEV-IL": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 / LED (לפי גרסה; בספר: \"HB3/LED\" לפנסים ראשיים)",
+"headlight_low": "HB3 / LED (לפי גרסה; בספר: \"HB3/LED\" לפנסים ראשיים)",
+"notes": "כל הנורות בטבלה: \"החלף במרכז שירות מורשה\". ",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "LED"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "מפרט נורה, PDF 262",
+"source_title": "Jaecoo 5 EV ספר נהג (Colmobil, עברית)",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1768203800/J5_BEV_OM_web/J5_BEV_OM_web.pdf"
+},
+"JC-J5-HEV-IL-5": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 / LED (לפי גרסה; בספר: \"HB3/LED\" לפנסים ראשיים)",
+"headlight_low": "HB3 / LED (לפי גרסה; בספר: \"HB3/LED\" לפנסים ראשיים)",
+"notes": "כל הנורות בטבלה: \"החלף במרכז שירות מורשה\". ",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "LED"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "מפרט נורה, עמ' 246 (PDF 259)",
+"source_title": "Jaecoo 5 HEV ספר נהג 2025 (Colmobil, עברית)",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1768203261/J5-HEV_OM-2025_web/J5-HEV_OM-2025_web.pdf"
+},
+"JC-J5-HEV-IL-7": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 / LED (לפי גרסה; בספר: \"HB3/LED\" לפנסים ראשיים)",
+"headlight_low": "HB3 / LED (לפי גרסה; בספר: \"HB3/LED\" לפנסים ראשיים)",
+"notes": "כל הנורות בטבלה: \"החלף במרכז שירות מורשה\". ",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "LED"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "מפרט נורה, עמ' 246 (PDF 259)",
+"source_title": "Jaecoo 5 HEV ספר נהג 2025 (Colmobil, עברית)",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1768203261/J5-HEV_OM-2025_web/J5-HEV_OM-2025_web.pdf"
+},
+"JC-J5-ICE-IL": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 / LED (לפי גרסה; בספר: \"HB3/LED\" לפנסים ראשיים)",
+"headlight_low": "HB3 / LED (לפי גרסה; בספר: \"HB3/LED\" לפנסים ראשיים)",
+"notes": "כל הנורות בטבלה: \"החלף במרכז שירות מורשה\". ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "LED"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "מפרט נורה, PDF 245",
+"source_title": "Jaecoo 5 ספר נהג (Colmobil, עברית)",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1760942734/J5_OM_web/J5_OM_web.pdf"
+},
+"JC-J7-PHEV-IL": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל הנורות בטבלה: \"החלף במרכז שירות מורשה\". ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "LED"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "מפרט נורה, PDF 305",
+"source_title": "Jaecoo 7 PHEV ספר נהג (Colmobil, עברית)",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1737357711/J7-PHEV-OM_web/J7-PHEV-OM_web.pdf"
+},
+"JC-J7-PHEV-IL-B": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל הנורות בטבלה: \"החלף במרכז שירות מורשה\". ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "LED"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "מפרט נורה, PDF 305",
+"source_title": "Jaecoo 7 PHEV ספר נהג (Colmobil, עברית)",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1737357711/J7-PHEV-OM_web/J7-PHEV-OM_web.pdf"
+},
+"JC-J8-PHEV-IL": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל הנורות בטבלה: \"החלף במרכז שירות מורשה\". ",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "LED"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "מפרט נורה, PDF 299",
+"source_title": "Jaecoo 8 PHEV ספר נהג 2025 (Colmobil, עברית)",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1768203756/J8-PHEV_OM_2025-web/J8-PHEV_OM_2025-web.pdf"
 },
 "JP-AVENGER-12-IL-J0": {
 "brake_light": "P21/5W / LED (*)",
@@ -6988,18 +8958,55 @@
 "wiper_source_url": "https://topwipers.com/en-pl/auto/wiper-blades/kia/seltos/sp2-sp2i-2019"
 },
 "K-SELTOS-SP2-G20-IL23": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (סוג נורה) / LED (סוג LED)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60/5.8W (סוג נורה) / LED (סוג LED)",
+"headlight_low": "HB3 5.8W (סוג נורה) / LED (סוג LED)",
+"notes": "נתוני \"הספקי נורות\" מהספר העברי. ספר en_GB 2021 של אותו דגם מדפיס הספק בלבד ולכן לא שימש.",
+"other_bulbs": [
+{
+"position": "אור חניה/תאורת יום",
+"type": "PY21W/5W או LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W או LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 51W או LED"
+},
+{
+"position": "איתות צד (מראה)",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "פרק 8, הספקי נורות (chapter8_6); אומת מול en_GB 2026 עמ' 9-7 (PDF 539)",
+"source_title": "Kia Seltos (SP2) ספר בעלים בעברית MY2023 (Kia owner's manual portal, he_IL)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/SP2/2023/he_IL/topics/chapter8_6.html",
 "wiper_confidence": "medium-high",
 "wiper_notes": "TopWipers (אירופה, הגה שמאלי): 600+450 מ״מ, אחורי 300 מ״מ. תואם ל-WiperIndex ו-Uniwiper.",
 "wiper_source_title": "TopWipers – Kia Seltos [SP2, SP2I] 08.19→",
@@ -8836,36 +10843,134 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-STONIC-YBC-14": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W LL או LED (חיצוני); LED (פנימי)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4LL 55W (סטנדרט) / 9005 HL+ 60W (אופציה)",
+"headlight_low": "H4LL 55W (סטנדרט) / 9005 HL+ 60W (אופציה)",
+"notes": "מהדורת בריטניה/אירופה (en_GB).",
+"other_bulbs": [
+{
+"position": "תאורת פנייה סטטית",
+"type": "H7LL 55W"
+},
+{
+"position": "תאורת יום",
+"type": "P21WLL או LED"
+},
+{
+"position": "אור חניה",
+"type": "W5W LL או LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W LL"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 51W"
+},
+{
+"position": "פנס אחורי פנימי",
+"type": "W5W"
+},
+{
+"position": "פנס אחורי חיצוני",
+"type": "P21/5W LL או LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W LL או LED"
+},
+{
+"position": "בלם עליון",
+"type": "W5W LL x4"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W LL x2"
+}
+],
 "rear_wiper_mm": 280,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "9-4 (PDF 468)",
+"source_title": "Kia Stonic (YB CUV) Owner's Manual en_GB 2018",
+"source_url": "https://ownersmanual.kia.com/full_pdf/YBC/2018/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Stonic [YB] 09.17→. קדמיים 650/400 מ״מ, אחורי 280 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-STONIC-YBC-G10T": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W LL או LED (חיצוני); LED (פנימי)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4LL 55W (סטנדרט) / 9005 HL+ 60W (אופציה)",
+"headlight_low": "H4LL 55W (סטנדרט) / 9005 HL+ 60W (אופציה)",
+"notes": "מהדורת בריטניה/אירופה (en_GB).",
+"other_bulbs": [
+{
+"position": "תאורת פנייה סטטית",
+"type": "H7LL 55W"
+},
+{
+"position": "תאורת יום",
+"type": "P21WLL או LED"
+},
+{
+"position": "אור חניה",
+"type": "W5W LL או LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W LL"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 51W"
+},
+{
+"position": "פנס אחורי פנימי",
+"type": "W5W"
+},
+{
+"position": "פנס אחורי חיצוני",
+"type": "P21/5W LL או LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W LL או LED"
+},
+{
+"position": "בלם עליון",
+"type": "W5W LL x4"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W LL x2"
+}
+],
 "rear_wiper_mm": 280,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "9-4 (PDF 468)",
+"source_title": "Kia Stonic (YB CUV) Owner's Manual en_GB 2018",
+"source_url": "https://ownersmanual.kia.com/full_pdf/YBC/2018/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Stonic [YB] 09.17→. קדמיים 650/400 מ״מ, אחורי 280 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -9165,8 +11270,8 @@
 "LX-CT200H-2ZR": {
 "brake_light": "",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "H9 65W",
 "headlight_low": "H11 55W (הלוגן)",
 "notes": "פנס בלימה אינו מופיע בטבלת הנורות בספר – הושאר ריק.",
@@ -9188,10 +11293,122 @@
 "type": "21W (בסיס יתד, שקופה)"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 200,
 "source_page": "128-129",
 "source_title": "ספר נהג לקסוס CT200h (יוניון מוטורס)",
-"source_url": "https://books.union-motors.co.il/LexusApp/api/files/88/download"
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/88/download",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Lexus CT200h [ZWA10] 12.10→. קדמיים 650/450 מ״מ, אחורי 200 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/lexus/ct/hatchback-zwa10_-2010-12-01-2020-10-01/"
+},
+"LX-CT200H-2ZR-ALIAS-LEXUS_CT_200H": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 200,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Lexus CT200h [ZWA10] 12.10→. קדמיים 650/450 מ״מ, אחורי 200 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/lexus/ct/hatchback-zwa10_-2010-12-01-2020-10-01/"
+},
+"LX-IS300H-2AR": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Lexus IS [E3] 04.13→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"LX-NX300H-2AR": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Lexus NX I [Z1] 11.14-11.21. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. Valeo: אחורי 300 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/lexus/nx/suv-i-z1-2014-11-01-2021-11-01/"
+},
+"LX-NX350H-A25A": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Lexus NX II [AZ20] 2021→. קדמיים 650/— מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. מגב הנוסע הושמט – סתירה (OXIMO 450 מ״מ, Valeo 400 מ״מ). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/lexus/nx/suv-ii-a2-h2-2021-09-01/"
+},
+"LX-NX450HP-A25A": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Lexus NX II [AZ20] 2021→. קדמיים 650/— מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. מגב הנוסע הושמט – סתירה (OXIMO 450 מ״מ, Valeo 400 מ״מ). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/lexus/nx/suv-ii-a2-h2-2021-09-01/"
+},
+"LX-UX250H-M20A": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Lexus UX 250h 10.18→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25. Valeo: 650/410 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "MG-EHS-PHEV-15E4E": {
 "brake_light": "LED",
@@ -9901,6 +12118,42 @@
 "wiper_notes": "דגם: Mitsubishi L200 [KL/KJ] 09.15→. קדמיים 550/450 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Valeo 2024-25, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Valeo 2024-25 + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/mitsubishi/l200/"
+},
+"MI-LANCER-CS-4G18-NL": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Mitsubishi Lancer [CS] 2003-2008. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/mitsubishi/lancer/sedan-cs_aevo-vii-ix-2003-09-01/"
+},
+"MI-LANCER-CS-4G63-NL06": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Mitsubishi Lancer [CS] 2003-2008. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/mitsubishi/lancer/sedan-cs_aevo-vii-ix-2003-09-01/"
 },
 "MI-LANCER-CY-15": {
 "brake_light": "21/5W (W21/5W)",
@@ -11431,11 +13684,65 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"MZ-CX3-P5-JP21": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 250,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Mazda CX-3 [DK] 02.15→. קדמיים —/450 מ״מ, אחורי 250 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. מגב הנהג הושמט – סתירה בין המקורות (Bosch 530 מ״מ, OXIMO/Valeo 550 מ״מ). Valeo אחורי 240 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/mazda/cx-3/suv-dk-2015-02-01/"
+},
+"MZ-CX3-P5-JP23": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 250,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Mazda CX-3 [DK] 02.15→. קדמיים —/450 מ״מ, אחורי 250 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. מגב הנהג הושמט – סתירה בין המקורות (Bosch 530 מ״מ, OXIMO/Valeo 550 מ״מ). Valeo אחורי 240 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/mazda/cx-3/suv-dk-2015-02-01/"
+},
+"MZ-CX3-P5-X": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 250,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Mazda CX-3 [DK] 02.15→. קדמיים —/450 מ״מ, אחורי 250 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. מגב הנהג הושמט – סתירה בין המקורות (Bosch 530 מ״מ, OXIMO/Valeo 550 מ״מ). Valeo אחורי 240 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/mazda/cx-3/suv-dk-2015-02-01/"
+},
 "MZ-CX3-PE": {
 "brake_light": "W21/5W 21/5W (פנסי הלוגן); LED (פנסי LED)",
 "confidence": "high",
 "front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_passenger_mm": 450,
 "headlight_high": "HB3 60W (ללא אורות נסיעה ביום) / H15 15/55W (עם אורות נסיעה ביום) (הלוגן); LED",
 "headlight_low": "H11 55W (הלוגן); LED",
 "notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
@@ -11481,10 +13788,14 @@
 "type": "W5W 5W"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 250,
 "source_page": "Specifications > Light Bulbs (10020108)",
 "source_title": "CX-3 (DK) 2016 Owner's Manual (EC)",
-"source_url": "https://owners-manual.mazda.com/gen/en/2016/cx-3_en/contents/10020108.html"
+"source_url": "https://owners-manual.mazda.com/gen/en/2016/cx-3_en/contents/10020108.html",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Mazda CX-3 [DK] 02.15→. קדמיים —/450 מ״מ, אחורי 250 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. מגב הנהג הושמט – סתירה בין המקורות (Bosch 530 מ״מ, OXIMO/Valeo 550 מ״מ). Valeo אחורי 240 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/mazda/cx-3/suv-dk-2015-02-01/"
 },
 "MZ-CX30-PE": {
 "brake_light": "LED (לא להחלפה עצמית)",
@@ -11606,8 +13917,8 @@
 "MZ-CX5-KE-PY-IL13": {
 "brake_light": "W21/5W 21/5W",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "HB3 60W (ללא אורות נסיעה ביום) / H15 55W (עם אורות נסיעה ביום) (הלוגן); D4S 35W (קסנון)",
 "headlight_low": "H11 55W (הלוגן); D4S 35W (קסנון)",
 "notes": "Israeli Hebrew Mazda book (archived mazda.co.il), bulb table read from the rendered page image. The manual does not print wiper blade sizes.",
@@ -11657,10 +13968,14 @@
 "type": "W5W 5W"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 350,
 "source_page": "9-8 (PDF p.534)",
 "source_title": "Mazda CX-5 (KE) ספר רכב 8CU8-EE-13A (mazda.co.il)",
-"source_url": "https://web.archive.org/web/20151106142728id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/11.pdf"
+"source_url": "https://web.archive.org/web/20151106142728id_/http://www.mazda.co.il/Uploads/ProductPage/Management/CarBook/11.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Mazda CX-5 [KE] 11.11→. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25. אותן מידות כמו בשורת ה-KE בנזין 2.0. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "MZ-CX5-KF-PE": {
 "brake_light": "LED (סוג LED); W21/5W 21/5W (סוג נורה)",
@@ -11779,8 +14094,8 @@
 "MZ-CX5-KF-PY": {
 "brake_light": "LED (סוג LED); W21/5W 21/5W (סוג נורה)",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "LED",
 "headlight_low": "LED",
 "notes": "Official Mazda Europe online owner's manual (EC market), page 'Light Bulbs'. The manual does not print wiper blade sizes.",
@@ -11822,10 +14137,14 @@
 "type": "LED"
 }
 ],
-"rear_wiper_mm": "",
+"rear_wiper_mm": 350,
 "source_page": "Specifications > Light Bulbs (10020108)",
 "source_title": "CX-5 (KF) Owner's Manual 8HD5-EE-18K",
-"source_url": "https://owners-manual.mazda.com/gen/en/cx-5/cx-5_8hd5ee18k/contents/10020108.html"
+"source_url": "https://owners-manual.mazda.com/gen/en/cx-5/cx-5_8hd5ee18k/contents/10020108.html",
+"wiper_confidence": "medium",
+"wiper_notes": "דגם: Mazda CX-5 [KF] 02.17→. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי). מקור יחיד (Bosch), כמו בשורת ה-KF בנזין 2.0. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי)",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "MZ-CX5-KF-PY-IL17": {
 "brake_light": "LED (פנסי LED); W21/5W 21/5W (פנסי הלוגן)",
@@ -12088,18 +14407,43 @@
 "source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/juke/Juke_F15_owners_manual_.pdf"
 },
 "NI-JUKE-F16-HR10DDT": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 575,
 "front_wipers_passenger_mm": 380,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל פריטי ה-LED: להחלפה אצל מוסך מורשה ניסאן. פריטים שבספר מופיעים רק בהספק (W) – הושמטו.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנסי חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "369 (PDF 373)",
+"source_title": "Nissan Juke (F16) Owner's Manual OM22EN-0F16E0EUR (UK)",
+"source_url": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/juke_0f16_e0_2022/pdf/om22en-0f16e0eur.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Juke [F16] 2020→. קדמיים 575/380 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -12124,22 +14468,82 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-JUKE-F16-HRA0-ALIAS": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 575,
 "front_wipers_passenger_mm": 380,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל פריטי ה-LED: להחלפה אצל מוסך מורשה ניסאן. פריטים שבספר מופיעים רק בהספק (W) – הושמטו.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנסי חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "369 (PDF 373)",
+"source_title": "Nissan Juke (F16) Owner's Manual OM22EN-0F16E0EUR (UK)",
+"source_url": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/juke_0f16_e0_2022/pdf/om22en-0f16e0eur.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Juke [F16] 2020→. קדמיים 575/380 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"NI-JUKEHEV-HF16-HR16DE": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל פריטי ה-LED: להחלפה אצל מוסך מורשה ניסאן. פריטים שבספר מופיעים רק בהספק (W) – הושמטו.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנסי חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "333 (PDF 335)",
+"source_title": "Nissan Juke Hybrid (F16) Owner's Manual OM22EN-HF16E0EUR (UK)",
+"source_url": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/jukehybrid_hf16_e0_2022/pdf/om22en-hf16e0eur.pdf"
 },
 "NI-MICRA-K12-CR14DE-GR": {
 "brake_light": "",
@@ -12214,73 +14618,191 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
-"NI-QQ-J10-HR16DE-GR": {
+"NI-NV200-M20-K9K-GR": {
 "brake_light": "",
 "confidence": "",
-"front_wipers_driver_mm": 600,
-"front_wipers_passenger_mm": 380,
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 400,
 "headlight_high": "",
 "headlight_low": "",
 "notes": "",
 "other_bulbs": [],
-"rear_wiper_mm": 300,
+"rear_wiper_mm": 350,
 "source_page": "",
 "source_title": "",
 "source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Nissan NV200 [M20] 2009→. קדמיים 550/400 מ״מ, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). המגב האחורי לגרסה עם דלת אחורית מורמת. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/nissan/nv200/van-2010-02-01-2021-12-01/"
+},
+"NI-QQ-J10-HR16DE-GR": {
+"brake_light": "LED (לפי ספר 2013; החלפה אצל המשווק)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 380,
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר מהדורת 2013 (מתיחת פנים). בשנים מוקדמות יותר ייתכן פנס אחורי עם נורות – לכן רמת ביטחון בינונית-גבוהה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "8-26 (PDF 274, עמוד תמונה)",
+"source_title": "Nissan Qashqai (J10) Owner's Manual 04/2013 (Nissan Greece, Greek)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/QASHQAI_J10_2013_APRIL.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J10] 2007-2013. קדמיים 600/380 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ-J10-HR16DE-GR-CALIAS-QASHQAI-2013-x184": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (לפי ספר 2013; החלפה אצל המשווק)",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 380,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר מהדורת 2013 (מתיחת פנים). בשנים מוקדמות יותר ייתכן פנס אחורי עם נורות – לכן רמת ביטחון בינונית-גבוהה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-26 (PDF 274, עמוד תמונה)",
+"source_title": "Nissan Qashqai (J10) Owner's Manual 04/2013 (Nissan Greece, Greek)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/QASHQAI_J10_2013_APRIL.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J10] 2007-2013. קדמיים 600/380 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ-J10-MR20DE-GR": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (לפי ספר 2013; החלפה אצל המשווק)",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 380,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר מהדורת 2013 (מתיחת פנים). בשנים מוקדמות יותר ייתכן פנס אחורי עם נורות – לכן רמת ביטחון בינונית-גבוהה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-26 (PDF 274, עמוד תמונה)",
+"source_title": "Nissan Qashqai (J10) Owner's Manual 04/2013 (Nissan Greece, Greek)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/QASHQAI_J10_2013_APRIL.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J10] 2007-2013. קדמיים 600/380 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ-J10-MR20DE-GR-CALIAS-QASHQAI-2008-x183": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (לפי ספר 2013; החלפה אצל המשווק)",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 380,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר מהדורת 2013 (מתיחת פנים). בשנים מוקדמות יותר ייתכן פנס אחורי עם נורות – לכן רמת ביטחון בינונית-גבוהה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-26 (PDF 274, עמוד תמונה)",
+"source_title": "Nissan Qashqai (J10) Owner's Manual 04/2013 (Nissan Greece, Greek)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/QASHQAI_J10_2013_APRIL.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J10] 2007-2013. קדמיים 600/380 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -12688,94 +15210,307 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ-J12-HR13DDT": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": "",
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל פריטי ה-LED: להחלפה אצל מוסך מורשה ניסאן. פריטים שבספר מופיעים רק בהספק (W) – הושמטו.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנסי חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W / LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "485 (PDF 489)",
+"source_title": "Nissan Qashqai (J12) Owner's Manual OM22EN-0J12E1EUR (UK)",
+"source_url": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/qashqai_0j12_e1_2022/pdf/om22en-0j12e1eur.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J12] 2021→. אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. מגבים קדמיים: אין נתון – ב-Bosch מופיע רק המגב האחורי לדגם J12. המגב האחורי 300 מ״מ תואם ל-Valeo 2024-25.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ-J12-HR13DDT-CALIAS-QASHQAI-2022-x182": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": "",
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל פריטי ה-LED: להחלפה אצל מוסך מורשה ניסאן. פריטים שבספר מופיעים רק בהספק (W) – הושמטו.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנסי חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W / LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "485 (PDF 489)",
+"source_title": "Nissan Qashqai (J12) Owner's Manual OM22EN-0J12E1EUR (UK)",
+"source_url": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/qashqai_0j12_e1_2022/pdf/om22en-0j12e1eur.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J12] 2021→. אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. מגבים קדמיים: אין נתון – ב-Bosch מופיע רק המגב האחורי לדגם J12. המגב האחורי 300 מ״מ תואם ל-Valeo 2024-25.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ2-J10-MR20-ALIAS": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (לפי ספר 2013; החלפה אצל המשווק)",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 380,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר מהדורת 2013 (מתיחת פנים). בשנים מוקדמות יותר ייתכן פנס אחורי עם נורות – לכן רמת ביטחון בינונית-גבוהה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-26 (PDF 274, עמוד תמונה)",
+"source_title": "Nissan Qashqai (J10) Owner's Manual 04/2013 (Nissan Greece, Greek)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/QASHQAI_J10_2013_APRIL.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J10] 2007-2013. קדמיים 600/380 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ2-J10-MR20DE-GR": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (לפי ספר 2013; החלפה אצל המשווק)",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 380,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר מהדורת 2013 (מתיחת פנים). בשנים מוקדמות יותר ייתכן פנס אחורי עם נורות – לכן רמת ביטחון בינונית-גבוהה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-26 (PDF 274, עמוד תמונה)",
+"source_title": "Nissan Qashqai (J10) Owner's Manual 04/2013 (Nissan Greece, Greek)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/QASHQAI_J10_2013_APRIL.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J10] 2007-2013. קדמיים 600/380 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ2-J10-MR20DE-GR-CALIAS-QASHQAIPLUS2-2009-x185": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (לפי ספר 2013; החלפה אצל המשווק)",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 380,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר מהדורת 2013 (מתיחת פנים). בשנים מוקדמות יותר ייתכן פנס אחורי עם נורות – לכן רמת ביטחון בינונית-גבוהה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-26 (PDF 274, עמוד תמונה)",
+"source_title": "Nissan Qashqai (J10) Owner's Manual 04/2013 (Nissan Greece, Greek)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/QASHQAI_J10_2013_APRIL.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J10] 2007-2013. קדמיים 600/380 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"NI-SENTRA-B17-MRA8DE-IL16": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Nissan Sentra [B17] 09.14→. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). OXIMO: 650/350 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/nissan/sentra/sedan-vii-b17-2014-09-01/"
+},
+"NI-SENTRA-B17-MRA8DE-IL16-LATER": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Nissan Sentra [B17] 09.14→. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). OXIMO: 650/350 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/nissan/sentra/sedan-vii-b17-2014-09-01/"
+},
+"NI-SENTRA-B17-MRA8DE-US": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Nissan Sentra [B17] 09.14→. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). OXIMO: 650/350 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/nissan/sentra/sedan-vii-b17-2014-09-01/"
+},
+"NI-SENTRA-B17-MRA8DE-US-CALIAS-MRA8": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם: Nissan Sentra [B17] 09.14→. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). OXIMO: 650/350 מ״מ. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/nissan/sentra/sedan-vii-b17-2014-09-01/"
 },
 "NI-SENTRA-B18-MR20DD": {
 "brake_light": "",
@@ -12894,17 +15629,38 @@
 },
 "NI-XT-T32-M9R-GR": {
 "brake_light": "",
-"confidence": "",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W (פנס הלוגן)",
+"headlight_low": "H11 55W (פנס הלוגן)",
+"notes": "נורת בלם מודפסת כהספק 21W בלבד ללא קוד – לכן שדה נורת בלם נשאר ריק. פנסי LED/גרסאות פנס אחרות מוחלפים אצל המשווק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-26 (PDF 326); אומת מול ספר יוון T32 11/2016 עמ' 8-28",
+"source_title": "Nissan X-Trail (T32) Owner's Manual 2016 ENG (ניסאן ישראל)",
+"source_url": "https://web.archive.org/web/20170709052639id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-Xtrail-Car-Book-2016-ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan X-Trail [T32] 2014-2022. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -12912,17 +15668,38 @@
 },
 "NI-XT-T32-R9M-GR": {
 "brake_light": "",
-"confidence": "",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W (פנס הלוגן)",
+"headlight_low": "H11 55W (פנס הלוגן)",
+"notes": "נורת בלם מודפסת כהספק 21W בלבד ללא קוד – לכן שדה נורת בלם נשאר ריק. פנסי LED/גרסאות פנס אחרות מוחלפים אצל המשווק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-26 (PDF 326); אומת מול ספר יוון T32 11/2016 עמ' 8-28",
+"source_title": "Nissan X-Trail (T32) Owner's Manual 2016 ENG (ניסאן ישראל)",
+"source_url": "https://web.archive.org/web/20170709052639id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-Xtrail-Car-Book-2016-ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan X-Trail [T32] 2014-2022. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -12930,17 +15707,38 @@
 },
 "NI-XT-T32-R9M-GR-CALIAS-XTRAIL-2016-x186": {
 "brake_light": "",
-"confidence": "",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W (פנס הלוגן)",
+"headlight_low": "H11 55W (פנס הלוגן)",
+"notes": "נורת בלם מודפסת כהספק 21W בלבד ללא קוד – לכן שדה נורת בלם נשאר ריק. פנסי LED/גרסאות פנס אחרות מוחלפים אצל המשווק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-26 (PDF 326); אומת מול ספר יוון T32 11/2016 עמ' 8-28",
+"source_title": "Nissan X-Trail (T32) Owner's Manual 2016 ENG (ניסאן ישראל)",
+"source_url": "https://web.archive.org/web/20170709052639id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-Xtrail-Car-Book-2016-ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan X-Trail [T32] 2014-2022. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -13360,6 +16158,76 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"PE-2008-HN05": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "הרכבים בשורה זו הם בפועל 2008 דור 2 (2019 ואילך).",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W (פנסי LED) / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "184-186 (PDF 186-188)",
+"source_title": "Peugeot 2008 (P24) Handbook ed.01-23 (en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/2008.p2/eGuide_p24_ed01-23/pdfs/9999_9999_484_en-GB.pdf"
+},
+"PE-2008-YH01": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W (פנסי LED) / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "184-186 (PDF 186-188)",
+"source_title": "Peugeot 2008 (P24) Handbook ed.01-23 (en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/2008.p2/eGuide_p24_ed01-23/pdfs/9999_9999_484_en-GB.pdf"
+},
 "PE-208-HN01": {
 "brake_light": "",
 "confidence": "",
@@ -13379,36 +16247,117 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "PE-3008-HN05": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 700,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 (הלוגן, לפי ספר 2017) / LED",
+"headlight_low": "H7 (הלוגן, לפי ספר 2017) / LED (Full LED; ספר 2020 מתאר LED בלבד)",
+"notes": "ספר 2020 (eGuide_3008_p84_ed01-20) מתאר פנסי LED בלבד.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PWY24W (הלוגן) / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W (ספר 2017) / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (ספר 2017) / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
 "rear_wiper_mm": 280,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "248-250 (PDF 250-252); ed.01-20 200-201",
+"source_title": "Peugeot 3008 Handbook ed.01-17 + ed.01-20 (en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/3008/eGuide_3008_p84_ed01-17/pdfs/9999_9999_186_en-GB.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Peugeot 3008 II [P84] 2016-2024. קדמיים 700/400 מ״מ, אחורי 280 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24 (A557S, 700/400), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Valeo 2024-25 (אחורי 280) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. Valeo מציין 680/425 מ״מ ו-Bosch מציין אחורי 230 מ״מ – נבחרו המידות שבהן שני מקורות תואמים.",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 (A557S, 700/400) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Valeo 2024-25 (אחורי 280)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/peugeot/3008/"
 },
+"PE-3008-HN09": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W (פנסי LED רגילים) / LED (Full LED 3D)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "235-237 (PDF 237-239)",
+"source_title": "Peugeot 3008 (P64) Handbook ed.11-25 (en)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/3008.p6/p64/ed11-25/en_us/P3508CO2511en-1_preview.pdf"
+},
 "PE-3008-YH01": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 700,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 (הלוגן, לפי ספר 2017) / LED",
+"headlight_low": "H7 (הלוגן, לפי ספר 2017) / LED (Full LED; ספר 2020 מתאר LED בלבד)",
+"notes": "ספר 2020 (eGuide_3008_p84_ed01-20) מתאר פנסי LED בלבד.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PWY24W (הלוגן) / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W (ספר 2017) / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (ספר 2017) / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
 "rear_wiper_mm": 280,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "248-250 (PDF 250-252); ed.01-20 200-201",
+"source_title": "Peugeot 3008 Handbook ed.01-17 + ed.01-20 (en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/3008/eGuide_3008_p84_ed01-17/pdfs/9999_9999_186_en-GB.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Peugeot 3008 II [P84] 2016-2024. קדמיים 700/400 מ״מ, אחורי 280 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24 (A557S, 700/400), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Valeo 2024-25 (אחורי 280) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. Valeo מציין 680/425 מ״מ ו-Bosch מציין אחורי 230 מ״מ – נבחרו המידות שבהן שני מקורות תואמים.",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 (A557S, 700/400) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Valeo 2024-25 (אחורי 280)",
@@ -13449,6 +16398,76 @@
 "wiper_notes": "דגם לפי Bosch 2023: Peugeot 308 II [T9] 07.13-2021. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"PE-5008-HN05": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED (Full LED)",
+"headlight_low": "H7 (הלוגן) / LED (Full LED)",
+"notes": "הספר הוא מהדורת 2017; לפי ספר 3008 התאום (2020) גרסאות הפייסליפט עם פנסי LED בלבד.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "252-255 (PDF 254-257)",
+"source_title": "Peugeot 5008 Handbook ed.01-17 (en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/5008/eGuide_5008_5008n_ed01-17/pdfs/9999_9999_187_en-GB.pdf"
+},
+"PE-5008-YH01": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED (Full LED)",
+"headlight_low": "H7 (הלוגן) / LED (Full LED)",
+"notes": "הספר הוא מהדורת 2017; לפי ספר 3008 התאום (2020) גרסאות הפייסליפט עם פנסי LED בלבד.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "252-255 (PDF 254-257)",
+"source_title": "Peugeot 5008 Handbook ed.01-17 (en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/5008/eGuide_5008_5008n_ed01-17/pdfs/9999_9999_187_en-GB.pdf"
 },
 "PE-ALL-5GF-EP6FADTXD-OPELCG4-X": {
 "brake_light": "",
@@ -13559,22 +16578,102 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-CAPTUR-H5F": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (פאזה 1, 2013-2017) / P21W (פאזה 2, 2017-2019)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"headlight_low": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Captur-1007-8_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL / H11LL (עם תאורת פנייה) / LED"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W (פאזה 1)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
 "rear_wiper_mm": 290,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "1007-8: 5.14-5.18 (PDF 196-200); 1238-6: 5.14-5.19 (PDF 212-217)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1007-8 + NU 1238-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1238-6_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Captur I [J5] 2013-2019. קדמיים 650/— מ״מ, אחורי 290 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. הנוסע הושמט – המידה משתנה בין תתי-התקופות בטווח השנים של השורה (Bosch: 340/360; Valeo: 350/380). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"RN-CAPTUR-K9K-1318": {
+"brake_light": "P21/5W (פאזה 1, 2013-2017) / P21W (פאזה 2, 2017-2019)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"headlight_low": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Captur-1007-8_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL / H11LL (עם תאורת פנייה) / LED"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W (פאזה 1)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1007-8: 5.14-5.18 (PDF 196-200); 1238-6: 5.14-5.19 (PDF 212-217)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1007-8 + NU 1238-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1238-6_ENG.pdf"
 },
 "RN-CF-ARKANA-H5H-2526": {
 "brake_light": "",
@@ -13630,127 +16729,443 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-CF-CAPTUR1-H4B-1319": {
+"brake_light": "P21/5W (פאזה 1, 2013-2017) / P21W (פאזה 2, 2017-2019)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"headlight_low": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Captur-1007-8_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL / H11LL (עם תאורת פנייה) / LED"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W (פאזה 1)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1007-8: 5.14-5.18 (PDF 196-200); 1238-6: 5.14-5.19 (PDF 212-217)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1007-8 + NU 1238-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1238-6_ENG.pdf"
+},
+"RN-CF-CAPTUR1-HRA2-1318": {
+"brake_light": "P21/5W (פאזה 1, 2013-2017) / P21W (פאזה 2, 2017-2019)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"headlight_low": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Captur-1007-8_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL / H11LL (עם תאורת פנייה) / LED"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W (פאזה 1)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1007-8: 5.14-5.18 (PDF 196-200); 1238-6: 5.14-5.19 (PDF 212-217)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1007-8 + NU 1238-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1238-6_ENG.pdf"
+},
 "RN-CF-CLIO4-D4F-1315": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 (הלוגן) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מקור: מדריך קליאו IV פאזה 2 (2016-2020); לרכבי 2012-2016 (פאזה 1) לא נבדק ספר נפרד.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11L / H11L+ / H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 250,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Front headlights / Rear lights and side lights: replacing bulbs",
+"source_title": "Renault Clio IV phase 2 – מדריך רשמי user-manual.renault.com (x98, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/x98/section-5-practical-advice/front-headlights-replacing-bulbs-13",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Clio IV 2012-2019. קדמיים 650/340 מ״מ, אחורי 250 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-CF-CLIO4-H5F-1319": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 (הלוגן) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מקור: מדריך קליאו IV פאזה 2 (2016-2020); לרכבי 2012-2016 (פאזה 1) לא נבדק ספר נפרד.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11L / H11L+ / H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 250,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Front headlights / Rear lights and side lights: replacing bulbs",
+"source_title": "Renault Clio IV phase 2 – מדריך רשמי user-manual.renault.com (x98, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/x98/section-5-practical-advice/front-headlights-replacing-bulbs-13",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Clio IV 2012-2019. קדמיים 650/340 מ״מ, אחורי 250 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-CF-CLIO4-HRA2-1319": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 (הלוגן) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מקור: מדריך קליאו IV פאזה 2 (2016-2020); לרכבי 2012-2016 (פאזה 1) לא נבדק ספר נפרד.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11L / H11L+ / H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 250,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Front headlights / Rear lights and side lights: replacing bulbs",
+"source_title": "Renault Clio IV phase 2 – מדריך רשמי user-manual.renault.com (x98, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/x98/section-5-practical-advice/front-headlights-replacing-bulbs-13",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Clio IV 2012-2019. קדמיים 650/340 מ״מ, אחורי 250 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
-"RN-CF-MEGANE4-H5HE4-2223": {
+"RN-CF-KADJAR-H5HE4-22": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "פנס בלימה: הספר מפנה למוסך מורשה ואינו מציין סוג נורה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "W5W"
+},
+{
+"position": "פנסי בלימה וחניה אחוריים",
+"type": "במוסך מורשה (סוג הנורה לא מצוין בספר)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.15-5.19 (PDF 253-257)",
+"source_title": "Renault KADJAR Vehicle user manual (NU 1161-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Kadjar-1161-6_ENG.pdf"
+},
+"RN-CF-MEGANE4-H5HE4-2223": {
+"brake_light": "P21W (4 דלתות; 5 דלתות פאזה 1) / יחידה להחלפה במוסך מורשה (5 דלתות פאזה 2 וסטיישן)",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV (2016 ואילך). פנסי LED – להחלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Projecteurs avant / Feux arrière: remplacement des lampes",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/projecteurs-avant-remplacement-des-lampes-12",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Megane IV [B9/LV] 12.15→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). המגב האחורי הושמט (האצ׳בק/גרנד קופה באותה שורה).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-CF-MEGANE4-K9K-1923": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W (4 דלתות; 5 דלתות פאזה 1) / יחידה להחלפה במוסך מורשה (5 דלתות פאזה 2 וסטיישן)",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV (2016 ואילך). פנסי LED – להחלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Projecteurs avant / Feux arrière: remplacement des lampes",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/projecteurs-avant-remplacement-des-lampes-12",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Megane IV [B9/LV] 12.15→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). המגב האחורי הושמט (האצ׳בק/גרנד קופה באותה שורה).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-CF-MEGANE4-K9K-1923-CALIAS-MEGANE-2021-x1816": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W (4 דלתות; 5 דלתות פאזה 1) / יחידה להחלפה במוסך מורשה (5 דלתות פאזה 2 וסטיישן)",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV (2016 ואילך). פנסי LED – להחלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Projecteurs avant / Feux arrière: remplacement des lampes",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/projecteurs-avant-remplacement-des-lampes-12",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Megane IV [B9/LV] 12.15→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). המגב האחורי הושמט (האצ׳בק/גרנד קופה באותה שורה).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-CF-MEGANE4GC-K9K-19": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV גרנד קופה (סדאן 4 דלתות).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Projecteurs avant / Feux arrière (version 4 portes)",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/feux-arriere-et-lateraux-remplacement-des-lampes-19",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Renault Megane IV Grand Coupé [LV] 2016→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
@@ -13774,6 +17189,84 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-CLIO-H4B": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 (הלוגן) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מקור: מדריך קליאו IV פאזה 2 (2016-2020); לרכבי 2012-2016 (פאזה 1) לא נבדק ספר נפרד.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11L / H11L+ / H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights and side lights: replacing bulbs",
+"source_title": "Renault Clio IV phase 2 – מדריך רשמי user-manual.renault.com (x98, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/x98/section-5-practical-advice/front-headlights-replacing-bulbs-13"
+},
+"RN-CLIO-H5F": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 (הלוגן) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מקור: מדריך קליאו IV פאזה 2 (2016-2020); לרכבי 2012-2016 (פאזה 1) לא נבדק ספר נפרד.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11L / H11L+ / H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights and side lights: replacing bulbs",
+"source_title": "Renault Clio IV phase 2 – מדריך רשמי user-manual.renault.com (x98, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/x98/section-5-practical-advice/front-headlights-replacing-bulbs-13"
+},
 "RN-CLIO-K9K-0719": {
 "brake_light": "",
 "confidence": "",
@@ -13792,109 +17285,399 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-CLIO-K9K-V": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "",
+"notes": "אור נמוך: הספר מפנה למוסך מורשה ואינו מציין סוג נורה; אור גבוה LED.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "במוסך מורשה"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "במוסך מורשה"
+},
+{
+"position": "בלימה עילי",
+"type": "במוסך מורשה"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.14-5.16 (PDF 362-364)",
+"source_title": "Renault CLIO Vehicle user manual (NU 1292-9, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/CLIO-1292-9_ENG.pdf"
+},
+"RN-CLIO-V-H5HB4B-ALIAS-CLIO": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "",
+"notes": "אור נמוך: הספר מפנה למוסך מורשה ואינו מציין סוג נורה; אור גבוה LED.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "במוסך מורשה"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "במוסך מורשה"
+},
+{
+"position": "בלימה עילי",
+"type": "במוסך מורשה"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.14-5.16 (PDF 362-364)",
+"source_title": "Renault CLIO Vehicle user manual (NU 1292-9, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/CLIO-1292-9_ENG.pdf"
+},
+"RN-CLIO-V-H5HB4B-ALIAS-CLIO_5": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "",
+"notes": "אור נמוך: הספר מפנה למוסך מורשה ואינו מציין סוג נורה; אור גבוה LED.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "במוסך מורשה"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "במוסך מורשה"
+},
+{
+"position": "בלימה עילי",
+"type": "במוסך מורשה"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.14-5.16 (PDF 362-364)",
+"source_title": "Renault CLIO Vehicle user manual (NU 1292-9, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/CLIO-1292-9_ENG.pdf"
+},
+"RN-CLIO-V-PETROL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "",
+"notes": "אור נמוך: הספר מפנה למוסך מורשה ואינו מציין סוג נורה; אור גבוה LED.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "במוסך מורשה"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "במוסך מורשה"
+},
+{
+"position": "בלימה עילי",
+"type": "במוסך מורשה"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.14-5.16 (PDF 362-364)",
+"source_title": "Renault CLIO Vehicle user manual (NU 1292-9, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/CLIO-1292-9_ENG.pdf"
+},
 "RN-FLUENCE-K9K": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / D1S (קסנון – במוסך מורשה)",
+"notes": "גרסת 4 דלתות. פנס בלימה עילי ונסיעה לאחור – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.16-5.17, 5.21 (PDF 189-190, 194)",
+"source_title": "Renault FLUENCE Vehicle user manual (NU 891-7, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Fluence_-_891-7_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Fluence 2010-2017. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-FLUENCE-PETROL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / D1S (קסנון – במוסך מורשה)",
+"notes": "גרסת 4 דלתות. פנס בלימה עילי ונסיעה לאחור – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.16-5.17, 5.21 (PDF 189-190, 194)",
+"source_title": "Renault FLUENCE Vehicle user manual (NU 891-7, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Fluence_-_891-7_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Fluence 2010-2017. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-FLUENCE-PETROL-CALIAS-M4RK7": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / D1S (קסנון – במוסך מורשה)",
+"notes": "גרסת 4 דלתות. פנס בלימה עילי ונסיעה לאחור – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.16-5.17, 5.21 (PDF 189-190, 194)",
+"source_title": "Renault FLUENCE Vehicle user manual (NU 891-7, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Fluence_-_891-7_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Fluence 2010-2017. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-FLUENCE-PETROL-YALIAS-2009": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / D1S (קסנון – במוסך מורשה)",
+"notes": "גרסת 4 דלתות. פנס בלימה עילי ונסיעה לאחור – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.16-5.17, 5.21 (PDF 189-190, 194)",
+"source_title": "Renault FLUENCE Vehicle user manual (NU 891-7, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Fluence_-_891-7_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Fluence 2010-2017. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-GRANDCOUPE-K9K": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV גרנד קופה (סדאן 4 דלתות).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Projecteurs avant / Feux arrière (version 4 portes)",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/feux-arriere-et-lateraux-remplacement-des-lampes-19",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Renault Megane IV Grand Coupé [LV] 2016→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/renault/megane/"
 },
 "RN-GRANDCOUPE-PETROL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV גרנד קופה (סדאן 4 דלתות).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Projecteurs avant / Feux arrière (version 4 portes)",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/feux-arriere-et-lateraux-remplacement-des-lampes-19",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Renault Megane IV Grand Coupé [LV] 2016→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
@@ -13902,17 +17685,50 @@
 },
 "RN-KADJAR-K9K": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "פנס בלימה: הספר מפנה למוסך מורשה ואינו מציין סוג נורה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "W5W"
+},
+{
+"position": "פנסי בלימה וחניה אחוריים",
+"type": "במוסך מורשה (סוג הנורה לא מצוין בספר)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.15-5.19 (PDF 253-257)",
+"source_title": "Renault KADJAR Vehicle user manual (NU 1161-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Kadjar-1161-6_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Kadjar [HA/HL] 2015-2022. קדמיים 650/— מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. הנוסע הושמט – סתירה בין Bosch (400/450) ל-Valeo (400/480). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). המגב האחורי: אין נתון ב-Bosch.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -13920,111 +17736,610 @@
 },
 "RN-KADJAR-PETROL": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "פנס בלימה: הספר מפנה למוסך מורשה ואינו מציין סוג נורה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד (מראות)",
+"type": "W5W"
+},
+{
+"position": "פנסי בלימה וחניה אחוריים",
+"type": "במוסך מורשה (סוג הנורה לא מצוין בספר)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.15-5.19 (PDF 253-257)",
+"source_title": "Renault KADJAR Vehicle user manual (NU 1161-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Kadjar-1161-6_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Kadjar [HA/HL] 2015-2022. קדמיים 650/— מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. הנוסע הושמט – סתירה בין Bosch (400/450) ל-Valeo (400/480). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). המגב האחורי: אין נתון ב-Bosch.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-KANGOO-K9K-0719": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 55W (אנטי UV)",
+"headlight_low": "H4 55W (אנטי UV)",
+"notes": "קנגו II (X61).",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.16-5.22 (PDF 222-228)",
+"source_title": "Renault KANGOO Vehicle user manual (NU 960-15, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/KANGOO-960-15_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Kangoo II [FW/KW] 01.08-2021. קדמיים 550/— מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25: מגב הנהג והאחורי תואמים. מגב הנוסע הושמט – סתירה בין המקורות (Bosch 530 מ״מ, Valeo 500-550 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-KANGOO-PETROL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 55W (אנטי UV)",
+"headlight_low": "H4 55W (אנטי UV)",
+"notes": "קנגו II (X61).",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.16-5.22 (PDF 222-228)",
+"source_title": "Renault KANGOO Vehicle user manual (NU 960-15, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/KANGOO-960-15_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Kangoo II [FW/KW] 01.08-2021. קדמיים 550/— מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25: מגב הנהג והאחורי תואמים. מגב הנוסע הושמט – סתירה בין המקורות (Bosch 530 מ״מ, Valeo 500-550 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-KANGOO-PETROL-CALIAS-HRA2": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W (אנטי UV)",
+"headlight_low": "H4 55W (אנטי UV)",
+"notes": "קנגו II (X61).",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.16-5.22 (PDF 222-228)",
+"source_title": "Renault KANGOO Vehicle user manual (NU 960-15, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/KANGOO-960-15_ENG.pdf"
+},
+"RN-KANGOO2-K9K-ALIAS": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W (אנטי UV)",
+"headlight_low": "H4 55W (אנטי UV)",
+"notes": "קנגו II (X61).",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.16-5.22 (PDF 222-228)",
+"source_title": "Renault KANGOO Vehicle user manual (NU 960-15, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/KANGOO-960-15_ENG.pdf"
+},
+"RN-KANGOO2-PETROL-ALIAS": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W (אנטי UV)",
+"headlight_low": "H4 55W (אנטי UV)",
+"notes": "קנגו II (X61).",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.16-5.22 (PDF 222-228)",
+"source_title": "Renault KANGOO Vehicle user manual (NU 960-15, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/KANGOO-960-15_ENG.pdf"
+},
 "RN-MEGANE-H5H": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W (4 דלתות; 5 דלתות פאזה 1) / יחידה להחלפה במוסך מורשה (5 דלתות פאזה 2 וסטיישן)",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV (2016 ואילך). פנסי LED – להחלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Projecteurs avant / Feux arrière: remplacement des lampes",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/projecteurs-avant-remplacement-des-lampes-12",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Megane IV [B9/LV] 12.15→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). המגב האחורי הושמט (האצ׳בק/גרנד קופה באותה שורה).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-MEGANE-K9K-18": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W (4 דלתות; 5 דלתות פאזה 1) / יחידה להחלפה במוסך מורשה (5 דלתות פאזה 2 וסטיישן)",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV (2016 ואילך). פנסי LED – להחלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Projecteurs avant / Feux arrière: remplacement des lampes",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/projecteurs-avant-remplacement-des-lampes-12",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Megane IV [B9/LV] 12.15→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). המגב האחורי הושמט (האצ׳בק/גרנד קופה באותה שורה).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-MEGANE-K9K-1923-X": {
+"brake_light": "P21W (4 דלתות; 5 דלתות פאזה 1) / יחידה להחלפה במוסך מורשה (5 דלתות פאזה 2 וסטיישן)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV (2016 ואילך). פנסי LED – להחלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Projecteurs avant / Feux arrière: remplacement des lampes",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/projecteurs-avant-remplacement-des-lampes-12"
+},
 "RN-MEGANE-K9K-24": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W (4 דלתות; 5 דלתות פאזה 1) / יחידה להחלפה במוסך מורשה (5 דלתות פאזה 2 וסטיישן)",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV (2016 ואילך). פנסי LED – להחלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Projecteurs avant / Feux arrière: remplacement des lampes",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/projecteurs-avant-remplacement-des-lampes-12",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Megane IV [B9/LV] 12.15→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). המגב האחורי הושמט (האצ׳בק/גרנד קופה באותה שורה).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"RX-CAPTUR-H4B-X": {
+"brake_light": "P21/5W (פאזה 1, 2013-2017) / P21W (פאזה 2, 2017-2019)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"headlight_low": "H1 55W (הלוגן, אנטי UV) / LED (פאזה 2, לפי גרסה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Captur-1007-8_ENG.pdf",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL / H11LL (עם תאורת פנייה) / LED"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W (פאזה 1)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (פאזה 2)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1007-8: 5.14-5.18 (PDF 196-200); 1238-6: 5.14-5.19 (PDF 212-217)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1007-8 + NU 1238-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1238-6_ENG.pdf"
+},
+"RX-CLIO4-D4F-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 (הלוגן) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מקור: מדריך קליאו IV פאזה 2 (2016-2020); לרכבי 2012-2016 (פאזה 1) לא נבדק ספר נפרד.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11L / H11L+ / H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights and side lights: replacing bulbs",
+"source_title": "Renault Clio IV phase 2 – מדריך רשמי user-manual.renault.com (x98, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/x98/section-5-practical-advice/front-headlights-replacing-bulbs-13"
+},
+"RX-GRANDCOUPE-K9K-19-X": {
+"brake_light": "P21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "מגאן IV גרנד קופה (סדאן 4 דלתות).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Projecteurs avant / Feux arrière (version 4 portes)",
+"source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
+"source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/feux-arriere-et-lateraux-remplacement-des-lampes-19"
 },
 "SU-FOR-SK-FB25-IL": {
 "brake_light": "LED",
@@ -17160,18 +21475,35 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-RAV4-HV-B": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. Headlamps and brake lamps are not in the bulb table; p.361 lists them as garage-replaced LED lamps. Israeli Union Motors book. Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. ",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת רגליים חיצונית*",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "433 (PDF p.434) טבלת נורות; 361 (PDF p.362) נורות להחלפה במוסך / LED",
+"source_title": "Toyota RAV4 Hybrid 2022-2023 ספר רכב (Union Motors file 923)",
+"source_url": "https://books.union-motors.co.il/app/api/files/923/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota RAV4 [A5] 11.18→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -17629,10 +21961,53 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "TM-AURIS-HV-2016": {
+"brake_light": "21W נורת קצה יחיד שקופה (סוג נורה; קוד ECE לא מודפס)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 340,
+"headlight_high": "HIR2 55W (פנסים קדמיים מסוג הלוגן*)",
+"headlight_low": "HIR2 55W (פנסים קדמיים מסוג הלוגן*)",
+"notes": "שורת אוריס ללא קוד דור (2016-2019) = E18 מתיחת פנים היברידי; ספר 2016-2017. *אם קיים – גרסאות עם פנסי LED מוחלפות במוסך. Israeli Union Motors book. Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "פנסי איתות פניה קדמיים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה צידיים",
+"type": "5W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה אחוריים",
+"type": "21W נורת קצה יחיד כתומה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "445 (PDF p.446)",
+"source_title": "Toyota Auris Hybrid 2016-2017 ספר רכב (Union Motors file 346)",
+"source_url": "https://books.union-motors.co.il/app/api/files/346/download",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם לפי Bosch 2023: Toyota Auris [E18] 2012-2018. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"TM-CAMRY-HV-2AR": {
 "brake_light": "",
 "confidence": "",
 "front_wipers_driver_mm": 650,
-"front_wipers_passenger_mm": 340,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "",
 "headlight_low": "",
 "notes": "",
@@ -17642,9 +22017,9 @@
 "source_title": "",
 "source_url": "",
 "wiper_confidence": "medium-high",
-"wiper_notes": "דגם לפי Bosch 2023: Toyota Auris [E18] 2012-2018. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
-"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
-"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+"wiper_notes": "דגם: Toyota Camry [XV50] 08.11-03.18. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/toyota/camry/sedan-xv50-2011-08-01-2018-03-01/"
 },
 "TM-CAMRY-HV-A25A": {
 "brake_light": "",
@@ -17701,18 +22076,51 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "TM-COR-AUR-1ZR-0612": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21/5W נורת בסיס יתד שקופה (סוג נורה; קוד ECE לא מודפס)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W (נורות הלוגן)",
+"headlight_low": "HB4 51W (נורות הלוגן); D4R 35W (נורות פריקה)",
+"notes": "שורת קורולה ללא קוד דור (2007-2008) = דור E15; ספר הרכב הישראלי לשנים 2007-2009 (עמוד תמונה נקרא). Israeli Union Motors book. Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חנייה קדמיים",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנסי איתות פניה קדמיים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה צידיים",
+"type": "5W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות פניה אחוריים",
+"type": "21W נורת קצה יחיד שקופה"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "255 (PDF p.274)",
+"source_title": "Toyota Corolla 2007-2009 ספר רכב (Union Motors file 101)",
+"source_url": "https://books.union-motors.co.il/app/api/files/101/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Corolla [E15] 11.06-04.13. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -17958,6 +22366,41 @@
 "source_url": "https://books.union-motors.co.il/app/api/files/242/download"
 },
 "TM-RAV4-HV-23": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "שורת RAV4 ללא קוד דור (2023-2025) = דור XA50 היברידי; ספר 2022-2023. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. Israeli Union Motors book. Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. ",
+"other_bulbs": [
+{
+"position": "פנסי איתות קדמיים (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת רגליים חיצונית*",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "433 (PDF p.434) טבלת נורות; 361 (PDF p.362) נורות להחלפה במוסך / LED",
+"source_title": "Toyota RAV4 Hybrid 2022-2023 ספר רכב (Union Motors file 923)",
+"source_url": "https://books.union-motors.co.il/app/api/files/923/download",
+"wiper_confidence": "medium-high",
+"wiper_notes": "דגם לפי Bosch 2023: Toyota RAV4 [A5] 11.18→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"TM-RAV4-HV-2AR": {
 "brake_light": "",
 "confidence": "",
 "front_wipers_driver_mm": 650,
@@ -17966,14 +22409,14 @@
 "headlight_low": "",
 "notes": "",
 "other_bulbs": [],
-"rear_wiper_mm": 300,
+"rear_wiper_mm": "",
 "source_page": "",
 "source_title": "",
 "source_url": "",
 "wiper_confidence": "medium-high",
-"wiper_notes": "דגם לפי Bosch 2023: Toyota RAV4 [A5] 11.18→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
-"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
-"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+"wiper_notes": "דגם: Toyota RAV4 [A4] 12.12-01.19. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). המגב האחורי הושמט – שנתון 2019 עשוי להיות דור A5 (A4: 250 מ״מ, A5: 300 מ״מ); הקדמיים זהים בשני הדורות. יש לוודא מול הרכב לפני התקנה.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
+"wiper_source_url": "https://www.oximo.pl/en/wiper-car/toyota/rav4/suv-a4-2012-12-01-2018-11-01/"
 },
 "TM-RAV4-M20A": {
 "brake_light": "",
@@ -18200,17 +22643,38 @@
 },
 "TM-YARIS-HV-23": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
+"headlight_low": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
+"notes": "שורת יריס ללא קוד דור (2023-2026) = XP210 היברידי; אותו ספר רכב 2023-2024. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים (סוג נורה)",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים (סוג נורה)",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנס איתות קדמי (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנס איתות אחורי (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": 250,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "370 (PDF p.371)",
+"source_title": "Toyota Yaris Hybrid 2023-2024 ספר רכב (Union Motors file 1127)",
+"source_url": "https://books.union-motors.co.il/app/api/files/1127/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Yaris [XP21] 07.20→. קדמיים 600/400 מ״מ, אחורי 250 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -18234,6 +22698,41 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"TM-YARIS-M15A-23": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
+"headlight_low": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
+"notes": "שורת יריס ללא קוד דור (2023-2026) = XP210 היברידי; אותו ספר רכב 2023-2024. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים (סוג נורה)",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה קדמיים (סוג נורה)",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "פנס איתות קדמי (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנס איתות אחורי (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "370 (PDF p.371)",
+"source_title": "Toyota Yaris Hybrid 2023-2024 ספר רכב (Union Motors file 1127)",
+"source_url": "https://books.union-motors.co.il/app/api/files/1127/download"
+},
 "TM-YCROSS-GAS-23": {
 "brake_light": "",
 "confidence": "",
@@ -18254,17 +22753,34 @@
 },
 "TM-YCROSS-HV-23": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HIR2 55W (סוג נורה)",
+"headlight_low": "HIR2 55W (סוג נורה)",
+"notes": "שורת יריס קרוס ללא קוד דור (2023-2025) = XP210 קרוס היברידי; אותו ספר רכב 2022-2024. Brake light not in the bulb table (not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס איתות קדמי (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנס איתות אחורי (סוג נורה)",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנס נסיעה לאחור (סוג נורה)",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "415 (PDF p.416)",
+"source_title": "Toyota Yaris Cross Hybrid 2022-2024 ספר רכב (Union Motors file 943)",
+"source_url": "https://books.union-motors.co.il/app/api/files/943/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Toyota Yaris Cross [MXP] 09.20→. קדמיים 600/400 מ״מ, אחורי 300 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin (AR601S), קטלוג OXIMO (פולין, יישומים אירופיים), טבלת יצרן יפנית wiper.jp (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin (AR601S) + קטלוג OXIMO (פולין, יישומים אירופיים) + טבלת יצרן יפנית wiper.jp",
