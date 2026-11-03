@@ -4443,37 +4443,132 @@
 "wiper_source_title": "Wiper Blades Direct – Hyundai Sonata size guide (LF, DN8)",
 "wiper_source_url": "https://wiperbladesdirect.com.au/pages/hyundai-sonata-wiper-blades-size-guide"
 },
+"H-TUC-JM-20-UK": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. אור נמוך/גבוה מודפסים כנורה אחת 55/60W – נורה משולבת בהספק זה היא H4.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "רוורס",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5-41 (PDF 53)",
+"source_title": "Hyundai Tucson (JM) Käsikirja 2005-2009 (Hyundai Finland, Finnish)",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/tucson_kacc88sikirja_2005-2009.pdf"
+},
 "H-TUC-JM-27-UK": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. אור נמוך/גבוה מודפסים כנורה אחת 55/60W – נורה משולבת בהספק זה היא H4.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "רוורס",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5-41 (PDF 53)",
+"source_title": "Hyundai Tucson (JM) Käsikirja 2005-2009 (Hyundai Finland, Finnish)",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/tucson_kacc88sikirja_2005-2009.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Tucson [JM] 08.04-03.10. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-TUC-JM-D20-UK": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. אור נמוך/גבוה מודפסים כנורה אחת 55/60W – נורה משולבת בהספק זה היא H4.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "רוורס",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5-41 (PDF 53)",
+"source_title": "Hyundai Tucson (JM) Käsikirja 2005-2009 (Hyundai Finland, Finnish)",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/tucson_kacc88sikirja_2005-2009.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Tucson [JM] 08.04-03.10. קדמיים 600/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -6715,94 +6810,302 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HY-GETZ-G4EA-KR": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (21/5W, בסיס BA15d)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 (60/55W, בסיס P43t)",
+"headlight_low": "H4 (60/55W, בסיס P43t)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. כאן ההספק והבסיס המודפסים מתאימים לסוג נורה אחד בלבד (60/55W + P43t = H4; 21/5W + BA15d = P21/5W). ספר אירופי – לרכב בגרסה קוריאנית (Click).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W (21W, בסיס BA15s)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (21W, בסיס BAU15s)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (21W, בסיס BA15s)"
+},
+{
+"position": "אור חניה",
+"type": "W5W (5W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "6-35 (PDF 221)",
+"source_title": "Hyundai Getz (TB) Owner's Manual MY2003-2008 (English, Hyundai Baltic/Finland)",
+"source_url": "https://www.hyundai.fi/",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Getz [TB] 09.02-06.09. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HY-GETZ-G4ED": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (21/5W, בסיס BA15d)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 (60/55W, בסיס P43t)",
+"headlight_low": "H4 (60/55W, בסיס P43t)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. כאן ההספק והבסיס המודפסים מתאימים לסוג נורה אחד בלבד (60/55W + P43t = H4; 21/5W + BA15d = P21/5W).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W (21W, בסיס BA15s)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (21W, בסיס BAU15s)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (21W, בסיס BA15s)"
+},
+{
+"position": "אור חניה",
+"type": "W5W (5W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "6-35 (PDF 221)",
+"source_title": "Hyundai Getz (TB) Owner's Manual MY2003-2008 (English, Hyundai Baltic/Finland)",
+"source_url": "https://www.hyundai.fi/",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Getz [TB] 09.02-06.09. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HY-GETZ-G4ED-PRE": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (21/5W, בסיס BA15d)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 (60/55W, בסיס P43t)",
+"headlight_low": "H4 (60/55W, בסיס P43t)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. כאן ההספק והבסיס המודפסים מתאימים לסוג נורה אחד בלבד (60/55W + P43t = H4; 21/5W + BA15d = P21/5W).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W (21W, בסיס BA15s)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (21W, בסיס BAU15s)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (21W, בסיס BA15s)"
+},
+{
+"position": "אור חניה",
+"type": "W5W (5W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "6-35 (PDF 221)",
+"source_title": "Hyundai Getz (TB) Owner's Manual MY2003-2008 (English, Hyundai Baltic/Finland)",
+"source_url": "https://www.hyundai.fi/",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Getz [TB] 09.02-06.09. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HY-GETZ-G4EE": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (21/5W, בסיס BA15d)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 (60/55W, בסיס P43t)",
+"headlight_low": "H4 (60/55W, בסיס P43t)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. כאן ההספק והבסיס המודפסים מתאימים לסוג נורה אחד בלבד (60/55W + P43t = H4; 21/5W + BA15d = P21/5W).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W (21W, בסיס BA15s)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (21W, בסיס BAU15s)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (21W, בסיס BA15s)"
+},
+{
+"position": "אור חניה",
+"type": "W5W (5W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "6-35 (PDF 221)",
+"source_title": "Hyundai Getz (TB) Owner's Manual MY2003-2008 (English, Hyundai Baltic/Finland)",
+"source_url": "https://www.hyundai.fi/",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Getz [TB] 09.02-06.09. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HY-I30-FD-G4FC-KR0811": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. הספר הוא של i30 סטיישן (CW) – החזית זהה ל-i30 FD; פנסים אחוריים ייתכן שונים.",
+"other_bulbs": [
+{
+"position": "איתות קדמי/חניה",
+"type": "PY21/5W / P21/5W (21/5W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "רוורס",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "טבלת \"LAMPPUJEN TEHOT\" (PDF 384)",
+"source_title": "Hyundai i30 wagon (FD) Käsikirja 2007-2012 (Hyundai Finland, Finnish)",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/i30_wagon_kacc88sikirja_2007-2012.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai i30 [FD] 09.07-03.10 A187S and 04.10-01.13 AR604S (both 600/450 mm) + rear H312 (300 mm, hatch & CW). קדמיים 600/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HY-I30-FD-G4GC-KR0811": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. הספר הוא של i30 סטיישן (CW) – החזית זהה ל-i30 FD; פנסים אחוריים ייתכן שונים.",
+"other_bulbs": [
+{
+"position": "איתות קדמי/חניה",
+"type": "PY21/5W / P21/5W (21/5W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "רוורס",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "טבלת \"LAMPPUJEN TEHOT\" (PDF 384)",
+"source_title": "Hyundai i30 wagon (FD) Käsikirja 2007-2012 (Hyundai Finland, Finnish)",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/i30_wagon_kacc88sikirja_2007-2012.pdf"
 },
 "HY-I30-GD-G4FA-LV": {
 "brake_light": "",
@@ -8940,18 +9243,49 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-SELTOS-SP2-G20-GB21": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W / W21W (21W – סוג A) / LED (סוג B)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 (60W, פנס הלוגן – סוג A) / LED (סוג B)",
+"headlight_low": "HB3 (60W, פנס הלוגן – סוג A) / LED (סוג B)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. 60W לפנס ראשי בנורה נפרדת = HB3 (גם ספר Seltos העברי MY2023 מציין HB3).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W, סוג A)"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 (51W) / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "רוורס",
+"type": "W16W (16W)"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / W5W (5W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "9-5 (PDF 617, נקרא מתמונת העמוד – שכבת הטקסט פגומה)",
+"source_title": "Kia Seltos (SP2) Owner's Manual en_GB 2021",
+"source_url": "https://ownersmanual.kia.com/full_pdf/SP2/2021/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "TopWipers (אירופה, הגה שמאלי): 600+450 מ״מ, אחורי 300 מ״מ. תואם ל-WiperIndex ו-Uniwiper.",
 "wiper_source_title": "TopWipers – Kia Seltos [SP2, SP2I] 08.19→",
@@ -10723,18 +11057,49 @@
 "source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sportage-QLe-2019-2021.pdf"
 },
 "K-SPO-SL-G4NC-GB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. אור נמוך ואור גבוה שניהם 55W בנורות נפרדות (לכן לא H4). אור נמוך בגרסת קסנון: 35W.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W; בחלק מהגרסאות 27W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "רוורס",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-2 (PDF 524); אומת מול ספר FI 2014 עמ' 8-3",
+"source_title": "Kia Sportage (SL) Owner's Manual en_GB 2014",
+"source_url": "https://ownersmanual.kia.com/full_pdf/SL/2014/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Sportage [SL] 07.10-12.15. קדמיים 600/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -11232,36 +11597,98 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "KUK-SPO-SL-G16": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. אור נמוך ואור גבוה שניהם 55W בנורות נפרדות (לכן לא H4). אור נמוך בגרסת קסנון: 35W.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W; בחלק מהגרסאות 27W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "רוורס",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-2 (PDF 524); אומת מול ספר FI 2014 עמ' 8-3",
+"source_title": "Kia Sportage (SL) Owner's Manual en_GB 2014",
+"source_url": "https://ownersmanual.kia.com/full_pdf/SL/2014/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Sportage [SL] 07.10-12.15. קדמיים 600/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "KUK-SPO-SL-G20": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. אור נמוך ואור גבוה שניהם 55W בנורות נפרדות (לכן לא H4). אור נמוך בגרסת קסנון: 35W.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W; בחלק מהגרסאות 27W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "רוורס",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-2 (PDF 524); אומת מול ספר FI 2014 עמ' 8-3",
+"source_title": "Kia Sportage (SL) Owner's Manual en_GB 2014",
+"source_url": "https://ownersmanual.kia.com/full_pdf/SL/2014/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Sportage [SL] 07.10-12.15. קדמיים 600/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -15628,13 +16055,16 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-XT-T32-M9R-GR": {
-"brake_light": "",
+"brake_light": "P21W / W21W (21W)",
+"bulb_options": [
+"brake_light"
+],
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
 "headlight_high": "H9 65W (פנס הלוגן)",
 "headlight_low": "H11 55W (פנס הלוגן)",
-"notes": "נורת בלם מודפסת כהספק 21W בלבד ללא קוד – לכן שדה נורת בלם נשאר ריק. פנסי LED/גרסאות פנס אחרות מוחלפים אצל המשווק.",
+"notes": "נורת בלם מודפסת כהספק 21W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21W / W21W), רמת ביטחון נמוכה לשדה זה. פנסי LED/גרסאות פנס אחרות מוחלפים אצל המשווק.",
 "other_bulbs": [
 {
 "position": "איתות קדמי",
@@ -15667,13 +16097,16 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-XT-T32-R9M-GR": {
-"brake_light": "",
+"brake_light": "P21W / W21W (21W)",
+"bulb_options": [
+"brake_light"
+],
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
 "headlight_high": "H9 65W (פנס הלוגן)",
 "headlight_low": "H11 55W (פנס הלוגן)",
-"notes": "נורת בלם מודפסת כהספק 21W בלבד ללא קוד – לכן שדה נורת בלם נשאר ריק. פנסי LED/גרסאות פנס אחרות מוחלפים אצל המשווק.",
+"notes": "נורת בלם מודפסת כהספק 21W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21W / W21W), רמת ביטחון נמוכה לשדה זה. פנסי LED/גרסאות פנס אחרות מוחלפים אצל המשווק.",
 "other_bulbs": [
 {
 "position": "איתות קדמי",
@@ -15706,13 +16139,16 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-XT-T32-R9M-GR-CALIAS-XTRAIL-2016-x186": {
-"brake_light": "",
+"brake_light": "P21W / W21W (21W)",
+"bulb_options": [
+"brake_light"
+],
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
 "headlight_high": "H9 65W (פנס הלוגן)",
 "headlight_low": "H11 55W (פנס הלוגן)",
-"notes": "נורת בלם מודפסת כהספק 21W בלבד ללא קוד – לכן שדה נורת בלם נשאר ריק. פנסי LED/גרסאות פנס אחרות מוחלפים אצל המשווק.",
+"notes": "נורת בלם מודפסת כהספק 21W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21W / W21W), רמת ביטחון נמוכה לשדה זה. פנסי LED/גרסאות פנס אחרות מוחלפים אצל המשווק.",
 "other_bulbs": [
 {
 "position": "איתות קדמי",
