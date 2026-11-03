@@ -35,6 +35,88 @@
 "wiper_source_title": "קטלוג Bosch (A543S + מגב אחורי 280 מ״מ) + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/byd/atto-3/suv-byd-yuan-plus-2022-02-01/"
 },
+"CH-ARRIZO8-PHEV-AR": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל התאורה החיצונית LED.",
+"other_bulbs": [
+{
+"position": "ערפל",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "319-320 (PDF 335-336, Especificación de Bombilla)",
+"source_title": "Chery Arrizo 8 PHEV – Manual del usuario (Chery Argentina, ES)",
+"source_url": "https://chery.com.ar/wp-content/uploads/2026/03/Arrizo-8-PHEV-user-manual_ES-low.pdf"
+},
+"CH-FX-SQRF4J16-PL": {
+"brake_light": "LED (במוסך מורשה)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (במוסך מורשה)",
+"headlight_low": "LED (במוסך מורשה)",
+"notes": "כל התאורה החיצונית LED; החלפה בתחנת שירות מורשית בלבד.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס חניה",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "איתות",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "280-281 (PDF 142, Specyfikacja żarówki)",
+"source_title": "OMODA 5 ICE – Instrukcja obsługi (Omoda & Jaecoo Polska, PL)",
+"source_url": "https://www.omodajaecoo.pl/fileadmin/instrukcje/Instrukcja_obslugi_-_OMODA_5_ICE.pdf"
+},
 "CH-FXEV-TZ210XS129-PL": {
 "brake_light": "LED",
 "confidence": "manual-verbatim",
@@ -77,6 +159,49 @@
 "source_page": "271 (Specyfikacja żarówki)",
 "source_title": "OMODA E5 – Instrukcja obsługi (PL)",
 "source_url": "https://www.omodajaecoo.pl/fileadmin/instrukcje/OMODA_E5-_Instrukcja_obs%C5%82ugi_.pdf"
+},
+"CH-FXHEV-SQRH4J15-PL": {
+"brake_light": "LED (במוסך מורשה)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED/HB3 (כך בספר – לפי גרסה; במוסך מורשה)",
+"headlight_low": "LED/HB3 (כך בספר – לפי גרסה; במוסך מורשה)",
+"notes": "הספר מדפיס לפנס הראשי \"LED/HB3\" בלי לפרט איזה אור הוא HB3 – יש לבדוק ברכב. שאר התאורה LED.",
+"other_bulbs": [
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס חניה",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "איתות",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "255 (PDF 129, Specyfikacja żarówki)",
+"source_title": "OMODA 5 Hybrid – Instrukcja obsługi (Omoda & Jaecoo Polska, PL)",
+"source_url": "https://www.omodajaecoo.pl/fileadmin/instrukcje/Instrukcja_obs%C5%82ugi_-_OMODA_5_Hybrid.pdf"
 },
 "CH-SPARK-M300-B10D1-IL": {
 "brake_light": "",
@@ -582,6 +707,456 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"DA-BIGSTER-H5F-X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "אור גבוה H7 (לפי גרסה); אור נמוך, תאורת יום ובלימה LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: replacing the bulbs",
+"source_title": "Dacia Bigster – מדריך רשמי user-manual.dacia.com (notices 1393/2838/3819, 06/12/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/bigster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing"
+},
+"DA-CF-BIGSTER-H5F-2526": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "אור גבוה H7 (לפי גרסה); אור נמוך, תאורת יום ובלימה LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: replacing the bulbs",
+"source_title": "Dacia Bigster – מדריך רשמי user-manual.dacia.com (notices 1393/2838/3819, 06/12/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/bigster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing"
+},
+"DA-CF-BIGSTER-H5P-2526": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "אור גבוה H7 (לפי גרסה); אור נמוך, תאורת יום ובלימה LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: replacing the bulbs",
+"source_title": "Dacia Bigster – מדריך רשמי user-manual.dacia.com (notices 1393/2838/3819, 06/12/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/bigster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing"
+},
+"DA-CF-DUSTER3-H5F-2526": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "דאסטר III. אור נמוך LED – במוסך מורשה; פנס חניה+בלימה אחורי P21/5W.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: changing bulbs",
+"source_title": "Dacia Duster (III) – מדריך רשמי user-manual.dacia.com (notices 1234/3273/4161, 13/01/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/duster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
+},
+"DA-CF-DUSTER3-H5F-2526-CALIAS-DUSTER-2025-x1821": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "דאסטר III. אור נמוך LED – במוסך מורשה; פנס חניה+בלימה אחורי P21/5W.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: changing bulbs",
+"source_title": "Dacia Duster (III) – מדריך רשמי user-manual.dacia.com (notices 1234/3273/4161, 13/01/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/duster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
+},
+"DA-CF-DUSTER3-H5P-26": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "דאסטר III. אור נמוך LED – במוסך מורשה; פנס חניה+בלימה אחורי P21/5W.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: changing bulbs",
+"source_title": "Dacia Duster (III) – מדריך רשמי user-manual.dacia.com (notices 1234/3273/4161, 13/01/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/duster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
+},
+"DA-CF-DUSTER3HYB-H4M-25": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "דאסטר III. אור נמוך LED – במוסך מורשה; פנס חניה+בלימה אחורי P21/5W.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: changing bulbs",
+"source_title": "Dacia Duster (III) – מדריך רשמי user-manual.dacia.com (notices 1234/3273/4161, 13/01/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/duster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
+},
+"DA-CF-JOGGERHYB-H4M-2526": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H15 55/15W (פנסי הלוגן, לפני 10/2025)",
+"headlight_low": "LED / H7 (פנסי הלוגן, לפני 10/2025)",
+"notes": "ג'וגר 2025-26: אחרי מתיחת פנים (10/2025) – נמוך LED, גבוה H7; רכבי 2025 לפני מתיחת פנים יכולים להיות עם פנסי הלוגן. בלימה P21W בשתי המהדורות.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED / PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear and side lights",
+"source_title": "Dacia Jogger – מדריך רשמי user-manual.dacia.com (notice 3045, 11/2024-10/2025; notices 2367/4452, 15/10/2025 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/dacia-jogger-1/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"DA-CF-LOGAN3-H4D-25": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W (פנסי הלוגן, לפני 10/2025) / H7 55W",
+"headlight_low": "H7 (פנסי הלוגן, לפני 10/2025) / LED",
+"notes": "לוגן III שנת 2025: לפני מתיחת פנים (11/2024) – הלוגן H7/H15 או LED+H7; אחרי מתיחת פנים (10/2025) – נמוך LED, גבוה H7. בלימה P21/5W בשתי המהדורות.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "H15 / LED (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear and indicator lights",
+"source_title": "Dacia Logan (III) – מדריך רשמי user-manual.dacia.com (notice 1756, 04/11/2024-14/10/2025; notice 2684, 15/10/2025 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/logan/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
+},
+"DA-CF-LOGAN3-H4D-25-CALIAS-LOGAN-2025-x1819": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W (פנסי הלוגן, לפני 10/2025) / H7 55W",
+"headlight_low": "H7 (פנסי הלוגן, לפני 10/2025) / LED",
+"notes": "לוגן III שנת 2025: לפני מתיחת פנים (11/2024) – הלוגן H7/H15 או LED+H7; אחרי מתיחת פנים (10/2025) – נמוך LED, גבוה H7. בלימה P21/5W בשתי המהדורות.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "H15 / LED (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear and indicator lights",
+"source_title": "Dacia Logan (III) – מדריך רשמי user-manual.dacia.com (notice 1756, 04/11/2024-14/10/2025; notice 2684, 15/10/2025 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/logan/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
+},
 "DA-CF-SANDERO3SW-H4D-2526": {
 "brake_light": "P21W",
 "confidence": "high",
@@ -712,6 +1287,49 @@
 "source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
 "source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
 },
+"DA-DUSTER-H5F-2526-X": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "דאסטר III. אור נמוך LED – במוסך מורשה; פנס חניה+בלימה אחורי P21/5W.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: changing bulbs",
+"source_title": "Dacia Duster (III) – מדריך רשמי user-manual.dacia.com (notices 1234/3273/4161, 13/01/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/duster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
+},
 "DA-DUSTER-H5F-CALIAS-HRA2": {
 "brake_light": "P21/5W / P21W (לפי סוג הפנס)",
 "confidence": "high",
@@ -809,6 +1427,49 @@
 "wiper_notes": "דגם לפי Bosch 2023: Dacia Duster II [HM] 01.18→. קדמיים 550/475 מ״מ, אחורי 290 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"DA-DUSTER-H5H-2526-X": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "דאסטר III. אור נמוך LED – במוסך מורשה; פנס חניה+בלימה אחורי P21/5W.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: changing bulbs",
+"source_title": "Dacia Duster (III) – מדריך רשמי user-manual.dacia.com (notices 1234/3273/4161, 13/01/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/duster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
 },
 "DA-DUSTER-H5H-CALIAS-H5HB4B": {
 "brake_light": "P21/5W / P21W (לפי סוג הפנס)",
@@ -1045,6 +1706,370 @@
 "source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
 "source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
 },
+"DA-DUSTERHYBRID-H4M-X": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "דאסטר III. אור נמוך LED – במוסך מורשה; פנס חניה+בלימה אחורי P21/5W.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED (לפי גרסה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear lights: changing bulbs",
+"source_title": "Dacia Duster (III) – מדריך רשמי user-manual.dacia.com (notices 1234/3273/4161, 13/01/2024 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/duster/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
+},
+"DA-JOGGER": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W אנטי UV (פנסי הלוגן) / H7 55W אנטי UV (פנסי LED)",
+"headlight_low": "H7 (פנסי הלוגן) / LED (פנסי LED)",
+"notes": "ג'וגר לפני מתיחת פנים. מקור: מהדורת 11/2024; לשנים 2022-2023 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "H15 / LED (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear and indicator lights",
+"source_title": "Dacia Jogger – מדריך רשמי user-manual.dacia.com (notice 3045, 04/11/2024-14/10/2025, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs-1"
+},
+"DA-JOGGER-2526-X": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H15 55/15W (פנסי הלוגן, לפני 10/2025)",
+"headlight_low": "LED / H7 (פנסי הלוגן, לפני 10/2025)",
+"notes": "ג'וגר 2025-26: אחרי מתיחת פנים (10/2025) – נמוך LED, גבוה H7; רכבי 2025 לפני מתיחת פנים יכולים להיות עם פנסי הלוגן. בלימה P21W בשתי המהדורות.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED / PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear and side lights",
+"source_title": "Dacia Jogger – מדריך רשמי user-manual.dacia.com (notice 3045, 11/2024-10/2025; notices 2367/4452, 15/10/2025 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/dacia-jogger-1/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"DA-JOGGER-CALIAS-JOGGER-2024-x1820": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W אנטי UV (פנסי הלוגן) / H7 55W אנטי UV (פנסי LED)",
+"headlight_low": "H7 (פנסי הלוגן) / LED (פנסי LED)",
+"notes": "ג'וגר לפני מתיחת פנים. מקור: מהדורת 11/2024; לשנים 2022-2023 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "H15 / LED (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear and indicator lights",
+"source_title": "Dacia Jogger – מדריך רשמי user-manual.dacia.com (notice 3045, 04/11/2024-14/10/2025, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs-1"
+},
+"DA-JOGGER-HEV": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W אנטי UV (פנסי הלוגן) / H7 55W אנטי UV (פנסי LED)",
+"headlight_low": "H7 (פנסי הלוגן) / LED (פנסי LED)",
+"notes": "ג'וגר לפני מתיחת פנים. מקור: מהדורת 11/2024; לשנים 2022-2023 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "H15 / LED (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear and indicator lights",
+"source_title": "Dacia Jogger – מדריך רשמי user-manual.dacia.com (notice 3045, 04/11/2024-14/10/2025, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs-1"
+},
+"DA-JOGGER-HEV-2526-X": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H15 55/15W (פנסי הלוגן, לפני 10/2025)",
+"headlight_low": "LED / H7 (פנסי הלוגן, לפני 10/2025)",
+"notes": "ג'וגר 2025-26: אחרי מתיחת פנים (10/2025) – נמוך LED, גבוה H7; רכבי 2025 לפני מתיחת פנים יכולים להיות עם פנסי הלוגן. בלימה P21W בשתי המהדורות.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED / PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear and side lights",
+"source_title": "Dacia Jogger – מדריך רשמי user-manual.dacia.com (notice 3045, 11/2024-10/2025; notices 2367/4452, 15/10/2025 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/dacia-jogger-1/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"DA-JOGGERHYBRID-HEV": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W אנטי UV (פנסי הלוגן) / H7 55W אנטי UV (פנסי LED)",
+"headlight_low": "H7 (פנסי הלוגן) / LED (פנסי LED)",
+"notes": "ג'וגר לפני מתיחת פנים. מקור: מהדורת 11/2024; לשנים 2022-2023 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "H15 / LED (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "P21/5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear and indicator lights",
+"source_title": "Dacia Jogger – מדריך רשמי user-manual.dacia.com (notice 3045, 04/11/2024-14/10/2025, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs-1"
+},
+"DA-JOGGERHYBRID-HEV-2526-X": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H15 55/15W (פנסי הלוגן, לפני 10/2025)",
+"headlight_low": "LED / H7 (פנסי הלוגן, לפני 10/2025)",
+"notes": "ג'וגר 2025-26: אחרי מתיחת פנים (10/2025) – נמוך LED, גבוה H7; רכבי 2025 לפני מתיחת פנים יכולים להיות עם פנסי הלוגן. בלימה P21W בשתי המהדורות.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED / PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear and side lights",
+"source_title": "Dacia Jogger – מדריך רשמי user-manual.dacia.com (notice 3045, 11/2024-10/2025; notices 2367/4452, 15/10/2025 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/dacia-jogger-1/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
 "DA-LODGY-K9K": {
 "brake_light": "",
 "confidence": "",
@@ -1080,6 +2105,163 @@
 "wiper_notes": "דגם לפי Bosch 2023: Dacia Lodgy [JS] 2012-2022. קדמיים 550/400 מ״מ, אחורי 290 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"DA-LOGAN-K9K": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W אנטי UV (גרסה 1) / H4 אנטי UV (גרסה 2)",
+"headlight_low": "H7 (גרסה 1) / H4 אנטי UV (גרסה 2)",
+"notes": "הספר מכסה את דור II (2012-2020). השורה רשומה 2015-2021 עם מנוע K9K – דיזל הוצע רק בדור II. שתי גרסאות פנס: גרסה 1 = נמוך H7 + גבוה H1; גרסה 2 = H4 לשניהם.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "W21/5W / W21/5W LL"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.24-5.30 (PDF 199-205)",
+"source_title": "Dacia Sandero / Logan / Logan MCV (gen II) Driver's Handbook NU 993-8 (EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Sandero_2_-_993-8_ENG.pdf"
+},
+"DA-LOGAN-PETROL-2526-X": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "LED",
+"notes": "לוגן III אחרי מתיחת פנים. אור נמוך LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front headlights / Rear and indicator lights",
+"source_title": "Dacia Logan – מדריך רשמי user-manual.dacia.com (notices 2684 / 4630, 15/10/2025 ואילך, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/dacia-logan-1/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"DA-LOGAN-PETROL-CALIAS-LOGAN-2024-x1818": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W אנטי UV (פנסי הלוגן) / H7 55W אנטי UV (פנסי LED)",
+"headlight_low": "H7 (פנסי הלוגן) / LED (פנסי LED)",
+"notes": "לוגן III לפני מתיחת פנים. מקור: מהדורת 11/2024; לשנים קודמות של לוגן III לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "H15 / LED (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear and indicator lights",
+"source_title": "Dacia Logan (III) – מדריך רשמי user-manual.dacia.com (notice 1756, 04/11/2024-14/10/2025, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/logan/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting-replacing-bulbs"
 },
 "DA-NEWDUSTER-K9K": {
 "brake_light": "P21/5W / P21W (לפי סוג הפנס)",
@@ -1127,6 +2309,100 @@
 "source_page": "1271-13: PDF 272-280; 1079-10: 5.16-5.20 (PDF 204-208)",
 "source_title": "Dacia DUSTER Vehicle user manual (NU 1271-13 + Duster Ph2 NU 1079-10, EN)",
 "source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Duster_2_-_1271-13_ENG.pdf"
+},
+"DA-SANDERO-K9K": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W אנטי UV (גרסה 1) / H4 אנטי UV (גרסה 2)",
+"headlight_low": "H7 (גרסה 1) / H4 אנטי UV (גרסה 2)",
+"notes": "הספר מכסה את דור II (2012-2020). השורה רשומה 2015-2021 עם מנוע K9K – דיזל הוצע רק בדור II. שתי גרסאות פנס: גרסה 1 = נמוך H7 + גבוה H1; גרסה 2 = H4 לשניהם.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "W21/5W / W21/5W LL"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.24-5.30 (PDF 199-205)",
+"source_title": "Dacia Sandero / Logan / Logan MCV (gen II) Driver's Handbook NU 993-8 (EN)",
+"source_url": "https://www.user-manual.dacia.com/sites/dacia/files/Sandero_2_-_993-8_ENG.pdf"
+},
+"DA-SANDEROSW-H4D": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W אנטי UV (פנסי הלוגן) / H7 55W אנטי UV (פנסי LED)",
+"headlight_low": "H7 (פנסי הלוגן) / LED (פנסי LED)",
+"notes": "סנדרו III (רשום 2024). מקור: מהדורת 11/2024; לשנים קודמות של סנדרו III לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "H15 / LED (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16LL"
+},
+{
+"position": "פנס חניה אחורי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear and indicator lights",
+"source_title": "Dacia Sandero / Sandero Stepway (III) – מדריך רשמי user-manual.dacia.com (notice 1607, 04/11/2024-14/10/2025, EN)",
+"source_url": "https://www.user-manual.dacia.com/en/content/sandero-sandero-stepway/practical-advice/headlights-lights-replacing-bulbs/exterior"
 },
 "DF-BOX-TZ180XSD70-NL": {
 "brake_light": "LED",
@@ -1638,184 +2914,749 @@
 "source_url": "https://aftersales.fiat.com/eLumData/EN/00/319_PANDA/00_319_PANDA_603.81.704_EN_01_10.11_L_LG/00_319_PANDA_603.81.704_EN_01_10.11_L_LG.pdf"
 },
 "FO-FIESTA7-125": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W (עד 2012) / H15 55/15W – אור גבוה + תאורת יום (מ-2013)",
+"headlight_low": "H7 55W",
+"notes": "פיאסטה Mk7: ספר CG3545en (2008-2012) ואומת מול ספר CG3582en 10/2012 (https://www.fordservicecontent.com/ford_content/catalog/owner_guides/enusa_cg3582_fcn_og_201210.pdf עמ' 164): מ-2013 אור גבוה H15. בחלק מהגרסאות פנסי LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "54 – Bulb Specification Chart",
+"source_title": "Ford Fiesta owner's handbook CG3545en 02/2011 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3545_FTA_og_201102.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Fiesta VII [08/13]. קדמיים 650/— מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. הנוסע הושמט – המידה משתנה בין תתי-התקופות בטווח השנים של השורה (Bosch: 380/400; Valeo: 380/400). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"FO-FIESTA7-125-CALIAS-SNJC-2014": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (עד 2012) / H15 55/15W – אור גבוה + תאורת יום (מ-2013)",
+"headlight_low": "H7 55W",
+"notes": "פיאסטה Mk7: ספר CG3545en (2008-2012) ואומת מול ספר CG3582en 10/2012 (https://www.fordservicecontent.com/ford_content/catalog/owner_guides/enusa_cg3582_fcn_og_201210.pdf עמ' 164): מ-2013 אור גבוה H15. בחלק מהגרסאות פנסי LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "54 – Bulb Specification Chart",
+"source_title": "Ford Fiesta owner's handbook CG3545en 02/2011 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3545_FTA_og_201102.pdf"
+},
 "FO-FIESTA7-14": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W (עד 2012) / H15 55/15W – אור גבוה + תאורת יום (מ-2013)",
+"headlight_low": "H7 55W",
+"notes": "פיאסטה Mk7: ספר CG3545en (2008-2012) ואומת מול ספר CG3582en 10/2012 (https://www.fordservicecontent.com/ford_content/catalog/owner_guides/enusa_cg3582_fcn_og_201210.pdf עמ' 164): מ-2013 אור גבוה H15. בחלק מהגרסאות פנסי LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "54 – Bulb Specification Chart",
+"source_title": "Ford Fiesta owner's handbook CG3545en 02/2011 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3545_FTA_og_201102.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Fiesta VII [08/13]. קדמיים 650/— מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. הנוסע הושמט – המידה משתנה בין תתי-התקופות בטווח השנים של השורה (Bosch: 380/400; Valeo: 380/400). אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FIESTA7-16": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W (עד 2012) / H15 55/15W – אור גבוה + תאורת יום (מ-2013)",
+"headlight_low": "H7 55W",
+"notes": "פיאסטה Mk7: ספר CG3545en (2008-2012) ואומת מול ספר CG3582en 10/2012 (https://www.fordservicecontent.com/ford_content/catalog/owner_guides/enusa_cg3582_fcn_og_201210.pdf עמ' 164): מ-2013 אור גבוה H15. בחלק מהגרסאות פנסי LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "54 – Bulb Specification Chart",
+"source_title": "Ford Fiesta owner's handbook CG3545en 02/2011 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3545_FTA_og_201102.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Fiesta VII [13] 11.12→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS2-16": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 425,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus II [DA3/DB3] 07.04-2011. קדמיים 650/425 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Valeo 2024-25 (650/430), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Bosch Aerotwin 2023-24 (נהג 650) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. מגב הנוסע: Bosch מציין 400 מ״מ, Valeo ו-OXIMO מציינים 425 מ״מ – נבחרה מידת הרוב. המגב האחורי הושמט – משתנה לפי מרכב.",
 "wiper_source_title": "קטלוג Valeo 2024-25 (650/430) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Bosch Aerotwin 2023-24 (נהג 650)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
 },
 "FO-FOCUS2-16-YALIAS-2012": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 425,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus II [DA3/DB3] 07.04-2011. קדמיים 650/425 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Valeo 2024-25 (650/430), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Bosch Aerotwin 2023-24 (נהג 650) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. מגב הנוסע: Bosch מציין 400 מ״מ, Valeo ו-OXIMO מציינים 425 מ״מ – נבחרה מידת הרוב. המגב האחורי הושמט – משתנה לפי מרכב.",
 "wiper_source_title": "קטלוג Valeo 2024-25 (650/430) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Bosch Aerotwin 2023-24 (נהג 650)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
 },
+"FO-FOCUS2-16TDCI": {
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web"
+},
 "FO-FOCUS2-16TIVCT": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 425,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus II [DA3/DB3] 07.04-2011. קדמיים 650/425 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Valeo 2024-25 (650/430), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Bosch Aerotwin 2023-24 (נהג 650) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. מגב הנוסע: Bosch מציין 400 מ״מ, Valeo ו-OXIMO מציינים 425 מ״מ – נבחרה מידת הרוב. המגב האחורי הושמט – משתנה לפי מרכב.",
 "wiper_source_title": "קטלוג Valeo 2024-25 (650/430) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Bosch Aerotwin 2023-24 (נהג 650)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
 },
 "FO-FOCUS2-16TIVCT-PNDA": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 425,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus II [DA3/DB3] 07.04-2011. קדמיים 650/425 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Valeo 2024-25 (650/430), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Bosch Aerotwin 2023-24 (נהג 650) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. מגב הנוסע: Bosch מציין 400 מ״מ, Valeo ו-OXIMO מציינים 425 מ״מ – נבחרה מידת הרוב. המגב האחורי הושמט – משתנה לפי מרכב.",
 "wiper_source_title": "קטלוג Valeo 2024-25 (650/430) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Bosch Aerotwin 2023-24 (נהג 650)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
 },
 "FO-FOCUS2-16TIVCT-YALIAS-2012": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 425,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus II [DA3/DB3] 07.04-2011. קדמיים 650/425 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Valeo 2024-25 (650/430), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Bosch Aerotwin 2023-24 (נהג 650) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. מגב הנוסע: Bosch מציין 400 מ״מ, Valeo ו-OXIMO מציינים 425 מ״מ – נבחרה מידת הרוב. המגב האחורי הושמט – משתנה לפי מרכב.",
 "wiper_source_title": "קטלוג Valeo 2024-25 (650/430) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Bosch Aerotwin 2023-24 (נהג 650)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
 },
+"FO-FOCUS2-18HE": {
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web"
+},
+"FO-FOCUS2-18TDCI": {
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web"
+},
 "FO-FOCUS2-20HE": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 425,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus II [DA3/DB3] 07.04-2011. קדמיים 650/425 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Valeo 2024-25 (650/430), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Bosch Aerotwin 2023-24 (נהג 650) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. מגב הנוסע: Bosch מציין 400 מ״מ, Valeo ו-OXIMO מציינים 425 מ״מ – נבחרה מידת הרוב. המגב האחורי הושמט – משתנה לפי מרכב.",
 "wiper_source_title": "קטלוג Valeo 2024-25 (650/430) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Bosch Aerotwin 2023-24 (נהג 650)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
 },
 "FO-FOCUS2-20HE-ALIAS-COUPE": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 425,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus II [DA3/DB3] 07.04-2011. קדמיים 650/425 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Valeo 2024-25 (650/430), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Bosch Aerotwin 2023-24 (נהג 650) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. מגב הנוסע: Bosch מציין 400 מ״מ, Valeo ו-OXIMO מציינים 425 מ״מ – נבחרה מידת הרוב. המגב האחורי הושמט – משתנה לפי מרכב.",
 "wiper_source_title": "קטלוג Valeo 2024-25 (650/430) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Bosch Aerotwin 2023-24 (נהג 650)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
+},
+"FO-FOCUS2-20TDCI": {
+"brake_light": "PR21/5W (3/5 דלתות וסטיישן) / P21W (4 דלתות וקבריולט)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / D1S 35W (קסנון)",
+"notes": "ספר הבעלים האירופי (בריטניה) של פוקוס C307 – אותו ספר שממנו נלקחו נתוני הנוזלים. קסנון D1S: להחליף בנורה זהה למותקנת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5 x W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Lighting – Bulb Specification Chart",
+"source_title": "Ford Focus (C307) Owner's Manual – Ford UK online (userMarket GBR): Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?variantid=1787&languageCode=en&countryCode=USA&moidRef=G831832&Uid=G1088569&ProcUid=G894745&userMarket=GBR&div=f&vFilteringEnabled=False&buildtype=web"
 },
 "FO-FOCUS3-16EB-11": {
 "brake_light": "",
@@ -2037,166 +3878,617 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS35-15EB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 725,
 "front_wipers_passenger_mm": 725,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "H1 55W / H15 15/55W (בגרסה עם תאורת יום LED)",
+"headlight_low": "H7 55W",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED / H15"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "223 – Bulb Specification Chart",
+"source_title": "Ford Focus (CEW) owner's manual CG3630en 01/2015 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3630_Focus_og_201501.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Focus III [DYB] 01.11-2018. קדמיים 725/725 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Valeo: 730/730 מ״מ). המגב האחורי הושמט – משתנה לפי מרכב (סדאן/האצ׳בק/סטיישן).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS35-15EB-CALIAS-M9DD-2016": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 725,
 "front_wipers_passenger_mm": 725,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "H1 55W / H15 15/55W (בגרסה עם תאורת יום LED)",
+"headlight_low": "H7 55W",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED / H15"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "223 – Bulb Specification Chart",
+"source_title": "Ford Focus (CEW) owner's manual CG3630en 01/2015 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3630_Focus_og_201501.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Focus III [DYB] 01.11-2018. קדמיים 725/725 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Valeo: 730/730 מ״מ). המגב האחורי הושמט – משתנה לפי מרכב (סדאן/האצ׳בק/סטיישן).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS35-15EB-CALIAS-M9MA-2016": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 725,
 "front_wipers_passenger_mm": 725,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "H1 55W / H15 15/55W (בגרסה עם תאורת יום LED)",
+"headlight_low": "H7 55W",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED / H15"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "223 – Bulb Specification Chart",
+"source_title": "Ford Focus (CEW) owner's manual CG3630en 01/2015 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3630_Focus_og_201501.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Focus III [DYB] 01.11-2018. קדמיים 725/725 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Valeo: 730/730 מ״מ). המגב האחורי הושמט – משתנה לפי מרכב (סדאן/האצ׳בק/סטיישן).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS35-15EB-CALIAS-M9MB-2016": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 725,
 "front_wipers_passenger_mm": 725,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "H1 55W / H15 15/55W (בגרסה עם תאורת יום LED)",
+"headlight_low": "H7 55W",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED / H15"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "223 – Bulb Specification Chart",
+"source_title": "Ford Focus (CEW) owner's manual CG3630en 01/2015 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3630_Focus_og_201501.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Focus III [DYB] 01.11-2018. קדמיים 725/725 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Valeo: 730/730 מ״מ). המגב האחורי הושמט – משתנה לפי מרכב (סדאן/האצ׳בק/סטיישן).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS35-15EB-CALIAS-M9ME-2016": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 725,
 "front_wipers_passenger_mm": 725,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "H1 55W / H15 15/55W (בגרסה עם תאורת יום LED)",
+"headlight_low": "H7 55W",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED / H15"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "223 – Bulb Specification Chart",
+"source_title": "Ford Focus (CEW) owner's manual CG3630en 01/2015 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3630_Focus_og_201501.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Focus III [DYB] 01.11-2018. קדמיים 725/725 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Valeo: 730/730 מ״מ). המגב האחורי הושמט – משתנה לפי מרכב (סדאן/האצ׳בק/סטיישן).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS35-15TDCI": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 725,
 "front_wipers_passenger_mm": 725,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "H1 55W / H15 15/55W (בגרסה עם תאורת יום LED)",
+"headlight_low": "H7 55W",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED / H15"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "223 – Bulb Specification Chart",
+"source_title": "Ford Focus (CEW) owner's manual CG3630en 01/2015 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3630_Focus_og_201501.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Focus III [DYB] 01.11-2018. קדמיים 725/725 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). (Valeo: 730/730 מ״מ). המגב האחורי הושמט – משתנה לפי מרכב (סדאן/האצ׳בק/סטיישן).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-FOCUS4-10EB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "H1 55W / LED (לפי גרסה)",
+"headlight_low": "H7 55W / LED (לפי גרסה)",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס אחורי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "495 – Bulb Specification Chart",
+"source_title": "Ford Focus owner's manual CG3784en 202008 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/CG3784en-202008-20200908080223.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus IV [C519] 05.18→. קדמיים 650/500 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24 (A088S), קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. Valeo מציין 630/500 מ״מ. המגב האחורי (280 מ״מ באצ׳בק/סטיישן) הושמט – אין מגב בסדאן.",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 (A088S) + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
 },
 "FO-FOCUS4-15EB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "H1 55W / LED (לפי גרסה)",
+"headlight_low": "H7 55W / LED (לפי גרסה)",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס אחורי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "495 – Bulb Specification Chart",
+"source_title": "Ford Focus owner's manual CG3784en 202008 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/CG3784en-202008-20200908080223.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus IV [C519] 05.18→. קדמיים 650/500 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24 (A088S), קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. Valeo מציין 630/500 מ״מ. המגב האחורי (280 מ״מ באצ׳בק/סטיישן) הושמט – אין מגב בסדאן.",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 (A088S) + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
 },
 "FO-FOCUS4-15ECOBLUE": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
+"headlight_high": "H1 55W / LED (לפי גרסה)",
+"headlight_low": "H7 55W / LED (לפי גרסה)",
 "notes": "",
-"other_bulbs": [],
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס אחורי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "495 – Bulb Specification Chart",
+"source_title": "Ford Focus owner's manual CG3784en 202008 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/CG3784en-202008-20200908080223.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Ford Focus IV [C519] 05.18→. קדמיים 650/500 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24 (A088S), קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. Valeo מציין 630/500 מ״מ. המגב האחורי (280 מ״מ באצ׳בק/סטיישן) הושמט – אין מגב בסדאן.",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 (A088S) + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/ford/focus/"
+},
+"FO-GALAXY1-SEWA": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. מהדורת 04/2012; לשנים 2006-2010 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (S-MAX) / HB4 55W (Galaxy)"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "72-73 – Bulb Specification Chart",
+"source_title": "Ford Galaxy/S-MAX owner's manual CG3533en 04/2012 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3533_GLX_og_201204.pdf"
+},
+"FO-GALAXY1-TNWA": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. מהדורת 04/2012; לשנים 2006-2010 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (S-MAX) / HB4 55W (Galaxy)"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "72-73 – Bulb Specification Chart",
+"source_title": "Ford Galaxy/S-MAX owner's manual CG3533en 04/2012 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3533_GLX_og_201204.pdf"
 },
 "FO-KUGA2-15EB": {
 "brake_light": "",
@@ -2289,40 +4581,929 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "FO-KUGA2-16EB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 700,
 "front_wipers_passenger_mm": 700,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H15 55W / D3S (קסנון)",
+"headlight_low": "H7 55W / D3S (קסנון)",
+"notes": "קוגה Mk2 לפני מתיחת פנים. פנסי LED אינם ניתנים להחלפה – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "תאורת פנייה",
+"type": "H11 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 280,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "202 – Bulb Specification Chart",
+"source_title": "Ford Kuga (CBS) owner's manual CG3585en 08/2014 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3585_KGS_og_201408.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Kuga II [DM2] 2013-2019. קדמיים 700/700 מ״מ, אחורי 280 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
-"FO-PUMA-10EB-EU": {
+"FO-MONDEO4-SEBA": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-MONDEO4-SEBA-ALIAS-M0NDE0": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-MONDEO4-SEBA-CALIAS-SEWA-2009": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-MONDEO4-SEBA-CALIAS-SEWA-2009-KALIAS-M0NDE0-2010-26": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-MONDEO4-SEBA-CALIAS-SEWA-2009-KALIAS-MONDE0-2010-33": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-MONDEO4-SEBA-TYPO": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-MONDEO4-TNBA": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-MONDEO4-TNBA-CALIAS-TNWA-2011": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-MONDEO4-TNBA-TYPO": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-MONDEO4-UFBA": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. ספר לרכבים שיוצרו 11/2013-12/2014; לשנים קודמות של Mk4 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "60-61 – Bulb Specification Chart",
+"source_title": "Ford Mondeo (CA2) owner's manual CG3536en 11/2013 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3536_MND_og_201311.pdf"
+},
+"FO-PUMA-10EB-EU": {
+"brake_light": "LED",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 700,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "ספר לרכבים שיוצרו 03/2021-10/2021. פנסי LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 280,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "427 – Bulb Specification Chart",
+"source_title": "Ford Puma (CF7) Owner's Manual CG3833en 202012 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/CG3833en-202012-20201211101444.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Puma [J2K] 11.19→. קדמיים 700/340 מ״מ, אחורי 280 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"FO-PUMA-10EB-X": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W / LED (לפי גרסה)",
+"headlight_low": "LED",
+"notes": "ספר לרכבים שיוצרו 03/2021-10/2021. פנסי LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "427 – Bulb Specification Chart",
+"source_title": "Ford Puma (CF7) Owner's Manual CG3833en 202012 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/Catalog/owner_information/CG3833en-202012-20201211101444.pdf"
+},
+"FO-SMAX1-SEWA": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. מהדורת 04/2012; לשנים 2006-2010 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (S-MAX) / HB4 55W (Galaxy)"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "72-73 – Bulb Specification Chart",
+"source_title": "Ford Galaxy/S-MAX owner's manual CG3533en 04/2012 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3533_GLX_og_201204.pdf"
+},
+"FO-SMAX1-TNWA": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. מהדורת 04/2012; לשנים 2006-2010 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (S-MAX) / HB4 55W (Galaxy)"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "72-73 – Bulb Specification Chart",
+"source_title": "Ford Galaxy/S-MAX owner's manual CG3533en 04/2012 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3533_GLX_og_201204.pdf"
+},
+"FO-S_MAX1-SEWA": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. מהדורת 04/2012; לשנים 2006-2010 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (S-MAX) / HB4 55W (Galaxy)"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "72-73 – Bulb Specification Chart",
+"source_title": "Ford Galaxy/S-MAX owner's manual CG3533en 04/2012 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3533_GLX_og_201204.pdf"
+},
+"FO-S_MAX1-TNWA": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת הנורות בספר אינה מפרטת את נורת הבלימה – לא מולא. מהדורת 04/2012; לשנים 2006-2010 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H1 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (S-MAX) / HB4 55W (Galaxy)"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "72-73 – Bulb Specification Chart",
+"source_title": "Ford Galaxy/S-MAX owner's manual CG3533en 04/2012 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3533_GLX_og_201204.pdf"
+},
+"FO-TCONNECT1-18D-0410": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55/60W (הלוגן)",
+"headlight_low": "H4 55/60W (הלוגן)",
+"notes": "פנס ראשי: הספר מציין במפורש \"H4, 55/60 watt halogen bulb\". הספר מדפיס הספק בלבד לנורת הבלימה/אחורי (ללא סוג). מוצגות האפשרויות הקיימות להספק ולמיקום – יש לבדוק את הנורה המותקנת לפני רכישה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות צד",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "10W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "47-50 – Changing a bulb",
+"source_title": "Ford Tourneo Connect/Transit Connect owner's handbook CG3526en 06/2006 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3526_TRC_og_200606.pdf"
+},
+"FO-TCONNECT1-18D-0410-XCODES": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55/60W (הלוגן)",
+"headlight_low": "H4 55/60W (הלוגן)",
+"notes": "פנס ראשי: הספר מציין במפורש \"H4, 55/60 watt halogen bulb\". הספר מדפיס הספק בלבד לנורת הבלימה/אחורי (ללא סוג). מוצגות האפשרויות הקיימות להספק ולמיקום – יש לבדוק את הנורה המותקנת לפני רכישה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות צד",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "10W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "47-50 – Changing a bulb",
+"source_title": "Ford Tourneo Connect/Transit Connect owner's handbook CG3526en 06/2006 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3526_TRC_og_200606.pdf"
 },
 "GL-GEOMC-EV": {
 "brake_light": "",
@@ -3666,6 +6847,59 @@
 "source_title": "ספר רכב יונדאי איוניק 5 2024 (יבואן ישראל)",
 "source_url": "https://res.cloudinary.com/colmobil/images/v1727073762/Hyundai_Ioniq5_OM_2024_web/Hyundai_Ioniq5_OM_2024_web.pdf"
 },
+"H-IX35-LM-D20-UK": {
+"brake_light": "21/5 W (Stop and tail, outside; type not printed) – P21/5W / W21/5W",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "55/60 W (Low/High; bulb type not printed)",
+"headlight_low": "55/60 W (Low/High; bulb type not printed)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. אותו ספר ואותם ערכים כמו בשורת ix35 2.0 בנזין הקיימת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "פנס חניה",
+"type": "5W (W5W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "27W (H27W/1 / H27W/2)"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W (W16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W (W5W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-2 (PDF p.395)",
+"source_title": "Hyundai ix35 (LM) owner manual (Hyundai UK)",
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/Tucson+Ix35+1-combinedpdf"
+},
 "H-IX35-LM-G20": {
 "brake_light": "21/5 W (Stop and tail, outside; type not printed)",
 "confidence": "high",
@@ -3706,6 +6940,59 @@
 {
 "position": "License plate",
 "type": "5"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-2 (PDF p.395)",
+"source_title": "Hyundai ix35 (LM) owner manual (Hyundai UK)",
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/Tucson+Ix35+1-combinedpdf"
+},
+"H-IX35-LM-G24-UK": {
+"brake_light": "21/5 W (Stop and tail, outside; type not printed) – P21/5W / W21/5W",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "55/60 W (Low/High; bulb type not printed)",
+"headlight_low": "55/60 W (Low/High; bulb type not printed)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. אותו ספר ואותם ערכים כמו בשורת ix35 2.0 בנזין הקיימת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "פנס חניה",
+"type": "5W (W5W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "27W (H27W/1 / H27W/2)"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W (W16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W (W5W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
 }
 ],
 "rear_wiper_mm": "",
@@ -5254,6 +8541,100 @@
 "wiper_notes": "דגם: Hyundai Venue [QX] 2019→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג OXIMO (פולין, יישומים אירופיים), Uniwiper, WiperIndex (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. המגב האחורי הושמט – סתירה בין המקורות (275-300 מ״מ).",
 "wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + Uniwiper + WiperIndex",
 "wiper_source_url": "https://www.uniwiper.com.au/wiper-blade/hyundai/venue/2019-2026/"
+},
+"HB-ACC-HCI-G4FG-BH": {
+"brake_light": "P21/5W (פנס אחורי סוג A)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "טבלת נורות בספר: פנס ראשי H4 60/55 (אור גבוה/נמוך); פנס אחורי/בלימה סוג A P21/5W.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-3 (PDF 444)",
+"source_title": "Hyundai Accent (HCi) Owner's Manual 2018 – Hyundai Bahrain (EN)",
+"source_url": "https://www.hyundai.com/content/dam/hyundai/bh/en/data/marketing/manual/accent/2019/Accent-HCi-Gen-2018.pdf"
+},
+"HB-ACC-HCI-G4LC-BH": {
+"brake_light": "P21/5W (פנס אחורי סוג A)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "טבלת נורות בספר: פנס ראשי H4 60/55 (אור גבוה/נמוך); פנס אחורי/בלימה סוג A P21/5W.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-3 (PDF 444)",
+"source_title": "Hyundai Accent (HCi) Owner's Manual 2018 – Hyundai Bahrain (EN)",
+"source_url": "https://www.hyundai.com/content/dam/hyundai/bh/en/data/marketing/manual/accent/2019/Accent-HCi-Gen-2018.pdf"
 },
 "HF-SANTAFE-CM-G6EA-FI06": {
 "brake_light": "",
@@ -7196,6 +10577,194 @@
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Santa Fe [CM] 2006-2012. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"IZ-DMAX-4JK1-17": {
+"brake_light": "LED / P21/5W / W21/5W (5/21W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "60W (פנס הלוגן; סוג נורה לא מודפס – H4 / HB3)",
+"headlight_low": "55W (פנס הלוגן; סוג נורה לא מודפס – H4 / H7 / H1 / H11)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. הספר מפרט אור גבוה 60W ואור נמוך 55W בשורות נפרדות בלי לציין אם זו נורה משולבת (H4) או נפרדת. ערפל 19W = H16.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W, כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "19W (H16)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "7-35 (PDF 631)",
+"source_title": "Isuzu D-Max (TF) 17MY Owner's Manual (Isuzu UK/EU, EN)",
+"source_url": "https://www.isuzu.co.uk/wp-content/uploads/2024/05/isuzu-d-max-owners-manual-combined-17my.pdf"
+},
+"IZ-DMAX-RZ4E-17": {
+"brake_light": "LED / P21/5W / W21/5W (5/21W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "60W (פנס הלוגן; סוג נורה לא מודפס – H4 / HB3)",
+"headlight_low": "55W (פנס הלוגן; סוג נורה לא מודפס – H4 / H7 / H1 / H11)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. הספר מפרט אור גבוה 60W ואור נמוך 55W בשורות נפרדות בלי לציין אם זו נורה משולבת (H4) או נפרדת. ערפל 19W = H16.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W, כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "19W (H16)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "7-35 (PDF 631)",
+"source_title": "Isuzu D-Max (TF) 17MY Owner's Manual (Isuzu UK/EU, EN)",
+"source_url": "https://www.isuzu.co.uk/wp-content/uploads/2024/05/isuzu-d-max-owners-manual-combined-17my.pdf"
+},
+"IZ-DMAX-RZ4E-20": {
+"brake_light": "LED (פנס LED) / P21/5W / W21/5W (5/21W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (פנסי LED) / H4 (60/55W, פנס הלוגן – נורה משולבת)",
+"headlight_low": "LED (פנסי LED) / H4 (60/55W, פנס הלוגן – נורה משולבת)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. פנס ראשי הלוגן מודפס כנורה אחת 60/55W (אור גבוה/נמוך) – נורה משולבת בהספק זה היא H4.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W, כתום)"
+},
+{
+"position": "פנס חניה (הלוגן)",
+"type": "W5W (5W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED / 55W (H11 / H7 / H1 / H3 – לפי מותקן)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-110 (PDF 784)",
+"source_title": "Isuzu D-Max (RG) 2020 Owner's Manual (Isuzu UK/EU, EN)",
+"source_url": "https://www.isuzu.co.uk/wp-content/uploads/2024/05/tf-ie-2001e6eu_2nd_omd_200_tf_e6eu_rg01.pdf"
+},
+"IZ-DMAX-RZ4E-24": {
+"brake_light": "LED (פנס LED) / P21/5W / W21/5W (5/21W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (פנסי LED) / H4 (60/55W, פנס הלוגן – נורה משולבת)",
+"headlight_low": "LED (פנסי LED) / H4 (60/55W, פנס הלוגן – נורה משולבת)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. פנס ראשי הלוגן מודפס כנורה אחת 60/55W (אור גבוה/נמוך) – נורה משולבת בהספק זה היא H4.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W, כתום)"
+},
+{
+"position": "פנס חניה (הלוגן)",
+"type": "W5W (5W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED / 55W (H11 / H7 / H1 / H3 – לפי מותקן)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-110 (PDF 886)",
+"source_title": "Isuzu D-Max 24MY Owner's Manual (Isuzu UK, EN)",
+"source_url": "https://www.isuzu.co.uk/wp-content/uploads/2025/03/Isuzu-24MY-Owners-Manual.pdf"
 },
 "JC-J5-BEV-IL": {
 "brake_light": "LED",
@@ -12547,36 +16116,110 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/mitsubishi/l200/"
 },
 "MI-LANCER-CS-4G18-NL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "לנסר CS. מקור: מהדורת MY06 (אחרי מתיחת פנים 2005).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "W21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "פנס חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "W21W (סדאן) / LED (עם ספוילר)"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W (סדאן) / PY21W (סטיישן)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-40..8-41 (PDF 283)",
+"source_title": "Mitsubishi Lancer (CS) MY06 – Instructieboekje (Mitsubishi Motors Nederland, NL)",
+"source_url": "https://www.mitsubishi-motors.nl/content/dam/mitsubishi-motors-nl/downloads/handleidingen/Lancer_MY06.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Mitsubishi Lancer [CS] 2003-2008. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/mitsubishi/lancer/sedan-cs_aevo-vii-ix-2003-09-01/"
 },
 "MI-LANCER-CS-4G63-NL06": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "לנסר CS. מקור: מהדורת MY06 (אחרי מתיחת פנים 2005).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "W21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "פנס חניה",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "W21W (סדאן) / LED (עם ספוילר)"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W (סדאן) / PY21W (סטיישן)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-40..8-41 (PDF 283)",
+"source_title": "Mitsubishi Lancer (CS) MY06 – Instructieboekje (Mitsubishi Motors Nederland, NL)",
+"source_url": "https://www.mitsubishi-motors.nl/content/dam/mitsubishi-motors-nl/downloads/handleidingen/Lancer_MY06.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Mitsubishi Lancer [CS] 2003-2008. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
@@ -15868,36 +19511,78 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-SENTRA-B17-MRA8DE-IL16": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21W 21W (בלימה/אחורי)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W",
+"headlight_low": "H11 55W (סוג A) / LED (סוג B)",
+"notes": "ספר הרכב הישראלי (ניסאן ישראל) לסנטרה B17. סוג B: אור נמוך LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-30 (PDF 295)",
+"source_title": "Nissan Sentra (B17) Car Book 2016 – Nissan Israel (ENG)",
+"source_url": "https://web.archive.org/web/20170709064119id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-Sentra-Car-Book-2016-ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Nissan Sentra [B17] 09.14→. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). OXIMO: 650/350 מ״מ. יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/nissan/sentra/sedan-vii-b17-2014-09-01/"
 },
 "NI-SENTRA-B17-MRA8DE-IL16-LATER": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21W 21W (בלימה/אחורי)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W",
+"headlight_low": "H11 55W (סוג A) / LED (סוג B)",
+"notes": "ספר הרכב הישראלי (ניסאן ישראל) לסנטרה B17. סוג B: אור נמוך LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-30 (PDF 295)",
+"source_title": "Nissan Sentra (B17) Car Book 2016 – Nissan Israel (ENG)",
+"source_url": "https://web.archive.org/web/20170709064119id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-Sentra-Car-Book-2016-ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Nissan Sentra [B17] 09.14→. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). OXIMO: 650/350 מ״מ. יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
@@ -16925,93 +20610,426 @@
 },
 "RN-ARKANA-H4M": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה. נורת בלימה: הספר (2021-2025) מציין \"bulb\" בלי סוג נורה – לא מולא.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.13-5.15 (PDF 337-339)",
+"source_title": "Renault ARKANA Vehicle user manual (NU 1313-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/ARKANA-1313-6_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Arkana [LJL] 2021→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"RN-ARKANA-H4M-2526-X": {
+"brake_light": "P21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Arkana – מדריך רשמי user-manual.renault.com (notice 16436, 17/03/2025-18/11/2025, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/arkana-megane-conquest/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
 },
 "RN-ARKANA-H5H": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה. נורת בלימה: הספר (2021-2025) מציין \"bulb\" בלי סוג נורה – לא מולא.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.13-5.15 (PDF 337-339)",
+"source_title": "Renault ARKANA Vehicle user manual (NU 1313-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/ARKANA-1313-6_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Arkana [LJL] 2021→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"RN-ARKANA-H5H-2526-X": {
+"brake_light": "P21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Arkana – מדריך רשמי user-manual.renault.com (notice 16436, 17/03/2025-18/11/2025, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/arkana-megane-conquest/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
 },
 "RN-ARKANAHEV-H4M": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה. נורת בלימה: הספר (2021-2025) מציין \"bulb\" בלי סוג נורה – לא מולא.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.13-5.15 (PDF 337-339)",
+"source_title": "Renault ARKANA Vehicle user manual (NU 1313-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/ARKANA-1313-6_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Arkana [LJL] 2021→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"RN-ARKANAHEV-H4M-2526-X": {
+"brake_light": "P21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Arkana – מדריך רשמי user-manual.renault.com (notice 16436, 17/03/2025-18/11/2025, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/arkana-megane-conquest/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
 },
 "RN-ARKANAHYBRID-H4M": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה. נורת בלימה: הספר (2021-2025) מציין \"bulb\" בלי סוג נורה – לא מולא.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.13-5.15 (PDF 337-339)",
+"source_title": "Renault ARKANA Vehicle user manual (NU 1313-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/ARKANA-1313-6_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Arkana [LJL] 2021→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-ARKANAHYBRID-H4M-2526-X": {
+"brake_light": "P21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Arkana – מדריך רשמי user-manual.renault.com (notice 16436, 17/03/2025-18/11/2025, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/arkana-megane-conquest/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
 "RN-ARKANAHYBRID-H4M-CALIAS-H4MC6-2022": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה. נורת בלימה: הספר (2021-2025) מציין \"bulb\" בלי סוג נורה – לא מולא.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "5.13-5.15 (PDF 337-339)",
+"source_title": "Renault ARKANA Vehicle user manual (NU 1313-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/ARKANA-1313-6_ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Arkana [LJL] 2021→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"RN-AUSTRAL-ETECH": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "הספר: \"Your vehicle is fitted with LED lights\" – החלפה במוסך מורשה. מקור: מהדורת 2025; לשנים 2022-2024 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה/איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Austral – מדריך רשמי user-manual.renault.com (notice 14580, 15/07/2025-11/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-austral/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"RN-AUSTRAL-ETECH-2526-X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "הספר: \"Your vehicle is fitted with LED lights\" – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה/איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Austral – מדריך רשמי user-manual.renault.com (notice 14580, 15/07/2025-11/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-austral/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"RN-AUSTRAL-H5H": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "הספר: \"Your vehicle is fitted with LED lights\" – החלפה במוסך מורשה. מקור: מהדורת 2025; לשנים 2022-2024 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה/איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Austral – מדריך רשמי user-manual.renault.com (notice 14580, 15/07/2025-11/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-austral/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"RN-AUSTRAL-H5H-2526-X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "הספר: \"Your vehicle is fitted with LED lights\" – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה/איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Austral – מדריך רשמי user-manual.renault.com (notice 14580, 15/07/2025-11/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-austral/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
 },
 "RN-CAPTUR-H5F": {
 "brake_light": "P21/5W (פאזה 1, 2013-2017) / P21W (פאזה 2, 2017-2019)",
@@ -17064,6 +21082,100 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-CAPTUR-H5H": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "קפצ'ור II פאזה 1. כל פנסי ה-LED – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.15-5.18 (PDF 373-376)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1317-9, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1317-9_ENG.pdf"
+},
+"RN-CAPTUR-H5H-2526-X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "קפצ'ור II פאזה 2. כל פנסי ה-LED – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "379-381 (PDF 381-383)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1466-3, 01/2025, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur_2_ph2_-_1466-3_ENG.pdf"
+},
 "RN-CAPTUR-K9K-1318": {
 "brake_light": "P21/5W (פאזה 1, 2013-2017) / P21W (פאזה 2, 2017-2019)",
 "confidence": "high",
@@ -17112,58 +21224,163 @@
 "source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1238-6_ENG.pdf"
 },
 "RN-CF-ARKANA-H5H-2526": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Arkana – מדריך רשמי user-manual.renault.com (notice 16436, 17/03/2025-18/11/2025, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/arkana-megane-conquest/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Arkana [LJL] 2021→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-CF-ARKANAHEV-H4M-25": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Arkana – מדריך רשמי user-manual.renault.com (notice 16436, 17/03/2025-18/11/2025, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/arkana-megane-conquest/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Arkana [LJL] 2021→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "RN-CF-ARKANAHYB-H4M-25": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Arkana – מדריך רשמי user-manual.renault.com (notice 16436, 17/03/2025-18/11/2025, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/arkana-megane-conquest/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Arkana [LJL] 2021→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"RN-CF-AUSTRAL-H5H-25": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "הספר: \"Your vehicle is fitted with LED lights\" – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה/איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Austral – מדריך רשמי user-manual.renault.com (notice 14580, 15/07/2025-11/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-austral/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"RN-CF-AUSTRALHYB-H5F-2324": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "הספר: \"Your vehicle is fitted with LED lights\" – החלפה במוסך מורשה. מקור: מהדורת 2025; לשנים 2022-2024 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה/איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Exterior lighting: replacing bulbs",
+"source_title": "Renault Austral – מדריך רשמי user-manual.renault.com (notice 14580, 15/07/2025-11/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-austral/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
 },
 "RN-CF-CAPTUR1-H4B-1319": {
 "brake_light": "P21/5W (פאזה 1, 2013-2017) / P21W (פאזה 2, 2017-2019)",
@@ -17258,6 +21475,186 @@
 "source_page": "1007-8: 5.14-5.18 (PDF 196-200); 1238-6: 5.14-5.19 (PDF 212-217)",
 "source_title": "Renault CAPTUR Vehicle user manual (NU 1007-8 + NU 1238-6, EN)",
 "source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1238-6_ENG.pdf"
+},
+"RN-CF-CAPTUR2-H5H-25": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "קפצ'ור II פאזה 2. כל פנסי ה-LED – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "379-381 (PDF 381-383)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1466-3, 01/2025, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur_2_ph2_-_1466-3_ENG.pdf"
+},
+"RN-CF-CAPTUR2HYB-H4M-2324": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "קפצ'ור II פאזה 1. כל פנסי ה-LED – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.15-5.18 (PDF 373-376)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1317-9, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1317-9_ENG.pdf"
+},
+"RN-CF-CLIO3-K4M-07": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פאזה 2, מ-10/2009) / H1 או H7 (פאזה 1)",
+"headlight_low": "H7 55W (הלוגן, אנטי UV)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph1_-_747-9_ENG.pdf . בגרסאות עם פנסי קסנון (פאזה 1) – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "853-8: PDF 204-211; 747-9: PDF 213-220",
+"source_title": "Renault CLIO III Vehicle user manual (Ph1 NU 747-9 + Ph2 NU 853-8, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph2_-_853-8_ENG.pdf"
+},
+"RN-CF-CLIO3-K4M-08": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פאזה 2, מ-10/2009) / H1 או H7 (פאזה 1)",
+"headlight_low": "H7 55W (הלוגן, אנטי UV)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph1_-_747-9_ENG.pdf . בגרסאות עם פנסי קסנון (פאזה 1) – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "853-8: PDF 204-211; 747-9: PDF 213-220",
+"source_title": "Renault CLIO III Vehicle user manual (Ph1 NU 747-9 + Ph2 NU 853-8, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph2_-_853-8_ENG.pdf"
 },
 "RN-CF-CLIO4-D4F-1315": {
 "brake_light": "P21/5W",
@@ -17388,6 +21785,247 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-CF-FLUENCEZE-5AM-1214": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "H7",
+"notes": "פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 151-155",
+"source_title": "Renault FLUENCE Z.E. Vehicle user manual (NU 914-4, 08/2012, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Fluence_ZE_-_914-4_ENG.pdf"
+},
+"RN-CF-FLUENCEZE-5AM-1214-KALIAS-FLUENCE-2012-11": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "H7",
+"notes": "פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 151-155",
+"source_title": "Renault FLUENCE Z.E. Vehicle user manual (NU 914-4, 08/2012, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Fluence_ZE_-_914-4_ENG.pdf"
+},
+"RN-CF-FLUENCEZE-5AMA400-1214": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "H7",
+"notes": "פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 151-155",
+"source_title": "Renault FLUENCE Z.E. Vehicle user manual (NU 914-4, 08/2012, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Fluence_ZE_-_914-4_ENG.pdf"
+},
+"RN-CF-FLUENCEZE-SAMA400-1214": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "H7",
+"notes": "פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 151-155",
+"source_title": "Renault FLUENCE Z.E. Vehicle user manual (NU 914-4, 08/2012, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Fluence_ZE_-_914-4_ENG.pdf"
+},
+"RN-CF-GERENDSCENIC3-M4R-1013": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"headlight_low": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph1_-_840-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1095-6: PDF 216-222; 840-6: PDF 204-210",
+"source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
+},
+"RN-CF-GSCENIC3-K9K-1216": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"headlight_low": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph1_-_840-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1095-6: PDF 216-222; 840-6: PDF 204-210",
+"source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
+},
+"RN-CF-GSCENIC3-M4R-1214": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"headlight_low": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph1_-_840-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1095-6: PDF 216-222; 840-6: PDF 204-210",
+"source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
+},
 "RN-CF-KADJAR-H5HE4-22": {
 "brake_light": "",
 "confidence": "high",
@@ -17434,6 +22072,151 @@
 "source_page": "5.15-5.19 (PDF 253-257)",
 "source_title": "Renault KADJAR Vehicle user manual (NU 1161-6, EN)",
 "source_url": "https://www.user-manual.renault.com/sites/renault/files/Kadjar-1161-6_ENG.pdf"
+},
+"RN-CF-KANGOO3-K9K-2526": {
+"brake_light": "P21W / PR21W (לפי גרסה)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "קנגו III (2021 ואילך).",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear lights and side lights: changing bulbs",
+"source_title": "Renault Kangoo – מדריך רשמי user-manual.renault.com (notice 30134, 12/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-kangoo-1/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"RN-CF-LATITUDE-M9R-13": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / קסנון (במוסך מורשה)",
+"notes": "פנסי בלימה LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 190-199",
+"source_title": "Renault LATITUDE Ph2 Vehicle user manual (NU 1005-2, 04/2014, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Latitude_Ph2_-_1005-2_ENG.pdf"
+},
+"RN-CF-MEGANE3RS-F4R-1016": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "H7 (הלוגן, אנטי UV) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Megane_3_Ph1_-_837-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "P21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (5 דלתות) / P21W (3 דלתות, סטיישן)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / H21W (ספורט טורר)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1116-4: 5.15-5.22 (PDF 213-220); 837-6: PDF 184-192",
+"source_title": "Renault MEGANE III Vehicle user manual (Ph1 NU 837-6 + Ph2 NU 1116-4, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Megane_3_Ph2_-_1116-4_ENG.pdf"
 },
 "RN-CF-MEGANE4-H5HE4-2223": {
 "brake_light": "P21W (4 דלתות; 5 דלתות פאזה 1) / יחידה להחלפה במוסך מורשה (5 דלתות פאזה 2 וסטיישן)",
@@ -17607,19 +22390,83 @@
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/renault/megane/"
 },
+"RN-CF-SCENIC3-M4R-1014": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"headlight_low": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph1_-_840-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1095-6: PDF 216-222; 840-6: PDF 204-210",
+"source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
+},
 "RN-CF-TRAFIC3-M9R-2526": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 475,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Front and side headlights / Rear lights",
+"source_title": "Renault Trafic – מדריך רשמי user-manual.renault.com (notice 14902, 15/07/2025-28/02/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-trafic/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Renault Trafic III [FG/JG] 07.14→. קדמיים 650/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -17892,6 +22739,221 @@
 "source_page": "5.14-5.16 (PDF 362-364)",
 "source_title": "Renault CLIO Vehicle user manual (NU 1292-9, EN)",
 "source_url": "https://www.user-manual.renault.com/sites/renault/files/CLIO-1292-9_ENG.pdf"
+},
+"RN-CLIO3-ALIAS-D4F": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פאזה 2, מ-10/2009) / H1 או H7 (פאזה 1)",
+"headlight_low": "H7 55W (הלוגן, אנטי UV)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph1_-_747-9_ENG.pdf . בגרסאות עם פנסי קסנון (פאזה 1) – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "853-8: PDF 204-211; 747-9: PDF 213-220",
+"source_title": "Renault CLIO III Vehicle user manual (Ph1 NU 747-9 + Ph2 NU 853-8, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph2_-_853-8_ENG.pdf"
+},
+"RN-CLIO3-K4M-ALIAS": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פאזה 2, מ-10/2009) / H1 או H7 (פאזה 1)",
+"headlight_low": "H7 55W (הלוגן, אנטי UV)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph1_-_747-9_ENG.pdf . בגרסאות עם פנסי קסנון (פאזה 1) – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "853-8: PDF 204-211; 747-9: PDF 213-220",
+"source_title": "Renault CLIO III Vehicle user manual (Ph1 NU 747-9 + Ph2 NU 853-8, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph2_-_853-8_ENG.pdf"
+},
+"RN-CLIO3-K4M-ALIAS-CALIAS-K4MC8": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פאזה 2, מ-10/2009) / H1 או H7 (פאזה 1)",
+"headlight_low": "H7 55W (הלוגן, אנטי UV)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph1_-_747-9_ENG.pdf . בגרסאות עם פנסי קסנון (פאזה 1) – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "853-8: PDF 204-211; 747-9: PDF 213-220",
+"source_title": "Renault CLIO III Vehicle user manual (Ph1 NU 747-9 + Ph2 NU 853-8, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph2_-_853-8_ENG.pdf"
+},
+"RN-CLIOIII-D4F": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פאזה 2, מ-10/2009) / H1 או H7 (פאזה 1)",
+"headlight_low": "H7 55W (הלוגן, אנטי UV)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph1_-_747-9_ENG.pdf . בגרסאות עם פנסי קסנון (פאזה 1) – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "853-8: PDF 204-211; 747-9: PDF 213-220",
+"source_title": "Renault CLIO III Vehicle user manual (Ph1 NU 747-9 + Ph2 NU 853-8, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph2_-_853-8_ENG.pdf"
+},
+"RN-CLIOIII-K4M": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פאזה 2, מ-10/2009) / H1 או H7 (פאזה 1)",
+"headlight_low": "H7 55W (הלוגן, אנטי UV)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph1_-_747-9_ENG.pdf . בגרסאות עם פנסי קסנון (פאזה 1) – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "853-8: PDF 204-211; 747-9: PDF 213-220",
+"source_title": "Renault CLIO III Vehicle user manual (Ph1 NU 747-9 + Ph2 NU 853-8, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph2_-_853-8_ENG.pdf"
 },
 "RN-FLUENCE-K9K": {
 "brake_light": "P21/5W",
@@ -18221,6 +23283,108 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-KANGOO-H5H": {
+"brake_light": "P21W / PR21W (לפי גרסה)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "קנגו III (2021 ואילך). מקור: מהדורת 2026; לשנים 2021-2024 לא נבדקה מהדורה נפרדת.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear lights and side lights: changing bulbs",
+"source_title": "Renault Kangoo – מדריך רשמי user-manual.renault.com (notice 30134, 12/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-kangoo-1/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
+"RN-KANGOO-H5H-2526-X": {
+"brake_light": "P21W / PR21W (לפי גרסה)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "קנגו III (2021 ואילך).",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear lights and side lights: changing bulbs",
+"source_title": "Renault Kangoo – מדריך רשמי user-manual.renault.com (notice 30134, 12/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-kangoo-1/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
 "RN-KANGOO-K9K-0719": {
 "brake_light": "P21/5W",
 "confidence": "high",
@@ -18275,6 +23439,57 @@
 "wiper_notes": "דגם לפי Bosch 2023: Renault Kangoo II [FW/KW] 01.08-2021. קדמיים 550/— מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25: מגב הנהג והאחורי תואמים. מגב הנוסע הושמט – סתירה בין המקורות (Bosch 530 מ״מ, Valeo 500-550 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"RN-KANGOO-K9K-2024-2526-X": {
+"brake_light": "P21W / PR21W (לפי גרסה)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן, אנטי UV) / LED",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / LED",
+"notes": "קנגו III (2021 ואילך).",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Headlights / Rear lights and side lights: changing bulbs",
+"source_title": "Renault Kangoo – מדריך רשמי user-manual.renault.com (notice 30134, 12/01/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-kangoo-1/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
 },
 "RN-KANGOO-PETROL": {
 "brake_light": "P21/5W",
@@ -18484,6 +23699,45 @@
 "source_title": "Renault KANGOO Vehicle user manual (NU 960-15, EN)",
 "source_url": "https://www.user-manual.renault.com/sites/renault/files/KANGOO-960-15_ENG.pdf"
 },
+"RN-KOLEOS-2TR": {
+"brake_light": "P21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן, אנטי UV)",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / קסנון (במוסך מורשה)",
+"notes": "קוליאוס I פאזה 2 (2011 ואילך); ספר פאזה 1 (2008-2011) לא נבדק. פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H7"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 183-187",
+"source_title": "Renault KOLEOS Ph2 Vehicle user manual (NU 977-2, 02/2012, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Koleos_Ph2_-_977-2_ENG.pdf"
+},
 "RN-MEGANE-H5H": {
 "brake_light": "P21W (4 דלתות; 5 דלתות פאזה 1) / יחידה להחלפה במוסך מורשה (5 דלתות פאזה 2 וסטיישן)",
 "confidence": "high",
@@ -18652,6 +23906,139 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"RN-MEGANE-M4R-1114": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "H7 (הלוגן, אנטי UV) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Megane_3_Ph1_-_837-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "P21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (5 דלתות) / P21W (3 דלתות, סטיישן)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / H21W (ספורט טורר)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1116-4: 5.15-5.22 (PDF 213-220); 837-6: PDF 184-192",
+"source_title": "Renault MEGANE III Vehicle user manual (Ph1 NU 837-6 + Ph2 NU 1116-4, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Megane_3_Ph2_-_1116-4_ENG.pdf"
+},
+"RN-MEGANE-M4R-1114-CALIAS-MEGANE-2011-x187": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "H7 (הלוגן, אנטי UV) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Megane_3_Ph1_-_837-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "P21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (5 דלתות) / P21W (3 דלתות, סטיישן)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / H21W (ספורט טורר)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1116-4: 5.15-5.22 (PDF 213-220); 837-6: PDF 184-192",
+"source_title": "Renault MEGANE III Vehicle user manual (Ph1 NU 837-6 + Ph2 NU 1116-4, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Megane_3_Ph2_-_1116-4_ENG.pdf"
+},
+"RN-TRAFIC-M9R-2526-X": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Front and side headlights / Rear lights",
+"source_title": "Renault Trafic – מדריך רשמי user-manual.renault.com (notice 14902, 15/07/2025-28/02/2026, EN)",
+"source_url": "https://www.user-manual.renault.com/en/content/renault-trafic/practical-advice/headlights-lights-replacing-bulbs/exterior-lighting"
+},
 "RX-CAPTUR-H4B-X": {
 "brake_light": "P21/5W (פאזה 1, 2013-2017) / P21W (פאזה 2, 2017-2019)",
 "confidence": "high",
@@ -18699,6 +24086,96 @@
 "source_title": "Renault CAPTUR Vehicle user manual (NU 1007-8 + NU 1238-6, EN)",
 "source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1238-6_ENG.pdf"
 },
+"RX-CAPTURHYB-H4M-X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "קפצ'ור II פאזה 1. כל פנסי ה-LED – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5.15-5.18 (PDF 373-376)",
+"source_title": "Renault CAPTUR Vehicle user manual (NU 1317-9, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Captur-1317-9_ENG.pdf"
+},
+"RX-CLIO3-K4M-0708-X": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פאזה 2, מ-10/2009) / H1 או H7 (פאזה 1)",
+"headlight_low": "H7 55W (הלוגן, אנטי UV)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph1_-_747-9_ENG.pdf . בגרסאות עם פנסי קסנון (פאזה 1) – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "853-8: PDF 204-211; 747-9: PDF 213-220",
+"source_title": "Renault CLIO III Vehicle user manual (Ph1 NU 747-9 + Ph2 NU 853-8, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Clio_3_Ph2_-_853-8_ENG.pdf"
+},
 "RX-CLIO4-D4F-X": {
 "brake_light": "P21/5W",
 "confidence": "medium-high",
@@ -18738,6 +24215,45 @@
 "source_title": "Renault Clio IV phase 2 – מדריך רשמי user-manual.renault.com (x98, EN)",
 "source_url": "https://www.user-manual.renault.com/en/content/x98/section-5-practical-advice/front-headlights-replacing-bulbs-13"
 },
+"RX-GERENDSCENIC-M4R-X": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"headlight_low": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph1_-_840-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1095-6: PDF 216-222; 840-6: PDF 204-210",
+"source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
+},
 "RX-GRANDCOUPE-K9K-19-X": {
 "brake_light": "P21W",
 "confidence": "high",
@@ -18776,6 +24292,170 @@
 "source_page": "Projecteurs avant / Feux arrière (version 4 portes)",
 "source_title": "Renault Mégane IV – מדריך רשמי user-manual.renault.com (bfb פאזה 1, FR) + ספר פאזה 2 (FRA)",
 "source_url": "https://www.user-manual.renault.com/fr/content/bfb/section-5-practical-advice/feux-arriere-et-lateraux-remplacement-des-lampes-19"
+},
+"RX-GRANDSCENIC-M4R-X": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"headlight_low": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph1_-_840-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1095-6: PDF 216-222; 840-6: PDF 204-210",
+"source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
+},
+"RX-LATITUDE-M9R-X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1",
+"headlight_low": "H7 55W (הלוגן, אנטי UV) / קסנון (במוסך מורשה)",
+"notes": "פנסי בלימה LED – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 190-199",
+"source_title": "Renault LATITUDE Ph2 Vehicle user manual (NU 1005-2, 04/2014, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Latitude_Ph2_-_1005-2_ENG.pdf"
+},
+"RX-SCENIC-M4R-X": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"headlight_low": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph1_-_840-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1095-6: PDF 216-222; 840-6: PDF 204-210",
+"source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
+},
+"RX-SCENIC-M4R-X-CALIAS-M4RF7-2010": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"headlight_low": "H7 (הלוגן) / D1S (קסנון – במוסך מורשה)",
+"notes": "ספר פאזה 1: https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph1_-_840-6_ENG.pdf . פנס בלימה עילי – במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1095-6: PDF 216-222; 840-6: PDF 204-210",
+"source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
+"source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
 },
 "SU-FOR-SK-FB25-IL": {
 "brake_light": "LED",
@@ -19031,18 +24711,47 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SU-FORESTER-SJ-FB20-RU15": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן) / D4R 35W (קסנון – במוסך)",
+"notes": "סוגי הנורות לפי מפרט ECE (כך בספר).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (סוג A) / H8 35W (סוג B)"
+},
+{
+"position": "תאורת יום",
+"type": "P13W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "12-16 (PDF 590)",
+"source_title": "Subaru Forester (SJ) 2015 – Руководство по эксплуатации (Subaru Russia, RU)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Forester&year=2015",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Forester [SJ] 2013-2018. קדמיים 650/400 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -19050,17 +24759,46 @@
 },
 "SU-FORESTER-SJ-FB20-RU18": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W (פנסי הלוגן) / LED (פנסי LED)",
+"headlight_low": "H11 55W (פנסי הלוגן) / LED (פנסי LED)",
+"notes": "סוגי הנורות לפי מפרט ECE. נורת בלימה לא מפורטת בבירור בטבלה – לא מולא.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W (הלוגן)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (סוג A) / H8 35W (סוג B)"
+},
+{
+"position": "תאורת יום",
+"type": "P13W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "12-17..12-18 (PDF 598-599)",
+"source_title": "Subaru Forester (SJ) 2018 – Руководство по эксплуатации (Subaru Russia, RU)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Forester&year=2018",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Forester [SJ] 2013-2018. קדמיים 650/400 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
