@@ -212,7 +212,8 @@ function render(v,pi,matches){
     if(gh) gh='<div class="mut" style="font-size:12px;margin-bottom:4px">'+(known?'סוג תיבה לרכב זה: <b>'+esc(lab)+'</b> (לפי משרד התחבורה'+(String(r.gearbox_type||'')?' וספר הרכב':'')+')'+(why?' – '+why:''):'סוג התיבה לא ידוע ממשרד התחבורה – מוצגים כל הסוגים שבספר הרכב')+'</div>'+gh;
     C('שמן גיר', gh,'gear',1);
     const two=(sp,cp,lks)=>{const x=F('סוג/תקן',sp)+F('כמות',cp,1);return x?x+(has(cp)?'':NOCAP)+lk(lks):'';};
-    C('שמן דיפרנציאל', two('rear_diff_oil_spec','rear_diff_cap_l',L.rd),'diff');
+    {const fd=two('front_diff_oil_spec','front_diff_cap_l',L.fd),rd=two('rear_diff_oil_spec','rear_diff_cap_l',L.rd);
+     C('שמן דיפרנציאל', fd?'<div class="sec"><h3>דיפרנציאל קדמי</h3>'+fd+'</div><div class="sec"><h3>דיפרנציאל אחורי</h3>'+(rd||'<div class="empty">אין נתון בקטלוג</div>')+'</div>':rd,'diff');}
     C('שמן טרנספר', two('transfer_case_oil_spec','transfer_case_cap_l',L.tc),'tc');
     const cc=r.CC?kv('צבע',r.CC.c.map(([n,x])=>'<span class="cdot" style="background:'+x+'"></span>'+esc(n)).join(' / ')+(has('coolant_color')?' <span class="mut" style="font-size:12px">('+tx('coolant_color')+')</span>':'')+'<div class="mut" style="font-size:11px">מקור הצבע: '+esc(r.CC.src)+'</div>'):(has('coolant_color')?kv('צבע',tx('coolant_color')):'');
     const cb=F('סוג/תקן','coolant_spec')+cc+F('כמות','coolant_cap_l',1)+F('מעגל קירור משני','secondary_coolant_spec_cap');
