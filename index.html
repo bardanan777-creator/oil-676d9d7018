@@ -102,7 +102,7 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
-<script src="bulbimg.js?v=20261103s"></script>
+<script src="bulbimg.js?v=20261103t"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
 const RES_WLTP='142afde2-6228-49f9-8a29-9b6c3a0cbe40';
@@ -110,7 +110,7 @@ const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261103s')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261103t')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
@@ -184,7 +184,7 @@ function spec3(v,pi,W,matches){
  let cc=null,ccS='';const n=x=>{const m=String(x??'').replace(/,/g,'').match(/^\s*(\d{2,5})(?:\.0+)?\s*(?:cc|סמ.?ק)?\s*$/i);return m?+m[1]:null;};
  const ccM=pi?n(v.nefach_manoa):n(one(W,'nefah_manoa',v.ramat_gimur));
  if(ccM){cc=ccM;ccS=MOT;}else{const c=n(cv('displacement_cc'));if(c){cc=c;ccS=CAT;}}
- let ccTxt=cc?cc.toLocaleString('en-US')+' סמ״ק · '+(cc/1000).toFixed(1)+' ליטר':((isEV||/BEV|^EV/.test(cv('powertrain')||''))?'אין מנוע בעירה (חשמלי)':null);if(!cc&&ccTxt)ccS=isEV?MOT:CAT;
+ let ccTxt=cc?{h:'<bdi>'+cc.toLocaleString('en-US')+' סמ״ק</bdi><span class="vs" style="font-size:12px;opacity:.9"><bdi>'+(cc/1000).toFixed(1)+' ליטר</bdi></span>'}:((isEV||/BEV|^EV/.test(cv('powertrain')||''))?'אין מנוע בעירה (חשמלי)':null);if(!cc&&ccTxt)ccS=isEV?MOT:CAT;
  // gearbox
  const gt=cv('gearbox_type')||'',gtA=/\//.test(gt)?'':gt;
  const kind=x=>/Reduction|single.?speed|1-speed/i.test(x)?'ev':/hybrid|e-?CVT|THS/i.test(x)?'hev':/DCT|DSG|\bEDC\b|PDK|S.?tronic|Powershift|DDCT/i.test(x)?'dct':/\bAMT\b|\bASG\b|\bAGS\b|robot|Dualogic|\bMMT\b|Easytronic|\bSMG\b|\bETG\b/i.test(x)?'amt':/CVT|Multidrive|Xtronic|Lineartronic/i.test(x)?'cvt':/\bM\/?T\d?\b|manual|ידני/i.test(x)?'mt':/\bA\/?T\b|\d?AT\b|automatic|אוטומט/i.test(x)?'at':'';
@@ -201,7 +201,7 @@ function spec3(v,pi,W,matches){
  if(hn&&/4X4|6X6/i.test(hn)){d=hn.toUpperCase().replace('X','x');dS=MOT;}
  else if(hn&&/4X2/i.test(hn)){d='2x4'+side;dS=MOT+(side?' + '+CAT:'');}
  else if(dk){d=dk==='4'?'4x4':'2x4'+side;dS=CAT;}
- const U='<span class="unk">לא ידוע</span>',cell=(k,x,s)=>'<div><b>'+k+'</b>'+(x?esc(x):U)+(x&&s?'<span class="vs">מקור: '+esc(s)+'</span>':'')+'</div>';
+ const U='<span class="unk">לא ידוע</span>',cell=(k,x,s)=>'<div><b>'+k+'</b>'+(x?(x.h||esc(x)):U)+(x&&s?'<span class="vs">מקור: '+esc(s)+'</span>':'')+'</div>';
  return cell('נפח מנוע',ccTxt,ccS)+cell('סוג גיר',g,gS)+cell('הנעה',d,dS);
 }
 function render(v,pi,matches,W){
