@@ -71,6 +71,60 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"CH-SPARK-M400-L5Q-IL": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 350,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "low",
+"wiper_notes": "מספר מקורות (ארה״ב, הגה שמאלי) נותנים 24\"/14\" לדור M400. carwiper.co.il מציג 22\"/15\" ללא הפרדת דורות – סתירה מעל 10 מ״מ, ולכן רמת ביטחון נמוכה; מומלץ למדוד. מגב אחורי לא אומת.",
+"wiper_source_title": "WiperIndex / AutoPadre / WiperBladesUSA – Chevrolet Spark 2016-2022 (M400)",
+"wiper_source_url": "https://wiperindex.com/make/chevrolet/spark/2017"
+},
+"CH-SPARK-M400-LV7-IL1": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 350,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "low",
+"wiper_notes": "מספר מקורות (ארה״ב, הגה שמאלי) נותנים 24\"/14\" לדור M400. carwiper.co.il מציג 22\"/15\" ללא הפרדת דורות – סתירה מעל 10 מ״מ, ולכן רמת ביטחון נמוכה; מומלץ למדוד. מגב אחורי לא אומת.",
+"wiper_source_title": "WiperIndex / AutoPadre / WiperBladesUSA – Chevrolet Spark 2016-2022 (M400)",
+"wiper_source_url": "https://wiperindex.com/make/chevrolet/spark/2017"
+},
+"CH-SPARK-M400-LV7-IL2": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 350,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "low",
+"wiper_notes": "מספר מקורות (ארה״ב, הגה שמאלי) נותנים 24\"/14\" לדור M400. carwiper.co.il מציג 22\"/15\" ללא הפרדת דורות – סתירה מעל 10 מ״מ, ולכן רמת ביטחון נמוכה; מומלץ למדוד. מגב אחורי לא אומת.",
+"wiper_source_title": "WiperIndex / AutoPadre / WiperBladesUSA – Chevrolet Spark 2016-2022 (M400)",
+"wiper_source_url": "https://wiperindex.com/make/chevrolet/spark/2017"
+},
 "CH-TRAX-14T-IL": {
 "brake_light": "",
 "confidence": "",
@@ -880,6 +934,24 @@
 "wiper_notes": "דגם לפי Bosch 2023: Ford Puma [J2K] 11.19→. קדמיים 700/340 מ״מ, אחורי 280 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"GL-GEOMC-EV": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "OXIMO: סט קדמי 600/400 מ״מ; אחורי 300 מ״מ לפי מקורות נוספים (פורום Geely Club Belarus).",
+"wiper_source_title": "OXIMO – Geely Geometry C 2019→",
+"wiper_source_url": "https://www.oximo.pl/en/wiper/geely-geometry-c-suv-2019-01-01-wc400600-0/"
 },
 "H-ELA-AD-16": {
 "brake_light": "",
@@ -2393,6 +2465,42 @@
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Santa Fe [DM] 2012-2018. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"H-SONATA-DN8-HEV": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "דורות LF (2015-2019) ו-DN8 (2020 ואילך): 26\"/18\" (650/450 מ״מ), ללא מגב אחורי. תואם ל-WiperIndex ו-WiperBladesUSA. בייצור מ-11/2023 הוחלפו מק״טים – מומלץ לאמת ברכבים חדשים.",
+"wiper_source_title": "Wiper Blades Direct – Hyundai Sonata size guide (LF, DN8)",
+"wiper_source_url": "https://wiperbladesdirect.com.au/pages/hyundai-sonata-wiper-blades-size-guide"
+},
+"H-SONATA-LF-HEV": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium",
+"wiper_notes": "דורות LF (2015-2019) ו-DN8 (2020 ואילך): 26\"/18\" (650/450 מ״מ), ללא מגב אחורי. תואם ל-WiperIndex ו-WiperBladesUSA. בייצור מ-11/2023 הוחלפו מק״טים – מומלץ לאמת ברכבים חדשים.",
+"wiper_source_title": "Wiper Blades Direct – Hyundai Sonata size guide (LF, DN8)",
+"wiper_source_url": "https://wiperbladesdirect.com.au/pages/hyundai-sonata-wiper-blades-size-guide"
 },
 "H-TUC-JM-27-UK": {
 "brake_light": "",
@@ -4521,6 +4629,60 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"K-SELTOS-SP2-G20-GB21": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "TopWipers (אירופה, הגה שמאלי): 600+450 מ״מ, אחורי 300 מ״מ. תואם ל-WiperIndex ו-Uniwiper.",
+"wiper_source_title": "TopWipers – Kia Seltos [SP2, SP2I] 08.19→",
+"wiper_source_url": "https://topwipers.com/en-pl/auto/wiper-blades/kia/seltos/sp2-sp2i-2019"
+},
+"K-SELTOS-SP2-G20-IL23": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "TopWipers (אירופה, הגה שמאלי): 600+450 מ״מ, אחורי 300 מ״מ. תואם ל-WiperIndex ו-Uniwiper.",
+"wiper_source_title": "TopWipers – Kia Seltos [SP2, SP2I] 08.19→",
+"wiper_source_url": "https://topwipers.com/en-pl/auto/wiper-blades/kia/seltos/sp2-sp2i-2019"
+},
+"K-SELTOS-SP2-G20-IL26": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "TopWipers (אירופה, הגה שמאלי): 600+450 מ״מ, אחורי 300 מ״מ. תואם ל-WiperIndex ו-Uniwiper.",
+"wiper_source_title": "TopWipers – Kia Seltos [SP2, SP2I] 08.19→",
+"wiper_source_url": "https://topwipers.com/en-pl/auto/wiper-blades/kia/seltos/sp2-sp2i-2019"
+},
 "K-SOR-UM-D4HB-GB": {
 "brake_light": "",
 "confidence": "",
@@ -6409,6 +6571,118 @@
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Mitsubishi Outlander III [GF,GG] 04.12→. קדמיים 650/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MI-PAJERO-V60-4M41-NL": {
+"brake_light": "W21/5W 21/5W (בלם ואור אחורי); W16W 16W (אור בלימה עילי)",
+"confidence": "medium",
+"front_wipers_driver_mm": 500,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "H9 65W",
+"headlight_low": "H11 55W (הלוגן); D2S 35W (קסנון/פריקה)",
+"notes": "טבלת הנורות מספר הרכב Pajero MY06 (V60/V70). השורה מכסה שנים 2001-2006 – ברכבים שיוצרו לפני מתיחת הפנים ייתכנו נורות פנס ראשי שונות; מומלץ לאמת לפני רכישה.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": 400,
+"source_page": "8-36/8-37 Lampvermogen",
+"source_title": "Mitsubishi Pajero MY06 handleiding (Mitsubishi Motors NL)",
+"source_url": "https://www.mitsubishi-motors.nl/content/dam/mitsubishi-motors-nl/downloads/handleidingen/Pajero_MY06.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "Bosch 2023: Pajero [V60,V70] 02.00-08.06 – קדמיים 500/500 מ״מ, אחורי H400 (400 מ״מ). carwiper.co.il (פג׳רו 2000-2006) מאשר 20\"/20\" קדמיים.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (Mitsubishi Pajero [V60,V70] 02.00-08.06) + carwiper.co.il",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MI-PAJERO-V60-4M41-NL-ALIAS-RAJERO": {
+"brake_light": "",
+"confidence": "",
+"front_wipers_driver_mm": 500,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "",
+"other_bulbs": [],
+"rear_wiper_mm": 400,
+"source_page": "",
+"source_title": "",
+"source_url": "",
+"wiper_confidence": "medium-high",
+"wiper_notes": "Bosch 2023: Pajero [V60,V70] 02.00-08.06 – קדמיים 500/500 מ״מ, אחורי H400 (400 מ״מ). carwiper.co.il (פג׳רו 2000-2006) מאשר 20\"/20\" קדמיים.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (Mitsubishi Pajero [V60,V70] 02.00-08.06) + carwiper.co.il",
+"wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MI-PAJERO-V60-4M41-NL-CALIAS-M441-2001": {
+"brake_light": "W21/5W 21/5W (בלם ואור אחורי); W16W 16W (אור בלימה עילי)",
+"confidence": "medium",
+"front_wipers_driver_mm": 500,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "H9 65W",
+"headlight_low": "H11 55W (הלוגן); D2S 35W (קסנון/פריקה)",
+"notes": "טבלת הנורות מספר הרכב Pajero MY06 (V60/V70). השורה מכסה שנים 2001-2006 – ברכבים שיוצרו לפני מתיחת הפנים ייתכנו נורות פנס ראשי שונות; מומלץ לאמת לפני רכישה.",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "פנסי איתות קדמיים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי איתות אחוריים",
+"type": "WY21W 21W"
+},
+{
+"position": "פנסי נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": 400,
+"source_page": "8-36/8-37 Lampvermogen",
+"source_title": "Mitsubishi Pajero MY06 handleiding (Mitsubishi Motors NL)",
+"source_url": "https://www.mitsubishi-motors.nl/content/dam/mitsubishi-motors-nl/downloads/handleidingen/Pajero_MY06.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "Bosch 2023: Pajero [V60,V70] 02.00-08.06 – קדמיים 500/500 מ״מ, אחורי H400 (400 מ״מ). carwiper.co.il (פג׳רו 2000-2006) מאשר 20\"/20\" קדמיים.",
+"wiper_source_title": "קטלוג מגבים Bosch 2023 (Mitsubishi Pajero [V60,V70] 02.00-08.06) + carwiper.co.il",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "MI-PAJERO-V80-4M41-UK": {
@@ -10718,8 +10992,8 @@
 "SZ-ALTO-GF-K10B": {
 "brake_light": "P21/5W 12V 21/5W",
 "confidence": "high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 525,
+"front_wipers_passenger_mm": 350,
 "headlight_high": "H4 12V 60/55W",
 "headlight_low": "H4 12V 60/55W",
 "notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
@@ -10764,7 +11038,11 @@
 "rear_wiper_mm": "",
 "source_page": "11-3 (PDF p.208)",
 "source_title": "Suzuki ALTO Instrukcja obsługi (suzuki.pl)",
-"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/ALTO/ALTO.pdf"
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/ALTO/ALTO.pdf",
+"wiper_confidence": "medium",
+"wiper_notes": "קדמיים 21\"/14\" (525/350 מ״מ); carwiper.co.il מאשר 21\"/14\". מגב אחורי – מקורות סותרים (250/275 מ״מ), לכן לא הוזן.",
+"wiper_source_title": "Uniwiper – Suzuki Alto 2009-2014 (GF)",
+"wiper_source_url": "https://www.uniwiper.com.au/wiper-blade/suzuki/alto/2009-2014-gf/"
 },
 "SZ-BALENO-K12C": {
 "brake_light": "LED",
@@ -16862,6 +17140,24 @@
 1014
 ],
 "year_from": 2023,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 430,
+"notes": "Berlingo K9 (2018 ואילך): קדמיים 650/430 מ״מ, אחורי 350 מ״מ (בדלת תא מטען אחת; בדלתות כנף אחוריות ייתכן מגב שונה). carwiper.co.il: 26\"/17\".",
+"rear_wiper_mm": 350,
+"source_title": "Bosch AeroTwin 11851 לפי 24scheibenwischer.de / 2dvornika – Citroën Berlingo K9 2018→",
+"source_url": "https://24scheibenwischer.de/car/citroen/berlingo/2018/"
+},
+"kinuy_re": "^BERLINGO",
+"tozeret_cd": [
+496,
+279
+],
+"year_from": 2018,
 "year_to": 2026
 }
 ]
