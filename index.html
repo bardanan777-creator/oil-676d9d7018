@@ -49,7 +49,7 @@ button:disabled{opacity:.6}
 .veh div{background:#0b0a0d;border:1px solid var(--line);border-radius:14px;padding:10px 12px;word-break:break-word}
 .veh .vs{display:block;margin-top:3px;font-size:10px;color:var(--mut);opacity:.75;letter-spacing:.02em}
 .veh .unk{color:var(--mut)}
-.vin{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.vin code{direction:ltr;unicode-bidi:isolate;font:600 14px ui-monospace,Menlo,Consolas,monospace;letter-spacing:.06em;color:var(--gold2);word-break:break-all}.vin button.cp{font:700 12px Heebo;padding:4px 10px;border-radius:8px;display:inline-flex;align-items:center;gap:4px;box-shadow:0 2px 8px #d8b86a33;height:auto;min-height:0}.vin button.cp svg{width:13px;height:13px;stroke:#1a1306;fill:none;stroke-width:2}.vin .vs{flex-basis:100%}@media(max-width:560px){.veh .vin{grid-column:1/-1}}
+.vin{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.vin code{direction:ltr;unicode-bidi:isolate;font:600 14px ui-monospace,Menlo,Consolas,monospace;letter-spacing:.06em;color:var(--gold2);word-break:break-all}.vin button.cp{font:700 12px Heebo;padding:4px 10px;border-radius:8px;display:inline-flex;align-items:center;gap:4px;box-shadow:0 2px 8px #d8b86a33;height:auto;min-height:0}.vin button.cp svg{width:13px;height:13px;stroke:#1a1306;fill:none;stroke-width:2}.vin .vs{flex-basis:100%}.veh .vin{grid-column:1/-1}
 .veh b{display:block;color:var(--gold);font-size:11px;font-weight:500;letter-spacing:.05em;margin-bottom:3px}
 .cats{display:grid;grid-template-columns:1fr;gap:0}
 @media(min-width:900px){.cats{grid-template-columns:1fr 1fr;gap:0 16px}.cats .wide{grid-column:1/-1}}
@@ -103,7 +103,7 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
-<script src="bulbimg.js?v=20261103v"></script>
+<script src="bulbimg.js?v=20261103w"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
 const RES_WLTP='142afde2-6228-49f9-8a29-9b6c3a0cbe40';
@@ -111,7 +111,7 @@ const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261103v')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261103w')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
@@ -213,7 +213,7 @@ function copyVin(b){const t=b.dataset.vin,sp=b.querySelector('span'),ok=()=>{sp.
 function render(v,pi,matches,W){
   let h='<div class="card"><div class="veh">'+
    [['יצרן',v.tozeret_nm],['דגם',v.kinuy_mishari||v.degem_nm],['קוד דגם',v.degem_nm],['שנת ייצור',v.shnat_yitzur],['קוד מנוע',v.degem_manoa],['דלק',v.sug_delek_nm],['רמת גימור',v.ramat_gimur],['סוג יבוא',pi?(v.sug_yevu||'יבוא אישי'):'']]
-   .filter(x=>x[1]).map(x=>'<div><b>'+x[0]+'</b>'+esc(x[1])+'</div>').join('')+vinCell(v.misgeret)+spec3(v,pi,W||[],matches)+'</div></div>';
+   .filter(x=>x[1]).map(x=>'<div><b>'+x[0]+'</b>'+esc(x[1])+'</div>').join('')+spec3(v,pi,W||[],matches)+vinCell(v.misgeret)+'</div></div>';
   if(!matches.length) return h+'<div class="card"><h2 class="miss">לא נמצא בקטלוג</h2><div class="meta">אין לרכב זה התאמה בקטלוג השמנים. אין להסתמך על ניחוש – יש לבדוק בספר הרכב.</div></div>';
   if(matches.length>1) h+='<div class="card warn">נמצאו '+matches.length+' התאמות אפשריות בקטלוג – יש לבחור לפי הרכב בפועל.</div>';
   for(const m of matches){
