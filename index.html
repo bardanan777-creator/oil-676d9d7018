@@ -47,6 +47,8 @@ button:disabled{opacity:.6}
 @keyframes rise{from{opacity:0;transform:translateY(18px)}}
 .veh{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:10px}
 .veh div{background:#0b0a0d;border:1px solid var(--line);border-radius:14px;padding:10px 12px;word-break:break-word}
+.veh .vs{display:block;margin-top:3px;font-size:10px;color:var(--mut);opacity:.75;letter-spacing:.02em}
+.veh .unk{color:var(--mut)}
 .veh b{display:block;color:var(--gold);font-size:11px;font-weight:500;letter-spacing:.05em;margin-bottom:3px}
 .cats{display:grid;grid-template-columns:1fr;gap:0}
 @media(min-width:900px){.cats{grid-template-columns:1fr 1fr;gap:0 16px}.cats .wide{grid-column:1/-1}}
@@ -100,14 +102,15 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
-<script src="bulbimg.js?v=20261030e"></script>
+<script src="bulbimg.js?v=20261103s"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
+const RES_WLTP='142afde2-6228-49f9-8a29-9b6c3a0cbe40';
 const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402b-9937-7c3d3afc9140';
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261030e')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261103s')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
@@ -166,10 +169,45 @@ const SW=[[/green|ירוק|緑|vihr/i,'#3fbf5f'],[/pink|ורוד|ピンク/i,'#f
 function swatch(c){const m=SW.filter(([re])=>re.test(c));return m.map(([,h])=>'<span class="sw" style="background:'+h+'"></span>').join('');}
 const IC={"bulb":"<path d=\"M9 18h6M10 21h4\"/><path d=\"M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z\"/>","wiper":"<path d=\"M12 20 4 6\"/><path d=\"M3 20h18\"/><path d=\"M4 6c4-2 10-2 16 2\"/>","eng": "<path d=\"M4 10h3l2-3h6v3h3l2 2v5h-2v2h-4l-2-2H9l-1 2H4z\"/><path d=\"M11 7V4h4\"/>", "gear": "<circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M4.9 19.1 7 17M17 7l2.1-2.1\"/>", "diff": "<circle cx=\"12\" cy=\"12\" r=\"7\"/><circle cx=\"12\" cy=\"12\" r=\"2.5\"/><path d=\"M2 12h3M19 12h3\"/>", "tc": "<rect x=\"7\" y=\"7\" width=\"10\" height=\"10\" rx=\"2\"/><path d=\"M2 9h5M2 15h5M17 12h5M12 2v5M12 17v5\"/>", "cool": "<path d=\"M12 3v11\"/><circle cx=\"12\" cy=\"17\" r=\"3.5\"/><path d=\"M8 20c-3 0-4-2-4-2M16 20c3 0 4-2 4-2M15 6h2M15 10h2\"/>", "brake": "<circle cx=\"12\" cy=\"12\" r=\"8\"/><circle cx=\"12\" cy=\"12\" r=\"3\"/><path d=\"M5 6a9 9 0 0 0 0 12M19 6a9 9 0 0 1 0 12\"/>", "ps": "<circle cx=\"12\" cy=\"12\" r=\"9\"/><circle cx=\"12\" cy=\"12\" r=\"2\"/><path d=\"M3.5 10h6.5M14 10h6.5M12 14v7\"/>"};
 function cat(title,body,k,w){return '<div class="card cat'+(w?' wide':'')+'"><h2><span class="ic"><svg viewBox="0 0 24 24">'+IC[k]+'</svg></span>'+title+'</h2>'+body+(body.indexOf('class="empty"')<0?qstrip(ROW):'')+'</div>';}
-function render(v,pi,matches){
+
+// MoT model table (WLTP "תוצרים ודגמים") by tozeret_cd+degem_cd+shnat_yitzur: engine cc, automatic_ind, hanaa_nm, technologiat_hanaa_nm.
+async function regW(v){try{const u=API+'?resource_id='+RES_WLTP+'&limit=50&filters='+encodeURIComponent(JSON.stringify({tozeret_cd:Number(v.tozeret_cd),degem_cd:Number(v.degem_cd),shnat_yitzur:Number(v.shnat_yitzur)}));
+ const r=await fetch(u);if(!r.ok)return [];const j=await r.json();return (j.result&&j.result.records)||[];}catch(e){return [];}}
+// one agreed value across the model-table records (prefer same trim level); else null (never guess)
+function one(W,f,trim){let a=W.filter(w=>w[f]!==null&&w[f]!==undefined&&String(w[f]).trim()!=='');if(trim){const t=a.filter(w=>up(w.ramat_gimur)===up(trim));if(t.length)a=t;}const s=[...new Set(a.map(w=>String(w[f]).trim()))];return s.length===1?s[0]:null;}
+function spec3(v,pi,W,matches){
+ const rs=matches.map(m=>DATA.rows[m.id]).filter(Boolean);
+ const cv=f=>{const s=[...new Set(rs.map(r=>String(r[f]||'').trim()).filter(Boolean))];return s.length===1&&rs.every(r=>String(r[f]||'').trim())?s[0]:null;};
+ const MOT='משרד התחבורה',CAT='קטלוג (ספר הרכב)';
+ const tech=one(W,'technologiat_hanaa_nm',v.ramat_gimur)||'',isEV=/חשמל/.test(tech)&&!/היבריד|plug/i.test(tech);
+ // displacement
+ let cc=null,ccS='';const n=x=>{const m=String(x??'').replace(/,/g,'').match(/^\s*(\d{2,5})(?:\.0+)?\s*(?:cc|סמ.?ק)?\s*$/i);return m?+m[1]:null;};
+ const ccM=pi?n(v.nefach_manoa):n(one(W,'nefah_manoa',v.ramat_gimur));
+ if(ccM){cc=ccM;ccS=MOT;}else{const c=n(cv('displacement_cc'));if(c){cc=c;ccS=CAT;}}
+ let ccTxt=cc?cc.toLocaleString('en-US')+' סמ״ק · '+(cc/1000).toFixed(1)+' ליטר':((isEV||/BEV|^EV/.test(cv('powertrain')||''))?'אין מנוע בעירה (חשמלי)':null);if(!cc&&ccTxt)ccS=isEV?MOT:CAT;
+ // gearbox
+ const gt=cv('gearbox_type')||'',gtA=/\//.test(gt)?'':gt;
+ const kind=x=>/Reduction|single.?speed|1-speed/i.test(x)?'ev':/hybrid|e-?CVT|THS/i.test(x)?'hev':/DCT|DSG|\bEDC\b|PDK|S.?tronic|Powershift|DDCT/i.test(x)?'dct':/\bAMT\b|\bASG\b|\bAGS\b|robot|Dualogic|\bMMT\b|Easytronic|\bSMG\b|\bETG\b/i.test(x)?'amt':/CVT|Multidrive|Xtronic|Lineartronic/i.test(x)?'cvt':/\bM\/?T\d?\b|manual|ידני/i.test(x)?'mt':/\bA\/?T\b|\d?AT\b|automatic|אוטומט/i.test(x)?'at':'';
+ const GL={ev:'חשמלי – הילוך יחיד',hev:'היברידי – תמסורת e-CVT',dct:'רובוטי כפול מצמד (DCT)',amt:'רובוטי (AMT)',cvt:'רציף (CVT)',mt:'ידני',at:'אוטומט'};
+ let g=null,gS='';const ai=pi?null:one(W,'automatic_ind',v.ramat_gimur),ck=kind(gtA);
+ if(isEV){g=GL.ev;gS=MOT;}
+ else if(ai==='1'){g=(['dct','amt','cvt','hev'].includes(ck)?GL[ck]:GL.at);gS=MOT+(g!==GL.at?' + '+CAT:'');}
+ else if(ai==='0'){g=GL.mt;gS=MOT;}
+ else if(ck){g=GL[ck];gS=CAT;}
+ // drive
+ const dv=cv('drive')||'',dA=/\//.test(dv)?'':dv,dk=/\b(4WD|AWD|4x4|4MATIC|xDrive|quattro|4MOTION|ALL4|E-Four|Q4|ATTESA)\b/i.test(dA)?'4':/\bFWD\b/i.test(dA)?'f':/\bRWD\b/i.test(dA)?'r':/\b2WD\b/i.test(dA)?'2':'';
+ let d=null,dS='';const hn=pi?null:one(W,'hanaa_nm',v.ramat_gimur);
+ const side=dk==='f'?' · קדמית':dk==='r'?' · אחורית':'';
+ if(hn&&/4X4|6X6/i.test(hn)){d=hn.toUpperCase().replace('X','x');dS=MOT;}
+ else if(hn&&/4X2/i.test(hn)){d='2x4'+side;dS=MOT+(side?' + '+CAT:'');}
+ else if(dk){d=dk==='4'?'4x4':'2x4'+side;dS=CAT;}
+ const U='<span class="unk">לא ידוע</span>',cell=(k,x,s)=>'<div><b>'+k+'</b>'+(x?esc(x):U)+(x&&s?'<span class="vs">מקור: '+esc(s)+'</span>':'')+'</div>';
+ return cell('נפח מנוע',ccTxt,ccS)+cell('סוג גיר',g,gS)+cell('הנעה',d,dS);
+}
+function render(v,pi,matches,W){
   let h='<div class="card"><div class="veh">'+
-   [['יצרן',v.tozeret_nm],['דגם',v.kinuy_mishari||v.degem_nm],['קוד דגם',v.degem_nm],['שנת ייצור',v.shnat_yitzur],['קוד מנוע',v.degem_manoa],['נפח מנוע',v.nefach_manoa?v.nefach_manoa+' סמ״ק':''],['דלק',v.sug_delek_nm],['רמת גימור',v.ramat_gimur],['סוג יבוא',pi?(v.sug_yevu||'יבוא אישי'):'']]
-   .filter(x=>x[1]).map(x=>'<div><b>'+x[0]+'</b>'+esc(x[1])+'</div>').join('')+'</div></div>';
+   [['יצרן',v.tozeret_nm],['דגם',v.kinuy_mishari||v.degem_nm],['קוד דגם',v.degem_nm],['שנת ייצור',v.shnat_yitzur],['קוד מנוע',v.degem_manoa],['דלק',v.sug_delek_nm],['רמת גימור',v.ramat_gimur],['סוג יבוא',pi?(v.sug_yevu||'יבוא אישי'):'']]
+   .filter(x=>x[1]).map(x=>'<div><b>'+x[0]+'</b>'+esc(x[1])+'</div>').join('')+spec3(v,pi,W||[],matches)+'</div></div>';
   if(!matches.length) return h+'<div class="card"><h2 class="miss">לא נמצא בקטלוג</h2><div class="meta">אין לרכב זה התאמה בקטלוג השמנים. אין להסתמך על ניחוש – יש לבדוק בספר הרכב.</div></div>';
   if(matches.length>1) h+='<div class="card warn">נמצאו '+matches.length+' התאמות אפשריות בקטלוג – יש לבחור לפי הרכב בפועל.</div>';
   for(const m of matches){
@@ -255,11 +293,12 @@ $('f').addEventListener('submit',async e=>{
     $('status').textContent='מחפש במאגר משרד התחבורה…';
     let v=await reg(RES_MAIN,plate), pi=false;
     if(!v){ v=await reg(RES_PI,plate); pi=!!v; }
+    const W=pi?[]:await regW(v);
     await dp;
     if(!v){$('status').innerHTML='<span class="err">מספר הרכב '+esc(plate)+' לא נמצא במאגר הרכבים הממשלתי.</span>';return;}
     $('status').textContent='רכב '+plate;
     document.body.classList.add('has');
-    $('out').innerHTML=render(v,pi,findRows(v,pi));
+    $('out').innerHTML=render(v,pi,findRows(v,pi),W);
   }catch(err){$('status').innerHTML='<span class="err">שגיאה בחיפוש: '+esc(err.message)+'. נסו שוב.</span>';}
   finally{$('go').disabled=false;}
 });
