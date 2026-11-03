@@ -204,36 +204,106 @@
 "source_url": "https://www.omodajaecoo.pl/fileadmin/instrukcje/Instrukcja_obs%C5%82ugi_-_OMODA_5_Hybrid.pdf"
 },
 "CH-SPARK-M300-B10D1-IL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 (60/55W, נורה משולבת)",
+"headlight_low": "H4 (60/55W, נורה משולבת)",
+"notes": "מקור: מהדורת קוריאה (Spark S) של ספארק M300; ספר הנהג הישראלי אינו מפרט סוגי נורות. פנס ראשי מודפס \"60/55W\" לאור גבוה/נמוך (נורה משולבת = H4). הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "ערפל קדמי",
+"type": "35W / 55W (לפי סוג פנס – הספק בלבד)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "10-27/10-28 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Spark (M300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/spark/10-vehicle-care.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Chevrolet Spark [M300] 2009-2015. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "CH-SPARK-M300-B12D1-IL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 (60/55W, נורה משולבת)",
+"headlight_low": "H4 (60/55W, נורה משולבת)",
+"notes": "מקור: מהדורת קוריאה (Spark S) של ספארק M300; ספר הנהג הישראלי אינו מפרט סוגי נורות. פנס ראשי מודפס \"60/55W\" לאור גבוה/נמוך (נורה משולבת = H4). הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "ערפל קדמי",
+"type": "35W / 55W (לפי סוג פנס – הספק בלבד)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "10-27/10-28 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Spark (M300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/spark/10-vehicle-care.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Chevrolet Spark [M300] 2009-2015. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -276,22 +346,104 @@
 "wiper_source_url": "https://wiperindex.com/make/chevrolet/spark/2017"
 },
 "CH-SPARK-M400-LV7-IL2": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W (P21WLL)",
+"confidence": "medium",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 350,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W (H1LL)",
+"headlight_low": "H7 55W (H7LL)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) של ספארק M400 פייסליפט 2019+; ספר הנהג הישראלי אינו מפרט סוגי נורות. \"LL\" = נורת אורך-חיים. ייתכנו הבדלי אבזור בגרסה הישראלית.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "W5W (W5WLL)"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "תאורת יום",
+"type": "W21W (W21WLL) / LED (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "פנס אחורי",
+"type": "LED / P21W 21/8.5W (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (W5WLL)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "311-312 – 전구 교체 (טבלת נורות)",
+"source_title": "Chevrolet The New Spark – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/the-new-spark/10-vehicle-care.pdf",
 "wiper_confidence": "low",
 "wiper_notes": "מספר מקורות (ארה״ב, הגה שמאלי) נותנים 24\"/14\" לדור M400. carwiper.co.il מציג 22\"/15\" ללא הפרדת דורות – סתירה מעל 10 מ״מ, ולכן רמת ביטחון נמוכה; מומלץ למדוד. מגב אחורי לא אומת.",
 "wiper_source_title": "WiperIndex / AutoPadre / WiperBladesUSA – Chevrolet Spark 2016-2022 (M400)",
 "wiper_source_url": "https://wiperindex.com/make/chevrolet/spark/2017"
+},
+"CH-SPARKLS-M300-B12D1-IL": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת)",
+"headlight_low": "H4 (60/55W, נורה משולבת)",
+"notes": "מקור: מהדורת קוריאה (Spark S) של ספארק M300; ספר הנהג הישראלי אינו מפרט סוגי נורות. פנס ראשי מודפס \"60/55W\" לאור גבוה/נמוך (נורה משולבת = H4). הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "ערפל קדמי",
+"type": "35W / 55W (לפי סוג פנס – הספק בלבד)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-27/10-28 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Spark (M300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/spark/10-vehicle-care.pdf"
 },
 "CH-T7PHEV-SQRH4J15-PL25": {
 "brake_light": "P21W",
@@ -15706,19 +15858,79 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
-"MI-ATTRAGE-3A92-TH20": {
+"MI-ATTRAGE-3A92": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "פנס ראשי H4 60/55W מופיע זהה גם בספרי Mirage UK 13MY/16MY/19MY (mitsubishi-motors.co.uk). נורת בלימה של אטראז' סדאן לפני 2020 לא אומתה (ספרי Mirage מתארים האצ'בק) – נשאר ריק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-19 (PDF 209) – Headlamps Type A: 60/55 W (H4)",
+"source_title": "Mitsubishi Motors Thailand – 20 ATTRAGE (ENG) Owner's Manual BK0285000EN",
+"source_url": "https://www.mitsubishi-motors.co.th/content/dam/mitsubishi-motors-th/images/documents/owner-manual/20%20ATTRAGE%20(ENG).pdf"
+},
+"MI-ATTRAGE-3A92-TH20": {
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W (Type A הלוגן); LED (Type B)",
+"headlight_low": "H4 60/55W (Type A הלוגן); LED (Type B)",
+"notes": "פנסי בלימה, פנס אחורי ובלימה עילי: LED (החלפה במוסך מורשה). מהדורת 2020; לשנת 2019 (לפני פייסליפט) ייתכנו הבדלים בפנסים האחוריים.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי חניה (Type A)",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי*",
+"type": "H16 19W"
+},
+{
+"position": "איתות צד (כנף)*",
+"type": "5W (לא ניתן להחליף נורה בלבד)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנסים אחוריים / בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "10-19/10-20 (PDF 209-210) – Bulb location and capacity",
+"source_title": "Mitsubishi Motors Thailand – 20 ATTRAGE (ENG) Owner's Manual BK0285000EN",
+"source_url": "https://www.mitsubishi-motors.co.th/content/dam/mitsubishi-motors-th/images/documents/owner-manual/20%20ATTRAGE%20(ENG).pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Mitsubishi Attrage [A1] 2013→. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -15726,17 +15938,30 @@
 },
 "MI-ATTRAGE-3A92-TH20E": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "פנס ראשי H4 60/55W מופיע זהה גם בספרי Mirage UK 13MY/16MY/19MY (mitsubishi-motors.co.uk). נורת בלימה של אטראז' סדאן לפני 2020 לא אומתה (ספרי Mirage מתארים האצ'בק) – נשאר ריק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "10-19 (PDF 209) – Headlamps Type A: 60/55 W (H4)",
+"source_title": "Mitsubishi Motors Thailand – 20 ATTRAGE (ENG) Owner's Manual BK0285000EN",
+"source_url": "https://www.mitsubishi-motors.co.th/content/dam/mitsubishi-motors-th/images/documents/owner-manual/20%20ATTRAGE%20(ENG).pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Mitsubishi Attrage [A1] 2013→. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -16638,6 +16863,226 @@
 "source_page": "10-28, 10-29 (PDF 530-531)",
 "source_title": "Mitsubishi Outlander MY17 handleiding (NL)",
 "source_url": "https://www.mitsubishi-motors.nl/content/dam/mitsubishi-motors-nl/downloads/handleidingen/Outlander_MY17.pdf"
+},
+"MI-OUT-GN-PR25-22": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל התאורה החיצונית LED – החלפה במוסך מורשה (הספר: \"If LED headlight replacement is required ... authorised MITSUBISHI MOTORS dealer\"). מקור: מהדורת 25MY; לשנים 2021-2023 לא נמצאה מהדורה מותרת (רק קנדה/ארה\"ב).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED (אם קיים)"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-19 (PDF 394) – Exterior and interior lights",
+"source_title": "Mitsubishi Motors Australia 25MY ZM Outlander Owner's Manual (BK0341500EN, ICE)",
+"source_url": "https://mitsubishimotorscustomerassist.mmal.com.au/knowledgebase-browse/mmal-article/?id=KA-01778"
+},
+"MI-OUT-GN-PR25-22US": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל התאורה החיצונית LED – החלפה במוסך מורשה (הספר: \"If LED headlight replacement is required ... authorised MITSUBISHI MOTORS dealer\"). מקור: מהדורת 25MY אוסטרליה (לא ארה\"ב/קנדה); לשנים 2021-2023 לא נמצאה מהדורה מותרת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED (אם קיים)"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-19 (PDF 394) – Exterior and interior lights",
+"source_title": "Mitsubishi Motors Australia 25MY ZM Outlander Owner's Manual (BK0341500EN, ICE)",
+"source_url": "https://mitsubishimotorscustomerassist.mmal.com.au/knowledgebase-browse/mmal-article/?id=KA-01778"
+},
+"MI-OUT-GN-PR25-23US": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל התאורה החיצונית LED – החלפה במוסך מורשה (הספר: \"If LED headlight replacement is required ... authorised MITSUBISHI MOTORS dealer\"). מקור: מהדורת 25MY אוסטרליה (לא ארה\"ב/קנדה); לשנים 2021-2023 לא נמצאה מהדורה מותרת.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED (אם קיים)"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-19 (PDF 394) – Exterior and interior lights",
+"source_title": "Mitsubishi Motors Australia 25MY ZM Outlander Owner's Manual (BK0341500EN, ICE)",
+"source_url": "https://mitsubishimotorscustomerassist.mmal.com.au/knowledgebase-browse/mmal-article/?id=KA-01778"
+},
+"MI-OUT-GN-PR25-25": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "כל התאורה החיצונית LED – החלפה במוסך מורשה (הספר: \"If LED headlight replacement is required ... authorised MITSUBISHI MOTORS dealer\").",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED (אם קיים)"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-19 (PDF 394) – Exterior and interior lights",
+"source_title": "Mitsubishi Motors Australia 25MY ZM Outlander Owner's Manual (BK0341500EN, ICE)",
+"source_url": "https://mitsubishimotorscustomerassist.mmal.com.au/knowledgebase-browse/mmal-article/?id=KA-01778"
 },
 "MI-PAJERO-V60-4M41-NL": {
 "brake_light": "W21/5W 21/5W (בלם ואור אחורי); W16W 16W (אור בלימה עילי)",
@@ -27409,6 +27854,37 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"T-LC120-1GR-X": {
+"brake_light": "",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W",
+"notes": "הספר הישראלי מכסה 2008-2009 (פראדו 120); לשנים 2004-2007 ייתכנו הבדלים. טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת בסיס יתד"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "453 – נורות פנסים (עמוד סרוק, נקרא כתמונה)",
+"source_title": "Toyota Land Cruiser 2008-2009 ספר רכב (Union Motors file 360)",
+"source_url": "https://books.union-motors.co.il/app/api/files/360/download"
+},
 "T-LC150-1GD-A": {
 "brake_light": "",
 "confidence": "manual-verbatim",
@@ -27525,6 +28001,49 @@
 "source_page": "740 (PDF p.741)",
 "source_title": "Toyota Land Cruiser 2020-2026 ספר רכב (Union Motors file 669)",
 "source_url": "https://books.union-motors.co.il/app/api/files/669/download"
+},
+"T-LC150-1GR-JP": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*",
+"notes": "כל ספרי הרכב הישראליים לפראדו 150 (2009-2026) מפרטים H11 55W נמוך ו-HB3 60W גבוה; בספר 2009-2013 גם קסנון D4S 35W כאופציה. טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W / H16 19W (לפי שנה)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "ערפל אחורי*",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "556 (PDF p.557) – נורות פנסים",
+"source_title": "Toyota Land Cruiser 2013-2015 ספר רכב (Union Motors file 193)",
+"source_url": "https://books.union-motors.co.il/app/api/files/193/download"
 },
 "T-PRIUS-XW30": {
 "brake_light": "",
@@ -28302,17 +28821,46 @@
 },
 "TM-LC-1GD-16": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*",
+"notes": "ספר 2016-2017; לשנים 2018-2019 ספר 2020-2026 (669) מפרט אותם ערכים (H11/HB3). טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "ערפל אחורי*",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "598 (PDF p.599) – נורות פנסים",
+"source_title": "Toyota Land Cruiser 2016-2017 ספר רכב (Union Motors file 198)",
+"source_url": "https://books.union-motors.co.il/app/api/files/198/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Land Cruiser Prado [J15] 2009-2024. קדמיים 650/500 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28359,17 +28907,46 @@
 },
 "TM-LC-1GD16-REGANOM": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*",
+"notes": "ספר 2016-2017; לשנים 2018-2019 ספר 2020-2026 (669) מפרט אותם ערכים (H11/HB3). טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "ערפל אחורי*",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "598 (PDF p.599) – נורות פנסים",
+"source_title": "Toyota Land Cruiser 2016-2017 ספר רכב (Union Motors file 198)",
+"source_url": "https://books.union-motors.co.il/app/api/files/198/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Land Cruiser Prado [J15] 2009-2024. קדמיים 650/500 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28414,37 +28991,173 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"TM-LC-1GR": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*; D4S 35W (קסנון)* – 2009-2013 לפי גרסה",
+"notes": "ספרי 2009-2013/2013-2015/2016-2017 כוללים את מנוע 1GR-FE; כולם מפרטים H11 55W נמוך ו-HB3 60W גבוה (קסנון D4S כאופציה בספר 2009-2013). טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W / H16 19W (לפי שנה)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "ערפל אחורי*",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "556 (PDF p.557) – נורות פנסים",
+"source_title": "Toyota Land Cruiser 2013-2015 ספר רכב (Union Motors file 193)",
+"source_url": "https://books.union-motors.co.il/app/api/files/193/download"
+},
 "TM-LC-1KD-0209": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 530,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W",
+"notes": "הספר הישראלי מכסה 2008-2009 (פראדו 120); לשנים קודמות לא נמצא ספר ישראלי – ייתכנו הבדלים. טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד"
+},
+{
+"position": "אורות חנייה",
+"type": "5W נורת בסיס יתד"
+},
+{
+"position": "איתות צד",
+"type": "5W נורת בסיס יתד"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W נורת בסיס יתד"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת בסיס יתד"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "453 – נורות פנסים (עמוד סרוק, נקרא כתמונה)",
+"source_title": "Toyota Land Cruiser 2008-2009 ספר רכב (Union Motors file 360)",
+"source_url": "https://books.union-motors.co.il/app/api/files/360/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Land Cruiser Prado [J12] 2003-2009. קדמיים 550/530 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"TM-LC-1KD-0209-CALIAS-LANDCRUISER-2006-x1812": {
+"brake_light": "",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W",
+"notes": "הספר הישראלי מכסה 2008-2009 (פראדו 120); לשנת 2006 לא נמצא ספר ישראלי – ייתכנו הבדלים. טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים",
+"type": "HB4 51W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת בסיס יתד"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "453 – נורות פנסים (עמוד סרוק, נקרא כתמונה)",
+"source_title": "Toyota Land Cruiser 2008-2009 ספר רכב (Union Motors file 360)",
+"source_url": "https://books.union-motors.co.il/app/api/files/360/download"
+},
 "TM-LC-1KD-0915": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*; D4S 35W (קסנון)* – לפי גרסה",
+"notes": "ספרי 2009-2013 (183) ו-2013-2015 (193) ו-2015-2016 (192): H11 55W אור נמוך הלוגן, HB3 60W אור גבוה; בספר 2009-2013 קיימת גם גרסת קסנון D4S 35W. טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H11 55W / H16 19W (לפי שנה)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "ערפל אחורי*",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "515 (PDF p.516) – נורות פנסים",
+"source_title": "Toyota Land Cruiser 2009-2013 ספר רכב (Union Motors file 183)",
+"source_url": "https://books.union-motors.co.il/app/api/files/183/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Land Cruiser Prado [J15] 2009-2024. קדמיים 650/500 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28452,17 +29165,46 @@
 },
 "TM-LC-1KD-REGANOM": {
 "brake_light": "",
-"confidence": "",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן)*",
+"notes": "טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"other_bulbs": [
+{
+"position": "פנסי ערפל קדמיים*",
+"type": "H16 19W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי חניה קדמיים",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "ערפל אחורי*",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "556 (PDF p.557) – נורות פנסים",
+"source_title": "Toyota Land Cruiser 2013-2015 ספר רכב (Union Motors file 193)",
+"source_url": "https://books.union-motors.co.il/app/api/files/193/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Land Cruiser Prado [J15] 2009-2024. קדמיים 650/500 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28962,17 +29704,17 @@
 },
 "TS-M3-1723": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 475,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
+"headlight_high": "LED (Bi-LED, מכלול)",
+"headlight_low": "LED (Bi-LED, מכלול)",
+"notes": "פנס ראשי Bi-LED (מכלול LED אחד לאור נמוך וגבוה) – אין נורה להחלפה; מוחלף מכלול הפנס. מקור: הליך כיוון פנסים במדריך השירות של טסלה (\"Select Light and adjust to Bi-LED\"). נורת בלימה: לא מצוין במקור – נשאר ריק. ",
 "other_bulbs": [],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Headlight aiming procedure",
+"source_title": "Tesla Model 3 Service Manual – Headlight Aiming",
+"source_url": "https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-4CE6DF11-CB30-4847-97C4-D9CBDB13AE00.html",
 "wiper_confidence": "medium",
 "wiper_notes": "דגם לפי Bosch 2023: Tesla Model 3 09.16→. קדמיים 650/475 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. מקור יחיד (Bosch) – יש לאמת את אורך המגב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי)",
@@ -28980,17 +29722,17 @@
 },
 "TS-M3-24": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 475,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
+"headlight_high": "LED (Bi-LED, מכלול)",
+"headlight_low": "LED (Bi-LED, מכלול)",
+"notes": "פנס ראשי Bi-LED (מכלול LED אחד לאור נמוך וגבוה) – אין נורה להחלפה; מוחלף מכלול הפנס. מקור: הליך כיוון פנסים במדריך השירות של טסלה (\"Select Light and adjust to Bi-LED\"). נורת בלימה: לא מצוין במקור – נשאר ריק. ",
 "other_bulbs": [],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Headlight aiming procedure",
+"source_title": "Tesla Model 3 Service Manual – Headlight Aiming",
+"source_url": "https://service.tesla.com/docs/Model3/ServiceManual/en-us/GUID-4CE6DF11-CB30-4847-97C4-D9CBDB13AE00.html",
 "wiper_confidence": "high",
 "wiper_notes": "מקור רשמי של טסלה (מהדורת ארה\"ב). אין מגב אחורי בדגם זה. יש להתקין להבים זהים למקוריים (אותו מחבר).",
 "wiper_source_title": "Tesla Model 3 – Do It Yourself: Replacing Wiper Blades (service.tesla.com)",
@@ -29034,17 +29776,17 @@
 },
 "TS-MY-2024": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
+"headlight_high": "LED (Bi-LED, מכלול)",
+"headlight_low": "LED (Bi-LED, מכלול)",
+"notes": "פנס ראשי Bi-LED (מכלול LED אחד לאור נמוך וגבוה) – אין נורה להחלפה; מוחלף מכלול הפנס. מקור: הליך כיוון פנסים במדריך השירות של טסלה (\"Select Light and adjust to Bi-LED\"). נורת בלימה: לא מצוין במקור – נשאר ריק. ",
 "other_bulbs": [],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Headlight aiming procedure",
+"source_title": "Tesla Model Y Service Manual – Headlight Aiming",
+"source_url": "https://service.tesla.com/docs/ModelY/ServiceManual/en-us/GUID-4CE6DF11-CB30-4847-97C4-D9CBDB13AE00.html",
 "wiper_confidence": "high",
 "wiper_notes": "מקור רשמי של טסלה (מהדורת ארה\"ב). אין מגב אחורי בדגם זה. יש להתקין להבים זהים למקוריים (אותו מחבר).",
 "wiper_source_title": "Tesla Model Y – Do It Yourself: Replacing Wiper Blades (service.tesla.com)",
@@ -29052,17 +29794,17 @@
 },
 "TS-MY-25": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
+"headlight_high": "LED (Bi-LED, מכלול)",
+"headlight_low": "LED (Bi-LED, מכלול)",
+"notes": "פנס ראשי Bi-LED (מכלול LED אחד לאור נמוך וגבוה) – אין נורה להחלפה; מוחלף מכלול הפנס. מקור: הליך כיוון פנסים במדריך השירות של טסלה (\"Select Light and adjust to Bi-LED\"). נורת בלימה: לא מצוין במקור – נשאר ריק. ",
 "other_bulbs": [],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Headlight aiming procedure",
+"source_title": "Tesla Model Y 2025+ Service Manual – Headlight Aiming (ECE)",
+"source_url": "https://service.tesla.com/docs/ModelY/ServiceManual/2025/en-us/GUID-AF07651D-F48B-4590-8694-782295E74E3D.html",
 "wiper_confidence": "high",
 "wiper_notes": "מקור רשמי של טסלה (מהדורת ארה\"ב). אין מגב אחורי בדגם זה. יש להתקין להבים זהים למקוריים (אותו מחבר).",
 "wiper_source_title": "Tesla Model Y – Do It Yourself: Replacing Wiper Blades (service.tesla.com)",
