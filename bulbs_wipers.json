@@ -74,6 +74,1119 @@
 "source_title": "Chery Arrizo 8 PHEV – Manual del usuario (Chery Argentina, ES)",
 "source_url": "https://chery.com.ar/wp-content/uploads/2026/03/Arrizo-8-PHEV-user-manual_ES-low.pdf"
 },
+"CH-CRUZE-J300-14T-KR": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-J300-14T-KR-CURZE": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-J300-F18D4-KR": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-J300-F18D4-KR-A1": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-J300-F18D4-KR-A2": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-J300-F18D4-KR-A3": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL0913": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL0913-16LS": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL0913-16LS2": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL0913-16LS3": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL0913-16LT": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL0913-I6LS": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL1416": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL1416-16LS": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL1416-16LS2": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL1416-16LS3": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL1416-16LT": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LDE-IL1416-I6LS": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LUJ-IL": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LUJ-IL-KALIAS-CURZE-2014-7": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
+"CH-CRUZE-LXT-IL": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"headlight_low": "H4 (60/55W, נורה משולבת) / HB3 60W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"60/55W\" (נורה משולבת = H4); פנס מקרן מודפס 60W. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (הספק בלבד)"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / P16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "334 – 전구 사양 (טבלת נורות, הספק בלבד)",
+"source_title": "Chevrolet Cruze (J300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/cruze/10-vehicle-care.pdf"
+},
 "CH-FX-SQRF4J16-PL": {
 "brake_light": "LED (במוסך מורשה)",
 "confidence": "high",
@@ -202,6 +1315,428 @@
 "source_page": "255 (PDF 129, Specyfikacja żarówki)",
 "source_title": "OMODA 5 Hybrid – Instrukcja obsługi (Omoda & Jaecoo Polska, PL)",
 "source_url": "https://www.omodajaecoo.pl/fileadmin/instrukcje/Instrukcja_obs%C5%82ugi_-_OMODA_5_Hybrid.pdf"
+},
+"CH-ORLANDO-LNP-IL1213": {
+"brake_light": "P21/5W / W21/5W (21/5W, סוג 1) / LED (סוג 2)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת)",
+"headlight_low": "H4 (60/55W, נורה משולבת)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"55/60W\" לאור נמוך/גבוה (נורה משולבת = H4). הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H8 (35W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "27W (סוג 1) / 21W (סוג 2) – הספק בלבד"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "326-327 – 전구 사양 (טבלת נורות סוג 1/סוג 2, הספק בלבד)",
+"source_title": "Chevrolet Orlando (J309) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/orlando/10-vehicle-care.pdf"
+},
+"CH-ORLANDO-LNP-IL1415": {
+"brake_light": "P21/5W / W21/5W (21/5W, סוג 1) / LED (סוג 2)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת)",
+"headlight_low": "H4 (60/55W, נורה משולבת)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"55/60W\" לאור נמוך/גבוה (נורה משולבת = H4). הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H8 (35W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "27W (סוג 1) / 21W (סוג 2) – הספק בלבד"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "326-327 – 전구 사양 (טבלת נורות סוג 1/סוג 2, הספק בלבד)",
+"source_title": "Chevrolet Orlando (J309) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/orlando/10-vehicle-care.pdf"
+},
+"CH-ORLANDO-LUJ-IL-GARBLED": {
+"brake_light": "P21/5W / W21/5W (21/5W, סוג 1) / LED (סוג 2)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת)",
+"headlight_low": "H4 (60/55W, נורה משולבת)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"55/60W\" לאור נמוך/גבוה (נורה משולבת = H4). הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H8 (35W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "27W (סוג 1) / 21W (סוג 2) – הספק בלבד"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "326-327 – 전구 사양 (טבלת נורות סוג 1/סוג 2, הספק בלבד)",
+"source_title": "Chevrolet Orlando (J309) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/orlando/10-vehicle-care.pdf"
+},
+"CH-ORLANDO-LUJ-IL1418": {
+"brake_light": "P21/5W / W21/5W (21/5W, סוג 1) / LED (סוג 2)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת)",
+"headlight_low": "H4 (60/55W, נורה משולבת)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. פנס ראשי מודפס \"55/60W\" לאור נמוך/גבוה (נורה משולבת = H4). הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H8 (35W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "27W (סוג 1) / 21W (סוג 2) – הספק בלבד"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "326-327 – 전구 사양 (טבלת נורות סוג 1/סוג 2, הספק בלבד)",
+"source_title": "Chevrolet Orlando (J309) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/orlando/10-vehicle-care.pdf"
+},
+"CH-SONIC-LDD-IL": {
+"brake_light": "P21W (21W) – בלם/אחורי (סדאן והאצ'בק)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. הספר הוא של \"The New Aveo\" (מקביל לסוניק T300).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "PSX24W 24W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום / חניה",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "339 – 전구 교환 (טבלת נורות)",
+"source_title": "Chevrolet The New Aveo (Sonic T300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/the-new-aveo/10-vehicle-care.pdf"
+},
+"CH-SONIC-LDD-ILLS": {
+"brake_light": "P21W (21W) – בלם/אחורי (סדאן והאצ'בק)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. הספר הוא של \"The New Aveo\" (מקביל לסוניק T300).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "PSX24W 24W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום / חניה",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "339 – 전구 교환 (טבלת נורות)",
+"source_title": "Chevrolet The New Aveo (Sonic T300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/the-new-aveo/10-vehicle-care.pdf"
+},
+"CH-SONIC-LDE-IL": {
+"brake_light": "P21W (21W) – בלם/אחורי (סדאן והאצ'בק)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. הספר הוא של \"The New Aveo\" (מקביל לסוניק T300).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "PSX24W 24W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום / חניה",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "339 – 전구 교환 (טבלת נורות)",
+"source_title": "Chevrolet The New Aveo (Sonic T300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/the-new-aveo/10-vehicle-care.pdf"
+},
+"CH-SONIC-LDE-ILLT": {
+"brake_light": "P21W (21W) – בלם/אחורי (סדאן והאצ'בק)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. הספר הוא של \"The New Aveo\" (מקביל לסוניק T300).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "PSX24W 24W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום / חניה",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "339 – 전구 교환 (טבלת נורות)",
+"source_title": "Chevrolet The New Aveo (Sonic T300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/the-new-aveo/10-vehicle-care.pdf"
+},
+"CH-SONIC-T300-14T-KR": {
+"brake_light": "P21W (21W) – בלם/אחורי (סדאן והאצ'בק)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. הספר הוא של \"The New Aveo\" (מקביל לסוניק T300).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "PSX24W 24W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום / חניה",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "339 – 전구 교환 (טבלת נורות)",
+"source_title": "Chevrolet The New Aveo (Sonic T300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/the-new-aveo/10-vehicle-care.pdf"
+},
+"CH-SONIC-T300-14T-KR-CALIAS-B14NET-2014": {
+"brake_light": "P21W (21W) – בלם/אחורי (סדאן והאצ'בק)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (פנס מקרן)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. הספר הוא של \"The New Aveo\" (מקביל לסוניק T300).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "PSX24W 24W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום / חניה",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "339 – 전구 교환 (טבלת נורות)",
+"source_title": "Chevrolet The New Aveo (Sonic T300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/the-new-aveo/10-vehicle-care.pdf"
 },
 "CH-SPARK-M300-B10D1-IL": {
 "brake_light": "P21/5W / W21/5W (21/5W)",
@@ -646,22 +2181,94 @@
 "source_url": "https://www.cherypolska.pl/fileadmin/media/instrukcje/Instrukcja_obs%C5%82ugi_-_Tiggo_9_.pdf"
 },
 "CH-TRAX-14T-IL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W (בלם/אחורי, סוג 1) / W21W (סוג 2)",
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W (H1LL, סוג 1) / HB3 60W (סוג 2)",
+"headlight_low": "H7 55W (H7LL, סוג 1) / HB3 60W (סוג 2)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. הספר הוא של \"The New Trax\" (פייסליפט 2017+); בשנים 2013-2016 (לפני פייסליפט) ייתכנו נורות שונות. גרסאות LED – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "פנסי חניה קדמיים",
+"type": "W5W (W5W LL)"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W 24W"
+},
+{
+"position": "תאורת יום",
+"type": "W21W (W21W LL) / LED (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "250 – 전구 (טבלת נורות)",
+"source_title": "Chevrolet The New Trax – ספר בעלים רשמי שברולט קוריאה (09 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/the-new-trax/09-vehicle-care.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Chevrolet Trax 2013-2021. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"CH-TRAX-14T-IL-GARBLED": {
+"brake_light": "W21/5W (בלם/אחורי, סוג 1) / W21W (סוג 2)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (H1LL, סוג 1) / HB3 60W (סוג 2)",
+"headlight_low": "H7 55W (H7LL, סוג 1) / HB3 60W (סוג 2)",
+"notes": "מקור: מהדורת קוריאה (שוק מקומי) – ספר הנהג הישראלי אינו מפרט סוגי נורות. ייתכנו הבדלי אבזור בגרסה הישראלית. הספר הוא של \"The New Trax\" (פייסליפט 2017+); בשנים 2013-2016 (לפני פייסליפט) ייתכנו נורות שונות. גרסאות LED – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "פנסי חניה קדמיים",
+"type": "W5W (W5W LL)"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W 24W"
+},
+{
+"position": "תאורת יום",
+"type": "W21W (W21W LL) / LED (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "250 – 전구 (טבלת נורות)",
+"source_title": "Chevrolet The New Trax – ספר בעלים רשמי שברולט קוריאה (09 차량 관리, KR)",
+"source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/the-new-trax/09-vehicle-care.pdf"
 },
 "CH-TRAX-18-IL": {
 "brake_light": "",
@@ -727,6 +2334,60 @@
 "source_page": "162-166 (PDF 164-167); ed.02-24 PDF 218-221",
 "source_title": "Citroën Berlingo (K9) Handbook ed.01-19 (en-GB) + ed.02-24",
 "source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/berlingo.k9/eGuide_k9vp_ed01-19/pdfs/9999_9999_292_en-GB.pdf"
+},
+"CI-C1-1KR": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (C1 דור 1) / H7 55W (C1 דור 2)",
+"headlight_low": "H4 60/55W (C1 דור 1, עד 2014) / H7 55W (C1 דור 2, 2014 ואילך)",
+"notes": "הקובץ בנתיב en_us בשרת servicebox הוא המהדורה הבינלאומית באנגלית של PSA (לא ספר שוק ארה\"ב/קנדה – הדגם לא נמכר שם). הפנס הראשי שונה בין הדורות: H4 בדור 1 ו-H7 בדור 2 (2014+) – יש לבדוק לפי שנת הרכב.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "C1 I: 70-71; C1 II: 165, 168 – Changing a bulb",
+"source_title": "Citroën C1 – ספרי בעלים רשמיים Citroën (C1 I ed01-12; C1 II ed01-16, אנגלית)",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/c1/c1_c1/ed01-12/en_us/c1_c1_c1_ed01-12_en_us.pdf ; https://public.servicebox.peugeot.com/ACddb/modeles/c1/c1_c1n/ed01-16/en_us/c1_c1_c1n_ed01-16_en_us.pdf"
+},
+"CI-C1-1KR-CALIAS-CFB": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (C1 דור 1) / H7 55W (C1 דור 2)",
+"headlight_low": "H4 60/55W (C1 דור 1, עד 2014) / H7 55W (C1 דור 2, 2014 ואילך)",
+"notes": "הקובץ בנתיב en_us בשרת servicebox הוא המהדורה הבינלאומית באנגלית של PSA (לא ספר שוק ארה\"ב/קנדה – הדגם לא נמכר שם). הפנס הראשי שונה בין הדורות: H4 בדור 1 ו-H7 בדור 2 (2014+) – יש לבדוק לפי שנת הרכב.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "C1 I: 70-71; C1 II: 165, 168 – Changing a bulb",
+"source_title": "Citroën C1 – ספרי בעלים רשמיים Citroën (C1 I ed01-12; C1 II ed01-16, אנגלית)",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/c1/c1_c1/ed01-12/en_us/c1_c1_c1_ed01-12_en_us.pdf ; https://public.servicebox.peugeot.com/ACddb/modeles/c1/c1_c1n/ed01-16/en_us/c1_c1_c1n_ed01-16_en_us.pdf"
 },
 "CI-C3-EB2NA": {
 "brake_light": "P21/5W",
@@ -858,6 +2519,79 @@
 "wiper_notes": "דגם לפי Bosch 2023: Citroën C4 Cactus [E3] 2014-2020. קדמיים 650/425 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"CI-C4SPACE-HN05": {
+"brake_light": "P21W (פנס נורות) / LED (לפי גרסה)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W (הלוגן) / D5S 25W (קסנון, לפי גרסה)",
+"notes": "מהדורת 2018 (C4 Picasso/SpaceTourer).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PWY24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 (בגרסת קסנון)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "222-227 – Changing a bulb",
+"source_title": "Citroën C4 SpaceTourer / C4 Picasso – ספר בעלים רשמי Citroën (eGuide ed01-18, en-GB)",
+"source_url": "https://service.citroen.com/ACddb/modeles/c4picasso/eGuide_c4picasso_c4pn_ed01-18_dag/pdfs/9999_9999_215_en-GB.pdf"
+},
+"CI-C4SPACE-YH01": {
+"brake_light": "P21W (פנס נורות) / LED (לפי גרסה)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W (הלוגן) / D5S 25W (קסנון, לפי גרסה)",
+"notes": "מהדורת 2018 (C4 Picasso/SpaceTourer).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PWY24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 (בגרסת קסנון)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "222-227 – Changing a bulb",
+"source_title": "Citroën C4 SpaceTourer / C4 Picasso – ספר בעלים רשמי Citroën (eGuide ed01-18, en-GB)",
+"source_url": "https://service.citroen.com/ACddb/modeles/c4picasso/eGuide_c4picasso_c4pn_ed01-18_dag/pdfs/9999_9999_215_en-GB.pdf"
+},
+"CI-C5AIR-YH01": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 65W (הלוגן) / LED (לפי גרסה)",
+"headlight_low": "H7 55W (הלוגן) / LED מלא (לפי גרסה)",
+"notes": "גרסאות LED – החלפה במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "P21W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "188-189 – Changing a bulb",
+"source_title": "Citroën C5 Aircross – ספר בעלים רשמי Citroën (eGuide c84 ed01-20, en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/c5ac.c8/eGuide_c84_ed01-20/pdfs/9999_9999_319_en-GB.pdf"
 },
 "DA-BIGSTER-H5F-X": {
 "brake_light": "LED",
@@ -9468,6 +11202,112 @@
 "wiper_notes": "דגם לפי Bosch 2023: Honda Civic [FC] 2017-2021. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HO-CIVIC-FD-R18A1-JP06": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (60W)",
+"headlight_low": "HB4 (51W, הלוגן) / קסנון HID 35W (לפי גרסה)",
+"notes": "מקור: מהדורת יפן של סיוויק FD (לא ארה\"ב/קנדה). הספר מדפיס הספק בלבד: נמוך 51W (הלוגן = HB4) או 35W (HID), גבוה 60W (HB3). הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "סימון צד",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות צד",
+"type": "W5W (5W) / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "18W (הספק בלבד)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "348 (PDF 349) – 電球の規格 (טבלת נורות, הספק בלבד)",
+"source_title": "Honda Civic (FD) – ספר בעלים רשמי Honda Japan 30SNB610",
+"source_url": "https://www.honda.co.jp/ownersmanual/pdf/auto/civic/30SNB610_web.pdf"
+},
+"HO-CIVIC-FD-R18A2-JP06": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (60W)",
+"headlight_low": "HB4 (51W, הלוגן) / קסנון HID 35W (לפי גרסה)",
+"notes": "מקור: מהדורת יפן של סיוויק FD (לא ארה\"ב/קנדה). הספר מדפיס הספק בלבד: נמוך 51W (הלוגן = HB4) או 35W (HID), גבוה 60W (HB3). הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 / H8 (55W – הספק בלבד)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "סימון צד",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות צד",
+"type": "W5W (5W) / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "18W (הספק בלבד)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "348 (PDF 349) – 電球の規格 (טבלת נורות, הספק בלבד)",
+"source_title": "Honda Civic (FD) – ספר בעלים רשמי Honda Japan 30SNB610",
+"source_url": "https://www.honda.co.jp/ownersmanual/pdf/auto/civic/30SNB610_web.pdf"
 },
 "HO-CIVIC-FK-R18Z4": {
 "brake_light": "LED",
@@ -18752,6 +20592,49 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"NI-ALMERA-N17-HR16DE-IL15": {
+"brake_light": "P21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB2 60/55W (הלוגן, נורה משולבת)",
+"headlight_low": "HB2 60/55W (הלוגן, נורה משולבת)",
+"notes": "ספר הרכב הישראלי (ניסאן ישראל). HB2 = H4 בתקינה האירופית.",
+"other_bulbs": [
+{
+"position": "איתות קדמי / חניה",
+"type": "P21W (27/7W לפי הטבלה)"
+},
+{
+"position": "סימון צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-27 (PDF 310) – Exterior lights",
+"source_title": "Nissan Almera 2015 – ספר רכב רשמי ניסאן ישראל (אנגלית)",
+"source_url": "https://web.archive.org/web/20170709131021id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-Almera-Car-Book-2015-ENG.pdf"
+},
 "NI-JUKE-F15-HR16DE": {
 "brake_light": "P21/5W 21/5W",
 "confidence": "high",
@@ -19133,19 +21016,119 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"NI-NOTE-E12-HR12DDR-GR": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (נורה משולבת)",
+"headlight_low": "H4 60/55W (נורה משולבת)",
+"notes": "ספר הרכב הישראלי (ניסאן ישראל).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "WY5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (אם קיים)"
+},
+{
+"position": "תאורת יום",
+"type": "13W (אם קיים, הספק בלבד)"
+},
+{
+"position": "איתות צד",
+"type": "W5W (סוג A) / LED (סוג B)"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור אחורי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-25 – Exterior lights",
+"source_title": "Nissan Note 2014 (E12) – ספר רכב רשמי ניסאן ישראל (אנגלית)",
+"source_url": "https://web.archive.org/web/20170709063949id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-Note-Car-Book-2014-ENG.pdf"
+},
 "NI-NV200-M20-K9K-GR": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W – הספק בלבד)",
+"bulb_options": [
+"brake_light",
+"other_bulbs"
+],
+"confidence": "medium-high",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60W (נורה משולבת)",
+"headlight_low": "H4 55W (נורה משולבת)",
+"notes": "ספר הרכב הישראלי (ניסאן ישראל): פנס ראשי מודפס עם קוד (H4); שאר הנורות – הספק בלבד. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W (5W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 (35W, אם קיים – הספק בלבד)"
+},
+{
+"position": "איתות צד",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-22 (PDF 180) – Exterior lights",
+"source_title": "Nissan NV200 – ספר רכב רשמי ניסאן ישראל (אנגלית)",
+"source_url": "https://web.archive.org/web/20170709073259id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-NV200-Car-Book-ENG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Nissan NV200 [M20] 2009→. קדמיים 550/400 מ״מ, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). המגב האחורי לגרסה עם דלת אחורית מורמת. יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
@@ -20311,58 +22294,252 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-XT-T32PE-HR13DDT-GR": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W / W21W (21W – הספק בלבד)",
+"bulb_options": [
+"brake_light",
+"other_bulbs"
+],
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W (דגם הלוגן) / LED (דגם LED)",
+"headlight_low": "H11 55W (דגם הלוגן) / LED (דגם LED – מוסך מורשה)",
+"notes": "מקור: מהדורת יוון (EU) של X-Trail T32 פייסליפט. פנס ראשי: קוד הנורה מודפס (H11/H9); פנס בלם ואחרים – הספק בלבד. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "פנסי חניה / תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 (35W – הספק בלבד)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "אור אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-30 עד 8-32 (PDF 180-182 בקובץ) – ΦΩΤΑ / πίνακας λαμπτήρων",
+"source_title": "Nissan X-Trail T32 (T32E0EUR) – ספר בעלים רשמי ניסאן יוון",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/xtrail/T32E0EUR-pages-233-464.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan X-Trail [T32] 2014-2022. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-XT-T32PE-HR13DDT-GR-ALIAS-H5H": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W / W21W (21W – הספק בלבד)",
+"bulb_options": [
+"brake_light",
+"other_bulbs"
+],
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W (דגם הלוגן) / LED (דגם LED)",
+"headlight_low": "H11 55W (דגם הלוגן) / LED (דגם LED – מוסך מורשה)",
+"notes": "מקור: מהדורת יוון (EU) של X-Trail T32 פייסליפט. פנס ראשי: קוד הנורה מודפס (H11/H9); פנס בלם ואחרים – הספק בלבד. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "פנסי חניה / תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 (35W – הספק בלבד)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "אור אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-30 עד 8-32 (PDF 180-182 בקובץ) – ΦΩΤΑ / πίνακας λαμπτήρων",
+"source_title": "Nissan X-Trail T32 (T32E0EUR) – ספר בעלים רשמי ניסאן יוון",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/xtrail/T32E0EUR-pages-233-464.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan X-Trail [T32] 2014-2022. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-XT-T32PE-R9N-GR": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W / W21W (21W – הספק בלבד)",
+"bulb_options": [
+"brake_light",
+"other_bulbs"
+],
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W (דגם הלוגן) / LED (דגם LED)",
+"headlight_low": "H11 55W (דגם הלוגן) / LED (דגם LED – מוסך מורשה)",
+"notes": "מקור: מהדורת יוון (EU) של X-Trail T32 פייסליפט. פנס ראשי: קוד הנורה מודפס (H11/H9); פנס בלם ואחרים – הספק בלבד. הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "פנסי חניה / תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 (35W – הספק בלבד)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "אור אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-30 עד 8-32 (PDF 180-182 בקובץ) – ΦΩΤΑ / πίνακας λαμπτήρων",
+"source_title": "Nissan X-Trail T32 (T32E0EUR) – ספר בעלים רשמי ניסאן יוון",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/xtrail/T32E0EUR-pages-233-464.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan X-Trail [T32] 2014-2022. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"NX-NOTE-E12-HR12-X": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (נורה משולבת)",
+"headlight_low": "H4 60/55W (נורה משולבת)",
+"notes": "ספר הרכב הישראלי (ניסאן ישראל).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנסי חניה",
+"type": "WY5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (אם קיים)"
+},
+{
+"position": "תאורת יום",
+"type": "13W (אם קיים, הספק בלבד)"
+},
+{
+"position": "איתות צד",
+"type": "W5W (סוג A) / LED (סוג B)"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור אחורי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-25 – Exterior lights",
+"source_title": "Nissan Note 2014 (E12) – ספר רכב רשמי ניסאן ישראל (אנגלית)",
+"source_url": "https://web.archive.org/web/20170709063949id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-Note-Car-Book-2014-ENG.pdf"
 },
 "OP-ADAM-A14XER-EU14": {
 "brake_light": "",
@@ -20706,19 +22883,82 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"PE-107-1KR": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (נורה משולבת)",
+"headlight_low": "H4 60/55W (נורה משולבת)",
+"notes": "הקובץ בנתיב en_us בשרת servicebox הוא המהדורה הבינלאומית באנגלית של PSA (לא ספר שוק ארה\"ב/קנדה – הדגם לא נמכר שם). מהדורת 2012; לשנים 2009-2011 ייתכנו הבדלים קלים.",
+"other_bulbs": [
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "70-71 – Changing a bulb",
+"source_title": "Peugeot 107 – ספר בעלים רשמי Peugeot (ed01-12, אנגלית)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/107/107_107/ed01-12/en_us/107_107_107_ed01-12_en_us.pdf"
+},
+"PE-108-1KR": {
+"brake_light": "P21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W",
+"headlight_low": "HIR2 55W",
+"notes": "ספר הרכב הישראלי (עברית). אומת גם במהדורת ed01-16 באנגלית (עמ' 165/168).",
+"other_bulbs": [
+{
+"position": "איתות קדמי / אחורי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "112, 114 – החלפת נורה",
+"source_title": "Peugeot 108 – ספר בעלים רשמי Peugeot ישראל (ed01-18, עברית)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/108/108_108/ed01-18/he_il/108_108_108_ed01-18_he_il.pdf"
+},
 "PE-2008-HN01": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W / LED (לפי גרסה)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "הקובץ בנתיב en_us בשרת servicebox הוא המהדורה הבינלאומית באנגלית של PSA (לא ספר שוק ארה\"ב/קנדה – הדגם לא נמכר שם). במהדורת ed01-18 (en-GB, עמ' 151/153): H7 נמוך/גבוה, בלם LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PWY24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+}
+],
 "rear_wiper_mm": 290,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "204, 208 – Changing a bulb",
+"source_title": "Peugeot 2008 – ספר בעלים רשמי Peugeot (ed01-16, אנגלית)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/2008/2008_2008/ed01-16/en_us/2008_2008_2008_ed01-16_en_us.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Peugeot 2008 I [CU] 2013-2019. קדמיים 650/400 מ״מ, אחורי 290 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -20794,23 +23034,102 @@
 "source_title": "Peugeot 2008 (P24) Handbook ed.01-23 (en-GB)",
 "source_url": "https://public.servicebox.peugeot.com/APddb/modeles/2008.p2/eGuide_p24_ed01-23/pdfs/9999_9999_484_en-GB.pdf"
 },
+"PE-208-DV5RCF": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים ופנסי בלם LED – החלפה במוסך מורשה. הדור P21 (208 II, 2019+).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "P21W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "185-186 – Changing a bulb",
+"source_title": "Peugeot 208 II (P21) – ספר בעלים רשמי Peugeot (eGuide ed01-23, en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/208.p2/eGuide_p21_ed01-23/pdfs/9999_9999_494_en-GB.pdf"
+},
 "PE-208-HN01": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "הקובץ בנתיב en_us בשרת servicebox הוא המהדורה הבינלאומית באנגלית של PSA (לא ספר שוק ארה\"ב/קנדה – הדגם לא נמכר שם). אומת גם במהדורת ed01-18 (en-GB) עמ' 132/134.",
+"other_bulbs": [
+{
+"position": "תאורת יום / חניה",
+"type": "LED / W5W (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PWY24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "197, 201 – Changing a bulb",
+"source_title": "Peugeot 208 – ספר בעלים רשמי Peugeot (ed01-16, אנגלית)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/208/208_208/ed01-16/en_us/208_208_208_ed01-16_en_us.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Peugeot 208 I [CA/CC] 2012-2019. קדמיים 650/400 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"PE-208-HN05": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "פנסים ראשיים ופנסי בלם LED – החלפה במוסך מורשה. הדור P21 (208 II, 2019+).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "P21W / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "185-186 – Changing a bulb",
+"source_title": "Peugeot 208 II (P21) – ספר בעלים רשמי Peugeot (eGuide ed01-23, en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/208.p2/eGuide_p21_ed01-23/pdfs/9999_9999_494_en-GB.pdf"
 },
 "PE-3008-HN05": {
 "brake_light": "LED",
@@ -27275,22 +29594,77 @@
 "source_url": "https://books.union-motors.co.il/app/api/files/77/download"
 },
 "T-CAMRY-XV70-HV": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. הערת הטבלה: \"נורות פנסים שאינן מופיעות כאן הן מסוג LED\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה (גרסת נורה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה (גרסת נורה)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 775: PDF 400, 477",
+"source_title": "Toyota Camry Hybrid – ספר רכב ישראלי 2021-2024",
+"source_url": "https://books.union-motors.co.il/app/api/files/775/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Camry [XV70] 2018→. קדמיים 650/500 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"T-CAMRY-XV70-HV-CALIAS-A250A-2021": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. הערת הטבלה: \"נורות פנסים שאינן מופיעות כאן הן מסוג LED\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה (גרסת נורה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה (גרסת נורה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 775: PDF 400, 477",
+"source_title": "Toyota Camry Hybrid – ספר רכב ישראלי 2021-2024",
+"source_url": "https://books.union-motors.co.il/app/api/files/775/download"
+},
+"T-CAMRY-XV70-HV-CALIAS-A252FXS-2021": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. הערת הטבלה: \"נורות פנסים שאינן מופיעות כאן הן מסוג LED\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה (גרסת נורה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה (גרסת נורה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 775: PDF 400, 477",
+"source_title": "Toyota Camry Hybrid – ספר רכב ישראלי 2021-2024",
+"source_url": "https://books.union-motors.co.il/app/api/files/775/download"
 },
 "T-CCROSS-HV": {
 "brake_light": "LED",
@@ -27776,6 +30150,33 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי)",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"T-COR-E21-1ZR": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (גרסת נורה) / LED",
+"headlight_low": "HIR2 55W (גרסת נורה) / LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה (גרסת נורה)"
+},
+{
+"position": "פנסים אחוריים",
+"type": "5W (גרסת נורה) / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 628: PDF 448, 518 ; קובץ 720: PDF 448, 525",
+"source_title": "Toyota Corolla Sedan – ספר רכב ישראלי 2019-2021 / 2020-2024",
+"source_url": "https://books.union-motors.co.il/app/api/files/628/download ; https://books.union-motors.co.il/app/api/files/720/download"
+},
 "T-COR-E21-HV": {
 "brake_light": "LED",
 "confidence": "manual-verbatim",
@@ -27806,6 +30207,60 @@
 "source_page": "490 (PDF p.491); bulb locations 414 (PDF p.415)",
 "source_title": "Toyota Corolla Sedan Hybrid 2020-2024 ספר רכב (Union Motors file 726)",
 "source_url": "https://books.union-motors.co.il/app/api/files/726/download"
+},
+"T-COR-E21-HV-CALIAS-2ZRW-2021": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (גרסת נורה) / LED",
+"headlight_low": "HIR2 55W (גרסת נורה) / LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ספר הסדאן; ייתכנו הבדלים בגרסת ההייבריד.",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה (גרסת נורה)"
+},
+{
+"position": "פנסים אחוריים",
+"type": "5W (גרסת נורה) / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 628: PDF 448, 518",
+"source_title": "Toyota Corolla Sedan – ספר רכב ישראלי 2019-2021",
+"source_url": "https://books.union-motors.co.il/app/api/files/628/download"
+},
+"T-COR-E210-M15A-TR21": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (גרסת נורה) / LED",
+"headlight_low": "HIR2 55W (גרסת נורה) / LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה (גרסת נורה)"
+},
+{
+"position": "פנסים אחוריים",
+"type": "5W (גרסת נורה) / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 720: PDF 448, 525",
+"source_title": "Toyota Corolla Sedan – ספר רכב ישראלי 2020-2024",
+"source_url": "https://books.union-motors.co.il/app/api/files/720/download"
 },
 "T-HILUX-AN120-D": {
 "brake_light": "21/5W נורת צד אחד שקופה (עם פנסי בלימה LED); קוד ECE לא מודפס",
@@ -28093,18 +30548,27 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-PRIUS-XW50": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 700,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. בספר 2016-2018 הפנסים הראשיים ופנסי הבלם מופיעים ברשימת \"החלפה במוסך מורשה\" (לא בטבלת הנורות); ספר 2018-2019 מציין במפורש LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 225: PDF 456, 531 ; קובץ 500: PDF 452, 525",
+"source_title": "Toyota Prius – ספר רכב ישראלי 2016-2018 / 2018-2019",
+"source_url": "https://books.union-motors.co.il/app/api/files/225/download ; https://books.union-motors.co.il/app/api/files/500/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Prius [XW50] 2016→. קדמיים 700/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28297,18 +30761,35 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "T-VERSO-AR20-1ZR-TR14": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W הלוגן / D4S קסנון",
+"headlight_low": "H11 55W הלוגן / D4S 35W קסנון",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 398: PDF 401, 487",
+"source_title": "Toyota Verso – ספר רכב ישראלי 2017-2018",
+"source_url": "https://books.union-motors.co.il/app/api/files/398/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Verso [R2] 2009-2018. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28696,37 +31177,308 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
-"TM-CAMRY-HV-2AR": {
+"TM-AVENSIS": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 65W (2009-2012) / H9 65W (2012-2014) / D4S קסנון; HIR2 55W (2015-2019)",
+"headlight_low": "H11 55W הלוגן / D4S 35W קסנון (2009-2014); HIR2 55W הלוגן (2015-2019)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). טבלת \"נורות פנסים\": הפנס הראשי שונה לפי שנה – יש לבדוק לפי שנת הרכב. נורת בלימה אינה מופיעה בטבלה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W / H16 19W (לפי גרסה)"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W / 21W (לפי גרסה ומרכב)"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1: PDF 376 ; קובץ 8: PDF 373 ; קובץ 15: PDF 586 ; קובץ 19: PDF 599 ; קובץ 402: PDF 600",
+"source_title": "Toyota Avensis – ספרי רכב ישראליים 2009-2012 / 2012-2014 / 2015-2019",
+"source_url": "https://books.union-motors.co.il/app/api/files/1/download ; https://books.union-motors.co.il/app/api/files/8/download ; https://books.union-motors.co.il/app/api/files/15/download ; https://books.union-motors.co.il/app/api/files/19/download ; https://books.union-motors.co.il/app/api/files/402/download"
+},
+"TM-AYGO-2012": {
+"brake_light": "21/5W נורת צד אחד שקופה; קוד ECE לא מודפס",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (נורה משולבת)",
+"headlight_low": "H4 60/55W (נורה משולבת)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (אם קיים)"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 63: PDF 282 ; קובץ 67: PDF 282",
+"source_title": "Toyota Aygo (דור ראשון) – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/63/download ; https://books.union-motors.co.il/app/api/files/67/download"
+},
+"TM-AYGO-2014": {
+"brake_light": "21/5W נורת צד אחד שקופה (ספר 2017) / 21W נורת צד אחד שקופה (ספר 2018)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W",
+"headlight_low": "HIR2 55W",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). נלקח מספרי 2017 ו-2018; לשנים 2014-2016 לא נמצא ספר ישראלי נפרד.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (אם קיים)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "בלימה עילי",
+"type": "5W נורת טריז שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 372: PDF 445 ; קובץ 453: PDF 443",
+"source_title": "Toyota Aygo – ספרי רכב ישראליים 2017 / 2018",
+"source_url": "https://books.union-motors.co.il/app/api/files/372/download ; https://books.union-motors.co.il/app/api/files/453/download"
+},
+"TM-AYGO-2020": {
+"brake_light": "21W נורת צד אחד שקופה; קוד ECE לא מודפס",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W",
+"headlight_low": "HIR2 55W",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (אם קיים)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלימה עילי",
+"type": "5W נורת טריז שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 453: PDF 443",
+"source_title": "Toyota Aygo – ספר רכב ישראלי 2018",
+"source_url": "https://books.union-motors.co.il/app/api/files/453/download"
+},
+"TM-AYGOX-23": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). נורת בלימה אינה מופיעה בטבלה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 952: PDF 338 ; קובץ 1065: PDF 338",
+"source_title": "Toyota Aygo X – ספרי רכב ישראליים",
+"source_url": "https://books.union-motors.co.il/app/api/files/952/download ; https://books.union-motors.co.il/app/api/files/1065/download"
+},
+"TM-CAMRY-HV-2AR": {
+"brake_light": "W21/5W (7443, 21/5W נורת בסיס יתד שקופה) / LED (לפי גרסה)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W (9005)",
+"headlight_low": "H11 55W הלוגן / D4S 35W קסנון (2013-2015)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). בספר 2013-2015 (עמ׳ 295) מצוין שפנסי הבלם ופנס הבלם הגבוה כוללים נורות LED, ובטבלה מופיעה נורת 21/5W לפנסי בלם/אחוריים.",
+"other_bulbs": [
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W (7444NA)"
+},
+{
+"position": "סימון צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W (921)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (אם קיים)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 92: PDF 295, 352 ; קובץ 96: PDF 301, 360",
+"source_title": "Toyota Camry Hybrid – ספרי רכב ישראליים 2013-15 / 2015-18",
+"source_url": "https://books.union-motors.co.il/app/api/files/92/download ; https://books.union-motors.co.il/app/api/files/96/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Toyota Camry [XV50] 08.11-03.18. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/toyota/camry/sedan-xv50-2011-08-01-2018-03-01/"
 },
+"TM-CAMRY-HV-80": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד כתומה (גרסת נורה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה (גרסת נורה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1081: PDF 349, 419",
+"source_title": "Toyota Camry Hybrid – ספר רכב ישראלי (דור XV80)",
+"source_url": "https://books.union-motors.co.il/app/api/files/1081/download"
+},
+"TM-CAMRY-HV-80-CALIAS-CAMRY-2025-x1811": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד כתומה (גרסת נורה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה (גרסת נורה)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1081: PDF 349, 419",
+"source_title": "Toyota Camry Hybrid – ספר רכב ישראלי (דור XV80)",
+"source_url": "https://books.union-motors.co.il/app/api/files/1081/download"
+},
 "TM-CAMRY-HV-A25A": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. הערת הטבלה: \"נורות פנסים שאינן מופיעות כאן הן מסוג LED\".",
+"other_bulbs": [
+{
+"position": "איתות אחורי",
+"type": "WY21W (גרסת נורה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (921, גרסת נורה) / LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 527: PDF 393, 451 ; קובץ 619: PDF 381, 455 ; קובץ 775: PDF 400, 477",
+"source_title": "Toyota Camry Hybrid – ספרי רכב ישראליים 2018-19 / 2019-20 / 2021-24",
+"source_url": "https://books.union-motors.co.il/app/api/files/527/download ; https://books.union-motors.co.il/app/api/files/619/download ; https://books.union-motors.co.il/app/api/files/775/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Camry [XV70] 2018→. קדמיים 650/500 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28767,6 +31519,149 @@
 "wiper_notes": "דגם לפי Bosch 2023: Toyota C-HR 10.16-2023. קדמיים 650/400 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"TM-CHR-AX20-M20A-IL24": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "לוחית רישוי / תא מטען",
+"type": "5W נורת בסיס יתד"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1136: PDF 390, 459",
+"source_title": "Toyota C-HR HEV – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/1136/download"
+},
+"TM-CHR-HV-23": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "לוחית רישוי / תא מטען",
+"type": "5W נורת בסיס יתד"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1136: PDF 390, 459",
+"source_title": "Toyota C-HR HEV – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/1136/download"
+},
+"TM-CHR-HV-23-ALIAS-CH_R": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "לוחית רישוי / תא מטען",
+"type": "5W נורת בסיס יתד"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1136: PDF 390, 459",
+"source_title": "Toyota C-HR HEV – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/1136/download"
+},
+"TM-CITY": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 (ספר 2020-2024) / LED (ספר 2025-2026)",
+"headlight_low": "H7 (ספר 2020-2024) / LED (ספר 2025-2026)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). הפנס הראשי שונה בין הספרים – יש לבדוק לפי שנת הרכב.",
+"other_bulbs": [
+{
+"position": "תאורת יום / חניה",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 758: PDF 180-184 ; קובץ 1189: PDF 229-232",
+"source_title": "Toyota City / City Van – ספר רכב ישראלי 2020-2024 / 2025-2026",
+"source_url": "https://books.union-motors.co.il/app/api/files/758/download ; https://books.union-motors.co.il/app/api/files/1189/download"
+},
+"TM-CITYVAN": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 (ספר 2020-2024) / LED (ספר 2025-2026)",
+"headlight_low": "H7 (ספר 2020-2024) / LED (ספר 2025-2026)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). הפנס הראשי שונה בין הספרים – יש לבדוק לפי שנת הרכב.",
+"other_bulbs": [
+{
+"position": "תאורת יום / חניה",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 / LED (לפי גרסה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 758: PDF 180-184 ; קובץ 1189: PDF 229-232",
+"source_title": "Toyota City / City Van – ספר רכב ישראלי 2020-2024 / 2025-2026",
+"source_url": "https://books.union-motors.co.il/app/api/files/758/download ; https://books.union-motors.co.il/app/api/files/1189/download"
 },
 "TM-COR-AUR-1ZR-0612": {
 "brake_light": "21/5W נורת בסיס יתד שקופה (סוג נורה; קוד ECE לא מודפס)",
@@ -28818,6 +31713,247 @@
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Corolla [E15] 11.06-04.13. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"TM-COR-E21-1ZR": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (גרסת נורה) / LED",
+"headlight_low": "HIR2 55W (גרסת נורה) / LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה (גרסת נורה)"
+},
+{
+"position": "פנסים אחוריים",
+"type": "5W (גרסת נורה) / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 628: PDF 448, 518 ; קובץ 720: PDF 448, 525",
+"source_title": "Toyota Corolla Sedan – ספר רכב ישראלי 2019-2021 / 2020-2024",
+"source_url": "https://books.union-motors.co.il/app/api/files/628/download ; https://books.union-motors.co.il/app/api/files/720/download"
+},
+"TM-COR-E21-HV": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (גרסת נורה) / LED",
+"headlight_low": "HIR2 55W (גרסת נורה) / LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה (גרסת נורה)"
+},
+{
+"position": "פנסים אחוריים",
+"type": "5W (גרסת נורה) / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 628: PDF 448, 518 ; קובץ 720: PDF 448, 525",
+"source_title": "Toyota Corolla Sedan – ספר רכב ישראלי 2019-2021 / 2020-2024",
+"source_url": "https://books.union-motors.co.il/app/api/files/628/download ; https://books.union-motors.co.il/app/api/files/720/download"
+},
+"TM-HIGHLANDER-HV": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 762: PDF 365-366, 433 ; קובץ 900: PDF 346-347, 415",
+"source_title": "Toyota Highlander Hybrid – ספרי רכב ישראליים",
+"source_url": "https://books.union-motors.co.il/app/api/files/762/download ; https://books.union-motors.co.il/app/api/files/900/download"
+},
+"TM-HILUX-1GD-15": {
+"brake_light": "21/5W נורת צד אחד שקופה; קוד ECE לא מודפס",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (פנס הלוגן) / HB3 (גרסת פנס LED; 55W בספר 2015, 60W בספר 2017)",
+"headlight_low": "H4 60/55W (פנס הלוגן)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). בגרסת פנס LED – נמוך LED, גבוה HB3.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (אם קיים)"
+},
+{
+"position": "פנסי חניה",
+"type": "5W נורת טריז / 21/5W (עם תאורת יום)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W נורת צד אחד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 161: PDF 538 ; קובץ 340: PDF 596 ; קובץ 471: PDF 610 ; קובץ 574: PDF 637",
+"source_title": "Toyota Hilux – ספרי רכב ישראליים 2015 / 2017 / 2018 / 2019",
+"source_url": "https://books.union-motors.co.il/app/api/files/161/download ; https://books.union-motors.co.il/app/api/files/340/download ; https://books.union-motors.co.il/app/api/files/471/download ; https://books.union-motors.co.il/app/api/files/574/download"
+},
+"TM-HILUX-1KD": {
+"brake_light": "21/5W נורת צד אחד שקופה; קוד ECE לא מודפס",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (נורה משולבת)",
+"headlight_low": "H4 60/55W (נורה משולבת)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). נלקח מספר 2012-2015; ספרי 2005-2008 ו-2008-2012 סרוקים (ללא שכבת טקסט) ולא נקראו.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "HB4 51W (אם קיים)"
+},
+{
+"position": "פנסי חניה",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 147: PDF 371",
+"source_title": "Toyota Hilux – ספר רכב ישראלי 2012-2015",
+"source_url": "https://books.union-motors.co.il/app/api/files/147/download"
+},
+"TM-HILUX-2GD-15": {
+"brake_light": "21/5W נורת צד אחד שקופה; קוד ECE לא מודפס",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (פנס הלוגן) / HB3 (גרסת פנס LED; 55W בספר 2015, 60W בספר 2017)",
+"headlight_low": "H4 60/55W (פנס הלוגן)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). בגרסת פנס LED – נמוך LED, גבוה HB3.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (אם קיים)"
+},
+{
+"position": "פנסי חניה",
+"type": "5W נורת טריז / 21/5W (עם תאורת יום)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W נורת צד אחד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 161: PDF 538 ; קובץ 340: PDF 596 ; קובץ 471: PDF 610 ; קובץ 574: PDF 637",
+"source_title": "Toyota Hilux – ספרי רכב ישראליים 2015 / 2017 / 2018 / 2019",
+"source_url": "https://books.union-motors.co.il/app/api/files/161/download ; https://books.union-motors.co.il/app/api/files/340/download ; https://books.union-motors.co.il/app/api/files/471/download ; https://books.union-motors.co.il/app/api/files/574/download"
+},
+"TM-HILUX-2KD": {
+"brake_light": "21/5W נורת צד אחד שקופה; קוד ECE לא מודפס",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (נורה משולבת)",
+"headlight_low": "H4 60/55W (נורה משולבת)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). נלקח מספר 2012-2015; ספרי 2005-2008 ו-2008-2012 סרוקים (ללא שכבת טקסט) ולא נקראו.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "HB4 51W (אם קיים)"
+},
+{
+"position": "פנסי חניה",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 147: PDF 371",
+"source_title": "Toyota Hilux – ספר רכב ישראלי 2012-2015",
+"source_url": "https://books.union-motors.co.il/app/api/files/147/download"
 },
 "TM-LC-1GD-16": {
 "brake_light": "",
@@ -29210,6 +32346,25 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"TM-LC250-1GD": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל הפנסים",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1173: PDF 505",
+"source_title": "Toyota Land Cruiser 250 – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/1173/download"
+},
 "TM-PRIUS-XW20": {
 "brake_light": "",
 "confidence": "",
@@ -29229,22 +32384,66 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "TM-PRIUS-XW50": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 700,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 500: PDF 452, 525 ; קובץ 608: PDF 454, 534",
+"source_title": "Toyota Prius – ספר רכב ישראלי 2018-2019 / 2019-2021",
+"source_url": "https://books.union-motors.co.il/app/api/files/500/download ; https://books.union-motors.co.il/app/api/files/608/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Prius [XW50] 2016→. קדמיים 700/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"TM-PRIUSPLUS": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W הלוגן / LED (לפי גרסה)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (אם קיים)"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "פנסי חניה",
+"type": "5W"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W נורת בסיס יתד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 853: PDF 301, 363",
+"source_title": "Toyota Prius+ – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/853/download"
 },
 "TM-RAV4-3ZR": {
 "brake_light": "21/5W (בסיס יתד, שקופה)",
@@ -29316,37 +32515,90 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"TM-RAV4-HV-26": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1236: PDF 367, 438",
+"source_title": "Toyota RAV4 HEV – ספר רכב ישראלי (דור 2026)",
+"source_url": "https://books.union-motors.co.il/app/api/files/1236/download"
+},
 "TM-RAV4-HV-2AR": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HIR2 55W הלוגן (2016-2018) / LED",
+"headlight_low": "HIR2 55W הלוגן (2016-2018) / LED (לפי גרסה; 2018-2019 – LED)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. בספרי 2016-2018 קיימת גם גרסת פנס הלוגן HIR2.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (אם קיים)"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 434: PDF 392, 475 ; קובץ 436: PDF 488, 571 ; קובץ 487: PDF 446-447",
+"source_title": "Toyota RAV4 Hybrid – ספרי רכב ישראליים 2016-17 / 2017-18 / 2018-19",
+"source_url": "https://books.union-motors.co.il/app/api/files/434/download ; https://books.union-motors.co.il/app/api/files/436/download ; https://books.union-motors.co.il/app/api/files/487/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Toyota RAV4 [A4] 12.12-01.19. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים). המגב האחורי הושמט – שנתון 2019 עשוי להיות דור A5 (A4: 250 מ״מ, A5: 300 מ״מ); הקדמיים זהים בשני הדורות. יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/toyota/rav4/suv-a4-2012-12-01-2018-11-01/"
 },
 "TM-RAV4-M20A": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (אם קיים)"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת בסיס יתד שקופה"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 630: PDF 442, 520 ; קובץ 700: PDF 432, 510",
+"source_title": "Toyota RAV4 – ספרי רכב ישראליים (דור XA50)",
+"source_url": "https://books.union-motors.co.il/app/api/files/630/download ; https://books.union-motors.co.il/app/api/files/700/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota RAV4 [A5] 11.18→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -29370,19 +32622,98 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"TM-SPACEVERSO-1NR": {
+"brake_light": "21/5W נורת בסיס יתד שקופה; קוד ECE לא מודפס",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (נורה משולבת)",
+"headlight_low": "H4 60/55W (נורה משולבת)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנסי חניה",
+"type": "5W נורת בסיס יתד שקופה"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 257: PDF 363",
+"source_title": "Toyota Space Verso – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/257/download"
+},
+"TM-TOYOTACHR-ALIAS": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "לוחית רישוי / תא מטען",
+"type": "5W נורת בסיס יתד"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1136: PDF 390, 459",
+"source_title": "Toyota C-HR HEV – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/1136/download"
+},
 "TM-VERSO-2ZR": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (ספרי 2013-2018); בספר 2009-2013 נורת בלם אינה מופיעה בטבלה",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W הלוגן / קסנון (אור נסיעה ודרך)",
+"headlight_low": "H11 55W הלוגן / קסנון D4R 35W (2009-2013) / D4S 35W (2013-2018)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). הפנס הראשי שונה לפי שנה – יש לבדוק לפי שנת הרכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (2009-2013) / H16 19W (2013+)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W נורת צד אחד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 273: PDF 434 ; קובץ 282: PDF 346, 422 ; קובץ 398: PDF 401, 487",
+"source_title": "Toyota Verso – ספרי רכב ישראליים 2009-2013 / 2013-2017 / 2017-2018",
+"source_url": "https://books.union-motors.co.il/app/api/files/273/download ; https://books.union-motors.co.il/app/api/files/282/download ; https://books.union-motors.co.il/app/api/files/398/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Verso [R2] 2009-2018. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -29597,18 +32928,35 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "TM-YARIS-M15A-20": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HIR2 55W (גרסת נורה) / LED",
+"headlight_low": "HIR2 55W (גרסת נורה) / LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ספר 2021 (דור XP210).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (גרסת נורה) / LED"
+},
+{
+"position": "פנסי חניה",
+"type": "5W נורת בסיס יתד שקופה (גרסת נורה)"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה (גרסת נורה)"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 250,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 783: PDF 295, 359",
+"source_title": "Toyota Yaris – ספר רכב ישראלי 2021",
+"source_url": "https://books.union-motors.co.il/app/api/files/783/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Yaris [XP21] 07.20→. קדמיים 600/400 מ״מ, אחורי 250 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -29809,6 +33157,64 @@
 "wiper_notes": "מקור רשמי של טסלה (מהדורת ארה\"ב). אין מגב אחורי בדגם זה. יש להתקין להבים זהים למקוריים (אותו מחבר).",
 "wiper_source_title": "Tesla Model Y – Do It Yourself: Replacing Wiper Blades (service.tesla.com)",
 "wiper_source_url": "https://service.tesla.com/docs/Public/diy/modely/en_us/GUID-949BFDA4-8D73-43A6-AAA5-98AE1129AC25.html"
+},
+"TX-COR-M15A-X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (גרסת נורה) / LED",
+"headlight_low": "HIR2 55W (גרסת נורה) / LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה (גרסת נורה)"
+},
+{
+"position": "פנסים אחוריים",
+"type": "5W (גרסת נורה) / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W נורת טריז שקופה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 720: PDF 448, 525",
+"source_title": "Toyota Corolla Sedan – ספר רכב ישראלי 2020-2024",
+"source_url": "https://books.union-motors.co.il/app/api/files/720/download"
+},
+"TX-VERSO-1ZR-X": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W הלוגן / D4S קסנון",
+"headlight_low": "H11 55W הלוגן / D4S 35W קסנון",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנס בלם לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 398: PDF 401, 487",
+"source_title": "Toyota Verso – ספר רכב ישראלי 2017-2018",
+"source_url": "https://books.union-motors.co.il/app/api/files/398/download"
 },
 "__models": [
 {
