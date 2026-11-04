@@ -10790,6 +10790,90 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"HO-ACCORD-CL-K20A6-HU": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light"
+],
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H1 55W (הלוגן) / 35W HID (בגרסאות עם קסנון)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית).  נורת בלם/אחורי מודפסת כהספק 21/5W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21/5W / W21/5W); נורות הפנס הראשי מודפסות עם קוד.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W (בחלק מהדגמים)"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W (בחלק מהדגמים)"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "509 (PDF 524)",
+"source_title": "Honda Accord Sedan 2003-2008 – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/ACCORD%20SEDAN%202003-2008%20MODELLEV.pdf"
+},
+"HO-ACCORD-CL-K24A3-HU": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light"
+],
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H1 55W (הלוגן) / 35W HID (בגרסאות עם קסנון)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית).  נורת בלם/אחורי מודפסת כהספק 21/5W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21/5W / W21/5W); נורות הפנס הראשי מודפסות עם קוד.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W (בחלק מהדגמים)"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W (בחלק מהדגמים)"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "509 (PDF 524)",
+"source_title": "Honda Accord Sedan 2003-2008 – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/ACCORD%20SEDAN%202003-2008%20MODELLEV.pdf"
+},
 "HO-ACCORD-CU-K24Z3-HU": {
 "brake_light": "",
 "confidence": "",
@@ -10845,22 +10929,106 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-ACCORD-CU-R20A3-IL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light"
+],
+"confidence": "medium",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 530,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H1 55W (הלוגן) / D2S 35W (HID, בגרסאות מסוימות)",
+"notes": "ספר הרכב הישראלי. נורת בלם/אחורי מודפסת כהספק 21/5W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21/5W / W21/5W); נורות הפנס הראשי מודפסות עם קוד.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "אור חניה",
+"type": "5W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "395",
+"source_title": "Honda Accord 2008 – ספר רכב בעברית (הונדה ישראל)",
+"source_url": "https://www.honda.co.il/",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Accord [CU] 2008-2015. קדמיים 600/530 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HO-CIVIC-EU-D16-HU": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light"
+],
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (HB2)",
+"headlight_low": "H4 60/55W (HB2)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית). נורה משולבת נמוך/גבוה \"60/55W (H4/HB2)\". נורת בלם/אחורי מודפסת כהספק 21/5W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21/5W / W21/5W); נורות הפנס הראשי מודפסות עם קוד.",
+"other_bulbs": [
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "433",
+"source_title": "Honda Civic 2001-2005 5D – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/CIVIC%202001-2005%20MODELLEV%205D.pdf"
+},
+"HO-CIVIC-EU-D16-X": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light"
+],
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (HB2)",
+"headlight_low": "H4 60/55W (HB2)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית). נורה משולבת נמוך/גבוה \"60/55W (H4/HB2)\". נורת בלם/אחורי מודפסת כהספק 21/5W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21/5W / W21/5W); נורות הפנס הראשי מודפסות עם קוד.",
+"other_bulbs": [
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "בלם עליון",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "433",
+"source_title": "Honda Civic 2001-2005 5D – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/CIVIC%202001-2005%20MODELLEV%205D.pdf"
 },
 "HO-CIVIC-FC-L15B-CIVIC": {
 "brake_light": "21W",
@@ -11522,22 +11690,138 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/civic/"
 },
 "HO-CIVICTOURER-FK3-R18-HU": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W (הלוגן) / LED (בגרסאות מסוימות)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית). פנס בלם/אחורי LED – מוחלף במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W ענבר"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (בחלק מהדגמים)"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "568",
+"source_title": "Honda Civic Tourer 2015-2016 – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/civic/CIVIC%20TOURER%202015-2016%20MODELLEV.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Honda Civic IX Tourer [FK3] 2014-2017. קדמיים 650/450 מ״מ, אחורי 300 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/civic/"
+},
+"HO-CIVICTOURER-FK3-R18Z4": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W (הלוגן) / LED (בגרסאות מסוימות)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית). פנס בלם/אחורי LED – מוחלף במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W ענבר"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (בחלק מהדגמים)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "568",
+"source_title": "Honda Civic Tourer 2015-2016 – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/civic/CIVIC%20TOURER%202015-2016%20MODELLEV.pdf"
+},
+"HO-CRV-RE-R20A-HU": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light"
+],
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H1 55W (הלוגן) / D2S 35W (HID, בגרסאות מסוימות)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית).  נורת בלם/אחורי מודפסת כהספק 21/5W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21/5W / W21/5W); נורות הפנס הראשי מודפסות עם קוד.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "536",
+"source_title": "Honda CR-V 2007-2012 – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/CR-V%202007-2012%20MODELLEV.pdf"
+},
+"HO-CRV-RE-R20A-HU-ALIAS-CRV": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light"
+],
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H1 55W (הלוגן) / D2S 35W (HID, בגרסאות מסוימות)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית).  נורת בלם/אחורי מודפסת כהספק 21/5W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21/5W / W21/5W); נורות הפנס הראשי מודפסות עם קוד.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "536",
+"source_title": "Honda CR-V 2007-2012 – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/CR-V%202007-2012%20MODELLEV.pdf"
 },
 "HO-CRV-RM-R20A9": {
 "brake_light": "LED",
@@ -11653,37 +11937,120 @@
 "source_title": "Honda HR-V Owner's Manual 2018 (UK)",
 "source_url": "https://www.honda.co.uk/content/dam/local/uk/cars/owners/manuals/HR-V/2018%20HR-V%20Owners%20Manual.pdf"
 },
-"HO-JAZZ-GD-L13A-HU": {
-"brake_light": "",
-"confidence": "",
+"HO-INSIGHT-LDA3-IL": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": "",
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן) / D2S 35W (HID, בגרסאות מסוימות)",
+"notes": "ספר הרכב הישראלי. פנס בלם/אחורי LED – מוחלף במוסך מורשה.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "LED"
+},
+{
+"position": "רוורס",
+"type": "16W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W ענבר"
+},
+{
+"position": "איתות קדמי",
+"type": "21W ענבר"
+},
+{
+"position": "אור חניה",
+"type": "5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "313",
+"source_title": "Honda Insight 2010-2014 – ספר רכב בעברית (הונדה ישראל)",
+"source_url": "https://www.honda.co.il/"
+},
+"HO-JAZZ-GD-L13A-HU": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light"
+],
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (HB2)",
+"headlight_low": "H4 60/55W (HB2, הלוגן) / 35W HID (בגרסאות עם קסנון)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית).  נורת בלם/אחורי מודפסת כהספק 21/5W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21/5W / W21/5W); נורות הפנס הראשי מודפסות עם קוד.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W (בחלק מהדגמים)"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W (בחלק מהדגמים)"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "386",
+"source_title": "Honda Jazz 2002-2008 – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/JAZZ%202002-2008%20MODELLEV.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Honda Jazz II [GD] 2002-2008. מגבים קדמיים: אין נתון אמין, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. המגבים הקדמיים הושמטו – סתירה בין המקורות (Bosch 530/380, OXIMO 525/375, Valeo 500/350 מ״מ). יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/hatchback-ii-gd-2002-03-01/"
 },
 "HO-JAZZ-GD-L13A-HU-09": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"brake_light"
+],
+"confidence": "medium",
 "front_wipers_driver_mm": "",
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W (HB2)",
+"headlight_low": "H4 60/55W (HB2, הלוגן) / 35W HID (בגרסאות עם קסנון)",
+"notes": "ספר רכב רשמי הונדה הונגריה (מהדורה אירופית).  נורת בלם/אחורי מודפסת כהספק 21/5W בלבד ללא קוד – לפי החלטת בר (3.11) מוצגות אפשרויות (P21/5W / W21/5W); נורות הפנס הראשי מודפסות עם קוד.",
+"other_bulbs": [
+{
+"position": "בלם עליון",
+"type": "21W"
+},
+{
+"position": "רוורס",
+"type": "21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W (בחלק מהדגמים)"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W (בחלק מהדגמים)"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "386",
+"source_title": "Honda Jazz 2002-2008 – Kezelési kézikönyv (honda.hu)",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/JAZZ%202002-2008%20MODELLEV.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Honda Jazz II [GD] 2002-2008. מגבים קדמיים: אין נתון אמין, אחורי 350 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. המגבים הקדמיים הושמטו – סתירה בין המקורות (Bosch 530/380, OXIMO 525/375, Valeo 500/350 מ״מ). יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
@@ -27497,6 +27864,502 @@
 "source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
 "source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
 },
+"SU-B4-BL-EJ20-RU05": {
+"brake_light": "W21/5W (סדאן עם ערפל אחורי וסטיישן) / W21W (סדאן ללא ערפל אחורי)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Стоп-сигналы (модель Седан без заднего противотуманного фонаря) W21W\"; \"Стоп-сигналы/задние габаритные огни (Седан с задним противотуманным фонарем и Универсал) W21/5W\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (סדאן) / W21W (סטיישן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W (סדאן) / W21W (סטיישן)"
+},
+{
+"position": "בלימה עילי (סדאן)",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 576 (עמ׳ 12-14)",
+"source_title": "Subaru Legacy/Outback 2005 (A2360GE) – ספר רכב (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2005"
+},
+"SU-B4-BL-EJ204-RU07": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (ללא HID) / HB3 60W (עם HID)",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Лампы стоп-сигналов/задних габаритных огней W21/5W\" (סדאן וסטיישן).",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 / H3 (Outback)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (סדאן) / W21W (סטיישן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "בלימה עילי (סדאן)",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 499-500 (עמ׳ 12-13 – 12-14)",
+"source_title": "Subaru Legacy/Outback 2007 (A2390GE) – ספר רכב (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2007"
+},
+"SU-B4-BL-EJ204-RU07-09BL": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (ללא HID) / HB3 60W (עם HID)",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Лампы стоп-сигналов/задних габаритных огней W21/5W\" (סדאן וסטיישן).",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 / H3 (Outback)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (סדאן) / W21W (סטיישן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "בלימה עילי (סדאן)",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 499-500 (עמ׳ 12-13 – 12-14)",
+"source_title": "Subaru Legacy/Outback 2007 (A2390GE) – ספר רכב (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2007"
+},
+"SU-B4-BM-EJ204-RU11": {
+"brake_light": "W21/5W (סדאן) / W21W (סטיישן)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Лампа стоп-сигнала/заднего габаритного фонаря (Седан) W21/5W\"; \"Лампа стоп-сигнала (Универсал) W21W\". בלימה עילי – LED.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "9006 (HB4)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (סדאן) / W21W (סטיישן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 562-563 (עמ׳ 12-16 – 12-17)",
+"source_title": "Subaru Legacy/Outback 2011 – ספר רכב (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2011"
+},
+"SU-B4-BM-EJ204-RU11-09BM": {
+"brake_light": "W21/5W (סדאן) / W21W (סטיישן)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Лампа стоп-сигнала/заднего габаритного фонаря (Седан) W21/5W\"; \"Лампа стоп-сигнала (Универсал) W21W\". בלימה עילי – LED.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "9006 (HB4)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (סדאן) / W21W (סטיישן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 562-563 (עמ׳ 12-16 – 12-17)",
+"source_title": "Subaru Legacy/Outback 2011 – ספר רכב (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2011"
+},
+"SU-B4-BM-EJ204-RU12": {
+"brake_light": "W21/5W (סדאן) / W21W (סטיישן)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Лампа стоп-сигнала/заднего габаритного фонаря (Седан) W21/5W\"; \"Лампа стоп-сигнала (Универсал) W21W\". בלימה עילי – LED.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "9006 (HB4)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (סדאן) / W21W (סטיישן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 549-550 (עמ׳ 12-16 – 12-17)",
+"source_title": "Subaru Legacy/Outback 2012 – ספר רכב (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2012"
+},
+"SU-B4-BMBR-FB25-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (רכב ללא פנסי LED) / LED (רכב עם פנסי LED)",
+"notes": "ספר הרכב הישראלי (סמלת). \"אורות אחוריים ואור בלימה\" (E סטיישן / G סדאן) ובלימה עילי – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 / H8"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "תאורת סף",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי (אאוטבק)",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Car_Book_b4: PDF 535 (עמ׳ 12-19 – 12-20) ; Car_Book_outback: טבלת נורות 12-19 – 12-20",
+"source_title": "Subaru Legacy / Outback 2014 – ספר רכב ישראלי",
+"source_url": "https://samelet.com/ebooks/Car_Book_b4.cleaned.pdf ; https://subaru.co.il/docs/Car_Book_outback.pdf"
+},
+"SU-B4-BMBR-FB25-IL-CALIAS-FB16": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (רכב ללא פנסי LED) / LED (רכב עם פנסי LED)",
+"notes": "ספר הרכב הישראלי (סמלת). \"אורות אחוריים ואור בלימה\" (E סטיישן / G סדאן) ובלימה עילי – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 / H8"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "תאורת סף",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי (אאוטבק)",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Car_Book_b4: PDF 535 (עמ׳ 12-19 – 12-20) ; Car_Book_outback: טבלת נורות 12-19 – 12-20",
+"source_title": "Subaru Legacy / Outback 2014 – ספר רכב ישראלי",
+"source_url": "https://samelet.com/ebooks/Car_Book_b4.cleaned.pdf ; https://subaru.co.il/docs/Car_Book_outback.pdf"
+},
+"SU-CROSSTREK-GU-EBOXER-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (סמלת). פנסים ראשיים ופנסי בלימה מסומנים באותיות – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "P13W"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 492 (עמ׳ 484, טבלת נורות)",
+"source_title": "Subaru Crosstrek e-BOXER 24MY – ספר רכב ישראלי 06/2024",
+"source_url": "https://samelet.com/ebooks/Subaru_Crosstrek_e_BOXER%20_24MY_carbook_062024.pdf"
+},
+"SU-CROSSTREK-GU-FB20-IL23": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (סמלת). הפנסים המסומנים באותיות (אלומה נמוכה/גבוהה, יום, ערפל, בלימה, אחוריים, בלימה עילי) הם LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "חניה/איתות קדמי",
+"type": "7444NA 28/8W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "W21W"
+},
+{
+"position": "סימון צד קדמי",
+"type": "W5W"
+},
+{
+"position": "תאורת יום, ערפל, אחוריים, בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 409 (עמ׳ 401, טבלת נורות)",
+"source_title": "Subaru Crosstrek – ספר רכב ישראלי 07/2023",
+"source_url": "https://samelet.com/ebooks/Subaru_Crosstrek_carbook_072023.pdf"
+},
+"SU-CROSSTREK-GU-FB25-IL26": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (סמלת). פנסים ראשיים ופנסי בלימה מסומנים באותיות – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "חניה/איתות קדמי",
+"type": "7444NA 28/8W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "סימון צד קדמי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 467 (עמ׳ 463-464, טבלת נורות)",
+"source_title": "Subaru Crosstrek 26MY – ספר רכב ישראלי",
+"source_url": "https://samelet.com/wp-content/uploads/2024/02/Subaru-Crosstrek-26MY-OM-30-12-25-AllBook.pdf"
+},
+"SU-EVOLTIS-FA24-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (סמלת). פריטים A-G (אלומה נמוכה וגבוהה, פנס בלימה/אחורי, בלימה עילי) – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "7444NA 28W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "סימון אחורי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי, ערפל, יום",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 442 (עמ׳ 436, טבלת נורות); הערת LED ב-PDF 441",
+"source_title": "Subaru Evoltis – ספר רכב ישראלי",
+"source_url": "https://samelet.com/ebooks/Car_Book_evoltis.cleaned.pdf"
+},
 "SU-FOR-SK-FB25-IL": {
 "brake_light": "LED",
 "confidence": "high",
@@ -27610,6 +28473,37 @@
 "source_title": "SUBARU FORESTER (SK) 取扱説明書 A8290JJ-A",
 "source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8290JJ-A.pdf"
 },
+"SU-FOR-SL-FB25-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (סמלת). פנסים ראשיים, בלימה, אחוריים ובלימה עילי מסומנים באותיות – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "איתות קדמי (אם קיים)",
+"type": "WY21W"
+},
+{
+"position": "תאורת סף",
+"type": "W5W"
+},
+{
+"position": "אחוריים, בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 484 (עמ׳ 479-480, טבלת נורות)",
+"source_title": "Subaru Forester 25MY – ספר רכב ישראלי 08/2024",
+"source_url": "https://samelet.com/ebooks/Subaru_Forester_25MY_carbook_082024.pdf"
+},
 "SU-FORESTER-SH-EJ255T-RU11X": {
 "brake_light": "",
 "confidence": "",
@@ -27629,36 +28523,94 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SU-FORESTER-SH-FB20-RU11": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Лампа стоп-сигнала/заднего габаритного фонаря 12 В – 21/5 Вт W21/5W\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור/ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 511 (עמ׳ 12-19)",
+"source_title": "Subaru Forester 2011 – ספר רכב (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Forester&year=2011",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Forester [S12/SH] 12.07-12.12. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SU-FORESTER-SH-FB20-RU12": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Лампа стоп-сигнала/заднего габаритного фонаря 12 В – 21/5 Вт W21/5W\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור/ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 507",
+"source_title": "Subaru Forester 2012 – ספר רכב (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Forester&year=2012",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Forester [S12/SH] 12.07-12.12. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -27862,6 +28814,92 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"SU-IMPREZA-GJ-FB-X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (הלוגן) / LED (בדגמים עם פנסי LED)",
+"headlight_low": "H11 55W (הלוגן) / LED (בדגמים עם פנסי LED)",
+"notes": "ספר הרכב הישראלי (סמלת). \"פנס בלימה\" (E) ובלימה עילי (D/F) מסומנים באותיות – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "תאורת יום (אם קיימת)",
+"type": "P13W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H8"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W (LHD) / W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 453-454 (עמ׳ 12-16 – 12-17, טבלת נורות)",
+"source_title": "Subaru Impreza (GJ) – ספר רכב ישראלי",
+"source_url": "https://samelet.com/ebooks/Car_Book_impreza.cleaned.pdf"
+},
+"SU-IMPREZA-GJ-FB20-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (הלוגן) / LED (בדגמים עם פנסי LED)",
+"headlight_low": "H11 55W (הלוגן) / LED (בדגמים עם פנסי LED)",
+"notes": "ספר הרכב הישראלי (סמלת). \"פנס בלימה\" (E) ובלימה עילי (D/F) מסומנים באותיות – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "תאורת יום (אם קיימת)",
+"type": "P13W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H8"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W (LHD) / W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 453-454 (עמ׳ 12-16 – 12-17, טבלת נורות)",
+"source_title": "Subaru Impreza (GJ) – ספר רכב ישראלי",
+"source_url": "https://samelet.com/ebooks/Car_Book_impreza.cleaned.pdf"
+},
 "SU-IMPREZA-GT-FB": {
 "brake_light": "",
 "confidence": "manual-verbatim",
@@ -27912,6 +28950,362 @@
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Impreza [GT] 2017→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"SU-JP-B4-BMBR-EJ25": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). סדאן (BM): \"尾灯 兼 制動灯 12V-5W/21W (W21/5W)\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W (סטיישן) / W16W (סדאן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 378-379",
+"source_title": "Subaru Legacy B4 BM – ספר רכב יפני A2460JJ-E",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/legacy/pdf/A2460JJ-E_for_browse.pdf"
+},
+"SU-JP-B4-BNBSA-FB25": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "LED",
+"notes": "ספר רכב יפני רשמי (subaru.jp). אלומה נמוכה, חניה קדמי, \"尾灯 兼 制動灯\" ובלימה עילי מסומנים ※ \"LEDタイプ\". LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W (אאוטבק) / LED (סדאן)"
+},
+{
+"position": "חניה קדמי, בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 432-433 (עמ׳ 8-46 – 8-47)",
+"source_title": "Subaru Legacy B4/Outback BN/BS – ספר רכב יפני A2510JJ-D",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/legacy/pdf/A2510JJ-D.pdf"
+},
+"SU-JP-B4-BNBSC-FB25": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "LED",
+"notes": "ספר רכב יפני רשמי (subaru.jp). אלומה נמוכה, חניה קדמי, \"尾灯 兼 制動灯\" ובלימה עילי מסומנים ※ \"LEDタイプ\". LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W (אאוטבק) / LED (סדאן)"
+},
+{
+"position": "חניה קדמי, בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 447-448",
+"source_title": "Subaru Legacy B4/Outback BN/BS – ספר רכב יפני A2530JJ-F",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/legacy/pdf/A2530JJ-F.pdf"
+},
+"SU-JP-FOR-SG-EJ20": {
+"brake_light": "W21/5W (רכב עם פנס ערפל אחורי) / W21W (ללא ערפל אחורי)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H1 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯（リヤフォグランプ装備車）W21/5W\"; \"制動灯（リヤフォグランプ未装備車）W21W\". בלימה עילי – LED.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "אחוריים (ללא ערפל אחורי)",
+"type": "W21/5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 260-261",
+"source_title": "Subaru Forester SG – ספר רכב יפני A8130JJ-C",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8130JJ-C_for_browse.pdf"
+},
+"SU-JP-FOR-SG-EJ20-08SG": {
+"brake_light": "W21/5W (רכב עם פנס ערפל אחורי) / W21W (ללא ערפל אחורי)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H1 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯（リヤフォグランプ装備車）W21/5W\"; \"制動灯（リヤフォグランプ未装備車）W21W\". בלימה עילי – LED.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "אחוריים (ללא ערפל אחורי)",
+"type": "W21/5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 260-261",
+"source_title": "Subaru Forester SG – ספר רכב יפני A8130JJ-C",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8130JJ-C_for_browse.pdf"
+},
+"SU-JP-FOR-SHA-EJ20": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯 12V-21W/5W (W21/5W)\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 313-314",
+"source_title": "Subaru Forester SH – ספר רכב יפני A8140JJ-E",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8140JJ-E.pdf"
+},
+"SU-JP-FOR-SHA-EJ20-08SH": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯 12V-21W/5W (W21/5W)\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 313-314",
+"source_title": "Subaru Forester SH – ספר רכב יפני A8140JJ-E",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8140JJ-E.pdf"
+},
+"SU-JP-FOR-SHB-EJ20": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯 12V-21W/5W (W21/5W)\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 305-306",
+"source_title": "Subaru Forester SH – ספר רכב יפני A8150JJ-E",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8150JJ-E.pdf"
 },
 "SU-JP-FORT-SJA-FA20": {
 "brake_light": "W21/5W",
@@ -28030,37 +29424,486 @@
 "source_title": "SUBARU FORESTER (SJ) 取扱説明書 A8210JJ-D",
 "source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8210JJ-D.pdf"
 },
+"SU-JP-IMP-GDG-EL15": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"制動灯 兼 尾灯 12V-21W/5W (W21/5W)\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 / H3 (פגוש ספורטיבי)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W / PY21W (סדאן 1.5)"
+},
+{
+"position": "בלימה עילי פנימי (סדאן)",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 289-290 (עמ׳ 7-15 – 7-16)",
+"source_title": "Subaru Impreza GD/GG – ספר רכב יפני A1920JJ-C",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1920JJ-C_for_browse.pdf"
+},
+"SU-JP-IMP-GJB-FB16": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯 12V-5W/21W (W21/5W)\" – 4 ו-5 דלתות.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי (5 דלתות)",
+"type": "W21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W21W (סדאן, פנימי) / LED (5 דלתות)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 456-457 (עמ׳ 8-50 – 8-51)",
+"source_title": "Subaru Impreza GJ/GP – ספר רכב יפני A1140JJ-E",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1140JJ-E.pdf"
+},
+"SU-JP-IMP-GJC-FB16": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯 12V-5W/21W (W21/5W)\" – 4 ו-5 דלתות.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי (5 דלתות)",
+"type": "W21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W21W (סדאן, פנימי) / LED (5 דלתות)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 439-440 (עמ׳ 8-51 – 8-52)",
+"source_title": "Subaru Impreza GJ/GP – ספר רכב יפני A1170JJ-D",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1170JJ-D.pdf"
+},
+"SU-JP-IMP-GJD-FB16": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯 12V-5W/21W (W21/5W)\" – 4 ו-5 דלתות.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי (5 דלתות)",
+"type": "W21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W21W (סדאן, פנימי) / LED (5 דלתות)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 483-484 (עמ׳ 8-51 – 8-52)",
+"source_title": "Subaru Impreza GJ/GP – ספר רכב יפני A1210JJ-E",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1210JJ-E.pdf"
+},
+"SU-JP-IMP-GJE-FB16": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן) / D2R 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯 12V-5W/21W (W21/5W)\" – 4 ו-5 דלתות.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי (5 דלתות)",
+"type": "W21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W21W (סדאן, פנימי) / LED (5 דלתות)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 499-500 (עמ׳ 8-51 – 8-52)",
+"source_title": "Subaru Impreza GJ/GP – ספר רכב יפני A1250JJ-I",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1250JJ-I.pdf"
+},
+"SU-JP-IMPB3-GH-EJ20": {
+"brake_light": "LED (האצ׳בק GH) / W21/5W (סדאן GE)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). האצ׳בק: \"尾灯 兼 制動灯 – LED\"; סדאן (Anesis): \"尾灯 兼 制動灯 12V-5W/21W (W21/5W)\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W (האצ׳בק) / W16W (סדאן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "A1960JJ-B: PDF 348-349 (עמ׳ 6-22 – 6-23) ; A1940JJ-D: PDF 302-303",
+"source_title": "Subaru Impreza GH/GE – ספרי רכב יפניים A1940JJ-D / A1960JJ-B",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1960JJ-B.pdf ; https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1940JJ-D.pdf"
+},
+"SU-JP-IMPB3-GHA-EL15": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). \"尾灯 兼 制動灯 ... LEDタイプ\" (האצ׳בק). LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W (האצ׳בק) / W16W (סדאן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 302-303 (עמ׳ 6-20 – 6-21)",
+"source_title": "Subaru Impreza GH – ספר רכב יפני A1940JJ-D",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1940JJ-D.pdf"
+},
+"SU-JP-IMPB3-GHBCD-EL15": {
+"brake_light": "LED (האצ׳בק GH) / W21/5W (סדאן GE)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). האצ׳בק: \"尾灯 兼 制動灯 – LED\"; סדאן (Anesis): \"尾灯 兼 制動灯 12V-5W/21W (W21/5W)\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W (האצ׳בק) / W16W (סדאן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "A1960JJ-B: PDF 348-349 (עמ׳ 6-22 – 6-23) ; A1940JJ-D: PDF 302-303",
+"source_title": "Subaru Impreza GH/GE – ספרי רכב יפניים A1940JJ-D / A1960JJ-B",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1960JJ-B.pdf ; https://www.subaru.jp/dealerservice/ownersmanual/impreza/pdf/A1940JJ-D.pdf"
+},
+"SU-JP-OB-BMBR-EJ25": {
+"brake_light": "W21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב יפני רשמי (subaru.jp). סטיישן (BR): \"制動灯 12V-21W (W21W)\", \"尾灯 12V-5W (W5W)\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W (סטיישן) / W16W (סדאן)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 378-379",
+"source_title": "Subaru Legacy/Outback BM/BR – ספר רכב יפני A2460JJ-E",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/legacy/pdf/A2460JJ-E_for_browse.pdf"
+},
 "SU-JP-OB-BNBSA-FB25": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "LED",
+"notes": "ספר רכב יפני רשמי (subaru.jp). אלומה נמוכה, חניה קדמי, \"尾灯 兼 制動灯\" ובלימה עילי מסומנים ※ \"LEDタイプ\". LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W (אאוטבק) / LED (סדאן)"
+},
+{
+"position": "חניה קדמי, בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 432-433 (עמ׳ 8-46 – 8-47)",
+"source_title": "Subaru Legacy B4/Outback BN/BS – ספר רכב יפני A2510JJ-D",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/legacy/pdf/A2510JJ-D.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Outback [BS] 2015-2020. קדמיים 650/400 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SU-JP-OB-BNBSC-FB25": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "LED",
+"notes": "ספר רכב יפני רשמי (subaru.jp). אלומה נמוכה, חניה קדמי, \"尾灯 兼 制動灯\" ובלימה עילי מסומנים ※ \"LEDタイプ\". LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W (אאוטבק) / LED (סדאן)"
+},
+{
+"position": "חניה קדמי, בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 447-448",
+"source_title": "Subaru Legacy B4/Outback BN/BS – ספר רכב יפני A2530JJ-F",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/legacy/pdf/A2530JJ-F.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Outback [BS] 2015-2020. קדמיים 650/400 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28103,18 +29946,47 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SU-OUTBACK-BMBR-FB25-IL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (רכב ללא פנסי LED) / LED (רכב עם פנסי LED)",
+"notes": "ספר הרכב הישראלי (סמלת). \"אורות אחוריים ואור בלימה\" (E סטיישן / G סדאן) ובלימה עילי – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 / H8"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "תאורת סף",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "ערפל אחורי (אאוטבק)",
+"type": "W21W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Car_Book_b4: PDF 535 (עמ׳ 12-19 – 12-20) ; Car_Book_outback: טבלת נורות 12-19 – 12-20",
+"source_title": "Subaru Legacy / Outback 2014 – ספר רכב ישראלי",
+"source_url": "https://samelet.com/ebooks/Car_Book_b4.cleaned.pdf ; https://subaru.co.il/docs/Car_Book_outback.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Outback [BM/BR] 2010-2014. קדמיים 650/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28137,6 +30009,37 @@
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Outback [BM/BR] 2010-2014. קדמיים 650/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"SU-OUTBACK-BT-FB25-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (סמלת). פריטים A-L (כולל אלומה נמוכה/גבוהה ו\"אורות אחוריים ואורות בלימה\") – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "תאורת סף (אם קיימת)",
+"type": "W5W"
+},
+{
+"position": "חניה, יום, איתות קדמי, ערפל, אחוריים, בלימה עילי, לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 517 (עמ׳ 509, טבלת נורות); הערת LED ב-PDF 516",
+"source_title": "Subaru Outback (BT) – ספר רכב ישראלי 10/2021",
+"source_url": "https://samelet.com/ebooks/Subaru_New_Outback_car_book_102021.pdf"
 },
 "SU-XV-GP-FB-IL": {
 "brake_light": "W21/5W",
