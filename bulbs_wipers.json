@@ -13780,6 +13780,217 @@
 "source_title": "ספר רכב ג'יפ גרנד צ'ירוקי (סמלת, יבואן ישראל)",
 "source_url": "https://samelet.com/ebooks/Jeep_grandcherokee_carbook_151020.pdf"
 },
+"K-CARENS-RP-D4FD-GB": {
+"brake_light": "P21/5W / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7L 55W",
+"headlight_low": "H7L 55W / D3S 35W (HID)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). \"Stop/tail lamps (outside) P21/5W 21/5W (bulb type) / LED\". שורה 2013-19 מספר MY2016 (אותו דור RP).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8"
+},
+{
+"position": "סימון צד",
+"type": "WY5W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H7L"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ׳ 8-5 (Bulb wattage)",
+"source_title": "Kia Carens RP – Owner's manual MY2016 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/RP/2016/en_GB"
+},
+"K-CARENS-RP-G4NC-GB": {
+"brake_light": "P21/5W / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7L 55W",
+"headlight_low": "H7L 55W / D3S 35W (HID)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). \"Stop/tail lamps (outside) P21/5W 21/5W (bulb type) / LED\". שורה 2013-19 מספר MY2016 (אותו דור RP).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8"
+},
+{
+"position": "סימון צד",
+"type": "WY5W"
+},
+{
+"position": "תאורת פנייה",
+"type": "H7L"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ׳ 8-5 (Bulb wattage)",
+"source_title": "Kia Carens RP – Owner's manual MY2016 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/RP/2016/en_GB"
+},
+"K-CARNIVAL-KA4-D4HE-IL25": {
+"brake_light": "P21/5W LL (Type A) / LED (Type B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). ספר בעברית. פנסים ראשיים LED; בלימה/אחורי P21/5W LL (Type A) או LED (Type B). LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W LL / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "הספקי נורות",
+"source_title": "Kia Carnival KA4 – ספר רכב MY2025 (he_IL, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/KA4/2025/he_IL/topics/chapter9_6.html"
+},
+"K-CARNIVAL-KA4-G35-GB": {
+"brake_light": "P21/5W LL (Type A) / LED (Type B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). פנסים ראשיים (נמוך/גבוה) LED בשני הסוגים (Type A/B). פנס בלימה/אחורי: Type A P21/5W LL 21/5W, Type B LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W LL / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W LL"
+},
+{
+"position": "ערפל",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Kia Carnival KA4 – Owner's manual MY2024 (en_GB, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/KA4/2024/en_GB/topics/t00919.html"
+},
+"K-CARNIVAL-KA4KH-G4FT-GB": {
+"brake_light": "P21/5W LL (Type A) / LED (Type B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). פנסים ראשיים LED; בלימה/אחורי P21/5W LL (Type A) או LED (Type B). LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W LL / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W LL (Type A) / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Kia Carnival KA4 Hybrid – Owner's manual MY2025 (en_GB, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/KA4KH/2025/en_GB/topics/chapter10_6.html"
+},
 "K-CARNIVAL-YP-33": {
 "brake_light": "P28/8W (נורת ליבון) / LED",
 "confidence": "manual-verbatim",
@@ -13910,54 +14121,157 @@
 "source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Carnival-YP-2016-2020.pdf"
 },
 "K-CEED-CD-14T": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 LL 55W / LED (אופציה)",
+"headlight_low": "H7 LL 55W / LED (אופציה)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). \"Headlamps (Low) Standard H7 LL 55W, Option LED\"; \"Headlamps (High) H7 LL 55W, Option LED\"; \"Stop lamps – outside P21/5W or LED\". הטבלה בספר MY2020 משותפת לכל המרכבים (Ceed, SW, ProCeed, XCeed); ספר MY2019 (5D/SW/SB) – אותם ערכים. ספר MY2023 (מתיחת פנים) – Ceed: H7LL 55W (Type A,B) / LED (Type C).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "P21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7LL / HB4 / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W / LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "עמ׳ 9-4 – 9-5 (Bulb wattage)",
+"source_title": "Kia Ceed CD – Owner's manual MY2020 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/CD/2020/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Ceed / XCeed [CD] 06.18→. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-CEED-CD-D4FE-GB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 LL 55W / LED (אופציה)",
+"headlight_low": "H7 LL 55W / LED (אופציה)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). \"Headlamps (Low) Standard H7 LL 55W, Option LED\"; \"Headlamps (High) H7 LL 55W, Option LED\"; \"Stop lamps – outside P21/5W or LED\". הטבלה בספר MY2020 משותפת לכל המרכבים (Ceed, SW, ProCeed, XCeed); ספר MY2019 (5D/SW/SB) – אותם ערכים. ספר MY2023 (מתיחת פנים) – Ceed: H7LL 55W (Type A,B) / LED (Type C).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "P21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7LL / HB4 / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W / LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "עמ׳ 9-4 – 9-5 (Bulb wattage)",
+"source_title": "Kia Ceed CD – Owner's manual MY2020 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/CD/2020/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Ceed / XCeed [CD] 06.18→. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-CEED-CD-G4LK-GB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "Ceed: P21/5W / LED; XCeed: LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "Ceed: H7LL 55W (Type A,B) / LED (Type C); XCeed: LED",
+"headlight_low": "Ceed: H7LL 55W (Type A,B) / LED (Type C); XCeed: LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). בספר טבלה נפרדת ל-Ceed (5 דלתות/סטיישן/שוטינג ברייק) ול-XCeed (\"For CUV\") – בשורה זו נמכרים שני הדגמים, ולכן מוצגים שני הערכים לפי דגם. XCeed: כל הפנסים הראשיים והבלימה LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED (XCeed: LED)"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W / LED (XCeed: LED)"
+},
+{
+"position": "סימון צד",
+"type": "W5W / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (GT-Line: H21W) / LED; XCeed: W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W / LED (XCeed: LED)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "Bulb wattage (5 Door / Wagon / Shooting Brake + \"For CUV\")",
+"source_title": "Kia Ceed / XCeed CD facelift – Owner's manual MY2023 (en_GB, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/CD/2023/en_GB/topics/t00987.html",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Ceed / XCeed [CD] 06.18→. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -14124,6 +14438,103 @@
 "source_title": "Kia Cerato/Forte (YD) Owner's Manual, en_GB 2014",
 "source_url": "https://ownersmanual.kia.com/full_pdf/YD/2014/en_GB"
 },
+"K-EV3-SV1-EM16-GB": {
+"brake_light": "LED / P21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). פנסים ראשיים LED; פנסי בלימה LED או P21W לפי גרסה. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות",
+"type": "LED / PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED / W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage (PDF עמ׳ 735)",
+"source_title": "Kia EV3 SV1 – Owner's manual MY2025 (en_GB, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/SV1/2025/en_GB/topics/t00917.html"
+},
+"K-EV6-CV1-GB": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). כל הפנסים LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל הפנסים החיצוניים",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Kia EV6 CV1 – Owner's manual MY2024 (en_GB, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/CV1/2024/en_GB/topics/chapter10_7.html"
+},
+"K-FORTE-YD-D4FB-GB18": {
+"brake_light": "P21/5W / LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (4/5 דלתות) / H1 55W (2 דלתות)",
+"headlight_low": "H7 55W / D5S 25W (HID)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). \"Rear Stop/Tail lamps (outside) Bulb type P21/5W, LED type LED\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21WL"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8"
+},
+{
+"position": "סימון צד",
+"type": "WY5W / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "P21W / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 562 (עמ׳ 9-03 – 9-04, Bulb wattage)",
+"source_title": "Kia Forte/Cerato YD – Owner's manual MY2018 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/YD/2018/en_GB"
+},
 "K-NIRO-DE-HEV16": {
 "brake_light": "חיצוני: P21/5W (נורה) / LED*",
 "confidence": "manual-verbatim",
@@ -14174,6 +14585,41 @@
 "wiper_notes": "דגם לפי Bosch 2023: Kia Niro [DE] 10.16-2022. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"K-NIRO-DEEV-EM16-GB": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W / LED",
+"headlight_low": "HB3 60W / LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). \"Headlamps (Low/High) HB3 HL+ 60W / LED\"; \"Rear tail/stop lamps LED\". ל-Niro Plus EV (2022-24) זהו ספר המקור הקיים בשורת הנוזלים (אותו דגם DE EV).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ׳ 9-05 (Bulb wattage)",
+"source_title": "Kia Niro EV DE EV – Owner's manual MY2020 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/DEEV/2020/en_GB"
 },
 "K-NIRO-DEPE-HEV16": {
 "brake_light": "P21/5W 21/5 (פנס אחורי/פנס בלימה) / LED (פנס בלימה)",
@@ -14304,6 +14750,84 @@
 "source_title": "Kia Niro (SG2) Owner's Manual en_GB 2026",
 "source_url": "https://ownersmanual.kia.com/full_pdf/SG2/2026/en_GB"
 },
+"K-NIRO-SG2KV-EM16-GB": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (Type A) / LED (Type B)",
+"headlight_low": "HB3 60W (Type A) / LED (Type B)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). פנס ראשי Type A HB3 60W (גבוה/נמוך), Type B LED; פנסי בלימה ואחוריים LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "סימון צד",
+"type": "WY5W / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Kia Niro EV SG2 – Owner's manual MY2024 (en_GB, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/SG2KV/2024/en_GB/topics/t00772.html"
+},
+"K-NIRO-SG2KV-EM16-GB-N": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (Type A) / LED (Type B)",
+"headlight_low": "HB3 60W (Type A) / LED (Type B)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). פנס ראשי Type A HB3 60W (גבוה/נמוך), Type B LED; פנסי בלימה ואחוריים LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "סימון צד",
+"type": "WY5W / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Kia Niro EV SG2 – Owner's manual MY2024 (en_GB, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/SG2KV/2024/en_GB/topics/t00772.html"
+},
 "K-NIROPLUS-DEPBV": {
 "brake_light": "P21/5W 21/5 (פנס אחורי משולב סוג A); LED (סוג B)",
 "confidence": "manual-verbatim",
@@ -14346,6 +14870,55 @@
 "wiper_notes": "דגם לפי Bosch 2023: Kia Niro (Niro Plus) [DE]. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"K-NIROPLUS-EV-EM16-X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W / LED",
+"headlight_low": "HB3 60W / LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). \"Headlamps (Low/High) HB3 HL+ 60W / LED\"; \"Rear tail/stop lamps LED\". ל-Niro Plus EV (2022-24) זהו ספר המקור הקיים בשורת הנוזלים (אותו דגם DE EV).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ׳ 9-05 (Bulb wattage)",
+"source_title": "Kia Niro EV DE EV – Owner's manual MY2020 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/DEEV/2020/en_GB"
+},
+"K-OPT-JF-D4FD-GB": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "9005HL+ / H9 (55W/65W)",
+"headlight_low": "H7SL 55W / D3S 35W (HID)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). מולאו פנסים ראשיים בלבד. נורת הבלימה בספר מודפסת באופן לא חד-משמעי (\"P21\" 5W / LED) ולכן לא מולאה.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Kia Optima JF – Owner's manual MY2016 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/JF/2016/en_GB"
 },
 "K-PIC-JA-10": {
 "brake_light": "P21/5W LL או LED 21W או LED (צד חיצוני)",
@@ -15098,18 +15671,55 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-RIO-YB-G3LE-GB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 55/60W (Type A) / HB3 60W (Type B) / LED (Type C)",
+"headlight_low": "H4 55/60W (Type A) / HB3 60W (Type B) / LED (Type C)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). \"Head lamp Low/High: Type A H4 55W/60W, Type B HB3 60W/60W, Type C LED\"; \"Stop lamps outside P21/5W or LED\".",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "P21W / LED"
+},
+{
+"position": "חניה",
+"type": "W5W / LED"
+},
+{
+"position": "איתות",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 / LED"
+},
+{
+"position": "תאורת פנייה",
+"type": "H7"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / LED"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W ×4"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "עמ׳ 9-3 (Bulb wattage)",
+"source_title": "Kia Rio YB facelift – Owner's manual MY2021 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/YB/2021/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Rio [YB] 02.17→. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -15275,18 +15885,47 @@
 "wiper_source_url": "https://topwipers.com/en-pl/auto/wiper-blades/kia/seltos/sp2-sp2i-2019"
 },
 "K-SELTOS-SP2-G20-IL26": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / LED",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 (הלוגן) / LED",
+"headlight_low": "HB3 (הלוגן) / LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). ספר בעברית. מוצגים סוגי הנורות בלבד – ערכי ההספק בטבלה העברית משובשים. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "P21W/5W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY28W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "הספקי נורות",
+"source_title": "Kia Seltos SP2 facelift – ספר רכב MY2026 (he_IL, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/SP2/2026/he_IL/topics/chapter9_6.html",
 "wiper_confidence": "medium-high",
 "wiper_notes": "TopWipers (אירופה, הגה שמאלי): 600+450 מ״מ, אחורי 300 מ״מ. תואם ל-WiperIndex ו-Uniwiper.",
 "wiper_source_title": "TopWipers – Kia Seltos [SP2, SP2I] 08.19→",
@@ -15982,41 +16621,173 @@
 "source_title": "ספר נהג קיה סורנטו MQ4 2021 (יבואן ישראל)",
 "source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sorento-MQ4-GSL-DSL-2021.pdf"
 },
+"K-SORENTO-MQ4KH-G4FT-GB": {
+"brake_light": "P21/5W (Type A) / LED (Type B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). פנסים ראשיים LED (Type A/B); בלימה/אחורי Type A P21/5W 21/5W, Type B LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Kia Sorento MQ4 HEV/PHEV – Owner's manual MY2024 (en_GB, webhelp)",
+"source_url": "https://ownersmanual.kia.com/full_webhelp/MQ4KH/2024/en_GB/topics/t00950.html"
+},
 "K-SORENTO-UMPE-24GDI": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W / LED",
+"headlight_low": "H7SPL 55W / LED",
+"notes": "ספר הרכב הישראלי של קיה. נמוך H7SPL 55W או LED; גבוה H9 65W או LED; בלימה P21/5W (נורה) או LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "עמ׳ 9-5",
+"source_title": "Kia Sorento UM PE – ספר רכב ישראלי 2019-2020",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sorento-UMPE-2019-2020.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Sorento [UM] 02.15-2020. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-SORENTO-UMPE-24GDI-YALIAS-2021": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W / LED",
+"headlight_low": "H7SPL 55W / LED",
+"notes": "ספר הרכב הישראלי של קיה. נמוך H7SPL 55W או LED; גבוה H9 65W או LED; בלימה P21/5W (נורה) או LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "עמ׳ 9-5",
+"source_title": "Kia Sorento UM PE – ספר רכב ישראלי 2019-2020",
+"source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Sorento-UMPE-2019-2020.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Sorento [UM] 02.15-2020. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"K-SOUL-PS-G4FD-GB": {
+"brake_light": "P21/5W / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4LL 55/60W / H7LL 55W",
+"headlight_low": "H4LL 55/60W / H7LL 55W / D3S 35W (HID)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). שלוש תצורות פנס ראשי בספר: H4LL (נמוך/גבוה משולב), H7LL נמוך + H7LL גבוה, או D3S HID נמוך. בלימה: P21/5W (bulb type) / LED (LED type).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8L"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ׳ 8-4 (Bulb wattage)",
+"source_title": "Kia Soul PS – Owner's manual MY2015 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/PS/2015/en_GB"
 },
 "K-SPO-NQ5-D16": {
 "brake_light": "P21/5W 21/5 (סוג A); LED (סוג B)",
@@ -16230,18 +17001,43 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-SPO-NQ5SH-G4FZ-IL26": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (Type A) / LED (Type B)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). ספר בעברית. פנסים ראשיים LED; בלימה Type A P21/5W 21/5W, Type B LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "עמ׳ 10-7 (הספקי נורות)",
+"source_title": "Kia Sportage NQ5 PE HEV/PHEV – ספר רכב MY2026 (he_IL)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/NQ5SH/2026/he_IL",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Sportage [NQ5] 11.21→. קדמיים 650/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -17270,18 +18066,43 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "K-STONIC-YBC26-G3LH-GB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W (Type A) / LED (Type B)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W (Type A) / LED (Type B)",
+"headlight_low": "HB3 60W (Type A) / LED (Type B)",
+"notes": "ספר רכב רשמי של קיה (ownersmanual.kia.com). \"Headlamp Type A HB3 60W/60W (Low/High), Type B LED\"; \"Stop lamp Type A P21W, Type B LED\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "איתות",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 280,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "עמ׳ 9-4 (Bulb wattage)",
+"source_title": "Kia Stonic YBC – Owner's manual MY2026 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/YBC/2026/en_GB",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Stonic [YB] 09.17→. קדמיים 650/400 מ״מ, אחורי 280 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -17351,54 +18172,159 @@
 "source_url": "https://cdnmedia.kia-israel.co.il/www/cars-book/Rio-SC-2017.PDF"
 },
 "KF-CEED-ED-D4FB-FI10": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. בספר: \"Ajovalot kauko 55, lähi 55\"; \"Jarru- ja takavalot 21/5\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "חניה",
+"type": "5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 353 (עמ׳ 8-3)",
+"source_title": "Kia cee'd ED 2010-2011 – Käyttöohjekirja (fi_FI)",
+"source_url": "https://www.kia.com/content/dam/kwcms/kme/fi/fi/assets/contents/service/service-care/help-books/ceed-2010-2011/Kaayttoohjekirja.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Ceed [ED] 12.06-04.12. קדמיים 600/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "KF-CEED-ED-G4FC-FI10": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. בספר: \"Ajovalot kauko 55, lähi 55\"; \"Jarru- ja takavalot 21/5\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "חניה",
+"type": "5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 353 (עמ׳ 8-3)",
+"source_title": "Kia cee'd ED 2010-2011 – Käyttöohjekirja (fi_FI)",
+"source_url": "https://www.kia.com/content/dam/kwcms/kme/fi/fi/assets/contents/service/service-care/help-books/ceed-2010-2011/Kaayttoohjekirja.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Ceed [ED] 12.06-04.12. קדמיים 600/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "KF-CEED-ED-G4GC-FI10": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. בספר: \"Ajovalot kauko 55, lähi 55\"; \"Jarru- ja takavalot 21/5\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "חניה",
+"type": "5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 353 (עמ׳ 8-3)",
+"source_title": "Kia cee'd ED 2010-2011 – Käyttöohjekirja (fi_FI)",
+"source_url": "https://www.kia.com/content/dam/kwcms/kme/fi/fi/assets/contents/service/service-care/help-books/ceed-2010-2011/Kaayttoohjekirja.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Ceed [ED] 12.06-04.12. קדמיים 600/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -17621,6 +18547,55 @@
 "wiper_notes": "דגם לפי Bosch 2023: Kia Sportage [SL] 07.10-12.15. קדמיים 600/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"KX-CEED-ED-G4FC-X": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. בספר: \"Ajovalot kauko 55, lähi 55\"; \"Jarru- ja takavalot 21/5\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "חניה",
+"type": "5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "55W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 353 (עמ׳ 8-3)",
+"source_title": "Kia cee'd ED 2010-2011 – Käyttöohjekirja (fi_FI)",
+"source_url": "https://www.kia.com/content/dam/kwcms/kme/fi/fi/assets/contents/service/service-care/help-books/ceed-2010-2011/Kaayttoohjekirja.pdf"
 },
 "LX-CT200H-2ZR": {
 "brake_light": "",
@@ -22225,36 +23200,102 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ-J11PE-HR13DDT-GR": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W / LED",
+"headlight_low": "H11 55W / LED",
+"notes": "ספר רכב רשמי של ניסאן יוון. \"Προβολέας (μεσαία σκάλα: τύπου Η11) 55\"; \"Προβολέας (μεγάλη σκάλα: τύπου Η9) 65\"; \"Προβολέας LED (όπου υπάρχει)\"; \"Φως στοπ / πορείας LED\". LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W / LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 193 (קובץ עמ׳ 231-462, טבלת ΕΞΩΤΕΡΙΚΑ ΦΩΤΑ)",
+"source_title": "Nissan Qashqai J11 – Εγχειρίδιο κατόχου 2020 (nissan.gr)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_2020_231-462.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J11] 2014-2021. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ-J11PE-HR13DDT-GR-ALIAS-H5H": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W / LED",
+"headlight_low": "H11 55W / LED",
+"notes": "ספר רכב רשמי של ניסאן יוון. \"Προβολέας (μεσαία σκάλα: τύπου Η11) 55\"; \"Προβολέας (μεγάλη σκάλα: τύπου Η9) 65\"; \"Προβολέας LED (όπου υπάρχει)\"; \"Φως στοπ / πορείας LED\". LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W / LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 193 (קובץ עמ׳ 231-462, טבלת ΕΞΩΤΕΡΙΚΑ ΦΩΤΑ)",
+"source_title": "Nissan Qashqai J11 – Εγχειρίδιο κατόχου 2020 (nissan.gr)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_2020_231-462.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J11] 2014-2021. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -22279,18 +23320,51 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "NI-QQ-J11PE-HR13DDT-GR-CALIAS-QASHQAI-2019-x181": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H9 65W / LED",
+"headlight_low": "H11 55W / LED",
+"notes": "ספר רכב רשמי של ניסאן יוון. \"Προβολέας (μεσαία σκάλα: τύπου Η11) 55\"; \"Προβολέας (μεγάλη σκάλα: τύπου Η9) 65\"; \"Προβολέας LED (όπου υπάρχει)\"; \"Φως στοπ / πορείας LED\". LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W / LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 193 (קובץ עמ׳ 231-462, טבלת ΕΞΩΤΕΡΙΚΑ ΦΩΤΑ)",
+"source_title": "Nissan Qashqai J11 – Εγχειρίδιο κατόχου 2020 (nissan.gr)",
+"source_url": "https://www.nissan.gr/content/dam/Nissan/greece/manuals/qashqai/Qashqai_J11_2020_231-462.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Qashqai [J11] 2014-2021. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -28122,6 +29196,119 @@
 "source_title": "Subaru Legacy/Outback 2012 – ספר רכב (subaru.ru)",
 "source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2012"
 },
+"SU-B4-BM-EJ204-RU13": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Лампа ближнего света фар: D2S 35 Вт (HID) / H7 55 Вт\"; \"Лампа дальнего света фар HB3 60 Вт\"; \"Лампа стоп-сигнала/заднего габаритного фонаря (Седан) W21/5W\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 570-571 (עמ׳ 12-23 – 12-24)",
+"source_title": "Subaru Legacy & Outback – Руководство MY2013 (subaru.ru, A2490GE)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2013"
+},
+"SU-B4-BM-FB20-RU13": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). \"Лампа ближнего света фар: D2S 35 Вт (HID) / H7 55 Вт\"; \"Лампа дальнего света фар HB3 60 Вт\"; \"Лампа стоп-сигнала/заднего габаритного фонаря (Седан) W21/5W\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 570-571 (עמ׳ 12-23 – 12-24)",
+"source_title": "Subaru Legacy & Outback – Руководство MY2013 (subaru.ru, A2490GE)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2013"
+},
+"SU-B4-BMBR-EZ36-IL": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). שני הספרים נותנים אותם ערכים לסדאן: נמוך H7 55W / D2S 35W, גבוה HB3 60W, \"Лампа стоп-сигнала/заднего габаритного фонаря (Седан) W21/5W\".",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "MY2011: PDF 562 (עמ׳ 12-16); MY2013: PDF 570 (עמ׳ 12-23)",
+"source_title": "Subaru Legacy & Outback – Руководство MY2011 + MY2013 (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2011 | https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2013"
+},
 "SU-B4-BMBR-FB25-IL": {
 "brake_light": "LED",
 "confidence": "high",
@@ -28207,6 +29394,33 @@
 "source_page": "Car_Book_b4: PDF 535 (עמ׳ 12-19 – 12-20) ; Car_Book_outback: טבלת נורות 12-19 – 12-20",
 "source_title": "Subaru Legacy / Outback 2014 – ספר רכב ישראלי",
 "source_url": "https://samelet.com/ebooks/Car_Book_b4.cleaned.pdf ; https://subaru.co.il/docs/Car_Book_outback.pdf"
+},
+"SU-BRZ-ZD8-FA24-EU": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי של סובארו אירופה. \"Lights indicated by letters are the LED type\" – B) Low and high beam headlights, F) Stop lights. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "איתות, חניה, תאורת יום, אחוריים, בלימה עילי, לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 385-386 (עמ׳ 379-380, Bulb Chart)",
+"source_title": "Subaru BRZ 2022 – Owner's manual (EU, A4610GE)",
+"source_url": "https://www.subaru.eu/docs/default-source/owner's-manuals/brz-2022/om/a4610ge.pdf?sfvrsn=13f4961f_2"
 },
 "SU-CROSSTREK-GU-EBOXER-IL": {
 "brake_light": "LED",
@@ -28797,18 +30011,51 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SU-FORESTER-SJ-FB20-X-CALIAS-FB16": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21/5W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W (הלוגן) / D4R 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). הרכבים בשורה הם Forester SJ 2013-2014; שני הספרים זהים: נמוך D4R 35W (HID) / H11 55W, גבוה HB3 60W, בלימה/אחורי W21/5W. תואם לשורות SU-FORESTER-SJ-FB20-RU13/RU14.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / H8"
+},
+{
+"position": "תאורת יום",
+"type": "P13W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21/5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "MY2013: PDF 563 (עמ׳ 12-19); MY2014: PDF 571",
+"source_title": "Subaru Forester SJ – Руководство MY2013 + MY2014 (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Forester&year=2013 | https://subaru.ru/owners/getfile?type=manual&model=Forester&year=2014",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Forester [SJ] 2013-2018. קדמיים 650/400 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -29306,6 +30553,53 @@
 "source_page": "PDF 305-306",
 "source_title": "Subaru Forester SH – ספר רכב יפני A8150JJ-E",
 "source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8150JJ-E.pdf"
+},
+"SU-JP-FOR-SJD-FA20": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (הלוגן) / LED",
+"headlight_low": "H11 55W (הלוגן) / LED",
+"notes": "ספר רכב רשמי של סובארו יפן. פנס ראשי הלוגן: ロービーム 12V-55W (H11), ハイビーム 12V-60W (HB3); או LED. 制動灯 (בלימה) – LED. LED – לפי ספר הרכב, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W (הלוגן) / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "אחוריים",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 507-508 (עמ׳ 8-35 – 8-36)",
+"source_title": "Subaru Forester SJ Type D – 取扱説明書 A8220JJ-J (subaru.jp)",
+"source_url": "https://www.subaru.jp/dealerservice/ownersmanual/forester/pdf/A8220JJ-J.pdf"
 },
 "SU-JP-FORT-SJA-FA20": {
 "brake_light": "W21/5W",
@@ -29928,18 +31222,47 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "SU-OUTBACK-BMBR-EZ36-IL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "W21W",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (HID)",
+"notes": "ספר רכב רשמי לייצוא (subaru.ru, מפרט ECE). שני הספרים (לפני ואחרי מתיחת הפנים MY2013) נותנים אותם ערכים ל-Outback: נמוך H7 55W / D2S 35W, גבוה HB3 60W, \"Лампа стоп-сигнала (Универсал и Outback) W21W\". הרכבים בשורה רשומים 2009-2012.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות",
+"type": "WY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4 (MY2011) / H11 (MY2013)"
+},
+{
+"position": "נסיעה לאחור/ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "אחוריים",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "MY2011: PDF 562-563 (עמ׳ 12-16 – 12-17); MY2013: PDF 570-571 (עמ׳ 12-23 – 12-24)",
+"source_title": "Subaru Legacy & Outback – Руководство MY2011 + MY2013 (subaru.ru)",
+"source_url": "https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2011 | https://subaru.ru/owners/getfile?type=manual&model=Legacy%20%26%20Outback&year=2013",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Subaru Outback [BM/BR] 2010-2014. קדמיים 650/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
