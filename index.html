@@ -104,7 +104,7 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
-<script src="bulbimg.js?v=20261104g"></script>
+<script src="bulbimg.js?v=20261104h"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
 const RES_WLTP='142afde2-6228-49f9-8a29-9b6c3a0cbe40';
@@ -112,7 +112,7 @@ const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261104g')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261104h')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
@@ -267,7 +267,7 @@ function render(v,pi,matches,W){
     C('נוזל בלמים', bb?bb+lk(L.brake):'','brake');
     const pb=F('סוג/תקן','power_steering_fluid');
     C('נוזל הגה', pb?pb+lk(L.ps):'','ps');
-    {const b=BW[m.id]||bwModel(v),sv=ROW;const E=x=>x!=null&&String(x).trim()!=='';
+    {const b=(B0=>{if(B0&&Array.isArray(B0.gens)){const y=Number(v.shnat_yitzur),g=B0.gens.find(g=>y>=g.y0&&y<=g.y1);if(g){const o=Object.assign({},B0,g);delete o.gens;return o;}}return B0;})(BW[m.id]||bwModel(v)),sv=ROW;const E=x=>x!=null&&String(x).trim()!=='';
      const EM='<div class="empty">אין נתון בקטלוג</div>';const BI=t=>{const i=window.bulbIcons?window.bulbIcons(t):'';return '<b>'+esc(t)+'</b>'+(i?'<div class="bimgs">'+i+'</div>':'');};
      if(b){ROW=Object.assign({row_id:m.id,source_pdf_page:b.source_page},b);}
      const BC=(p,t)=>window.bulbCard?window.bulbCard(p,t):kv(esc(p),BI(t));
@@ -277,7 +277,8 @@ function render(v,pi,matches,W){
      const bc=b?(E(b.headlight_low)?BO('headlight_low','פנס ראשי – אור נמוך',b.headlight_low):'')+(E(b.headlight_high)?BO('headlight_high','פנס ראשי – אור גבוה',b.headlight_high):'')+(E(b.brake_light)?BO('brake_light','אור בלימה',b.brake_light):'')+
        (Array.isArray(b.other_bulbs)?b.other_bulbs.filter(o=>o&&E(o.type)).map(o=>BO('other_bulbs',o.position||'נורה נוספת',o.type)).join(''):''):'';
      const bw=OPT.length?'<div class="bwarn"><b>רמת ביטחון נמוכה – יש לבחור את הנורה המתאימה.</b> ספר הרכב מציין רק את הספק הנורה (וואט) בלי סוג הנורה. מוצגות כל האפשרויות הקיימות להספק ולמיקום הזה – בדוק איזו נורה מותקנת ברכב שלך (הכיתוב על בסיס הנורה הישנה) לפני הרכישה.</div>':'';
-     const bl=bc?bw+'<div class="bgrid">'+bc+'</div><div class="bcred">תמונות הנורות: Wikimedia Commons, ברישיונות חופשיים (CC0 / נחלת הכלל / CC BY-SA / GFDL) · <a href="ATTRIBUTION.md" target="_blank" rel="noopener">קרדיט מלא לכל תמונה</a> · התמונה ממחישה את סוג הנורה; כשאין תמונה מוצג שרטוט.</div>':'';
+     const bw2=b&&E(b.low_label)?'<div class="bwarn"><b>רמת ביטחון נמוכה.</b> '+esc(b.low_label)+'</div>':'';
+     const bl=bc?bw+bw2+'<div class="bgrid">'+bc+'</div><div class="bcred">תמונות הנורות: Wikimedia Commons, ברישיונות חופשיים (CC0 / נחלת הכלל / CC BY-SA / GFDL) · <a href="ATTRIBUTION.md" target="_blank" rel="noopener">קרדיט מלא לכל תמונה</a> · התמונה ממחישה את סוג הנורה; כשאין תמונה מוצג שרטוט.</div>':'';
      h+=cat('נורות',bl||EM,'bulb');
      const IN=n=>Math.round(n/25.4);
      const mm=x=>{const v=String(x).match(/\d+(?:\.\d+)?/g);return v?'<b dir="ltr">'+v.map(n=>IN(+n)+'"').join(' / ')+'</b> <span class="mut" style="font-size:11px">('+esc(String(x))+' מ״מ)</span>':'<b>'+esc(x)+'</b>';};
