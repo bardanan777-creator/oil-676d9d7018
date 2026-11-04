@@ -17308,6 +17308,25 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/lexus/ct/hatchback-zwa10_-2010-12-01-2020-10-01/"
 },
+"LX-ES300H-A25A": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסי בלמים ופנס בלמים גבוה ברשימת \"נורות המצריכות החלפה בידי מוסך מורשה\"; \"פנסים אחרים מלבד פנסי איתות הפניה הקדמיים (אלומת אור יחידה) כוללים מספר נורות LED\". LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 42: PDF 356 (עמ׳ 355)",
+"source_title": "Lexus ES300h – ספר רכב ישראלי 2019-2025",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/42/download"
+},
 "LX-IS300H-2AR": {
 "brake_light": "",
 "confidence": "",
@@ -17325,6 +17344,44 @@
 "wiper_notes": "דגם: Lexus IS [E3] 04.13→. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25. יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"LX-LBX-M15A": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). \"תאורות אחרות מתאורת לוחית הרישוי כוללות מספר נורות LED\". LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 36: PDF 416 (עמ׳ 414)",
+"source_title": "Lexus LBX – ספר רכב ישראלי 2024-2025",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/36/download"
+},
+"LX-NX300-8AR": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). \"פנסי LED\": פנסים קדמיים, פנסי בלמים, פנס בלמים גבוה ועוד – החלפה במוסך מורשה. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 158: PDF 479 (עמ׳ 478)",
+"source_title": "Lexus NX300 – ספר רכב ישראלי 2018-2021",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/158/download"
 },
 "LX-NX300H-2AR": {
 "brake_light": "",
@@ -17345,40 +17402,240 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/lexus/nx/suv-i-z1-2014-11-01-2021-11-01/"
 },
 "LX-NX350H-A25A": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסי בלמים ופנס בלמים גבוה ברשימת \"החלפת הנורות הבאות\" במוסך; \"פנסים מלבד פנסי איתות הפניה הקדמיים (אלומת אור יחידה) כוללים מספר נורות LED\". LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 123: PDF 502 (עמ׳ 501)",
+"source_title": "Lexus NX350h – ספר רכב ישראלי 2022",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/123/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Lexus NX II [AZ20] 2021→. קדמיים 650/— מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. מגב הנוסע הושמט – סתירה (OXIMO 450 מ״מ, Valeo 400 מ״מ). יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/lexus/nx/suv-ii-a2-h2-2021-09-01/"
 },
 "LX-NX450HP-A25A": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": "",
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסי בלמים ופנס בלמים גבוה ברשימת ההחלפה במוסך; פנסי LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 124: PDF 538",
+"source_title": "Lexus NX450h+ – ספר רכב ישראלי 2022",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/124/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Lexus NX II [AZ20] 2021→. קדמיים 650/— מ״מ, אחורי 300 מ״מ. מקורות: קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. מגב הנוסע הושמט – סתירה (OXIMO 450 מ״מ, Valeo 400 מ״מ). יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/lexus/nx/suv-ii-a2-h2-2021-09-01/"
+},
+"LX-RX200T-8AR": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). \"נורות LED: הפנסים הקדמיים הנמוכים, הפנסים הקדמיים הגבוהים ... פנסי הבלימה/הפנסים האחוריים ... פנסי הבלימה העליונים ... כוללים כולם מספר דיודות LED\". LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 145: PDF 729 (עמ׳ 729)",
+"source_title": "Lexus RX300/RX350/RX350L – ספר רכב ישראלי 2016-2020",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/145/download"
+},
+"LX-RX350-2GR": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). \"נורות LED: הפנסים הקדמיים הנמוכים, הפנסים הקדמיים הגבוהים ... פנסי הבלימה/הפנסים האחוריים ... פנסי הבלימה העליונים ... כוללים כולם מספר דיודות LED\". LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 145: PDF 729 (עמ׳ 729)",
+"source_title": "Lexus RX300/RX350/RX350L – ספר רכב ישראלי 2016-2020",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/145/download"
+},
+"LX-RX350H-AL30-IL26": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסים אחוריים/בלמים ופנס בלמים גבוה ברשימת ההחלפה במוסך; פנסי LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 136: PDF 450",
+"source_title": "Lexus RX350h/RX500h – ספר רכב ישראלי 2026",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/136/download"
+},
+"LX-RX450HP-AL30-IL26": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסים אחוריים/בלמים ופנס בלמים גבוה ברשימת ההחלפה במוסך; פנסי LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 134: PDF 473",
+"source_title": "Lexus RX450h+ – ספר רכב ישראלי 2026",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/134/download"
+},
+"LX-RX450PHEV-AL30-IL26": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסים אחוריים/בלמים ופנס בלמים גבוה ברשימת ההחלפה במוסך; פנסי LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 134: PDF 473",
+"source_title": "Lexus RX450h+ – ספר רכב ישראלי 2026",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/134/download"
+},
+"LX-RX500H-AL30-IL26": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסים אחוריים/בלמים ופנס בלמים גבוה ברשימת ההחלפה במוסך; פנסי LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 136: PDF 450",
+"source_title": "Lexus RX350h/RX500h – ספר רכב ישראלי 2026",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/136/download"
+},
+"LX-RX500H-AL30-IL26-ALIAS-LRX500H": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסים אחוריים/בלמים ופנס בלמים גבוה ברשימת ההחלפה במוסך; פנסי LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 136: PDF 450",
+"source_title": "Lexus RX350h/RX500h – ספר רכב ישראלי 2026",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/136/download"
+},
+"LX-RX500H-AL30-IL26-KALIAS-LEXUSRX500H-2026-25": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסים אחוריים/בלמים ופנס בלמים גבוה ברשימת ההחלפה במוסך; פנסי LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 136: PDF 450",
+"source_title": "Lexus RX350h/RX500h – ספר רכב ישראלי 2026",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/136/download"
+},
+"LX-RZ300E-1XM": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). \"פנסים מלבד פנסי איתות הפניה הקדמיים (אלומת אור יחידה) כוללים מספר נורות LED\". LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 16: PDF 527 (עמ׳ 526)",
+"source_title": "Lexus RZ300e/RZ450e – ספר רכב ישראלי 2023-2025",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/16/download"
+},
+"LX-RZ450E-1XM": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). \"פנסים מלבד פנסי איתות הפניה הקדמיים (אלומת אור יחידה) כוללים מספר נורות LED\". LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 16: PDF 527 (עמ׳ 526)",
+"source_title": "Lexus RZ300e/RZ450e – ספר רכב ישראלי 2023-2025",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/16/download"
 },
 "LX-UX250H-M20A": {
 "brake_light": "",
@@ -17397,6 +17654,25 @@
 "wiper_notes": "דגם: Lexus UX 250h 10.18→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25. Valeo: 650/410 מ״מ. יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"LX-UX300H-M20A": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של לקסוס (יוניון מוטורס). פנסים קדמיים, פנסי בלמים ופנס בלמים גבוה ברשימת \"נורות המצריכות החלפה בידי מוסך מורשה\"; פנסי LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED (לפי רשימת \"נורות המצריכות החלפה בידי מוסך\")"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 69: PDF 368",
+"source_title": "Lexus UX300h – ספר רכב ישראלי 2024-2026",
+"source_url": "https://books.union-motors.co.il/LexusApp/api/files/69/download"
 },
 "MG-EHS-PHEV-15E4E": {
 "brake_light": "LED",
@@ -29702,18 +29978,31 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/toyota/corolla-cross/suv-2020-07-01-corolla-cross/"
 },
 "T-CCROSS-HV-25": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה (סוג נורה)"
+},
+{
+"position": "תאורת יום / חניה קדמי",
+"type": "21/5W נורת טריז שקופה (סוג נורה) / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת טריז שקופה"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 1244: PDF 420 (טבלת נורות), PDF 355 (נורות להחלפה במוסך / LED)",
+"source_title": "Toyota Corolla Cross Hybrid – ספר רכב ישראלי 05/2025-2026",
+"source_url": "https://books.union-motors.co.il/app/api/files/1244/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Toyota Corolla Cross [XG10] מתיחת פנים. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin (AR653S), קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. המגב האחורי הושמט – בחלק מגרסאות 2026 בוטל המגב האחורי.",
 "wiper_source_title": "קטלוג Bosch Aerotwin (AR653S) + קטלוג OXIMO (פולין, יישומים אירופיים)",
@@ -31011,18 +31300,31 @@
 "source_url": "https://books.union-motors.co.il/app/api/files/315/download"
 },
 "T-YCROSS-HV-25": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HIR2 55W הלוגן / LED (בגרסאות עם פנסי LED)",
+"headlight_low": "HIR2 55W הלוגן / LED (בגרסאות עם פנסי LED)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנסי בלימה ובלימה עליון – LED, החלפה במוסך. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 1227: PDF 431 (טבלת נורות), PDF 359 (נורות להחלפה במוסך / LED)",
+"source_title": "Toyota Yaris Cross Hybrid – ספר רכב ישראלי 05/2025-2026",
+"source_url": "https://books.union-motors.co.il/app/api/files/1227/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Toyota Yaris Cross [MXP] 09.20→. קדמיים 600/400 מ״מ, אחורי 300 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin (AR601S), קטלוג OXIMO (פולין, יישומים אירופיים), טבלת יצרן יפנית wiper.jp (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin (AR601S) + קטלוג OXIMO (פולין, יישומים אירופיים) + טבלת יצרן יפנית wiper.jp",
@@ -31099,40 +31401,141 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/toyota/yaris-cross/suv-mxp-2020-09-01/"
 },
 "TM-AURIS-1ZR-0612": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "16W נורת בסיס קצה שקופה (בחלק מהגרסאות – LED, מוסך)",
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H11 55W (\"אור דרך – גבוהים\")",
+"headlight_low": "HB3 60W (\"אורות נסיעה – הלוגן\") / D4S 35W (\"אורות נמוכים – פריקה/קסנון\")",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). בספרי אוריס 2007-2010 ו-2010-2015 הטבלה מסמנת HB3 60W כ\"אורות נסיעה (הלוגן)\" ו-H11 55W כ\"אור דרך (גבוהים)\"; בספר אוריס היברידית 2011 הסימון הפוך (HB3 = גבוה, H11 = נמוך הלוגן). יש לבדוק את הנורה המותקנת לפני רכישה. ספר 2007-2010: \"נורות הבלמים ונורת פנס הבלמים הגבוה כוללים מספר נורות לד (LED)\" בגרסאות מסוימות.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "חניה קדמי",
+"type": "5W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות צד",
+"type": "5W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "אחוריים",
+"type": "5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 21: PDF 274 (טבלת נורות), PDF 227 (LED) ; קובץ 31: PDF 286",
+"source_title": "Toyota Auris – ספרי רכב ישראליים 2007-2010 / 2010-2015",
+"source_url": "https://books.union-motors.co.il/app/api/files/21/download ; https://books.union-motors.co.il/app/api/files/31/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Auris [E15] 2006-2012. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "TM-AURIS-1ZR-13": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "2013-2015: 16W נורת בסיס קצה שקופה; 2015-2019: 21W נורת קצה יחיד שקופה",
+"confidence": "medium",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "2013-2015: H11 55W (\"אור דרך\"); 2015-2019: HIR2 55W הלוגן / LED",
+"headlight_low": "2013-2015: HB3 60W (\"אורות נסיעה\") / D4S 35W קסנון; 2015-2019: HIR2 55W הלוגן / LED (לפי גרסה)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). הפנס שונה לפי שנה – יש לבדוק לפי שנת הרכב. בספרי אוריס 2007-2010 ו-2010-2015 הטבלה מסמנת HB3 60W כ\"אורות נסיעה (הלוגן)\" ו-H11 55W כ\"אור דרך (גבוהים)\"; בספר אוריס היברידית 2011 הסימון הפוך (HB3 = גבוה, H11 = נמוך הלוגן). יש לבדוק את הנורה המותקנת לפני רכישה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (2013-2015) / H16 19W (2015-2019, אם קיים)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות צד",
+"type": "5W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W (2015-2019)"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 31: PDF 286 ; קובץ 37: PDF 495 (טבלת נורות), PDF 408 (LED) ; קובץ 558: PDF 507",
+"source_title": "Toyota Auris – ספרי רכב ישראליים 2010-2015 / 2015-2018 / 2018-2019",
+"source_url": "https://books.union-motors.co.il/app/api/files/31/download ; https://books.union-motors.co.il/app/api/files/37/download ; https://books.union-motors.co.il/app/api/files/558/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Auris [E18] 2012-2018. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"TM-AURIS-HV-2011": {
+"brake_light": "16W נורת בסיס יתד שקופה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H11 55W הלוגן / D4S 35W קסנון (לפי גרסה)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "חניה קדמי",
+"type": "5W"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת קצה יחיד כתומה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "אחוריים / לוחית",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 47: PDF 371",
+"source_title": "Toyota Auris Hybrid – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/47/download"
 },
 "TM-AURIS-HV-2016": {
 "brake_light": "21W נורת קצה יחיד שקופה (סוג נורה; קוד ECE לא מודפס)",
@@ -31368,6 +31771,133 @@
 "source_title": "Toyota Aygo X – ספרי רכב ישראליים",
 "source_url": "https://books.union-motors.co.il/app/api/files/952/download ; https://books.union-motors.co.il/app/api/files/1065/download"
 },
+"TM-AYGOX-HV-26": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HIR2 55W (סוג נורה)",
+"headlight_low": "HIR2 55W (סוג נורה)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). נורת בלימה אינה מופיעה בטבלה (לא מולא). בגרסאות LED – מוסך.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1256: PDF 367",
+"source_title": "Toyota Aygo X Hybrid – ספר רכב ישראלי 2026",
+"source_url": "https://books.union-motors.co.il/app/api/files/1256/download"
+},
+"TM-BZ4X-1XM-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). אין טבלת נורות – כל הפנסים החיצוניים LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 959: PDF 426",
+"source_title": "Toyota bZ4X – ספר רכב ישראלי 2022-2025",
+"source_url": "https://books.union-motors.co.il/app/api/files/959/download"
+},
+"TM-BZ4X-1XM-IL-ALIAS-BZ4X": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). אין טבלת נורות – כל הפנסים החיצוניים LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 959: PDF 426",
+"source_title": "Toyota bZ4X – ספר רכב ישראלי 2022-2025",
+"source_url": "https://books.union-motors.co.il/app/api/files/959/download"
+},
+"TM-BZ4X-1YM-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). אין טבלת נורות – כל הפנסים החיצוניים LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 959: PDF 426",
+"source_title": "Toyota bZ4X – ספר רכב ישראלי 2022-2025",
+"source_url": "https://books.union-motors.co.il/app/api/files/959/download"
+},
+"TM-CAMRY-2AR": {
+"brake_light": "21/5W נורת בסיס יתד שקופה (קוד ECE לא מודפס)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (9005)",
+"headlight_low": "H11 55W הלוגן / D4S 35W קסנון (לפי גרסה)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (אם קיים)"
+},
+{
+"position": "איתות קדמי / חניה",
+"type": "28/8W נורת בסיס יתד כתומה (ספר 2013-2019) / 21W + 5W (ספר 2009-2013)"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W (921)"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 83: PDF 295 ; קובץ 613: PDF 352",
+"source_title": "Toyota Camry – ספרי רכב ישראליים 2009-2013 / 2013-2019",
+"source_url": "https://books.union-motors.co.il/app/api/files/83/download ; https://books.union-motors.co.il/app/api/files/613/download"
+},
 "TM-CAMRY-HV-2AR": {
 "brake_light": "W21/5W (7443, 21/5W נורת בסיס יתד שקופה) / LED (לפי גרסה)",
 "confidence": "high",
@@ -31485,18 +32015,31 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "TM-CCROSS-M20A-IL": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנסים ראשיים, בלימה, אחוריים, ערפל אחורי ובלימה עליון – ברשימת \"נורות שיש להחליף רק באמצעות סוכנות/מוסך\" (LED). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה (סוג נורה)"
+},
+{
+"position": "תאורת יום / חניה קדמי",
+"type": "21/5W נורת טריז שקופה (סוג נורה) / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W נורת טריז שקופה"
+}
+],
 "rear_wiper_mm": 250,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 954: PDF 468 (טבלת נורות), PDF 395 (נורות להחלפה במוסך / LED) ; קובץ 1244: PDF 420, PDF 355",
+"source_title": "Toyota Corolla Cross – ספרי רכב ישראליים 2022-2026 ו-Hybrid 05/2025-2026",
+"source_url": "https://books.union-motors.co.il/app/api/files/954/download ; https://books.union-motors.co.il/app/api/files/1244/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Toyota Corolla Cross [XG10] 2020-2025. קדמיים 650/400 מ״מ, אחורי 250 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin (AR653S), קטלוג OXIMO (פולין, יישומים אירופיים), טבלת התאמה יפנית wiper-wiper.com (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin (AR653S) + קטלוג OXIMO (פולין, יישומים אירופיים) + טבלת התאמה יפנית wiper-wiper.com",
@@ -31504,17 +32047,46 @@
 },
 "TM-CHR-8NR": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HIR2 55W (פנסים ראשיים הלוגן)",
+"headlight_low": "HIR2 55W (פנסים ראשיים הלוגן)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). נורת בלימה אינה מופיעה בטבלה (לא מולא).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (אם קיים)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "איתות צד",
+"type": "5W נורת טריז כתומה"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 529: PDF 741 ; קובץ 771: PDF 740",
+"source_title": "Toyota C-HR – ספרי רכב ישראליים 2017-2018 / 2018-2021",
+"source_url": "https://books.union-motors.co.il/app/api/files/529/download ; https://books.union-motors.co.il/app/api/files/771/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota C-HR 10.16-2023. קדמיים 650/400 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -31576,6 +32148,25 @@
 "source_page": "קובץ 1136: PDF 390, 459",
 "source_title": "Toyota C-HR HEV – ספר רכב ישראלי",
 "source_url": "https://books.union-motors.co.il/app/api/files/1136/download"
+},
+"TM-CHRPLUS-2XM-26": {
+"brake_light": "LED",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). \"אם התאורה החיצונית לא פועלת, החלף את הנורות במוסך מורשה\" – פנסי LED. LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "כל התאורה החיצונית",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1260: PDF 393",
+"source_title": "Toyota C-HR+ – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/1260/download"
 },
 "TM-CITY": {
 "brake_light": "P21/5W",
@@ -31662,6 +32253,53 @@
 "source_page": "קובץ 758: PDF 180-184 ; קובץ 1189: PDF 229-232",
 "source_title": "Toyota City / City Van – ספר רכב ישראלי 2020-2024 / 2025-2026",
 "source_url": "https://books.union-motors.co.il/app/api/files/758/download ; https://books.union-motors.co.il/app/api/files/1189/download"
+},
+"TM-COR-1ZR-13": {
+"brake_light": "21/5W נורת בסיס יתד שקופה (קוד ECE לא מודפס)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W הלוגן",
+"headlight_low": "H11 55W הלוגן",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). טבלת \"נורות פנסים\" זהה בשלושת הספרים. בספרי 2016-2018 מסומן \"(נורה)\" ליד פנסים קדמיים/בלמים – בגרסאות עם פנסי LED ההחלפה במוסך.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W (אם קיים)"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת בסיס יתד כתומה"
+},
+{
+"position": "איתות צד",
+"type": "5W נורת בסיס יתד כתומה"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W (אם קיים)"
+},
+{
+"position": "אחוריים",
+"type": "5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+},
+{
+"position": "בלימה עילי / חניה קדמי / יום",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 125: PDF 460, PDF 363 ; קובץ 418: PDF 455 ; קובץ 440: PDF 512",
+"source_title": "Toyota Corolla – ספרי רכב ישראליים 2013-2016 / 2016-2017 / 2017-2018",
+"source_url": "https://books.union-motors.co.il/app/api/files/125/download ; https://books.union-motors.co.il/app/api/files/418/download ; https://books.union-motors.co.il/app/api/files/440/download"
 },
 "TM-COR-AUR-1ZR-0612": {
 "brake_light": "21/5W נורת בסיס יתד שקופה (סוג נורה; קוד ECE לא מודפס)",
@@ -31767,6 +32405,25 @@
 "source_page": "קובץ 628: PDF 448, 518 ; קובץ 720: PDF 448, 525",
 "source_title": "Toyota Corolla Sedan – ספר רכב ישראלי 2019-2021 / 2020-2024",
 "source_url": "https://books.union-motors.co.il/app/api/files/628/download ; https://books.union-motors.co.il/app/api/files/720/download"
+},
+"TM-COR-E210-M20A-IL20": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנסים קדמיים, חניה, יום, איתות, ערפל, אחוריים, בלמים, נסיעה לאחור ובלימה עליון – ברשימת \"נורות המצריכות החלפה בידי מוסך\"; \"תאורות אחרות מתאורת לוחית הרישוי כוללות מספר נורות LED\". LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "לוחית רישוי",
+"type": "נורה (לפי ספר)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 982: PDF 417 (נורות להחלפה במוסך / LED), PDF 494 (טבלת נורות – פנים בלבד)",
+"source_title": "Toyota Corolla (Excite) – ספר רכב ישראלי 2020-2024",
+"source_url": "https://books.union-motors.co.il/app/api/files/982/download"
 },
 "TM-HIGHLANDER-HV": {
 "brake_light": "LED",
@@ -31876,6 +32533,45 @@
 "source_page": "קובץ 147: PDF 371",
 "source_title": "Toyota Hilux – ספר רכב ישראלי 2012-2015",
 "source_url": "https://books.union-motors.co.il/app/api/files/147/download"
+},
+"TM-HILUX-23": {
+"brake_light": "21/5W נורת צד אחד שקופה (ללא פנסי בלימה LED) / LED",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (סוג A) / HB3 60W (סוג B) / LED",
+"headlight_low": "H4 60/55W (פנס הלוגן סוג A) / H11 55W (פנס הלוגן סוג B) / LED (כלי רכב עם פנסי LED)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). שלוש תצורות: פנס הלוגן סוג A (H4), סוג B (H11+HB3) או פנסי LED – יש לבדוק לפי הרכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W הלוגן (אם קיים) / LED"
+},
+{
+"position": "חניה קדמי",
+"type": "5W נורת טריז (ללא תאורת יום) / 21/5W (עם תאורת יום)"
+},
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W נורת צד אחד כתומה"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W נורת צד אחד שקופה"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1013: PDF 619 (טבלת נורות), PDF 531-532 (LED) ; קובץ 1233: PDF 613",
+"source_title": "Toyota Hilux – ספרי רכב ישראליים 2023 / 2020-2026",
+"source_url": "https://books.union-motors.co.il/app/api/files/1013/download ; https://books.union-motors.co.il/app/api/files/1233/download"
 },
 "TM-HILUX-2GD-15": {
 "brake_light": "21/5W נורת צד אחד שקופה; קוד ECE לא מודפס",
@@ -32367,17 +33063,42 @@
 },
 "TM-PRIUS-XW20": {
 "brake_light": "",
-"confidence": "",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W הלוגן",
+"headlight_low": "H4 60/55W הלוגן",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). נורת בלימה אינה מופיעה בטבלה (לא מולא).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "HB4 51W"
+},
+{
+"position": "חניה קדמי",
+"type": "5W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W"
+},
+{
+"position": "איתות צד",
+"type": "5W"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 407: PDF 265 (עמ׳ 251)",
+"source_title": "Toyota Prius – ספר רכב ישראלי 2004-2009",
+"source_url": "https://books.union-motors.co.il/app/api/files/407/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Prius [XW20/XW30] 2004-2015. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -32444,6 +33165,49 @@
 "source_page": "קובץ 853: PDF 301, 363",
 "source_title": "Toyota Prius+ – ספר רכב ישראלי",
 "source_url": "https://books.union-motors.co.il/app/api/files/853/download"
+},
+"TM-PROACE-DW10-23": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W הלוגן / LED (לפי גרסה)",
+"headlight_low": "H7 55W הלוגן / D8S 25W קסנון (ספר 2019-2024) / LED (ספר 2025-2026, לפי גרסה)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). ",
+"other_bulbs": [
+{
+"position": "תאורת יום / צד",
+"type": "P21/5W (ספר 2019-2024) / W21/5W (ספר 2025-2026) / LED"
+},
+{
+"position": "איתות",
+"type": "PY21W כתומה"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי / צד",
+"type": "P21/4W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "דלתות כנף אחוריות – בלמים",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "קובץ 1130: PDF 306-317 ; קובץ 1247: PDF 232-236",
+"source_title": "Toyota Proace – ספרי רכב ישראליים 2019-2024 / 2025-2026",
+"source_url": "https://books.union-motors.co.il/app/api/files/1130/download ; https://books.union-motors.co.il/app/api/files/1247/download"
 },
 "TM-RAV4-3ZR": {
 "brake_light": "21/5W (בסיס יתד, שקופה)",
@@ -32605,18 +33369,31 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "TM-RAV4-PHV": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). פנסים קדמיים, יום, חניה, אחוריים, בלמים, ערפל אחורי ובלימה עליון – החלפה במוסך (LED). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 1033: PDF 409 (נורות להחלפה במוסך / LED), PDF 481 (טבלת נורות)",
+"source_title": "Toyota RAV4 Plug-in Hybrid – ספר רכב ישראלי",
+"source_url": "https://books.union-motors.co.il/app/api/files/1033/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota RAV4 [A5] 11.18→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -32720,18 +33497,47 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "TM-YARIS-1NR-0511": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "21W נורה בעלת קצה יחיד (קוד ECE לא מודפס)",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W הלוגן",
+"headlight_low": "H4 60/55W הלוגן",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). ",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "חניה",
+"type": "5W נורת בסיס יתד"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורה בעלת קצה יחיד כתומה"
+},
+{
+"position": "איתות צד",
+"type": "5W (מכלול)"
+},
+{
+"position": "אחוריים",
+"type": "5W נורת בסיס יתד"
+},
+{
+"position": "נסיעה לאחור / ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 375: PDF 311 (עמ׳ 300)",
+"source_title": "Toyota Yaris – ספר רכב ישראלי 2008-2011",
+"source_url": "https://books.union-motors.co.il/app/api/files/375/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Toyota Yaris [XP9] 2005-2011. קדמיים 600/340 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -32998,18 +33804,31 @@
 "source_url": "https://books.union-motors.co.il/app/api/files/1127/download"
 },
 "TM-YCROSS-GAS-23": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HIR2 55W הלוגן / LED (בגרסאות עם פנסי LED)",
+"headlight_low": "HIR2 55W הלוגן / LED (בגרסאות עם פנסי LED)",
+"notes": "ספר הרכב הישראלי (יוניון מוטורס). טבלת \"נורות\": A HIR2 55W (פנסים ראשיים הלוגן). פנסי בלימה ובלימה עליון מופיעים ברשימת \"נורות המצריכות החלפה במוסך\" (LED). LED – לפי ספר הרכב הישראלי, החלפה במוסך מורשה בלבד. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "21W נורת טריז כתומה"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "קובץ 1119: PDF 397 (טבלת נורות), PDF 331 (נורות להחלפה במוסך / LED) ; קובץ 1227: PDF 431, PDF 359",
+"source_title": "Toyota Yaris Cross – ספרי רכב ישראליים 2021-2024 ו-05/2025-2026",
+"source_url": "https://books.union-motors.co.il/app/api/files/1119/download ; https://books.union-motors.co.il/app/api/files/1227/download",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Toyota Yaris Cross [MXP] 09.20→. קדמיים 600/400 מ״מ, אחורי 300 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin (AR601S), קטלוג OXIMO (פולין, יישומים אירופיים), טבלת יצרן יפנית wiper.jp (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin (AR601S) + קטלוג OXIMO (פולין, יישומים אירופיים) + טבלת יצרן יפנית wiper.jp",
