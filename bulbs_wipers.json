@@ -1,4 +1,59 @@
 {
+"AR-GIULIETTA-940A2000-B": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W / Bi-Xenon D1S (לפי גרסה/שוק)",
+"headlight_low": "H7 55W / Bi-Xenon D1S (לפי גרסה/שוק)",
+"notes": "אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "חניה קדמי/תאורת יום",
+"type": "LED"
+},
+{
+"position": "חניה אחורי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "98 (PDF 100)",
+"source_title": "Alfa Romeo Giulietta Owner Handbook EN 09/2016 (604.38.862) – In an emergency: Light bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/191_GIULIETTA/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG.pdf"
+},
 "BYD-ATTO2-DMI": {
 "brake_light": "LED – מוסך מורשה",
 "confidence": "low",
@@ -2567,6 +2622,135 @@
 "source_title": "Chevrolet Spark (M300) – ספר בעלים רשמי שברולט קוריאה (10 차량 관리, KR)",
 "source_url": "https://www.chevrolet.co.kr/content/dam/chevrolet/as/kr/ko/index/owner-manuals/02-pdfs/spark/10-vehicle-care.pdf"
 },
+"CH-T4HEV-SQRG4G15-AR": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "כל הפנסים LED, \"Reemplazado por la estación de servicio autorizada\". אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "חניה קדמי/אחורי",
+"type": "LED"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "איתות קדמי/צד/אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277 (PDF 290-291)",
+"source_title": "Chery Tiggo 4 Hybrid – Manual del Propietario (Chery Argentina) – Especificación de Bombilla",
+"source_url": "https://drive.google.com/file/d/1nUTYaCuspesJEjGQHIj8s8og3ftkJSH0/view"
+},
+"CH-T4PRO-SQRG4G15-RU24": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "כל הפנסים \"Светодиодная лампа\" – החלפה במרכז שירות של יבואן רשמי. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "חניה קדמי/אחורי",
+"type": "LED"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "איתות קדמי/צד/אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "237-238 (PDF 253-254)",
+"source_title": "CHERY TIGGO 4 (2024) – Руководство по эксплуатации (Chery Russia) – 8. Технические характеристики: Типы ламп",
+"source_url": "https://1.cdn.perxis.ru/originals/csiuiqqto5r5uhvc9smg/original"
+},
+"CH-T7HEV-SQRH4J15-PL25": {
+"brake_light": "P21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "Reflektory LED – wymiana przez autoryzowaną stację obsługi; Światło stopu P21W. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "חניה קדמי/אחורי",
+"type": "LED"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות קדמי/צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "244 (PDF 125)",
+"source_title": "CHERY TIGGO 7 HEV – Instrukcja obsługi (Chery Polska) – 8. Specyfikacja: Specyfikacja żarówki",
+"source_url": "https://www.cherypolska.pl/fileadmin/media/instrukcje/Instrukcja_obs%C5%82ugi_-_Tiggo_7_HEV.pdf"
+},
 "CH-T7PHEV-SQRH4J15-PL25": {
 "brake_light": "P21W",
 "confidence": "manual-verbatim",
@@ -2676,6 +2860,45 @@
 "source_page": "PDF 140 Specyfikacja żarówki",
 "source_title": "Chery Tiggo 7 Instrukcja obsługi (Chery Polska, 2025)",
 "source_url": "https://www.cherypolska.pl/fileadmin/media/instrukcje/Instrukcja_obs%C5%82ugi_-_Tiggo_7.pdf"
+},
+"CH-T8PRO-SQRF4J16-RU": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר: \"Светодиодная лампа\" לכל הפנסים, \"Замена должна осуществляться на сервисной станции официального дилера\". איתותי צד ותאורת לוחית רישוי לא הוצגו (בספר RU: 4414AAY 605ACM / 605ABW; בספר UZ 2024: LED – סתירה בין מהדורות).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי/אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "חניה קדמי/אחורי",
+"type": "LED"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "267-268 (PDF 281-282)",
+"source_title": "CHERY TIGGO 8 PRO – Руководство по эксплуатации (Chery Russia, T1D OM) – 8. Технические характеристики: Типы ламп",
+"source_url": "https://1.cdn.perxis.ru/originals/cp7h29ito5rf56sq3tsg/original"
 },
 "CH-T8PROPHEV-SQRH4J15-PL25": {
 "brake_light": "LED",
@@ -5529,6 +5752,49 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/fiat/500/hatchback-2007-10-01/"
 },
+"FI-500E-332-EU": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H19 55/60W (לפי גרסה) / LED (לפי גרסה)",
+"headlight_low": "H19 55/60W (לפי גרסה) / LED (לפי גרסה)",
+"notes": "בספר \"PSY24 (where provided)\" לאיתות קדמי. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "חניה קדמי/תאורת יום",
+"type": "W5W / LED (לפי גרסה)"
+},
+{
+"position": "איתות קדמי",
+"type": "PSY24W / LED (לפי גרסה)"
+},
+{
+"position": "איתות צד/אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "218 (PDF 220)",
+"source_title": "Fiat New 500 (332) electric Owner Handbook EN 03/2021 (603.85.345) – In an emergency: Light bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/332_NUOVA500/00_332_NUOVA500_603.85.345_EN_01_03.21_L_LG/00_332_NUOVA500_603.85.345_EN_01_03.21_L_LG.pdf"
+},
 "FI-500X-55263624-EU": {
 "brake_light": "P21W",
 "confidence": "manual-verbatim",
@@ -5771,6 +6037,53 @@
 "source_page": "144 (PDF 148)",
 "source_title": "Fiat Panda Owner Handbook 10/2011 (EN, EU)",
 "source_url": "https://aftersales.fiat.com/eLumData/EN/00/319_PANDA/00_319_PANDA_603.81.704_EN_01_10.11_L_LG/00_319_PANDA_603.81.704_EN_01_10.11_L_LG.pdf"
+},
+"FI-TIPO-55268036-EU": {
+"brake_light": "P21W (Rear side/brake light)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55W (הלוגן)",
+"headlight_low": "H7 55W",
+"notes": "אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "חניה קדמי/תאורת יום",
+"type": "H15 15W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "121 (PDF 123)",
+"source_title": "Fiat Tipo (356) Owner Handbook EN 01/2017 (603.91.081) – In an emergency: Types of bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/356_TIPO/00_356_TIPO_603.91.081_EN_02_01.17_L_LG/00_356_TIPO_603.91.081_EN_02_01.17_L_LG.pdf"
 },
 "FO-FIESTA7-125": {
 "brake_light": "P21/5W",
@@ -13987,18 +14300,43 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HY-I30-PD-G4LD-GN18": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (Type A/C/E) / LED (Type B/D/F)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (Type A/B/E/F) / LED (Type C/D)",
+"headlight_low": "H7 55W (Type A/B/E/F) / LED (Type C/D)",
+"notes": "הספר מפרט לפי סוג פנס (Type A–F) ולא לפי רמת גימור; מוצגות שתי האפשרויות. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED (לפי סוג)"
+},
+{
+"position": "ערפל קדמי",
+"type": "HB4"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W / LED (לפי סוג)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W (festoon)"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-4 – 8-5 (PDF 649-650)",
+"source_title": "Hyundai i30 (PDe) Owner's Manual MY2018 en_GN – 8. Specifications: Bulb wattage",
+"source_url": "https://ownersmanual.hyundai.com/full_pdf/PDe/2018/en_GN",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai i30 [PD] 12.16→. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -20534,6 +20872,41 @@
 "source_title": "MG EHS PHEV 2023 Manual de Usuario (ES)",
 "source_url": "https://cdn.mgmotor.eu/images/hero-image/EHS-2023_Manual-Usuario.pdf"
 },
+"MG-MG3-GS64-15FCD": {
+"brake_light": "W21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 55/60W",
+"headlight_low": "HB3 55/60W",
+"notes": "בספר: \"High and low beams* HB3 55/60W\" (* = לפי אבזור); \"Other light sources not listed are LED\". אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "305",
+"source_title": "MG3 Owner Manual (MG UK, 2025-04) – Maintenance: Bulb Specification",
+"source_url": "https://www.mg.co.uk/sites/default/files/2025-04/MG3-Owner-Manual.pdf"
+},
 "MG-MG3-HEV-15FHC": {
 "brake_light": "W21W/5W 21W/5W",
 "confidence": "manual-verbatim",
@@ -20599,6 +20972,37 @@
 "source_page": "279",
 "source_title": "MG4 EV MY23 Owner Manual (EU)",
 "source_url": "https://cdn.mgmotor.eu/manuals/EU-MG4-MY23_Owner-Manual-20230907_compressed.pdf"
+},
+"MG-MG5-EV-MG5": {
+"brake_light": "W21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "HB3 60W",
+"notes": "Headlamp High/Low Beam HB3 60W; Stop Lamps W21W; שאר מקורות האור LED. אותו ספר כמו מקור הנוזלים של השורה (מהדורת 2021).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "209 (PDF 223)",
+"source_title": "MG5 EV Owner Manual (MG UK) – Emergency information: Bulb Specification",
+"source_url": "https://www.mg.co.uk/sites/default/files/2021-11/MG5%20EV%20Owner%20Manual.pdf"
 },
 "MG-S9-15FKE-UK": {
 "brake_light": "LED",
@@ -34196,6 +34600,194 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"SZ-LIANA-HE-M16A-PL": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "Reflektory 12V 60/55W H4; Światła hamowania / pozycyjne tylne 12V 21/5W W21/5W. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "W21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W (5 דלתות) / W21W (4 דלתות)"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W (5 דלתות)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 199",
+"source_title": "Suzuki Liana instrukcja obsługi (suzuki.pl, ed. 10/2005) – Dane techniczne: Żarówki",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/LIANA/LIANA.pdf"
+},
+"SZ-LIANA-HE-M16A-PL-YALIAS-2008": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "Reflektory 12V 60/55W H4; Światła hamowania / pozycyjne tylne 12V 21/5W W21/5W. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "W21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W (5 דלתות) / W21W (4 דלתות)"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W (5 דלתות)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 199",
+"source_title": "Suzuki Liana instrukcja obsługi (suzuki.pl, ed. 10/2005) – Dane techniczne: Żarówki",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/LIANA/LIANA.pdf"
+},
+"SZ-LIANA-M16A-PL": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "Reflektory 12V 60/55W H4; Światła hamowania / pozycyjne tylne 12V 21/5W W21/5W. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "W21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W (5 דלתות) / W21W (4 דלתות)"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W (5 דלתות)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 199",
+"source_title": "Suzuki Liana instrukcja obsługi (suzuki.pl, ed. 10/2005) – Dane techniczne: Żarówki",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/LIANA/LIANA.pdf"
+},
+"SZ-LIANA-M16A-PL-YALIAS-2008": {
+"brake_light": "W21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "Reflektory 12V 60/55W H4; Światła hamowania / pozycyjne tylne 12V 21/5W W21/5W. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "W21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W (5 דלתות) / W21W (4 דלתות)"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W (5 דלתות)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 199",
+"source_title": "Suzuki Liana instrukcja obsługi (suzuki.pl, ed. 10/2005) – Dane techniczne: Żarówki",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/LIANA/LIANA.pdf"
+},
 "SZ-SCROSS-JY-M16A-16": {
 "brake_light": "P21/5W 12V 21/5W",
 "confidence": "high",
@@ -43045,6 +43637,126 @@
 ],
 "year_from": 2024,
 "year_to": 2024
+},
+{
+"data": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "שויך לשנים 2004-2008 בלבד (רכבי 2001-2003 בשורה עשויים להיות Ignis I).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 177",
+"source_title": "Suzuki Ignis II 2005 instrukcja obsługi (suzuki.pl) – Dane techniczne: Żarówki",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/IGNIS/IGNIS%20II%20-%202005.pdf"
+},
+"degem_cd": [
+"81",
+"100",
+"101",
+"351"
+],
+"kinuy_re": "^(IGNIS|איגניס)$",
+"tozeret_cd": [
+683
+],
+"year_from": 2004,
+"year_to": 2008
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "H7 55W (הלוגן, Type A) / LED (Type B)",
+"notes": "Type A = halogeenkoplampen, Type B = led-koplampen; remlichten/achterlichten/derde remlicht = LED. שויך ל-2016-2018 בלבד.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 19W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "חניה/תאורת יום",
+"type": "LED"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי (הגה שמאלי)",
+"type": "W21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 471-472",
+"source_title": "Mitsubishi Outlander PHEV MY16 instructieboekje (NL) – Vervanging van lampen",
+"source_url": "https://www.mitsubishi-motors.nl/content/dam/mitsubishi-motors-nl/downloads/handleidingen/Outlander_PHEV_MY16.pdf"
+},
+"degem_cd": [
+"67",
+"113",
+"122",
+"123",
+"124",
+"125"
+],
+"kinuy_re": "^OUTLANDER( PHEV)?$",
+"tozeret_cd": [
+590
+],
+"year_from": 2016,
+"year_to": 2018
 },
 {
 "data": {
