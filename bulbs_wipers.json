@@ -39553,6 +39553,342 @@
 "__models": [
 {
 "data": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED (Full LED)",
+"headlight_low": "H7 (הלוגן) / LED (Full LED)",
+"notes": "גרסת הלוגן: H7/HB3; גרסת Full LED: LED. ספר 5008 II מאותה מהדורה מציג אותם ערכים לפנסים הראשיים ולבלימה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PWY24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "3008: PDF 250, 252; 5008: PDF 255, 257 (https://public.servicebox.peugeot.com/APddb/modeles/5008/eGuide_5008_5008n_ed01-17/pdfs/9999_9999_187_en-GB.pdf)",
+"source_title": "Peugeot 3008 Handbook ed.01-17 + Peugeot 5008 Handbook ed.01-17 (en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/3008/eGuide_3008_p84_ed01-17/pdfs/9999_9999_186_en-GB.pdf"
+},
+"degem_cd": [
+"108",
+"116",
+"117",
+"122",
+"136",
+"137",
+"139",
+"155"
+],
+"kinuy_re": "^(3008|5008)$",
+"tozeret_cd": [
+739
+],
+"year_from": 2016,
+"year_to": 2019
+},
+{
+"data": {
+"brake_light": "P21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר Jumpy מהדורה 01-14; שויך לשנים 2014-2017 של דור G9 בלבד.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W (כתום)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "144-147 (PDF 146-149)",
+"source_title": "Citroën Jumpy Handbook ed.01-14 (en)",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/jumpy/jumpy_jumpytp/ed01-14/en_us/jumpy_jumpy_jumpytp_ed01-14_en_us.pdf"
+},
+"degem_cd": [
+"1",
+"2",
+"3",
+"5",
+"9",
+"17",
+"27",
+"32",
+"34",
+"35",
+"36",
+"37",
+"38",
+"39",
+"42",
+"43",
+"44",
+"47",
+"48",
+"49",
+"50",
+"51",
+"52",
+"73",
+"75",
+"76"
+],
+"kinuy_re": "^JUMPY$",
+"tozeret_cd": [
+817
+],
+"year_from": 2014,
+"year_to": 2017
+},
+{
+"data": {
+"brake_light": "P21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1-55W",
+"headlight_low": "H7-55W / D8S-25W (קסנון, לפי גרסה)",
+"notes": "ספר מהדורה 01-18; שויך לשנים 2018-2020 בלבד. גרסת שלדה-תא (Platform cab): בלימה P21W.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "תאורת יום",
+"type": "W21W LL"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11-55W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21/5W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 213, 215, 216",
+"source_title": "Citroën Jumpy / SpaceTourer Handbook ed.01-18 (en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/jumpy/eGuide_jumpy_jumpy3vp_ed01-18/pdfs/9999_9999_268_en-GB.pdf"
+},
+"degem_cd": [
+"53",
+"54",
+"55",
+"56",
+"58",
+"59",
+"61",
+"62",
+"63",
+"64",
+"65",
+"67",
+"68",
+"70",
+"73",
+"74",
+"75",
+"76",
+"77",
+"78",
+"80",
+"81",
+"82",
+"83",
+"84",
+"85",
+"88",
+"89",
+"90",
+"91",
+"92",
+"93",
+"96",
+"98",
+"104",
+"105",
+"107",
+"113",
+"114",
+"115",
+"117",
+"119",
+"122",
+"125",
+"127",
+"132",
+"133",
+"136",
+"138",
+"139",
+"149",
+"152",
+"153",
+"159",
+"162",
+"165",
+"168",
+"169",
+"179",
+"182",
+"185"
+],
+"kinuy_re": "^JUMPY$",
+"tozeret_cd": [
+817
+],
+"year_from": 2018,
+"year_to": 2020
+},
+{
+"data": {
+"brake_light": "P21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1-55W (הלוגן) / LED (לפי גרסה)",
+"headlight_low": "H7-55W (הלוגן) / LED (לפי גרסה)",
+"notes": "ספר מהדורה 01-24; שויך לשנת 2024 בלבד. גרסת שלדה-תא (Platform cab): בלימה P21W.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "W21/5W (הלוגן) / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11-55W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21/4W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "227-229 (PDF 229-231)",
+"source_title": "Citroën Jumpy / SpaceTourer Handbook ed.01-24 (en-GB)",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/jumpy/eGuide_jumpy_jumpy3vp_ed01-24/pdfs/9999_9999_515_en-GB.pdf"
+},
+"degem_cd": [
+"15",
+"106",
+"113",
+"114",
+"117",
+"121",
+"124",
+"125",
+"126",
+"127",
+"222",
+"252",
+"253",
+"259",
+"268",
+"269"
+],
+"kinuy_re": "^JUMPY$",
+"tozeret_cd": [
+1365,
+817
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
 "brake_light": "W21/5W 21/5W (סוג נורה); LED (סוג LED)",
 "confidence": "medium",
 "front_wipers_driver_mm": "",
@@ -40824,6 +41160,193 @@
 }
 ],
 "__wiper_models": [
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם: Kia Carnival/Sedona (VQ) 2006-2014. קדמיים 650/450 מ״מ; מגב אחורי: אין נתון. המידות תואמות בין Bosch ל-Valeo. שנת 2006 לא שויכה (מעבר דורות).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^CARNIVAL$",
+"tozeret_cd": [
+885
+],
+"year_from": 2007,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם: Subaru Legacy/B4 (BL) 2003-2009. קדמיים 600/450 מ״מ. המידות תואמות בין Bosch ל-Valeo.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^B4$",
+"tozeret_cd": [
+650
+],
+"year_from": 2005,
+"year_to": 2008
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "דגם: Subaru Legacy V (BM) 2009-2014. קדמיים 650/450 מ״מ. המידות תואמות בין Bosch ל-Valeo. שנים 2009 ו-2015 לא שויכו (מעבר דורות).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^B4$",
+"tozeret_cd": [
+650
+],
+"year_from": 2010,
+"year_to": 2014
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם: Hyundai H-1 (TQ) 2008→. קדמיים 600/500 מ״מ, אחורי 350 מ״מ (Bosch H352). Valeo מציין אחורי 345 מ״מ לגרסת Satellite בלבד.",
+"rear_wiper_mm": 350,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^H1$",
+"tozeret_cd": [
+481
+],
+"year_from": 2008,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם: Citroën Jumpy II (G9) 2007-2016. קדמיים 650/500 מ״מ. מגב אחורי משתנה לפי סוג הדלת האחורית – לא צוין. המידות תואמות בין Bosch ל-Valeo.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^JUMPY( +HDI)?$",
+"tozeret_cd": [
+817
+],
+"year_from": 2007,
+"year_to": 2015
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 475,
+"notes": "דגם: Toyota Corolla (E12) האצ׳בק 2002-2007. קדמיים 550/475 מ״מ, אחורי 350 מ״מ (carwiper: 550/480/350). Bosch מציין גם גרסת E12 עם 600/400 מ״מ – לוודא מול הרכב.",
+"rear_wiper_mm": 350,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^COROLLA RUNX$",
+"tozeret_cd": [
+430
+],
+"year_from": 2003,
+"year_to": 2007
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם: Toyota Aygo X 2022→. קדמיים 600/400 מ״מ; מגב אחורי לא אומת בשני מקורות – לא צוין.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^AYGO X( HYBRID)?$",
+"tozeret_cd": [
+490
+],
+"year_from": 2022,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם: Ford Transit/Tourneo Connect (מהדורה ראשונה) 2002-2013. קדמיים 550/500 מ״מ, אחורי 340 מ״מ לפי Bosch (carwiper: 350 מ״מ). קדמיים תואמים ב-Valeo וב-carwiper.",
+"rear_wiper_mm": 340,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^TOURNEO CONNECT$",
+"tozeret_cd": [
+776
+],
+"year_from": 2004,
+"year_to": 2013
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 800,
+"front_wipers_passenger_mm": 700,
+"notes": "דגם: Citroën C4 SpaceTourer 2018→ (גרסת 5 מושבים). קדמיים 800/700 מ״מ. מגב אחורי שונה בין הגרסאות (Grand) – לא צוין.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^C4 SPACETOURER$",
+"tozeret_cd": [
+496
+],
+"year_from": 2018,
+"year_to": 2020
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 600,
+"notes": "דגם: Opel Astra K 2015→. קדמיים 700/600 מ״מ. המידות תואמות בין Bosch ל-carwiper.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^ASTRA$",
+"tozeret_cd": [
+188
+],
+"year_from": 2016,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "דגם: Subaru Forester (SJ) 2013-2018. קדמיים 650/400 מ״מ, אחורי 350 מ״מ (Bosch S13). תואם ל-carwiper.",
+"rear_wiper_mm": 350,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^FORESTER$",
+"tozeret_cd": [
+650
+],
+"year_from": 2016,
+"year_to": 2018
+},
 {
 "data": {
 "confidence": "medium-high",
