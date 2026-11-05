@@ -5389,18 +5389,59 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/fiat/500/hatchback-2007-10-01/"
 },
 "FI-500-312-169A4-FIAT500": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W / קסנון 35W",
+"notes": "טקסט ה-PDF סרוק (OCR \"HI\"/\"2I\" = H1/21). (BW-14: אותו ספר Fiat 500 09/2013.)",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "פנסים אחוריים",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
 "rear_wiper_mm": 290,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "143 (PDF 147)",
+"source_title": "Fiat 500 Owner Handbook 09/2013 (EN, EU)",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/150_500/00_150_500_603.99.418_EN_01_09.13_L_LG/00_150_500_603.99.418_EN_01_09.13_L_LG.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Fiat 500 [312] 07.07→. קדמיים 600/340 מ״מ, אחורי 290 מ״מ. מקורות: קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25. OXIMO ו-Valeo (Abarth 595 על בסיס 312): 600/350, אחורי 290. יש לוודא מול הרכב לפני התקנה.",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
@@ -7286,18 +7327,73 @@
 "source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3533_GLX_og_201204.pdf"
 },
 "FO-KUGA2-15EB": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "2013-2016: LED",
+"confidence": "high",
 "front_wipers_driver_mm": 700,
 "front_wipers_passenger_mm": 700,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
+"gens": [
+{
+"brake_light": "LED",
+"gen_label": "Kuga Mk2 (לפני מתיחת פנים)",
+"headlight_high": "H15 55W / D3S (קסנון)",
+"headlight_low": "H7 55W / D3S (קסנון)",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "תאורת פנייה",
+"type": "H11 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי / נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"source_page": "202 – Bulb Specification Chart",
+"source_title": "Ford Kuga (CBS) owner's manual CG3585en 08/2014 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3585_KGS_og_201408.pdf",
+"y0": 2013,
+"y1": 2016
+}
+],
+"headlight_high": "2013-2016: H15 55W / D3S (קסנון)",
+"headlight_low": "2013-2016: H7 55W / D3S (קסנון)",
+"notes": "ספר CG3585en (Kuga Mk2 לפני מתיחת פנים) – מוצג לשנים 2013-2016 בלבד. Kuga Mk2.5 (2017-2020) – לא נמצא ספר רשמי.",
 "other_bulbs": [],
 "rear_wiper_mm": 280,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "202 – Bulb Specification Chart",
+"source_title": "Ford Kuga (CBS) owner's manual CG3585en 08/2014 (enGBR)",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3585_KGS_og_201408.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Ford Kuga II [DM2] 2013-2019. קדמיים 700/700 מ״מ, אחורי 280 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -8986,18 +9082,59 @@
 "source_url": "https://res.cloudinary.com/colmobil/images/v1716190865/%D7%A1%D7%A4%D7%A8-%D7%A8%D7%9B%D7%91-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99-i20-2024/%D7%A1%D7%A4%D7%A8-%D7%A8%D7%9B%D7%91-%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99-i20-2024.pdf?_i=AA"
 },
 "H-I20-GB-G125-UK": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (סוג A) / LED (סוג B)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4LL 60/55W (סוג A) / HB3 60W (סוג B)",
+"headlight_low": "H4LL 60/55W (סוג A) / HB3 60W (סוג B)",
+"notes": "(BW-14: אותו ספר i20 GB כמו שורת 1.4.)",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת פנייה סטטית",
+"type": "H7 55W (סוג B)"
+},
+{
+"position": "תאורת יום",
+"type": "P21W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8LL 35W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "PR21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-3 (PDF 563)",
+"source_title": "Hyundai i20 (GB) Owner's Manual (EU)",
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/i20+GBpdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai i20 [GB] 11.14-08.20. קדמיים 600/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -14655,6 +14792,49 @@
 "source_title": "ספר רכב ג'יפ גרנד צ'ירוקי (סמלת, יבואן ישראל)",
 "source_url": "https://samelet.com/ebooks/Jeep_grandcherokee_carbook_151020.pdf"
 },
+"JP-GC-WK2-36-1621-ALIAS-C": {
+"brake_light": "KRD LCP 3157",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "9005 / D3S (פרימיום)",
+"headlight_low": "H11 / D3S (פרימיום, החלפה במרכז שירות)",
+"notes": "ספר יבואן ישראלי 2015; מספרי הנורות לפי הספר. (BW-14: אותו ספר יבואן כמו שורת WK2 3.6 2016-21.)",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "פנסי סימון קדמיים",
+"type": "W5W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "7444NA (WY27/8W) / LED"
+},
+{
+"position": "איתות אחורי צדדי",
+"type": "7440NA (WY21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "921 (W16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "248 (PDF 251)",
+"source_title": "ספר רכב ג'יפ גרנד צ'ירוקי (סמלת, יבואן ישראל)",
+"source_url": "https://samelet.com/ebooks/Jeep_grandcherokee_carbook_151020.pdf"
+},
 "JP-GC-WK2-36-1621-C": {
 "brake_light": "KRD LCP 3157",
 "confidence": "high",
@@ -14706,6 +14886,92 @@
 "headlight_high": "9005 / D3S (פרימיום)",
 "headlight_low": "H11 / D3S (פרימיום, החלפה במרכז שירות)",
 "notes": "ספר יבואן ישראלי 2015; מספרי הנורות לפי הספר.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "פנסי סימון קדמיים",
+"type": "W5W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "7444NA (WY27/8W) / LED"
+},
+{
+"position": "איתות אחורי צדדי",
+"type": "7440NA (WY21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "921 (W16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "248 (PDF 251)",
+"source_title": "ספר רכב ג'יפ גרנד צ'ירוקי (סמלת, יבואן ישראל)",
+"source_url": "https://samelet.com/ebooks/Jeep_grandcherokee_carbook_151020.pdf"
+},
+"JP-GC-WK2-36-1621-J": {
+"brake_light": "KRD LCP 3157",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "9005 / D3S (פרימיום)",
+"headlight_low": "H11 / D3S (פרימיום, החלפה במרכז שירות)",
+"notes": "ספר יבואן ישראלי 2015; מספרי הנורות לפי הספר. (BW-14: אותו ספר יבואן כמו שורת WK2 3.6 2016-21.)",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "פנסי סימון קדמיים",
+"type": "W5W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "7444NA (WY27/8W) / LED"
+},
+{
+"position": "איתות אחורי צדדי",
+"type": "7440NA (WY21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "921 (W16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "248 (PDF 251)",
+"source_title": "ספר רכב ג'יפ גרנד צ'ירוקי (סמלת, יבואן ישראל)",
+"source_url": "https://samelet.com/ebooks/Jeep_grandcherokee_carbook_151020.pdf"
+},
+"JP-GC-WK2-36-1621-J-CODE-ERB-GRAND_CHEROKEE": {
+"brake_light": "KRD LCP 3157",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "9005 / D3S (פרימיום)",
+"headlight_low": "H11 / D3S (פרימיום, החלפה במרכז שירות)",
+"notes": "ספר יבואן ישראלי 2015; מספרי הנורות לפי הספר. (BW-14: אותו ספר יבואן כמו שורת WK2 3.6 2016-21.)",
 "other_bulbs": [
 {
 "position": "ערפל קדמי",
@@ -34400,19 +34666,115 @@
 "source_title": "Suzuki SX4 Instrukcja obsługi 99999-SD-53 (11/2010, suzuki.pl)",
 "source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/SX4/SX4%202010.pdf"
 },
+"SZ-VIT-LY-K10C": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 12V 60W",
+"headlight_low": "H11 12V 55W; LED (עם הדלקה אוטומטית)",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "אורות יום",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W / LED"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "11-3 (PDF p.465)",
+"source_title": "Suzuki VITARA Instrukcja obsługi 99999-SD-95 (2018, suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/VITARA/VITARA%202018.pdf"
+},
 "SZ-VIT-LY-K10C-PL19": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 12V 60W",
+"headlight_low": "H11 12V 55W; LED (עם הדלקה אוטומטית)",
+"notes": "Official Suzuki Poland manual (Polish). Values copied from the bulb table (12V wattage + bulb code). The book does not print wiper blade sizes.",
+"other_bulbs": [
+{
+"position": "פנס ערפל קדמי",
+"type": "H11 55W / H8 35W"
+},
+{
+"position": "פנס חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "אורות יום",
+"type": "P13W 13W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W / LED"
+},
+{
+"position": "פנס בלימה גבוה",
+"type": "LED"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס ערפל אחורי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 250,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "11-3 (PDF p.511)",
+"source_title": "Suzuki VITARA Instrukcja obsługi 99999-SD-96 (10/2019, suzuki.pl)",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/VITARA/VITARA%202019.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Suzuki Vitara [LY] 2015→. קדמיים 600/400 מ״מ, אחורי 250 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
