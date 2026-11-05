@@ -39725,6 +39725,1001 @@
 "source_title": "Toyota Verso – ספר רכב ישראלי 2017-2018",
 "source_url": "https://books.union-motors.co.il/app/api/files/398/download"
 },
+"VO-B6324S5-X12-XC90_3_2": {
+"brake_light": "P21W 21W (BA15S)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / H9 65W (Active Xenon) / H7 55W (Xenon)",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Active Xenon) / D2R 35W (Xenon)",
+"notes": "טבלת Bulbs בספר XC90 MY10 (EN, TP 10922) עמ' 276-277. Main beam/dipped beam halogen = H7 55W (יחידה משותפת בהלוגן). לא שויך ל-XC90 II (2015+) – שם יש גם גרסת הלוגן חלקית. ",
+"other_bulbs": [
+{
+"position": "קסנון Active Xenon",
+"type": "D1S 35W"
+},
+{
+"position": "קסנון Xenon",
+"type": "D2R 35W"
+},
+{
+"position": "אור דרכים (Active Xenon)",
+"type": "H9 65W"
+},
+{
+"position": "אור דרכים (Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות קדמי / ערפל אחורי",
+"type": "21W (BAY9s)"
+},
+{
+"position": "בלם / רוורס",
+"type": "P21W 21W (BA15S)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "מיקום/חניה קדמי+אחורי, סימון צד קדמי, לוחית, תאורת כניסה אחורית",
+"type": "5W (W2.1x9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277",
+"source_title": "Volvo XC90 Owner's Manual MY10 (EN, TP 10922) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/ca8d4c01c2957ddc6ee716bc883dd824dba0d2ca/XC90_owners_manual_MY10_EN_tp10922.pdf"
+},
+"VO-C30-5CYL-10-C30_2_4I": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת Bulbs בספר C30 MY10 (EN, TP 10898) עמ' 279-280. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי + סימון צד אחורי",
+"type": "P21/5W 4W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo C30 Owner's Manual MY10 (EN, TP 10898) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/6a99b4eafdfaae91cf76f30c9a7051f3b7945a33/C30_owners_manual_MY10_EN_tp10898.pdf"
+},
+"VO-C30-5CYL-10-C30_T5": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת Bulbs בספר C30 MY10 (EN, TP 10898) עמ' 279-280. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי + סימון צד אחורי",
+"type": "P21/5W 4W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo C30 Owner's Manual MY10 (EN, TP 10898) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/6a99b4eafdfaae91cf76f30c9a7051f3b7945a33/C30_owners_manual_MY10_EN_tp10898.pdf"
+},
+"VO-C30-5CYL-10-C30_T5-CALIAS-B5254T-2012": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת Bulbs בספר C30 MY10 (EN, TP 10898) עמ' 279-280. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי + סימון צד אחורי",
+"type": "P21/5W 4W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo C30 Owner's Manual MY10 (EN, TP 10898) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/6a99b4eafdfaae91cf76f30c9a7051f3b7945a33/C30_owners_manual_MY10_EN_tp10898.pdf"
+},
+"VO-C30-5CYL-10-C70_2_4I": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת Bulbs בספר C30 MY10 (EN, TP 10898) עמ' 279-280. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי + סימון צד אחורי",
+"type": "P21/5W 4W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo C30 Owner's Manual MY10 (EN, TP 10898) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/6a99b4eafdfaae91cf76f30c9a7051f3b7945a33/C30_owners_manual_MY10_EN_tp10898.pdf"
+},
+"VO-C30-B4204S3-10-C30_2_0": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת Bulbs בספר C30 MY10 (EN, TP 10898) עמ' 279-280. ",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי + סימון צד אחורי",
+"type": "P21/5W 4W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 55W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo C30 Owner's Manual MY10 (EN, TP 10898) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/6a99b4eafdfaae91cf76f30c9a7051f3b7945a33/C30_owners_manual_MY10_EN_tp10898.pdf"
+},
+"VO-S40MS-B4204S3-10-S40_2_0": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-B4204S3-10-S40_2_0_P_SHIFT": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-B4204S3-10-V50_2_0L": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-B5244S-10-S40_2_4": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-B5244S-10-S40_2_4I": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-B5244S-10-V50_2_4": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-B5254T7-12-S40_T5": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-B5254T7-12-S40_T5-CALIAS-B5254T-2012": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-D4204T-10-S40_2_0D": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-D5204T-12-S40_2_0D": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S40MS-D5204T-12-V50_D3": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 55W (הלוגן) / H7 55W (אור נוסף Dual Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Bulbs בספר S40 MY10 (EN, TP 10830) עמ' 279-280. איתות קדמי: PY21W (הלוגן/Dual Xenon) או PY24W (ABL) – שני הערכים מהספר. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Dual Xenon / ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי (הלוגן/Dual Xenon) / איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות קדמי (ABL)",
+"type": "PY24W 24W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע עליון) + סימון צד",
+"type": "P21/5W 5W"
+},
+{
+"position": "מיקום/חניה אחורי (שקע תחתון)",
+"type": "R5W 5W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "279-280",
+"source_title": "Volvo S40 Owner's Manual MY10 (EN, TP 10830) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/404c8b3d7c2d1db43c2cf99f9c7891f0d04d3dd2/S40_owners_manual_MY10_EN_tp10830.pdf"
+},
+"VO-S60P2-B5244S-0103-S60-X": {
+"brake_light": "P21W 21W (BA15s)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 55W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (Bi-Xenon)",
+"notes": "טבלת Bulbs בספר S60 MY09 (EN, TP 10337) עמ' 270-271. P2 בלבד (B5244*). לא שויך ל-S60 II (Y20). שנות 2001-07: אותו דור P2; הטבלה מספרי MY09. ",
+"other_bulbs": [
+{
+"position": "קסנון Bi-Xenon",
+"type": "D2S 35W"
+},
+{
+"position": "איתות קדמי/אחורי (צהוב)",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W (BA15s)"
+},
+{
+"position": "מיקום/חניה אחורי + סימון צד אחורי",
+"type": "5W (BAY15d)"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "5W (W2.1x9.5d)"
+},
+{
+"position": "איתות במראה",
+"type": "5W (W2.1x9.5d, צהוב)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W (SV8.5)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "270-271",
+"source_title": "Volvo S60 Owner's Manual MY09 (EN, TP 10337) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/355d07da755d87221eb0057cb124c253fc36a47b/S60_owners_manual_MY09_EN_tp10337.pdf"
+},
+"VO-S60P2-B5244S-0407-S60": {
+"brake_light": "P21W 21W (BA15s)",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 55W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (Bi-Xenon)",
+"notes": "טבלת Bulbs בספר S60 MY09 (EN, TP 10337) עמ' 270-271. P2 בלבד (B5244*). לא שויך ל-S60 II (Y20). שנות 2001-07: אותו דור P2; הטבלה מספרי MY09. ",
+"other_bulbs": [
+{
+"position": "קסנון Bi-Xenon",
+"type": "D2S 35W"
+},
+{
+"position": "איתות קדמי/אחורי (צהוב)",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W (BA15s)"
+},
+{
+"position": "מיקום/חניה אחורי + סימון צד אחורי",
+"type": "5W (BAY15d)"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "5W (W2.1x9.5d)"
+},
+{
+"position": "איתות במראה",
+"type": "5W (W2.1x9.5d, צהוב)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W (SV8.5)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "270-271",
+"source_title": "Volvo S60 Owner's Manual MY09 (EN, TP 10337) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/355d07da755d87221eb0057cb124c253fc36a47b/S60_owners_manual_MY09_EN_tp10337.pdf"
+},
+"VO-S60P2-B5244S-09-S60": {
+"brake_light": "P21W 21W (BA15s)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 55W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (Bi-Xenon)",
+"notes": "טבלת Bulbs בספר S60 MY09 (EN, TP 10337) עמ' 270-271. P2 בלבד (B5244*). לא שויך ל-S60 II (Y20). ",
+"other_bulbs": [
+{
+"position": "קסנון Bi-Xenon",
+"type": "D2S 35W"
+},
+{
+"position": "איתות קדמי/אחורי (צהוב)",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W (BA15s)"
+},
+{
+"position": "מיקום/חניה אחורי + סימון צד אחורי",
+"type": "5W (BAY15d)"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "5W (W2.1x9.5d)"
+},
+{
+"position": "איתות במראה",
+"type": "5W (W2.1x9.5d, צהוב)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W (SV8.5)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "270-271",
+"source_title": "Volvo S60 Owner's Manual MY09 (EN, TP 10337) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/355d07da755d87221eb0057cb124c253fc36a47b/S60_owners_manual_MY09_EN_tp10337.pdf"
+},
+"VO-S60P2-B5244T5-09-S60": {
+"brake_light": "P21W 21W (BA15s)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 55W",
+"headlight_low": "H7 55W (הלוגן) / D2S 35W (Bi-Xenon)",
+"notes": "טבלת Bulbs בספר S60 MY09 (EN, TP 10337) עמ' 270-271. P2 בלבד (B5244*). לא שויך ל-S60 II (Y20). ",
+"other_bulbs": [
+{
+"position": "קסנון Bi-Xenon",
+"type": "D2S 35W"
+},
+{
+"position": "איתות קדמי/אחורי (צהוב)",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W (BA15s)"
+},
+{
+"position": "מיקום/חניה אחורי + סימון צד אחורי",
+"type": "5W (BAY15d)"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד קדמי",
+"type": "5W (W2.1x9.5d)"
+},
+{
+"position": "איתות במראה",
+"type": "5W (W2.1x9.5d, צהוב)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "C5W 5W (SV8.5)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "270-271",
+"source_title": "Volvo S60 Owner's Manual MY09 (EN, TP 10337) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/355d07da755d87221eb0057cb124c253fc36a47b/S60_owners_manual_MY09_EN_tp10337.pdf"
+},
 "VO-S60T4-B4164T": {
 "brake_light": "P21W LL 21W",
 "confidence": "medium-high",
@@ -39899,6 +40894,409 @@
 "source_page": "297",
 "source_title": "Volvo S60 Owner's Manual MY11 (EN, TP 11834) – 08 Maintenance and service: Specification, bulbs",
 "source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/dd3ab1fddbf58b7d8166f509e72b73182a166d57/S60_Owners_Manual_MY11_EN_tp11834.pdf"
+},
+"VO-S80Y286-B4204T-12-S80_2_0T": {
+"brake_light": "P21W LL 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 LL 55W (ABL)",
+"headlight_low": "H7 LL 55W (הלוגן)",
+"notes": "טבלת Lamps בספר S80 MY12 (EN, TP 14063) עמ' 331. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף ABL",
+"type": "H7 LL 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W LL 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W LL 21W"
+},
+{
+"position": "מיקום/חניה + סימון צד",
+"type": "W5W LL 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות במראה",
+"type": "WY5W LL 5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W LL 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "331",
+"source_title": "Volvo S80 Owner's Manual MY12 (EN, TP 14063) – 08 Maintenance and service: Lamps",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/567b1ecd87e93a82a543f9ab2ced196ae037db84/S80_owners_manual_MY12_EN_tp14063.pdf"
+},
+"VO-S80Y286-B4204T-12-S80_T5": {
+"brake_light": "P21W LL 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 LL 55W (ABL)",
+"headlight_low": "H7 LL 55W (הלוגן)",
+"notes": "טבלת Lamps בספר S80 MY12 (EN, TP 14063) עמ' 331. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף ABL",
+"type": "H7 LL 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W LL 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W LL 21W"
+},
+{
+"position": "מיקום/חניה + סימון צד",
+"type": "W5W LL 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות במראה",
+"type": "WY5W LL 5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W LL 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "331",
+"source_title": "Volvo S80 Owner's Manual MY12 (EN, TP 14063) – 08 Maintenance and service: Lamps",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/567b1ecd87e93a82a543f9ab2ced196ae037db84/S80_owners_manual_MY12_EN_tp14063.pdf"
+},
+"VO-S80Y286-B5254T10-12-S80_2_5T": {
+"brake_light": "P21W LL 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 LL 55W (ABL)",
+"headlight_low": "H7 LL 55W (הלוגן)",
+"notes": "טבלת Lamps בספר S80 MY12 (EN, TP 14063) עמ' 331. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף ABL",
+"type": "H7 LL 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W LL 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W LL 21W"
+},
+{
+"position": "מיקום/חניה + סימון צד",
+"type": "W5W LL 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות במראה",
+"type": "WY5W LL 5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W LL 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "331",
+"source_title": "Volvo S80 Owner's Manual MY12 (EN, TP 14063) – 08 Maintenance and service: Lamps",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/567b1ecd87e93a82a543f9ab2ced196ae037db84/S80_owners_manual_MY12_EN_tp14063.pdf"
+},
+"VO-S80Y286-B5254T6-09-S80": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 55W (אור נוסף Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Specification, bulbs בספר S80 MY10 (EN, TP 10946) עמ' 236. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Xenon/ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד",
+"type": "W5W 5W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "5W (SV8.5)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "236",
+"source_title": "Volvo S80 Owner's Manual MY10 (EN, TP 10946) – 06 Maintenance and service: Specification, bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/60ac3039ce63f3a298a9c90f28372c9ce0ba31e1/S80_owners_manual_MY10_EN_tp10946.pdf"
+},
+"VO-S80Y286-B5254T6-09-S80_2_5T": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 55W (אור נוסף Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Specification, bulbs בספר S80 MY10 (EN, TP 10946) עמ' 236. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Xenon/ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד",
+"type": "W5W 5W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "5W (SV8.5)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "236",
+"source_title": "Volvo S80 Owner's Manual MY10 (EN, TP 10946) – 06 Maintenance and service: Specification, bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/60ac3039ce63f3a298a9c90f28372c9ce0ba31e1/S80_owners_manual_MY10_EN_tp10946.pdf"
+},
+"VO-S80Y286-B6304T2-09-S80_T6": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 55W (אור נוסף Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Specification, bulbs בספר S80 MY10 (EN, TP 10946) עמ' 236. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Xenon/ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד",
+"type": "W5W 5W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "5W (SV8.5)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "236",
+"source_title": "Volvo S80 Owner's Manual MY10 (EN, TP 10946) – 06 Maintenance and service: Specification, bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/60ac3039ce63f3a298a9c90f28372c9ce0ba31e1/S80_owners_manual_MY10_EN_tp10946.pdf"
+},
+"VO-S80Y286-B6304T4-12-S80_T6": {
+"brake_light": "P21W LL 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 LL 55W (ABL)",
+"headlight_low": "H7 LL 55W (הלוגן)",
+"notes": "טבלת Lamps בספר S80 MY12 (EN, TP 14063) עמ' 331. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף ABL",
+"type": "H7 LL 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W LL 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W LL 21W"
+},
+{
+"position": "מיקום/חניה + סימון צד",
+"type": "W5W LL 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות במראה",
+"type": "WY5W LL 5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W LL 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "331",
+"source_title": "Volvo S80 Owner's Manual MY12 (EN, TP 14063) – 08 Maintenance and service: Lamps",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/567b1ecd87e93a82a543f9ab2ced196ae037db84/S80_owners_manual_MY12_EN_tp14063.pdf"
+},
+"VO-S80Y286-B6324S-07-S80_3_2": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 55W (אור נוסף Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Specification, bulbs בספר S80 MY10 (EN, TP 10946) עמ' 236. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Xenon/ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד",
+"type": "W5W 5W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "5W (SV8.5)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "236",
+"source_title": "Volvo S80 Owner's Manual MY10 (EN, TP 10946) – 06 Maintenance and service: Specification, bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/60ac3039ce63f3a298a9c90f28372c9ce0ba31e1/S80_owners_manual_MY10_EN_tp10946.pdf"
+},
+"VO-S80Y286-B8444S-07-S80_V8": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 55W (אור נוסף Xenon/ABL)",
+"headlight_low": "H7 55W (הלוגן)",
+"notes": "טבלת Specification, bulbs בספר S80 MY10 (EN, TP 10946) עמ' 236. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף (Xenon/ABL)",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "מיקום/חניה קדמי + סימון צד",
+"type": "W5W 5W"
+},
+{
+"position": "לוחית רישוי / תאורת תא מטען / תאורת כניסה",
+"type": "5W (SV8.5)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "236",
+"source_title": "Volvo S80 Owner's Manual MY10 (EN, TP 10946) – 06 Maintenance and service: Specification, bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/60ac3039ce63f3a298a9c90f28372c9ce0ba31e1/S80_owners_manual_MY10_EN_tp10946.pdf"
 },
 "VO-V40CCT4-B4164T": {
 "brake_light": "P21W LL 21W",
@@ -40354,6 +41752,272 @@
 "source_title": "Volvo XC40 Owner's Manual MY20 (en-GB, TP 29561) – Maintenance and service: Exterior lamp positions / Bulb specifications",
 "source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/d9a228cd7128e6e38f0a8dfd3ec62691f40c4506/XC40_OwnersManual_MY20_en-GB_TP29561.pdf"
 },
+"VO-XC60B5-D420T2": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60B5AWD-B420T11": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60B5AWD-B420T2": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60B5AWD-B420T2-YALIAS-XC60B5AWD-2025-x175": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60B5D-D420T2": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60B5FWD-B420T2": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60B5P-B420T2": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60D5-D4204T23": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60RECHARGET6-B4204T46": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60RECHARGET6-B4204T46-KALIAS-XC60T6-2022-58": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60RECHARGET8-B4204T34": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60RECHARGET8-B4204T56": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60RT8-ALIAS-XC60T8": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60T4-B4204T31": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
 "VO-XC60T5-B4204T11": {
 "brake_light": "P21W LL 21W",
 "confidence": "medium-high",
@@ -40393,6 +42057,44 @@
 "source_title": "Volvo XC60 Owner's Manual MY16 (en-INT, TP 20293) – 10 Maintenance and service: Lamps - specifications",
 "source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/c2fad55dcb6a6ebab0941fef155ff32527c41636/XC60_OwnersManual_MY16_en-Int._TP20293.pdf"
 },
+"VO-XC60T5-B4204T23": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60T5-B4204T26": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
 "VO-XC60T5-B4204T7": {
 "brake_light": "P21W LL 21W",
 "confidence": "medium-high",
@@ -40419,6 +42121,593 @@
 "source_page": "333-334",
 "source_title": "Volvo XC60 Owner's Manual MY12 (EN, TP 14122) – 08 Maintenance and service: Specification, bulbs",
 "source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/f8029a39ba9b4b1c0736cbf76608c9eee671a74c/XC60_owners_manual_MY12_EN_tp14122.pdf"
+},
+"VO-XC60T8-B4204T34": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC60T8-B4204T35": {
+"brake_light": "LED – מוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – מוסך מורשה",
+"headlight_low": "LED – מוסך מורשה",
+"notes": "בספר MY20 (en-INT): \"This car is equipped only with LED lamps and therefore no replaceable bulbs. Contact a workshop if a fault occurs in the lighting.\" / \"If a fault occurs in LED lamps, the entire lamp unit usually must be replaced\". לא שויך ל-XC60 I (לפני 2017) שכבר מולא מ-MY12/MY16. XC90 II לא מולא – בטבלת MY20 יש גם גרסת הלוגן. ",
+"other_bulbs": [
+{
+"position": "כל תאורת החוץ (כולל בלם/איתות/רוורס/ערפל)",
+"type": "LED – מוסך מורשה"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "648",
+"source_title": "Volvo XC60 Owner's Manual MY20 (en-INT, TP 30326) – Maintenance and service: Bulb replacement",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/19w46/XC60_OwnersManual_MY20_en-INT_TP30326/XC60_OwnersManual_MY20_en-INT_TP30326.pdf"
+},
+"VO-XC90-B63245-XC90_3_2": {
+"brake_light": "P21W 21W (BA15S)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / H9 65W (Active Xenon) / H7 55W (Xenon)",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Active Xenon) / D2R 35W (Xenon)",
+"notes": "טבלת Bulbs בספר XC90 MY10 (EN, TP 10922) עמ' 276-277. Main beam/dipped beam halogen = H7 55W (יחידה משותפת בהלוגן). לא שויך ל-XC90 II (2015+) – שם יש גם גרסת הלוגן חלקית. ",
+"other_bulbs": [
+{
+"position": "קסנון Active Xenon",
+"type": "D1S 35W"
+},
+{
+"position": "קסנון Xenon",
+"type": "D2R 35W"
+},
+{
+"position": "אור דרכים (Active Xenon)",
+"type": "H9 65W"
+},
+{
+"position": "אור דרכים (Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות קדמי / ערפל אחורי",
+"type": "21W (BAY9s)"
+},
+{
+"position": "בלם / רוורס",
+"type": "P21W 21W (BA15S)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "מיקום/חניה קדמי+אחורי, סימון צד קדמי, לוחית, תאורת כניסה אחורית",
+"type": "5W (W2.1x9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277",
+"source_title": "Volvo XC90 Owner's Manual MY10 (EN, TP 10922) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/ca8d4c01c2957ddc6ee716bc883dd824dba0d2ca/XC90_owners_manual_MY10_EN_tp10922.pdf"
+},
+"VO-XC90-B6324S-08-XC90_3_2": {
+"brake_light": "P21W 21W (BA15S)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / H9 65W (Active Xenon) / H7 55W (Xenon)",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Active Xenon) / D2R 35W (Xenon)",
+"notes": "טבלת Bulbs בספר XC90 MY10 (EN, TP 10922) עמ' 276-277. Main beam/dipped beam halogen = H7 55W (יחידה משותפת בהלוגן). לא שויך ל-XC90 II (2015+) – שם יש גם גרסת הלוגן חלקית. ",
+"other_bulbs": [
+{
+"position": "קסנון Active Xenon",
+"type": "D1S 35W"
+},
+{
+"position": "קסנון Xenon",
+"type": "D2R 35W"
+},
+{
+"position": "אור דרכים (Active Xenon)",
+"type": "H9 65W"
+},
+{
+"position": "אור דרכים (Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות קדמי / ערפל אחורי",
+"type": "21W (BAY9s)"
+},
+{
+"position": "בלם / רוורס",
+"type": "P21W 21W (BA15S)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "מיקום/חניה קדמי+אחורי, סימון צד קדמי, לוחית, תאורת כניסה אחורית",
+"type": "5W (W2.1x9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277",
+"source_title": "Volvo XC90 Owner's Manual MY10 (EN, TP 10922) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/ca8d4c01c2957ddc6ee716bc883dd824dba0d2ca/XC90_owners_manual_MY10_EN_tp10922.pdf"
+},
+"VO-XC90-B6324S-10-XC90_3_2": {
+"brake_light": "P21W 21W (BA15S)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / H9 65W (Active Xenon) / H7 55W (Xenon)",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Active Xenon) / D2R 35W (Xenon)",
+"notes": "טבלת Bulbs בספר XC90 MY10 (EN, TP 10922) עמ' 276-277. Main beam/dipped beam halogen = H7 55W (יחידה משותפת בהלוגן). לא שויך ל-XC90 II (2015+) – שם יש גם גרסת הלוגן חלקית. ",
+"other_bulbs": [
+{
+"position": "קסנון Active Xenon",
+"type": "D1S 35W"
+},
+{
+"position": "קסנון Xenon",
+"type": "D2R 35W"
+},
+{
+"position": "אור דרכים (Active Xenon)",
+"type": "H9 65W"
+},
+{
+"position": "אור דרכים (Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות קדמי / ערפל אחורי",
+"type": "21W (BAY9s)"
+},
+{
+"position": "בלם / רוורס",
+"type": "P21W 21W (BA15S)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "מיקום/חניה קדמי+אחורי, סימון צד קדמי, לוחית, תאורת כניסה אחורית",
+"type": "5W (W2.1x9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277",
+"source_title": "Volvo XC90 Owner's Manual MY10 (EN, TP 10922) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/ca8d4c01c2957ddc6ee716bc883dd824dba0d2ca/XC90_owners_manual_MY10_EN_tp10922.pdf"
+},
+"VO-XC90-B6324S-10-XC90_3_2-1114": {
+"brake_light": "P21W 21W (BA15S)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / H9 65W (Active Xenon) / H7 55W (Xenon)",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Active Xenon) / D2R 35W (Xenon)",
+"notes": "טבלת Bulbs בספר XC90 MY10 (EN, TP 10922) עמ' 276-277. Main beam/dipped beam halogen = H7 55W (יחידה משותפת בהלוגן). לא שויך ל-XC90 II (2015+) – שם יש גם גרסת הלוגן חלקית. ",
+"other_bulbs": [
+{
+"position": "קסנון Active Xenon",
+"type": "D1S 35W"
+},
+{
+"position": "קסנון Xenon",
+"type": "D2R 35W"
+},
+{
+"position": "אור דרכים (Active Xenon)",
+"type": "H9 65W"
+},
+{
+"position": "אור דרכים (Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות קדמי / ערפל אחורי",
+"type": "21W (BAY9s)"
+},
+{
+"position": "בלם / רוורס",
+"type": "P21W 21W (BA15S)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "מיקום/חניה קדמי+אחורי, סימון צד קדמי, לוחית, תאורת כניסה אחורית",
+"type": "5W (W2.1x9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277",
+"source_title": "Volvo XC90 Owner's Manual MY10 (EN, TP 10922) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/ca8d4c01c2957ddc6ee716bc883dd824dba0d2ca/XC90_owners_manual_MY10_EN_tp10922.pdf"
+},
+"VO-XC90-B8444S-08-XC90": {
+"brake_light": "P21W 21W (BA15S)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / H9 65W (Active Xenon) / H7 55W (Xenon)",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Active Xenon) / D2R 35W (Xenon)",
+"notes": "טבלת Bulbs בספר XC90 MY10 (EN, TP 10922) עמ' 276-277. Main beam/dipped beam halogen = H7 55W (יחידה משותפת בהלוגן). לא שויך ל-XC90 II (2015+) – שם יש גם גרסת הלוגן חלקית. ",
+"other_bulbs": [
+{
+"position": "קסנון Active Xenon",
+"type": "D1S 35W"
+},
+{
+"position": "קסנון Xenon",
+"type": "D2R 35W"
+},
+{
+"position": "אור דרכים (Active Xenon)",
+"type": "H9 65W"
+},
+{
+"position": "אור דרכים (Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות קדמי / ערפל אחורי",
+"type": "21W (BAY9s)"
+},
+{
+"position": "בלם / רוורס",
+"type": "P21W 21W (BA15S)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "מיקום/חניה קדמי+אחורי, סימון צד קדמי, לוחית, תאורת כניסה אחורית",
+"type": "5W (W2.1x9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277",
+"source_title": "Volvo XC90 Owner's Manual MY10 (EN, TP 10922) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/ca8d4c01c2957ddc6ee716bc883dd824dba0d2ca/XC90_owners_manual_MY10_EN_tp10922.pdf"
+},
+"VO-XC90-B8444S-08-XC90_V8": {
+"brake_light": "P21W 21W (BA15S)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / H9 65W (Active Xenon) / H7 55W (Xenon)",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Active Xenon) / D2R 35W (Xenon)",
+"notes": "טבלת Bulbs בספר XC90 MY10 (EN, TP 10922) עמ' 276-277. Main beam/dipped beam halogen = H7 55W (יחידה משותפת בהלוגן). לא שויך ל-XC90 II (2015+) – שם יש גם גרסת הלוגן חלקית. ",
+"other_bulbs": [
+{
+"position": "קסנון Active Xenon",
+"type": "D1S 35W"
+},
+{
+"position": "קסנון Xenon",
+"type": "D2R 35W"
+},
+{
+"position": "אור דרכים (Active Xenon)",
+"type": "H9 65W"
+},
+{
+"position": "אור דרכים (Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות קדמי / ערפל אחורי",
+"type": "21W (BAY9s)"
+},
+{
+"position": "בלם / רוורס",
+"type": "P21W 21W (BA15S)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "מיקום/חניה קדמי+אחורי, סימון צד קדמי, לוחית, תאורת כניסה אחורית",
+"type": "5W (W2.1x9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277",
+"source_title": "Volvo XC90 Owner's Manual MY10 (EN, TP 10922) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/ca8d4c01c2957ddc6ee716bc883dd824dba0d2ca/XC90_owners_manual_MY10_EN_tp10922.pdf"
+},
+"VO-XC90-B8444S-10-XC90_V8": {
+"brake_light": "P21W 21W (BA15S)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / H9 65W (Active Xenon) / H7 55W (Xenon)",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Active Xenon) / D2R 35W (Xenon)",
+"notes": "טבלת Bulbs בספר XC90 MY10 (EN, TP 10922) עמ' 276-277. Main beam/dipped beam halogen = H7 55W (יחידה משותפת בהלוגן). לא שויך ל-XC90 II (2015+) – שם יש גם גרסת הלוגן חלקית. ",
+"other_bulbs": [
+{
+"position": "קסנון Active Xenon",
+"type": "D1S 35W"
+},
+{
+"position": "קסנון Xenon",
+"type": "D2R 35W"
+},
+{
+"position": "אור דרכים (Active Xenon)",
+"type": "H9 65W"
+},
+{
+"position": "אור דרכים (Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות קדמי / ערפל אחורי",
+"type": "21W (BAY9s)"
+},
+{
+"position": "בלם / רוורס",
+"type": "P21W 21W (BA15S)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "מיקום/חניה קדמי+אחורי, סימון צד קדמי, לוחית, תאורת כניסה אחורית",
+"type": "5W (W2.1x9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277",
+"source_title": "Volvo XC90 Owner's Manual MY10 (EN, TP 10922) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/ca8d4c01c2957ddc6ee716bc883dd824dba0d2ca/XC90_owners_manual_MY10_EN_tp10922.pdf"
+},
+"VO-XC90-D5244T4-10-XC90_D5": {
+"brake_light": "P21W 21W (BA15S)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / H9 65W (Active Xenon) / H7 55W (Xenon)",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Active Xenon) / D2R 35W (Xenon)",
+"notes": "טבלת Bulbs בספר XC90 MY10 (EN, TP 10922) עמ' 276-277. Main beam/dipped beam halogen = H7 55W (יחידה משותפת בהלוגן). לא שויך ל-XC90 II (2015+) – שם יש גם גרסת הלוגן חלקית. ",
+"other_bulbs": [
+{
+"position": "קסנון Active Xenon",
+"type": "D1S 35W"
+},
+{
+"position": "קסנון Xenon",
+"type": "D2R 35W"
+},
+{
+"position": "אור דרכים (Active Xenon)",
+"type": "H9 65W"
+},
+{
+"position": "אור דרכים (Xenon)",
+"type": "H7 55W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות קדמי / ערפל אחורי",
+"type": "21W (BAY9s)"
+},
+{
+"position": "בלם / רוורס",
+"type": "P21W 21W (BA15S)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (BAU15s)"
+},
+{
+"position": "מיקום/חניה קדמי+אחורי, סימון צד קדמי, לוחית, תאורת כניסה אחורית",
+"type": "5W (W2.1x9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "276-277",
+"source_title": "Volvo XC90 Owner's Manual MY10 (EN, TP 10922) – 11 Specifications: Electrical system / Bulbs",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/ca8d4c01c2957ddc6ee716bc883dd824dba0d2ca/XC90_owners_manual_MY10_EN_tp10922.pdf"
+},
+"VX-S80T4-B4164T-X": {
+"brake_light": "P21W LL 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 LL 55W (ABL)",
+"headlight_low": "H7 LL 55W (הלוגן)",
+"notes": "טבלת Lamps בספר S80 MY12 (EN, TP 14063) עמ' 331. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף ABL",
+"type": "H7 LL 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W LL 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W LL 21W"
+},
+{
+"position": "מיקום/חניה + סימון צד",
+"type": "W5W LL 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות במראה",
+"type": "WY5W LL 5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W LL 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "331",
+"source_title": "Volvo S80 Owner's Manual MY12 (EN, TP 14063) – 08 Maintenance and service: Lamps",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/567b1ecd87e93a82a543f9ab2ced196ae037db84/S80_owners_manual_MY12_EN_tp14063.pdf"
+},
+"VX-S80T4-B4164T-X-CALIAS-B41647-2011": {
+"brake_light": "P21W LL 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 LL 55W (ABL)",
+"headlight_low": "H7 LL 55W (הלוגן)",
+"notes": "טבלת Lamps בספר S80 MY12 (EN, TP 14063) עמ' 331. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף ABL",
+"type": "H7 LL 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W LL 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W LL 21W"
+},
+{
+"position": "מיקום/חניה + סימון צד",
+"type": "W5W LL 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות במראה",
+"type": "WY5W LL 5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W LL 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "331",
+"source_title": "Volvo S80 Owner's Manual MY12 (EN, TP 14063) – 08 Maintenance and service: Lamps",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/567b1ecd87e93a82a543f9ab2ced196ae037db84/S80_owners_manual_MY12_EN_tp14063.pdf"
+},
+"VX-S80T5-B4204T11-X": {
+"brake_light": "P21W LL 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / H7 LL 55W (ABL)",
+"headlight_low": "H7 LL 55W (הלוגן)",
+"notes": "טבלת Lamps בספר S80 MY12 (EN, TP 14063) עמ' 331. ",
+"other_bulbs": [
+{
+"position": "אור דרכים נוסף ABL",
+"type": "H7 LL 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "H21W LL 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL 21W"
+},
+{
+"position": "רוורס / ערפל אחורי",
+"type": "P21W LL 21W"
+},
+{
+"position": "מיקום/חניה + סימון צד",
+"type": "W5W LL 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות במראה",
+"type": "WY5W LL 5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W LL 5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "331",
+"source_title": "Volvo S80 Owner's Manual MY12 (EN, TP 14063) – 08 Maintenance and service: Lamps",
+"source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/567b1ecd87e93a82a543f9ab2ced196ae037db84/S80_owners_manual_MY12_EN_tp14063.pdf"
 },
 "__models": [
 {
@@ -42386,6 +44675,91 @@
 ],
 "year_from": 2007,
 "year_to": 2012
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 530,
+"notes": "דגם: Volvo S60 I/P2 2004-2009. קדמיים 600/530 מ״מ. המידות תואמות בין Bosch (AP 24 U / AP 21 U) ל-Valeo (HF60/HF53). שנת 2010 לא שויכה (מעבר ל-S60 II).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^S60$",
+"tozeret_cd": [
+388
+],
+"year_from": 2004,
+"year_to": 2009
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם: Volvo C30 2006-2013. קדמיים 650/500 מ״מ, אחורי 400 מ״מ. המידות תואמות בין Bosch (AP 26 U / AP 20 U + A 401 H) ל-Valeo (HF65/HF50 + HR40).",
+"rear_wiper_mm": 400,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^C30",
+"tozeret_cd": [
+388
+],
+"year_from": 2006,
+"year_to": 2013
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם: Volvo S40 II 2004-2012. קדמיים 650/500 מ״מ. המידות תואמות בין Bosch ל-Valeo (HF65/HF50). סדאן – ללא מגב אחורי.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^S40",
+"tozeret_cd": [
+388
+],
+"year_from": 2004,
+"year_to": 2013
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם: Volvo V50 2004-2012. קדמיים 650/500 מ״מ; אחורי Bosch H874=340 מ״מ / Valeo VM44. קדמיים תואמים Bosch+Valeo.",
+"rear_wiper_mm": 340,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^V50",
+"tozeret_cd": [
+388
+],
+"year_from": 2004,
+"year_to": 2012
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "דגם: Volvo S80 II 2006-2016. קדמיים 650/500 מ״מ. המידות תואמות בין Bosch ל-Valeo (HF65/HF50).",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"kinuy_re": "^S80",
+"tozeret_cd": [
+361
+],
+"year_from": 2006,
+"year_to": 2016
 },
 {
 "data": {
