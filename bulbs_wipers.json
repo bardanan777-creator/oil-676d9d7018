@@ -10981,18 +10981,51 @@
 "wiper_source_url": "https://wiperbladesdirect.com.au/pages/hyundai-sonata-wiper-blades-size-guide"
 },
 "H-SONATA-LF-HEV": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W 21/5W (סוג A) / LED (סוג B)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "9005HL+ 60W (הלוגן) / D3S 35W (קסנון משולב, לפי גרסה)",
+"headlight_low": "H7LL 55W (הלוגן) / D3S 35W (קסנון משולב נמוך/גבוה, לפי גרסה)",
+"notes": "אותו ספר Colmobil 2015-2017 שכבר משמש למקור הנוזלים של השורה (2015-2019). רכבי 2018-2019 בשורה: פייסליפט LF – אם יש הבדלי נורות יש לאמת (שאלה לבעלים אם צריך פיצול).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W AMBER"
+},
+{
+"position": "חניה קדמי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8LL 35W"
+},
+{
+"position": "פנס צד סטטי",
+"type": "H7LL 55W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "7-3 (הספק הנורות)",
+"source_title": "Hyundai Sonata Hybrid 2015-2017 ספר רכב (Colmobil) – נתונים טכניים: הספק הנורות",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1716389111/%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99-%D7%A1%D7%95%D7%A0%D7%98%D7%94-%D7%94%D7%99%D7%91%D7%A8%D7%99%D7%93%D7%99%D7%AA-%D7%A1%D7%A4%D7%A8-%D7%A8%D7%9B%D7%91-%D7%A9%D7%A0%D7%99%D7%9D-2015-2017_4614a8466/%D7%99%D7%95%D7%A0%D7%93%D7%90%D7%99-%D7%A1%D7%95%D7%A0%D7%98%D7%94-%D7%94%D7%99%D7%91%D7%A8%D7%99%D7%93%D7%99%D7%AA-%D7%A1%D7%A4%D7%A8-%D7%A8%D7%9B%D7%91-%D7%A9%D7%A0%D7%99%D7%9D-2015-2017_4614a8466.pdf?_i=AA",
 "wiper_confidence": "medium",
 "wiper_notes": "דורות LF (2015-2019) ו-DN8 (2020 ואילך): 26\"/18\" (650/450 מ״מ), ללא מגב אחורי. תואם ל-WiperIndex ו-WiperBladesUSA. בייצור מ-11/2023 הוחלפו מק״טים – מומלץ לאמת ברכבים חדשים.",
 "wiper_source_title": "Wiper Blades Direct – Hyundai Sonata size guide (LF, DN8)",
@@ -12155,18 +12188,31 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-ACCORD-CL-K20-JP": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (21/5W)",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1 55W (הלוגן) / 35W פריקה (קסנון, לפי גרסה)",
+"headlight_low": "H1 55W (הלוגן) / 35W פריקה (קסנון, לפי גרסה)",
+"notes": "טבלת הספקים ממהדורת הונגריה (הגה שמאלי, אירופה) התואמת לדור CL של ספר הנוזלים היפני 30SEA611. אור גבוה ונמוך: H1 55W כל אחד; חלופת קסנון 35W. אותו דור כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "חניה קדמי",
+"type": "5W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "HU specs (Fényszóró Országúti/Tompított 12V-55W H1; Fék/hátsó 12V-21/5W); JP ワット数 p.430",
+"source_title": "Honda Accord Sedan 2003-2008 kezelési útmutató (Honda Hungary) – Műszaki adatok: Izzók / JP 30SEA611 仕様",
+"source_url": "https://www.honda.co.jp/ownersmanual/pdf/auto/accord/30SEA611_web.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Accord [CL] 2003-2008. קדמיים 650/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -13071,6 +13117,49 @@
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/civic/"
 },
+"HO-CIVICHYB-LDA2-EN": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W",
+"headlight_low": "HB4 51W (הלוגן) / D2R 35W (קסנון, לפי גרסה)",
+"notes": "אותו ספר כמו מקור הנוזלים של השורה (עותק מקומי manuals/honda_il/civic_hybrid_2006_english.pdf). מגבים לא מולאו: ב-Bosch סתירה בין Civic Hybrid FA 650/575 ל-FD 700/575.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W כתום / כסוף-כתום לפי גרסה"
+},
+{
+"position": "חניה קדמי",
+"type": "5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "נסיעה לאחור",
+"type": "18W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Specifications Lights (printed ~313; Headlights High 12V-60W HB3 / Low 12V-51W HB4 or 12V-35W D2R)",
+"source_title": "Honda Civic Hybrid Owner's Manual 2006 (English, European edition) – Specifications: Lights",
+"source_url": "https://www.honda.co.il/"
+},
 "HO-CIVICTOURER-FK3-R18-HU": {
 "brake_light": "LED",
 "confidence": "manual-verbatim",
@@ -13299,6 +13388,60 @@
 "wiper_notes": "דגם לפי Bosch 2023: Honda CR-V [RW/RT] 2018-2023. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HO-FRV-R18A1-IL": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "H4 60W (הלוגן) / 35W פריקה (בי-קסנון, לפי גרסה)",
+"headlight_low": "HB2/H4 55W (הלוגן) / 35W פריקה (בי-קסנון, לפי גרסה)",
+"notes": "טבלת נורות ממהדורת הונגריה (הגה שמאלי) לדור BE; ספר הנוזלים של השורה הוא העברי הישראלי 2007 (אותו דור). HB2 = כינוי IEC ל-H4 באור נמוך. מגבים 650/450 מ״מ (Bosch+Valeo) הועתקו לשורה כדי לא לחסום את __wiper_models.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W כתום"
+},
+{
+"position": "חניה קדמי",
+"type": "5W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "HU specs (Távolsági 12V-60W H4; Tompított 12V-55W HB2; Bi-xenon 12V-35W; Fék/hátsó 12V-21/5W)",
+"source_title": "Honda FR-V 2005-2006 kezelési útmutató (Honda Hungary) – Műszaki adatok: Fényszórók / IL Hebrew FR-V 2007 fluids book",
+"source_url": "https://www.honda.co.il/"
+},
+"HO-FRV-R18A1-IL-CALIAS-R18A2-2007": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "H4 60W (הלוגן) / 35W פריקה (בי-קסנון, לפי גרסה)",
+"headlight_low": "HB2/H4 55W (הלוגן) / 35W פריקה (בי-קסנון, לפי גרסה)",
+"notes": "טבלת נורות ממהדורת הונגריה (הגה שמאלי) לדור BE; ספר הנוזלים של השורה הוא העברי הישראלי 2007 (אותו דור). HB2 = כינוי IEC ל-H4 באור נמוך. מגבים 650/450 מ״מ (Bosch+Valeo) הועתקו לשורה כדי לא לחסום את __wiper_models.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W כתום"
+},
+{
+"position": "חניה קדמי",
+"type": "5W"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "HU specs (Távolsági 12V-60W H4; Tompított 12V-55W HB2; Bi-xenon 12V-35W; Fék/hátsó 12V-21/5W)",
+"source_title": "Honda FR-V 2005-2006 kezelési útmutató (Honda Hungary) – Műszaki adatok: Fényszórók / IL Hebrew FR-V 2007 fluids book",
+"source_url": "https://www.honda.co.il/"
 },
 "HO-HRV-RU-L15B": {
 "brake_light": "LED",
@@ -13948,36 +14091,94 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/jazz/liftback-v-gr-2020-02-01/"
 },
 "HO-JAZZHYB-GP1-LDA3-JP11": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W (הלוגן) / 35W פריקה (קסנון, לפי גרסה)",
+"headlight_low": "H4 60/55W (הלוגן) / 35W פריקה (קסנון, לפי גרסה)",
+"notes": "בספר: ヘッドライト 12V-60/55W (ハロゲン) / 12V-35W (ディスチャージ); 制動灯/尾灯 LED. נורה משולבת 60/55W = H4. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W כתום"
+},
+{
+"position": "חניה קדמי",
+"type": "5W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "仕様 (PDF; 電球)",
+"source_title": "Honda フィット ハイブリッド 取扱説明書 30TF26102 (2010-10) – 仕様: 電球",
+"source_url": "https://www.honda.co.jp/ownersmanual/pdf/auto/fithybrid/30TF26102_web.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Jazz [GE/GP] 2008-2015. קדמיים 650/340 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-JAZZHYB-GP1-LDA3-JP13": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 60/55W (הלוגן) / 35W פריקה (קסנון, לפי גרסה)",
+"headlight_low": "H4 60/55W (הלוגן) / 35W פריקה (קסנון, לפי גרסה)",
+"notes": "בספר: ヘッドライト 12V-60/55W※6 (ハロゲン) / 12V-35W※5 (ディスチャージ); 制動灯/尾灯 LED. נורה משולבת 60/55W = H4. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W כתום"
+},
+{
+"position": "חניה קדמי",
+"type": "5W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "5W"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "261-262 (PDF; 仕様 Hybrid / Hybrid She's)",
+"source_title": "Honda フィット ハイブリッド 取扱説明書 30TF26300 (2012-05) – 仕様: 電球",
+"source_url": "https://www.honda.co.jp/ownersmanual/pdf/auto/fithybrid/30TF26300_web.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda Jazz [GE/GP] 2008-2015. קדמיים 650/340 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -43757,6 +43958,50 @@
 ],
 "year_from": 2016,
 "year_to": 2018
+},
+{
+"data": {
+"brake_light": "P21W LL / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / LED",
+"headlight_low": "H7 Long Life (הלוגן) / LED",
+"notes": "BW-22: הורחב ל-MY2017 (6 רכבים) מאותו ספר 11/17 שכבר בשימוש ל-ARO1 2018-2023. לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור יום/חניה",
+"type": "W21W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W NA LL"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W LL"
+},
+{
+"position": "רוורס",
+"type": "P21W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Halogen headlights H7 Long Life / H7; Brake 2x P21WLL (same table as ARO1 2018-2023)",
+"source_title": "SEAT Arona Owner's Manual 11/2017 (EN) – Light source / Halogen headlights",
+"source_url": "https://www.seat.co.uk/datamanual-manual/arona/my18_w45/en-uk/ARONA_11_17_EN.pdf"
+},
+"kinuy_re": "^ARONA$",
+"tozeret_cd": [
+778,
+423
+],
+"year_from": 2017,
+"year_to": 2017
 },
 {
 "data": {
