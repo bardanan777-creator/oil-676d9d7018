@@ -8732,6 +8732,62 @@
 "source_title": "Ford Tourneo Connect/Transit Connect owner's handbook CG3526en 06/2006 (enGBR)",
 "source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3526_TRC_og_200606.pdf"
 },
+"GE-EX5-BEV-TZ18": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר: \"Автомобиль оснащается светодиодными фарами\" – החלפה במרכז שירות Geely. טבלת נורות מלאה (בלם/אחר) לא מודפסת – הושארו ריקים. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "180 (Замена ламп)",
+"source_title": "Geely EX5 Руководство по эксплуатации – Замена ламп",
+"source_url": "https://cdn.perxis.ru/originals/d1eh3sgbeucc73er1avg/original"
+},
+"GE-EX5-BEV-TZ184XY101": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר: \"Автомобиль оснащается светодиодными фарами\" – החלפה במרכז שירות Geely. טבלת נורות מלאה (בלם/אחר) לא מודפסת – הושארו ריקים. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "180 (Замена ламп)",
+"source_title": "Geely EX5 Руководство по эксплуатации – Замена ламп",
+"source_url": "https://cdn.perxis.ru/originals/d1eh3sgbeucc73er1avg/original"
+},
+"GE-STARRAY-EMI-BHE1-IL": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר: \"רכב זה מצויד בפנסי LED ראשיים\" – החלפה במרכז שירות מורשה Geely. לא מודפסת טבלת נורות מלאה (בלם/אחר) – הושארו ריקים. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "196 (החלפת נורות)",
+"source_title": "Geely Starray EM-i SUV 2026 ספר נהג (Hebrew) – החלפת נורות",
+"source_url": "https://geely.co.il/wp-content/uploads/2026/02/GEELLY-STARRAY_EM-i-SUV_2026-OM_HEB_web.pdf"
+},
+"GE-STARRAY-EMI-BHE15DFN-IL": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר: \"רכב זה מצויד בפנסי LED ראשיים\" – החלפה במרכז שירות מורשה Geely. לא מודפסת טבלת נורות מלאה (בלם/אחר) – הושארו ריקים. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "196 (החלפת נורות)",
+"source_title": "Geely Starray EM-i SUV 2026 ספר נהג (Hebrew) – החלפת נורות",
+"source_url": "https://geely.co.il/wp-content/uploads/2026/02/GEELLY-STARRAY_EM-i-SUV_2026-OM_HEB_web.pdf"
+},
 "GL-GEOMC-EV": {
 "brake_light": "",
 "confidence": "",
@@ -13116,6 +13172,186 @@
 "wiper_notes": "דגם: Honda Civic X hatchback [FK7] 2017-2020. קדמיים 650/450 מ״מ, אחורי 340 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/honda/civic/"
+},
+"HO-CIVICHEV-FL4-LFC-JP-EHEV": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר 仕様: ヘッドライト ハイ/ロー LED; 制動灯/尾灯 LED; 後面方向指示器 12V-21W（橙色）; 後退灯 12V-16W. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "חניה קדמי/תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "仕様 / W（ワット）数 (~p.448)",
+"source_title": "Honda CIVIC e:HEV (FL4) オーナーズマニュアル 30T506100 (2023) – 仕様: 電球",
+"source_url": "https://www.honda.co.jp/ownersmanual/pdf/auto/civicehev/30T506100_web.pdf"
+},
+"HO-CIVICHEV-FL4-LFC-JP-HEV": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר 仕様: ヘッドライト ハイ/ロー LED; 制動灯/尾灯 LED; 後面方向指示器 12V-21W（橙色）; 後退灯 12V-16W. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "חניה קדמי/תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "仕様 / W（ワット）数 (~p.448)",
+"source_title": "Honda CIVIC e:HEV (FL4) オーナーズマニュアル 30T506100 (2023) – 仕様: 電球",
+"source_url": "https://www.honda.co.jp/ownersmanual/pdf/auto/civicehev/30T506100_web.pdf"
+},
+"HO-CIVICHEV-FL4-LFC-JP-HYBRID": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר 仕様: ヘッドライト ハイ/ロー LED; 制動灯/尾灯 LED; 後面方向指示器 12V-21W（橙色）; 後退灯 12V-16W. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "חניה קדמי/תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "仕様 / W（ワット）数 (~p.448)",
+"source_title": "Honda CIVIC e:HEV (FL4) オーナーズマニュアル 30T506100 (2023) – 仕様: 電球",
+"source_url": "https://www.honda.co.jp/ownersmanual/pdf/auto/civicehev/30T506100_web.pdf"
+},
+"HO-CIVICHEV-FL4-LFC-UK24": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר UK: Headlights/Brake/Taillight LED – authorised Honda dealer; Rear Turn Signal Light 21 W (Amber). אותו ספר כמו מקור הנוזלים של השורה (CIVIC_HEV_24).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "חניה קדמי/תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W כתום"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "610-611 (Headlights/Brake LED; Rear Turn Signal Light 21 W Amber)",
+"source_title": "Honda Civic 5D e:HEV 2024 Owner's Manual (24 CIVIC 5D HEV (KE KG)-32T536140) – Replacing Light Bulbs / Specifications",
+"source_url": "https://www.honda.co.uk/content/honda/en_gb/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1144932897/textColumn/richtextdownload_46f/file.res/24%20CIVIC%205D%20HEV%20(KE%20KG)-32T536140_webcombined-compressed.pdf"
 },
 "HO-CIVICHYB-LDA2-EN": {
 "brake_light": "P21/5W (21/5W)",
@@ -26447,6 +26683,92 @@
 "source_title": "Nissan Note 2014 (E12) – ספר רכב רשמי ניסאן ישראל (אנגלית)",
 "source_url": "https://web.archive.org/web/20170709063949id_/https://www.nissan.co.il/content/dam/Nissan/israel/services/car-books/Nissan-Note-Car-Book-2014-ENG.pdf"
 },
+"OM-O7PHEV-SQRH4J15-PL": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בטבלה: Reflektor / stop / cofania / kierunkowskazy / pozycyjne / przeciwmgielne = LED, \"Do wymiany przez autoryzowaną stację obsługi\". אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "חניה קדמי",
+"type": "LED"
+},
+{
+"position": "חניה אחורי",
+"type": "LED"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "299 (Specyfikacja żarówki)",
+"source_title": "OMODA 7 Super Hybrid – Instrukcja obsługi (OMODA & JAECOO Polska) – 8. Specyfikacja: Specyfikacja żarówki",
+"source_url": "https://www.omodajaecoo.pl/fileadmin/instrukcje/Instrukcja_obs%C5%82ugi_-_OMODA_7_Super_Hybrid.pdf"
+},
+"OM-O9PHEV-SQRH4J15-PL": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בטבלה: Reflektory / stop / DRL / pozycyjne / przeciwmgielne = LED, החלפה בתחנה מורשית. אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "חניה קדמי",
+"type": "LED"
+},
+{
+"position": "חניה אחורי",
+"type": "LED"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "321 (Specyfikacja żarówki)",
+"source_title": "OMODA 9 Super Hybrid – Instrukcja obsługi (OMODA & JAECOO Polska) – 8. Specyfikacja: Specyfikacja żarówki",
+"source_url": "https://www.omodajaecoo.pl/fileadmin/instrukcje/Instrukcja_obs%C5%82ugi_-_OMODA_9_Super_Hybrid.pdf"
+},
 "OP-ADAM-A14XER-EU14": {
 "brake_light": "",
 "confidence": "",
@@ -34401,6 +34723,53 @@
 "wiper_notes": "דגם: Subaru XV [GT] 2017-2023. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. המידות תואמות בין המקורות: קטלוג Valeo 2024-25, קטלוג OXIMO (פולין, יישומים אירופיים) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. ",
 "wiper_source_title": "קטלוג Valeo 2024-25 + קטלוג OXIMO (פולין, יישומים אירופיים)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/subaru/xv/"
+},
+"SW-ET5-TZ200XSJ-IL": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בטבלה: אור מעבר/גבוה/DRL/חניה/ערפל קדמי/בלם/עילי/רוורס/איתות/חניה אחורי = נורית LED; ערפל אחורי = נורית הלוגן (ללא קוד ECE). אותו ספר כמו מקור הנוזלים של השורה.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "חניה קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "הלוגן"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "איתות",
+"type": "LED"
+},
+{
+"position": "חניה אחורי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "250 (שם הפנס / סוג־דגם)",
+"source_title": "Skywell ET5 ספר הוראות הפעלה לנהג (skywell.co.il) – טבלת סוג/דגם נורות",
+"source_url": "https://skywell.co.il/wp-content/uploads/2022/06/Skywell-ET5-%D7%A1%D7%A4%D7%A8-%D7%94%D7%95%D7%A8%D7%90%D7%95%D7%AA-%D7%94%D7%A4%D7%A2%D7%9C%D7%94-%D7%9C%D7%A0%D7%94%D7%92.pdf"
 },
 "SZ-ALTO-GF-K10B": {
 "brake_light": "P21/5W 12V 21/5W",
