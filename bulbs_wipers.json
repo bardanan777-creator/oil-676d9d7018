@@ -716,6 +716,135 @@
 "source_title": "Chery Arrizo 8 PHEV – Manual del usuario (Chery Argentina, ES)",
 "source_url": "https://chery.com.ar/wp-content/uploads/2026/03/Arrizo-8-PHEV-user-manual_ES-low.pdf"
 },
+"CH-CAPTIVA-C140-LE5-IL11": {
+"brake_light": "W21/5W (אור בלם/פנס אחורי)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פנס חזית אור דרך, בסיס)",
+"headlight_low": "H7 (פנס חזית אור מעבר, בסיס)",
+"notes": "טבלת \"נורות חלופיות\" בספר הישראלי (אותו ספר שמצוטט בשורות לנוזלים): פנס חזית אור דרך (בסיסי) H7; פנס חזית אור מעבר (בסיסי) H7; אור חניה קדמי W21/5W; מהבהב פנייה קדמי PY21W; נסיעה לאחור W16W; לוחית רישוי W5W; ערפל אחורי P21W; אור בלם/פנס אחורי W21/5W; מהבהב פנייה אחורי W21W; פנס רוחב (אם יש) W5W. ספרי 2014/2015 (C140 2013-15) לא מדפיסים טבלת נורות – לא מופו.",
+"other_bulbs": [
+{
+"position": "אור חניה קדמי",
+"type": "W21/5W"
+},
+{
+"position": "מהבהב פנייה קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "מהבהב פנייה אחורי",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "פנס רוחב (אם יש)",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-35 (PDF 203)",
+"source_title": "Chevrolet Captiva ספר רכב (OM_Captiva v.9 rev 4, he-IL, 2011) – נורות חלופיות",
+"source_url": "https://web.archive.org/web/20131005120701id_/http://chevrolet.co.il/Owners-area/Manuals/Chevrolet%20Captiva.pdf"
+},
+"CH-CAPTIVA-C140-LF1-IL11": {
+"brake_light": "W21/5W (אור בלם/פנס אחורי)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פנס חזית אור דרך, בסיס)",
+"headlight_low": "H7 (פנס חזית אור מעבר, בסיס)",
+"notes": "טבלת \"נורות חלופיות\" בספר הישראלי (אותו ספר שמצוטט בשורות לנוזלים): פנס חזית אור דרך (בסיסי) H7; פנס חזית אור מעבר (בסיסי) H7; אור חניה קדמי W21/5W; מהבהב פנייה קדמי PY21W; נסיעה לאחור W16W; לוחית רישוי W5W; ערפל אחורי P21W; אור בלם/פנס אחורי W21/5W; מהבהב פנייה אחורי W21W; פנס רוחב (אם יש) W5W. ספרי 2014/2015 (C140 2013-15) לא מדפיסים טבלת נורות – לא מופו.",
+"other_bulbs": [
+{
+"position": "אור חניה קדמי",
+"type": "W21/5W"
+},
+{
+"position": "מהבהב פנייה קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "מהבהב פנייה אחורי",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "פנס רוחב (אם יש)",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-35 (PDF 203)",
+"source_title": "Chevrolet Captiva ספר רכב (OM_Captiva v.9 rev 4, he-IL, 2011) – נורות חלופיות",
+"source_url": "https://web.archive.org/web/20131005120701id_/http://chevrolet.co.il/Owners-area/Manuals/Chevrolet%20Captiva.pdf"
+},
+"CH-CAPTIVA-C140-LNQ-IL11": {
+"brake_light": "W21/5W (אור בלם/פנס אחורי)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (פנס חזית אור דרך, בסיס)",
+"headlight_low": "H7 (פנס חזית אור מעבר, בסיס)",
+"notes": "טבלת \"נורות חלופיות\" בספר הישראלי (אותו ספר שמצוטט בשורות לנוזלים): פנס חזית אור דרך (בסיסי) H7; פנס חזית אור מעבר (בסיסי) H7; אור חניה קדמי W21/5W; מהבהב פנייה קדמי PY21W; נסיעה לאחור W16W; לוחית רישוי W5W; ערפל אחורי P21W; אור בלם/פנס אחורי W21/5W; מהבהב פנייה אחורי W21W; פנס רוחב (אם יש) W5W. ספרי 2014/2015 (C140 2013-15) לא מדפיסים טבלת נורות – לא מופו.",
+"other_bulbs": [
+{
+"position": "אור חניה קדמי",
+"type": "W21/5W"
+},
+{
+"position": "מהבהב פנייה קדמי",
+"type": "PY21W"
+},
+{
+"position": "פנס נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "מהבהב פנייה אחורי",
+"type": "W21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "פנס רוחב (אם יש)",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-35 (PDF 203)",
+"source_title": "Chevrolet Captiva ספר רכב (OM_Captiva v.9 rev 4, he-IL, 2011) – נורות חלופיות",
+"source_url": "https://web.archive.org/web/20131005120701id_/http://chevrolet.co.il/Owners-area/Manuals/Chevrolet%20Captiva.pdf"
+},
 "CH-CRUZE-J300-14T-KR": {
 "brake_light": "P21/5W / W21/5W (21/5W)",
 "bulb_options": [
@@ -1957,6 +2086,233 @@
 "source_page": "255 (PDF 129, Specyfikacja żarówki)",
 "source_title": "OMODA 5 Hybrid – Instrukcja obsługi (Omoda & Jaecoo Polska, PL)",
 "source_url": "https://www.omodajaecoo.pl/fileadmin/instrukcje/Instrukcja_obs%C5%82ugi_-_OMODA_5_Hybrid.pdf"
+},
+"CH-MALIBU-LFV-IL16": {
+"brake_light": "W21W (פנס אור בלם/אחורי/מחוון כיוון אחורי – LS ו-LT) / LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "9005SL+ (פנסי חזית עם אורות מעבר ואורות דרך)",
+"headlight_low": "9005SL+ (פנסי חזית עם אורות מעבר ואורות דרך)",
+"notes": "טבלת \"נורות חלופיות\" בספר הישראלי 2016 (דור 9): פנסי חזית עם אורות מעבר ואורות דרך 9005SL+; מחוון כיוון קדמי ואור חניה (LS בלבד) 7444NA; סימון צד 194; אור בלם/אחורי/מחוון כיוון אחורי (LS ו-LT) W21W; נסיעה לאחור W16W; לוחית רישוי (LS ו-LT) W5W. לפי עמ' 237 \"רכב זה כולל מספר נורות LED\" – החלפה במרכז שירות. 2019+ (מתיחת פנים) לא מופה.",
+"other_bulbs": [
+{
+"position": "מחוון כיוון קדמי ואור חניה (LS בלבד)",
+"type": "7444NA"
+},
+{
+"position": "סימון צד קדמי ואחורי",
+"type": "194"
+},
+{
+"position": "אור נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי (LS ו-LT)",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "240 (PDF 240)",
+"source_title": "Chevrolet Malibu ספר רכב 2016 (GMNA-Localize-Israel-9371381, עברית) – נורות חלופיות",
+"source_url": "https://web.archive.org/web/20170102080501id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Malibu.pdf"
+},
+"CH-MALIBU-LT-LFV-IL16": {
+"brake_light": "W21W (פנס אור בלם/אחורי/מחוון כיוון אחורי – LS ו-LT) / LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "9005SL+ (פנסי חזית עם אורות מעבר ואורות דרך)",
+"headlight_low": "9005SL+ (פנסי חזית עם אורות מעבר ואורות דרך)",
+"notes": "טבלת \"נורות חלופיות\" בספר הישראלי 2016 (דור 9): פנסי חזית עם אורות מעבר ואורות דרך 9005SL+; מחוון כיוון קדמי ואור חניה (LS בלבד) 7444NA; סימון צד 194; אור בלם/אחורי/מחוון כיוון אחורי (LS ו-LT) W21W; נסיעה לאחור W16W; לוחית רישוי (LS ו-LT) W5W. לפי עמ' 237 \"רכב זה כולל מספר נורות LED\" – החלפה במרכז שירות. 2019+ (מתיחת פנים) לא מופה.",
+"other_bulbs": [
+{
+"position": "מחוון כיוון קדמי ואור חניה (LS בלבד)",
+"type": "7444NA"
+},
+{
+"position": "סימון צד קדמי ואחורי",
+"type": "194"
+},
+{
+"position": "אור נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי (LS ו-LT)",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "240 (PDF 240)",
+"source_title": "Chevrolet Malibu ספר רכב 2016 (GMNA-Localize-Israel-9371381, עברית) – נורות חלופיות",
+"source_url": "https://web.archive.org/web/20170102080501id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Malibu.pdf"
+},
+"CH-MALIBU-LTG-IL14": {
+"brake_light": "7440 (LS ו-LT) / LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LL 9005 (דגם בסיסי) / H7 LL (רמת אבזור גבוהה)",
+"headlight_low": "H11 LL",
+"notes": "טבלת \"נורות חלופיות\" בספר הרכב הישראלי (עברית): פנס חזית אור מעבר (דגם בסיסי ודגם ברמת אבזור גבוהה) H11 LL; פנס חזית אור דרך (דגם בסיסי) LL 9005; פנס חזית אור דרך (רמת אבזור גבוהה) H7 LL; פנס אור בלם/אור אחורי (LS ו-LT) 7440. בגרסאות HID אור המעבר לא מופיע בטבלה; לפי הספר \"פנס אור הבלם/האור האחורי הוא פנס LED\" בגרסאות שבהן הוא LED – החלפה במרכז שירות. זהה בספר 2015 (GMNA-Localizing-Israel-8087585) עמ' 10-26 (PDF 216).",
+"other_bulbs": [
+{
+"position": "אור נסיעה לאחור",
+"type": "921 LL"
+},
+{
+"position": "נורה אחורית במכסה תא המטען",
+"type": "194"
+},
+{
+"position": "DRL ופנס חניה (HID)",
+"type": "7443 ULL"
+},
+{
+"position": "ערפל קדמי",
+"type": "H10"
+},
+{
+"position": "אור חניה קדמי (רמת אבזור גבוהה)",
+"type": "7443"
+},
+{
+"position": "סימון צד קדמי",
+"type": "W5WLL"
+},
+{
+"position": "איתות קדמי (דגם בסיסי ודגם ברמת אבזור גבוהה)",
+"type": "7444NA"
+},
+{
+"position": "איתות קדמי (HID)",
+"type": "7443 NA"
+},
+{
+"position": "איתות אחורי",
+"type": "7443 NA"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-28 – 10-29 (PDF 234-235)",
+"source_title": "Chevrolet Malibu ספר רכב 2014 (BH301_14Malibu_Israel, עברית) – נורות חלופיות",
+"source_url": "https://web.archive.org/web/20170102081124id_/http://chevrolet.co.il/Owners-area/Manuals/2014/Malibu14.pdf"
+},
+"CH-MALIBU-LTG-IL15": {
+"brake_light": "7440 (LS ו-LT) / LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LL 9005 (דגם בסיסי) / H7 LL (רמת אבזור גבוהה)",
+"headlight_low": "H11 LL",
+"notes": "טבלת \"נורות חלופיות\" בספר הרכב הישראלי (עברית): פנס חזית אור מעבר (דגם בסיסי ודגם ברמת אבזור גבוהה) H11 LL; פנס חזית אור דרך (דגם בסיסי) LL 9005; פנס חזית אור דרך (רמת אבזור גבוהה) H7 LL; פנס אור בלם/אור אחורי (LS ו-LT) 7440. בגרסאות HID אור המעבר לא מופיע בטבלה; לפי הספר \"פנס אור הבלם/האור האחורי הוא פנס LED\" בגרסאות שבהן הוא LED – החלפה במרכז שירות. זהה בספר 2014 (BH301_14Malibu_Israel) עמ' 10-28 – 10-29.",
+"other_bulbs": [
+{
+"position": "אור נסיעה לאחור",
+"type": "921 LL"
+},
+{
+"position": "נורה אחורית במכסה תא המטען",
+"type": "194"
+},
+{
+"position": "DRL ופנס חניה (HID)",
+"type": "7443 ULL"
+},
+{
+"position": "ערפל קדמי",
+"type": "H10"
+},
+{
+"position": "אור חניה קדמי (רמת אבזור גבוהה)",
+"type": "7443"
+},
+{
+"position": "סימון צד קדמי",
+"type": "W5WLL"
+},
+{
+"position": "איתות קדמי (דגם בסיסי ודגם ברמת אבזור גבוהה)",
+"type": "7444NA"
+},
+{
+"position": "איתות קדמי (HID)",
+"type": "7443 NA"
+},
+{
+"position": "איתות אחורי",
+"type": "7443 NA"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-26 (PDF 216)",
+"source_title": "Chevrolet Malibu ספר רכב 2015 (GMNA-Localizing-Israel-8087585, עברית) – נורות חלופיות",
+"source_url": "https://web.archive.org/web/20170102135335id_/http://chevrolet.co.il/Owners-area/Manuals/2015/Malibu.pdf"
+},
+"CH-MALIBULT-V300-LE5-KR": {
+"brake_light": "7440 (LS ו-LT) / LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LL 9005 (דגם בסיסי) / H7 LL (רמת אבזור גבוהה)",
+"headlight_low": "H11 LL",
+"notes": "טבלת \"נורות חלופיות\" בספר הרכב הישראלי (עברית): פנס חזית אור מעבר (דגם בסיסי ודגם ברמת אבזור גבוהה) H11 LL; פנס חזית אור דרך (דגם בסיסי) LL 9005; פנס חזית אור דרך (רמת אבזור גבוהה) H7 LL; פנס אור בלם/אור אחורי (LS ו-LT) 7440. בגרסאות HID אור המעבר לא מופיע בטבלה; לפי הספר \"פנס אור הבלם/האור האחורי הוא פנס LED\" בגרסאות שבהן הוא LED – החלפה במרכז שירות. השורה (V300, 2012-2013) היא אותו דור 8 של מאליבו; הנורות נלקחו מהספר הישראלי 2014 של אותו דור (זהה ל-2015). נתוני הנוזלים בשורה מספר קוריאני – לא שונו.",
+"other_bulbs": [
+{
+"position": "אור נסיעה לאחור",
+"type": "921 LL"
+},
+{
+"position": "נורה אחורית במכסה תא המטען",
+"type": "194"
+},
+{
+"position": "DRL ופנס חניה (HID)",
+"type": "7443 ULL"
+},
+{
+"position": "ערפל קדמי",
+"type": "H10"
+},
+{
+"position": "אור חניה קדמי (רמת אבזור גבוהה)",
+"type": "7443"
+},
+{
+"position": "סימון צד קדמי",
+"type": "W5WLL"
+},
+{
+"position": "איתות קדמי (דגם בסיסי ודגם ברמת אבזור גבוהה)",
+"type": "7444NA"
+},
+{
+"position": "איתות קדמי (HID)",
+"type": "7443 NA"
+},
+{
+"position": "איתות אחורי",
+"type": "7443 NA"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "10-28 – 10-29 (PDF 234-235)",
+"source_title": "Chevrolet Malibu ספר רכב 2014 (BH301_14Malibu_Israel, עברית) – נורות חלופיות",
+"source_url": "https://web.archive.org/web/20170102081124id_/http://chevrolet.co.il/Owners-area/Manuals/2014/Malibu14.pdf"
 },
 "CH-ORLANDO-LNP-IL1213": {
 "brake_light": "P21/5W / W21/5W (21/5W, סוג 1) / LED (סוג 2)",
@@ -10835,36 +11191,122 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/hyundai/kona/suv-sx2-2023-04-01/"
 },
 "H-SF-CM-G24-UK": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W) / קסנון 35W (HID – סוג לא מודפס)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"Headlights (Low) 55 or 35 (HID); Headlights (High) 55\" – אור נמוך וגבוה בנורות נפרדות (לכן לא H4); \"Stop and tail lights 21/5\"; \"Back-up lights 16\"; \"Side repeater lights LED\"; \"High mounted stop light LED\". אותו ספר שמצוטט בשורות לנוזלים.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "חניה",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-2 (PDF 380)",
+"source_title": "Hyundai Santa Fe CM owner manual (Hyundai UK) – Bulb wattage",
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/Santa+Fe+CM+1-mergedpdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Santa Fe [CM] 2006-2012. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-SF-CM-R22-UK": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W) / קסנון 35W (HID – סוג לא מודפס)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"Headlights (Low) 55 or 35 (HID); Headlights (High) 55\" – אור נמוך וגבוה בנורות נפרדות (לכן לא H4); \"Stop and tail lights 21/5\"; \"Back-up lights 16\"; \"Side repeater lights LED\"; \"High mounted stop light LED\". אותו ספר שמצוטט בשורות לנוזלים.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "חניה",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-2 (PDF 380)",
+"source_title": "Hyundai Santa Fe CM owner manual (Hyundai UK) – Bulb wattage",
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/Santa+Fe+CM+1-mergedpdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Santa Fe [CM] 2006-2012. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -10971,6 +11413,116 @@
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Santa Fe [DM] 2012-2018. קדמיים 650/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"H-SF-TM-G24-IL": {
+"brake_light": "PY21/5W 21/5W (בלימה/אחורי, סוג A) / LED (סוג B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (סוג A) / LED (סוג B)",
+"headlight_low": "HB3 60W (סוג A) / LED (סוג B)",
+"notes": "טבלת \"הספק הנורות\" בספר הישראלי (אותו ספר שמצוטט בשורות לנוזלים): פנסים ראשיים אור נמוך/גבוה HB3 60W (סוג A) או LED (סוג B); איתות קדמי PY21W; ערפל H8 35W (A) / LED (B); פנס אחורי משולב: בלימה/אחורי PY21/5W 21/5W (A) / LED (B), אחורי \"5W5\" 5W (כך מודפס, A) / LED (B), איתות PY21W, נסיעה לאחור W16W; ערפל אחורי LED; בלם עילי LED; לוחית W5W.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות במראות",
+"type": "LED"
+},
+{
+"position": "DRL / חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (סוג A) / LED (סוג B)"
+},
+{
+"position": "אחורי (סוג A)",
+"type": "5W5 (כך בספר) 5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-3 (PDF 686)",
+"source_title": "Hyundai Santa Fe (TM) ספר רכב 2019-2020 (Colmobil, עברית) – הספק הנורות",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1716388807/ספר-רכב-סנטה-פה-2019-2020_5052df246/ספר-רכב-סנטה-פה-2019-2020_5052df246.pdf"
+},
+"H-SF-TM-R22-IL": {
+"brake_light": "PY21/5W 21/5W (בלימה/אחורי, סוג A) / LED (סוג B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (סוג A) / LED (סוג B)",
+"headlight_low": "HB3 60W (סוג A) / LED (סוג B)",
+"notes": "טבלת \"הספק הנורות\" בספר הישראלי (אותו ספר שמצוטט בשורות לנוזלים): פנסים ראשיים אור נמוך/גבוה HB3 60W (סוג A) או LED (סוג B); איתות קדמי PY21W; ערפל H8 35W (A) / LED (B); פנס אחורי משולב: בלימה/אחורי PY21/5W 21/5W (A) / LED (B), אחורי \"5W5\" 5W (כך מודפס, A) / LED (B), איתות PY21W, נסיעה לאחור W16W; ערפל אחורי LED; בלם עילי LED; לוחית W5W.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות במראות",
+"type": "LED"
+},
+{
+"position": "DRL / חניה",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (סוג A) / LED (סוג B)"
+},
+{
+"position": "אחורי (סוג A)",
+"type": "5W5 (כך בספר) 5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-3 (PDF 686)",
+"source_title": "Hyundai Santa Fe (TM) ספר רכב 2019-2020 (Colmobil, עברית) – הספק הנורות",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1716388807/ספר-רכב-סנטה-פה-2019-2020_5052df246/ספר-רכב-סנטה-פה-2019-2020_5052df246.pdf"
 },
 "H-SF-TMPE-D22-IL": {
 "brake_light": "P21/5W (סוג A) / LED (סוג B)",
@@ -18918,6 +19470,45 @@
 "source_title": "Kia Soul PS – Owner's manual MY2015 (en_GB)",
 "source_url": "https://ownersmanual.kia.com/full_pdf/PS/2015/en_GB"
 },
+"K-SOUL-PS-G4FG-GB19": {
+"brake_light": "P21/5W / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4LL 55/60W / H7LL 55W",
+"headlight_low": "H4LL 55/60W / H7LL 55W / D3S 35W (HID)",
+"notes": "אותו מקור וערכים כמו שורת האחות K-SOUL-PS-G4FD-GB (BW-9) – הספר חל על כל ה-Soul PS (כל המנועים). אומת בספר הפיני Soul 2015 (kia.com/…/help-books/soul-2015/Kaayttoohjekirja.pdf) עמ' 8-4 (PDF 588) \"POLTTIMOIDEN TEHOT\": Ajovalot (Lähi/Kauko) 55/60 H4LL; Ajovalot (lähi) 55 H7LL; XENON 35 D3S; Ajovalot (kauko) 55 H7LL; Takajarru-/seisontavalot 21/5 P21/5W; Takajarruvalot LED-tyyppi LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8L"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ׳ 8-4 (Bulb wattage)",
+"source_title": "Kia Soul PS – Owner's manual MY2015 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/PS/2015/en_GB"
+},
 "K-SPO-NQ5-D16": {
 "brake_light": "P21/5W 21/5 (סוג A); LED (סוג B)",
 "confidence": "manual-verbatim",
@@ -20458,6 +21049,45 @@
 "wiper_notes": "דגם לפי Bosch 2023: Kia Ceed [ED] 12.06-04.12. קדמיים 600/450 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"KF-SOUL-PS-D4FB-FI15": {
+"brake_light": "P21/5W / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4LL 55/60W / H7LL 55W",
+"headlight_low": "H4LL 55/60W / H7LL 55W / D3S 35W (HID)",
+"notes": "אותו מקור וערכים כמו שורת האחות K-SOUL-PS-G4FD-GB (BW-9) – הספר חל על כל ה-Soul PS (כל המנועים). אומת בספר הפיני Soul 2015 (kia.com/…/help-books/soul-2015/Kaayttoohjekirja.pdf) עמ' 8-4 (PDF 588) \"POLTTIMOIDEN TEHOT\": Ajovalot (Lähi/Kauko) 55/60 H4LL; Ajovalot (lähi) 55 H7LL; XENON 35 D3S; Ajovalot (kauko) 55 H7LL; Takajarru-/seisontavalot 21/5 P21/5W; Takajarruvalot LED-tyyppi LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8L"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ׳ 8-4 (Bulb wattage)",
+"source_title": "Kia Soul PS – Owner's manual MY2015 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/PS/2015/en_GB"
 },
 "KG-TORRES-HEV-G15DTF-IL": {
 "brake_light": "LED",
@@ -45849,6 +46479,191 @@
 ],
 "year_from": 2010,
 "year_to": 2013
+},
+{
+"data": {
+"brake_light": "P21/5W (Jarru- ja takavalot, polttimo) / LED (LED-tyyppi)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "טבלת \"POLTTIMOIDEN TEHOT\" (Teho / Polttimotyyppi) בספר הפיני הרשמי: Lähivalot 55 H7; Kaukovalot 55 H7; Jarru- ja takavalot (polttimo) 21/5 P21/5W; (LED) LED; Takasuuntavilkut 21 PY21; Peruutusvalot 16 \"92\" (כך מודפס); Rekisterikilven valot 5 W5W. ממופה ל-Soul (tozeret 885) שנים 2012-2013 בלבד (מתיחת הפנים של AM); 2009-2011 מספר 2009-2011.",
+"other_bulbs": [
+{
+"position": "איתות קדמי / חניה (נורה)",
+"type": "PY21/R10 21/10W"
+},
+{
+"position": "איתות קדמי / חניה (LED)",
+"type": "LED"
+},
+{
+"position": "איתות צד בכנף",
+"type": "W5W"
+},
+{
+"position": "איתות במראות",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W 27W"
+},
+{
+"position": "חניה אחורי",
+"type": "P21/5W, W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "\"92\" 16W (כך מודפס)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-2 (PDF 402)",
+"source_title": "Kia Soul (AM facelift) Käyttöohjekirja 2012-2014 (Kia Finland, official) – Polttimoiden tehot",
+"source_url": "https://www.kia.com/content/dam/kwcms/kme/fi/fi/assets/contents/service/service-care/help-books/soul-2012-2014/Kaayttoohjekirja.pdf"
+},
+"kinuy_re": "^SOUL$",
+"tozeret_cd": [
+885
+],
+"year_from": 2012,
+"year_to": 2013
+},
+{
+"data": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"Ajovalot (Kauko/Lähi) 60/55\" – נורה משולבת בהספק זה היא H4. Jarru- ja takavalot 21/5; Peruutusvalot 16; Rekisterikilven valot 5. ממופה ל-Soul (tozeret 885) 2009-2011 (לפני מתיחת הפנים; רכבי 2011 שהם כבר דגם 2012 – ראה ספר 2012-2014: H7/H7).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "חניה",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות צד",
+"type": "W5W / WY5W (5W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W (5W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-2 (PDF 161)",
+"source_title": "Kia Soul (AM) Käyttöohjekirja 2009-2011 (Kia Finland, official) – Lamppujen tehot",
+"source_url": "https://www.kia.com/content/dam/kwcms/kme/fi/fi/assets/contents/service/service-care/help-books/soul-2009-2011/Kaayttoohjekirja.pdf"
+},
+"kinuy_re": "^SOUL$",
+"tozeret_cd": [
+885
+],
+"year_from": 2009,
+"year_to": 2011
+},
+{
+"data": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"Lähivalo 55; Kaukovalo 55\" – נורות נפרדות (לכן לא H4); \"Jarru- ja seisontavalo 21/5\"; \"Peruutusvalo 16\"; \"Lisäjarruvalo 5\"; \"Rekisterikilven valo 5\". ממופה ל-H1 (tozeret 481) 2008-2014 בלבד; 2015+ (מתיחת פנים) לא מופה.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "חניה",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות צד",
+"type": "W5W / WY5W (5W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W (5W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-2 (PDF 305)",
+"source_title": "Hyundai H-1 (TQ) Käsikirja 2008-2010 (Hyundai Finland, official) – Lamppujen tehot",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/h1_kacc88sikirja_2008-2010.pdf"
+},
+"kinuy_re": "^H1$",
+"tozeret_cd": [
+481
+],
+"year_from": 2008,
+"year_to": 2014
 },
 {
 "data": {
