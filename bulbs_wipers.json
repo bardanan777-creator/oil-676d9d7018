@@ -3351,18 +3351,55 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "CI-C4CACTUS-HN01": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21W",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 425,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H1",
+"headlight_low": "H7",
+"notes": "בספר הישראלי ed01-19 (וגם ed01-17): \"אורות מעבר (H7)\", \"אורות דרך (H1)\", \"פנסי איתות פנייה (PY21W)\", \"פנסי ערפל (PS24W)\", תאורת יום/חניה LED; אחוריים \"פנסי בלימה (P21W)\", \"פנסי ערפל (LED)\", \"אורות חניה (LED)\", \"פנסי נסיעה לאחור (W16W)\", \"פנסי איתות פנייה (PY21W)\"; \"פנס בלימה עילי (LED)\", \"פנסי תאורת לוחית הרישוי (W5W)\". ספרי EN ed01-14/ed01-15/ed01-16 מדפיסים אותם H7/H1/P21W/PY21W/PS24W אך בפנס האחורי \"Sidelamps (W5W)\" ו-\"Foglamp or reversing lamp (P21W)\" – שני הנוסחים נשמרו בתווית. אור מעבר/דרך ובלם זהים בכל המהדורות 2014-2019.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PS24W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (ספרי IL ed01-17/ed01-19, EN ed02-17) / P21W (ספרי EN ed01-14..ed01-16: \"Foglamp or reversing lamp (P21W)\")"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED (ed01-17 ואילך) / P21W (ed01-14..ed01-16)"
+},
+{
+"position": "חניה אחורי",
+"type": "LED (ed01-17 ואילך) / W5W (ed01-14..ed01-16)"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "161, 163-164 (PDF 163, 165-166) ed01-19 IL; EN ed01-16 עמ' 198, 203-204",
+"source_title": "Citroën C4 Cactus ספר הוראות ed01-19 (he_il, servicebox) – החלפת נורה; אימות: ed01-17 IL, EN ed01-14/15/16, ed02-17",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/c4c/c4c_c4c/ed01-19/he_il/c4c_c4c_c4c_ed01-19_he_il.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Citroën C4 Cactus [E3] 2014-2020. קדמיים 650/425 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -27761,36 +27798,110 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/peugeot/3008/"
 },
 "PE-308-HN02": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 (הלוגן) / LED (Full LED)",
+"headlight_low": "H7 55W (הלוגן) / LED (Full LED)",
+"notes": "בספר: \"Model with halogen headlamps: Dipped beam headlamps (H7-55W). Main beam headlamps (HB3). Direction indicators (PY21-21W). Daytime running lamps / sidelamps (LEDs)\"; \"Model with full LED technology headlamps\" – מעבר/דרך LED; \"Front fog lamps (H11)\". אחורי (saloon ו-SW): \"Brake lamps (light emitting diodes LEDs)\", \"Reversing lamps (W16W)\", \"Direction indicators (PY21W amber)\", \"Foglamps (P21W)\", \"Third brake lamp (LED)\", \"Number plate lamps (W5W)\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "חניה אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "235, 240, 242, 244 (PDF 237, 242, 244, 246) ed01-14",
+"source_title": "Peugeot 308 Handbook ed01-14 (en_us, servicebox) – Changing a bulb",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/308n/308n_308/ed01-14/en_us/308n_308n_308_ed01-14_en_us.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Peugeot 308 II [T9] 07.13-2021. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "PE-308SW-HN02": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 (הלוגן) / LED (Full LED)",
+"headlight_low": "H7 55W (הלוגן) / LED (Full LED)",
+"notes": "בספר: \"Model with halogen headlamps: Dipped beam headlamps (H7-55W). Main beam headlamps (HB3). Direction indicators (PY21-21W). Daytime running lamps / sidelamps (LEDs)\"; \"Model with full LED technology headlamps\" – מעבר/דרך LED; \"Front fog lamps (H11)\". אחורי (saloon ו-SW): \"Brake lamps (light emitting diodes LEDs)\", \"Reversing lamps (W16W)\", \"Direction indicators (PY21W amber)\", \"Foglamps (P21W)\", \"Third brake lamp (LED)\", \"Number plate lamps (W5W)\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "חניה אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "235, 240, 242, 244 (PDF 237, 242, 244, 246) ed01-14",
+"source_title": "Peugeot 308 Handbook ed01-14 (en_us, servicebox) – Changing a bulb",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/308n/308n_308/ed01-14/en_us/308n_308n_308_ed01-14_en_us.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Peugeot 308 II [T9] 07.13-2021. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -44379,6 +44490,976 @@
 ],
 "year_from": 2017,
 "year_to": 2017
+},
+{
+"data": {
+"brake_light": "P21/5W 21/5W (בלם/חניה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "בספר הישראלי: פנסים קדמיים – אורות מעבר/דרך \"סוג H4 - 55W ,C\", אורות חניה \"W5W - 5W\", איתות פנייה \"PY21W - 21W (כתום)\", ערפל קדמי \"H1 - 55W\", איתות צדי \"WY5W 5W (כתום)\"; אחוריים – אור בלם/חנייה \"P21/5W - 21/5W\", איתות \"PY21W\", נסיעה לאחור \"P21W\", ערפל אחורי \"P21W\", לוחית רישוי \"W5W\", בלם שלישי \"W16W - 16W\". אותם ערכים בספרי EN של servicebox: ed01-12 (עמ' 150-153), ed01-14 (עמ' 152-155), ed01-17 (עמ' 150-154) – לכן לכל שנות B9 2012-2019. ממופה רק ל-degem של שורות B9 (לא K9).",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W (כתום)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W16W 16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "194-200 (PDF 196-202) ed01-16 IL",
+"source_title": "Citroën Berlingo (B9) ספר הוראות ed01-16 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/berlingo/berlingo_berlingo2tp/ed01-16/he_il/berlingo_berlingo_berlingo2tp_ed01-16_he_il.pdf"
+},
+"degem_cd": [
+"4",
+"6",
+"9",
+"19",
+"28",
+"37",
+"38",
+"39",
+"40",
+"41",
+"43",
+"44",
+"45",
+"46",
+"47",
+"53",
+"56",
+"57",
+"68",
+"69",
+"97",
+"98",
+"103",
+"104",
+"106",
+"120",
+"190"
+],
+"kinuy_re": "^BERLINGO$",
+"tozeret_cd": [
+496
+],
+"year_from": 2012,
+"year_to": 2018
+},
+{
+"data": {
+"brake_light": "P21/5W 21/5W (בלם/חניה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "בספר הישראלי: פנסים קדמיים – אורות מעבר/דרך \"סוג H4 - 55W ,C\", אורות חניה \"W5W - 5W\", איתות פנייה \"PY21W - 21W (כתום)\", ערפל קדמי \"H1 - 55W\", איתות צדי \"WY5W 5W (כתום)\"; אחוריים – אור בלם/חנייה \"P21/5W - 21/5W\", איתות \"PY21W\", נסיעה לאחור \"P21W\", ערפל אחורי \"P21W\", לוחית רישוי \"W5W\", בלם שלישי \"W16W - 16W\". אותם ערכים בספרי EN של servicebox: ed01-12 (עמ' 150-153), ed01-14 (עמ' 152-155), ed01-17 (עמ' 150-154) – לכן לכל שנות B9 2012-2019. ממופה רק ל-degem של שורות B9 (לא K9).",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W (כתום)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W16W 16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "194-200 (PDF 196-202) ed01-16 IL",
+"source_title": "Citroën Berlingo (B9) ספר הוראות ed01-16 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/berlingo/berlingo_berlingo2tp/ed01-16/he_il/berlingo_berlingo_berlingo2tp_ed01-16_he_il.pdf"
+},
+"degem_cd": [
+"41",
+"43",
+"46",
+"104",
+"106",
+"116"
+],
+"kinuy_re": "^BERLINGO$",
+"tozeret_cd": [
+496
+],
+"year_from": 2019,
+"year_to": 2019
+},
+{
+"data": {
+"brake_light": "P21/5W 21/5W (בלם/חניה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "בספר הישראלי: פנסים קדמיים – אורות מעבר/דרך \"סוג H4 - 55W ,C\", אורות חניה \"W5W - 5W\", איתות פנייה \"PY21W - 21W (כתום)\", ערפל קדמי \"H1 - 55W\", איתות צדי \"WY5W 5W (כתום)\"; אחוריים – אור בלם/חנייה \"P21/5W - 21/5W\", איתות \"PY21W\", נסיעה לאחור \"P21W\", ערפל אחורי \"P21W\", לוחית רישוי \"W5W\", בלם שלישי \"W16W - 16W\". אותם ערכים בספרי EN של servicebox: ed01-12 (עמ' 150-153), ed01-14 (עמ' 152-155), ed01-17 (עמ' 150-154) – לכן לכל שנות B9 2012-2019. ממופה רק ל-degem של שורות B9 (לא K9).",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W (כתום)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W16W 16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "194-200 (PDF 196-202) ed01-16 IL",
+"source_title": "Citroën Berlingo (B9) ספר הוראות ed01-16 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/berlingo/berlingo_berlingo2tp/ed01-16/he_il/berlingo_berlingo_berlingo2tp_ed01-16_he_il.pdf"
+},
+"degem_cd": [
+"1",
+"4"
+],
+"kinuy_re": "^BERLINGO$",
+"tozeret_cd": [
+279
+],
+"year_from": 2012,
+"year_to": 2018
+},
+{
+"data": {
+"brake_light": "P21/5W 21/5W (בלם/חניה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "בספר הישראלי Partner ed01-15: אותם ערכים כמו Berlingo B9 – H4 - 55W (מעבר/דרך), W5W חניה, PY21W איתות (כתום), H1 - 55W ערפל, WY5W איתות צדי; אחורי P21/5W בלם/חנייה, PY21W, P21W נסיעה לאחור, P21W ערפל, W5W לוחית, W16W בלם שלישי. מאושר גם ב-EN ed01-12 / ed02-14 של servicebox.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W (כתום)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W16W 16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "190-196 (PDF 192-198) ed01-15 IL",
+"source_title": "Peugeot Partner (B9) ספר הוראות ed01-15 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/partnervu/partnervu_partner2tp/ed01-15/he_il/partnervu_partnervu_partner2tp_ed01-15_he_il.pdf"
+},
+"degem_cd": [
+"1",
+"3",
+"5"
+],
+"kinuy_re": "^PARTNER$",
+"tozeret_cd": [
+743
+],
+"year_from": 2012,
+"year_to": 2015
+},
+{
+"data": {
+"brake_light": "P21/5W 21/5W (בלם/חניה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "בספר הישראלי Partner ed01-15: אותם ערכים כמו Berlingo B9 – H4 - 55W (מעבר/דרך), W5W חניה, PY21W איתות (כתום), H1 - 55W ערפל, WY5W איתות צדי; אחורי P21/5W בלם/חנייה, PY21W, P21W נסיעה לאחור, P21W ערפל, W5W לוחית, W16W בלם שלישי. מאושר גם ב-EN ed01-12 / ed02-14 של servicebox.",
+"other_bulbs": [
+{
+"position": "חניה קדמי",
+"type": "W5W 5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W (כתום)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W16W 16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "190-196 (PDF 192-198) ed01-15 IL",
+"source_title": "Peugeot Partner (B9) ספר הוראות ed01-15 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/partnervu/partnervu_partner2tp/ed01-15/he_il/partnervu_partnervu_partner2tp_ed01-15_he_il.pdf"
+},
+"degem_cd": [
+"1"
+],
+"kinuy_re": "^PARTNER$",
+"tozeret_cd": [
+335
+],
+"year_from": 2012,
+"year_to": 2015
+},
+{
+"data": {
+"brake_light": "12VP21/5W (בלם/חניה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "בספר: \"Direction indicators (H21W amber)\", \"Dipped beam headlamps (H7-55W)\", \"Main beam headlamps (H1-55W)\", \"Sidelamps (W5W)\", \"Foglamps (PSX24W)\", \"LED daytime running lamps\"; אחורי \"Brake lamps / sidelamps (12VP21/5W)\", \"Foglamp, right-hand side (PR21W)\", \"Reversing lamp, left-hand side (P21W)\", \"Direction indicators (P21W)\", \"third brake lamp bulbs (4 W5W bulbs)\", \"number plate lamp bulbs (W5W)\". זהה במהדורות ed01-11 (עמ' 142, 145-146), ed01-12 (עמ' 163, 168-169), ed01-14 (עמ' 162, 167-168). שנת 2010 לא כוסתה (אין מהדורה זמינה).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "H21W (כתום)"
+},
+{
+"position": "חניה קדמי",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PSX24W"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי (ימין)",
+"type": "PR21W"
+},
+{
+"position": "נסיעה לאחור (שמאל)",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "4 × W5W"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "169, 174-175 (PDF 171, 176-177) ed01-15",
+"source_title": "Citroën C3 Picasso Handbook ed01-15 (en_us, servicebox) – Changing a bulb",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/c3picasso/c3picasso_c3picasso/ed01-15/en_us/c3picasso_c3picasso_c3picasso_ed01-15_en_us.pdf"
+},
+"degem_cd": [
+"1",
+"3",
+"6",
+"7",
+"9",
+"12",
+"13",
+"20",
+"40"
+],
+"kinuy_re": "^C3 PICASSO$",
+"tozeret_cd": [
+516
+],
+"year_from": 2011,
+"year_to": 2018
+},
+{
+"data": {
+"brake_light": "P21/5W (בלם/חניה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "קריאה מתמונת העמוד (גופן עברי ישן): פנסים קדמיים – \"פנסי איתות פנייה (PY21W כתום)\", \"אורות דרך (H1-55W)\", \"אורות מעבר (H7-55W)\", \"פנסי תאורת יום/חניה (W21-5W) או אורות חניה (W5W)\", \"פנסי ערפל (H11-55W)\"; אחוריים – \"פנסי אור בלימה/אורות חניה (P21/5W)\", \"פנסי איתות פנייה (PY21W כתום)\", \"אור נסיעה לאחור (R10W)\", \"פנס ערפל (P21W)\"; \"החלפת אור בלם שלישי (5 נורות W5W)\", \"תאורת לוחית רישוי (W5W)\". ספר C-Elysée הישראלי ed01-14 (עמ' 136, 140) מדפיס אותם ערכים – לכן 2012-2018.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "W21/5W (מודפס \"W21-5W\") או חניה W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "R10W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W (5 נורות)"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "144, 148-149 (PDF 146, 150-151) ed01-16 IL",
+"source_title": "Peugeot 301 ספר הוראות ed01-16 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/301/301_301/ed01-16/he_il/301_301_301_ed01-16_he_il.pdf"
+},
+"degem_cd": [
+"7",
+"8",
+"9",
+"12",
+"13",
+"14",
+"15",
+"16",
+"19",
+"22",
+"23",
+"24",
+"25",
+"26",
+"27"
+],
+"kinuy_re": "^301$",
+"tozeret_cd": [
+743
+],
+"year_from": 2012,
+"year_to": 2018
+},
+{
+"data": {
+"brake_light": "P21/5W (בלם/חניה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "קריאה מתמונת העמוד: \"פנסי איתות פנייה (PY21W כתום)\", \"אורות דרך (H1-55W)\", \"אורות מעבר (H7-55W)\", \"פנסי תאורת יום/חניה (W21-5W) או אורות חניה (W5W)\", \"פנסי ערפל (H11-55W)\"; אחוריים \"פנסי איתות פנייה (PY21W כתום)\", \"אור נסיעה לאחור (R10W)\", \"פנס ערפל (P21W)\", \"אורות חניה (P21/5W)\", \"פנסי אור בלימה/אורות חניה (P21/5W)\". זהה לספר Peugeot 301 הישראלי ed01-16 (תאום).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "W21/5W (מודפס \"W21-5W\") או חניה W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "R10W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "W5W (5 נורות)"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "136, 140-141 (PDF 138, 142-143) ed01-14 IL",
+"source_title": "Citroën C-Elysée ספר הוראות ed01-14 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/ce/ce_ce/ed01-14/he_il/ce_ce_ce_ed01-14_he_il.pdf"
+},
+"degem_cd": [
+"9",
+"14",
+"17",
+"18",
+"39",
+"54",
+"88"
+],
+"kinuy_re": "^C-ELYSEE$",
+"tozeret_cd": [
+496
+],
+"year_from": 2012,
+"year_to": 2017
+},
+{
+"data": {
+"brake_light": "P21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1",
+"headlight_low": "H7",
+"notes": "בספר הישראלי ed01-19 (וגם ed01-17): \"אורות מעבר (H7)\", \"אורות דרך (H1)\", \"פנסי איתות פנייה (PY21W)\", \"פנסי ערפל (PS24W)\", תאורת יום/חניה LED; אחוריים \"פנסי בלימה (P21W)\", \"פנסי ערפל (LED)\", \"אורות חניה (LED)\", \"פנסי נסיעה לאחור (W16W)\", \"פנסי איתות פנייה (PY21W)\"; \"פנס בלימה עילי (LED)\", \"פנסי תאורת לוחית הרישוי (W5W)\". ספרי EN ed01-14/ed01-15/ed01-16 מדפיסים אותם H7/H1/P21W/PY21W/PS24W אך בפנס האחורי \"Sidelamps (W5W)\" ו-\"Foglamp or reversing lamp (P21W)\" – שני הנוסחים נשמרו בתווית. אור מעבר/דרך ובלם זהים בכל המהדורות 2014-2019.",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "PS24W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (ספרי IL ed01-17/ed01-19, EN ed02-17) / P21W (ספרי EN ed01-14..ed01-16: \"Foglamp or reversing lamp (P21W)\")"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED (ed01-17 ואילך) / P21W (ed01-14..ed01-16)"
+},
+{
+"position": "חניה אחורי",
+"type": "LED (ed01-17 ואילך) / W5W (ed01-14..ed01-16)"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "161, 163-164 (PDF 163, 165-166) ed01-19 IL; EN ed01-16 עמ' 198, 203-204",
+"source_title": "Citroën C4 Cactus ספר הוראות ed01-19 (he_il, servicebox) – החלפת נורה; אימות: ed01-17 IL, EN ed01-14/15/16, ed02-17",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/c4c/c4c_c4c/ed01-19/he_il/c4c_c4c_c4c_ed01-19_he_il.pdf"
+},
+"degem_cd": [
+"36",
+"52",
+"62",
+"63",
+"94",
+"99",
+"124",
+"125",
+"126",
+"139"
+],
+"kinuy_re": "^C4 CACTUS$",
+"tozeret_cd": [
+496
+],
+"year_from": 2014,
+"year_to": 2021
+},
+{
+"data": {
+"brake_light": "P21W (מהדורות ed01-13/14) / LED (ed01-16/18)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר IL ed01-16 (קריאה מתמונה, גופן ישן): \"אורות מעבר (H7-55W)\", \"אורות דרך (H7-55W)\"; פנס אחורי – אור בלימה LED בגרסאות המאוחרות. ספרי EN servicebox ed01-13 / ed01-14: \"Dipped beam (H7-55W)\", \"Main beam (H7-55W)\", \"Brake lamps (P21W)\". לכן בלם: P21W במהדורות 2013-2014, LED במהדורות ed01-16/ed01-18.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "154, 158 ed01-16 IL; EN ed01-13 / ed01-14 (Changing a bulb)",
+"source_title": "Peugeot 208 ספר הוראות ed01-16 (he_il, servicebox) – החלפת נורה; אימות EN ed01-13/14",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/208/208_208/ed01-16/he_il/208_208_208_ed01-16_he_il.pdf"
+},
+"degem_cd": [
+"1",
+"3",
+"7",
+"12",
+"13",
+"14",
+"16",
+"17",
+"23",
+"25",
+"27",
+"31"
+],
+"kinuy_re": "^208$",
+"tozeret_cd": [
+237
+],
+"year_from": 2013,
+"year_to": 2018
+},
+{
+"data": {
+"brake_light": "P21W (מהדורות ed01-13/14) / LED (ed01-16/18)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר IL ed01-16 (קריאה מתמונה, גופן ישן): \"אורות מעבר (H7-55W)\", \"אורות דרך (H7-55W)\"; פנס אחורי – אור בלימה LED בגרסאות המאוחרות. ספרי EN servicebox ed01-13 / ed01-14: \"Dipped beam (H7-55W)\", \"Main beam (H7-55W)\", \"Brake lamps (P21W)\". לכן בלם: P21W במהדורות 2013-2014, LED במהדורות ed01-16/ed01-18.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "154, 158 ed01-16 IL; EN ed01-13 / ed01-14 (Changing a bulb)",
+"source_title": "Peugeot 208 ספר הוראות ed01-16 (he_il, servicebox) – החלפת נורה; אימות EN ed01-13/14",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/208/208_208/ed01-16/he_il/208_208_208_ed01-16_he_il.pdf"
+},
+"degem_cd": [
+"5",
+"6",
+"16",
+"32",
+"33",
+"34",
+"49",
+"78",
+"84",
+"129"
+],
+"kinuy_re": "^208$",
+"tozeret_cd": [
+739
+],
+"year_from": 2013,
+"year_to": 2018
+},
+{
+"data": {
+"brake_light": "P21W / LED (לפי גרסה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "אורות מעבר H7-55W ואורות דרך H7-55W בכל המהדורות; אור בלימה P21W או LED לפי גרסת הפנס האחורי (כך בספר).",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "201, 205 ed01-17 IL; 147, 149 ed01-18 IL; EN ed01-13 / ed01-14",
+"source_title": "Peugeot 2008 ספר הוראות ed01-17 (he_il, servicebox) – החלפת נורה; אימות ed01-18 IL, EN ed01-13/14",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/2008/2008_2008/ed01-17/he_il/2008_2008_2008_ed01-17_he_il.pdf"
+},
+"degem_cd": [
+"18",
+"19",
+"24",
+"27",
+"35",
+"36",
+"45",
+"65",
+"66",
+"67",
+"88",
+"104",
+"143"
+],
+"kinuy_re": "^2008$",
+"tozeret_cd": [
+739
+],
+"year_from": 2014,
+"year_to": 2019
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 65W (הלוגן) / LED",
+"headlight_low": "H7 55W (הלוגן, דגם D/E) / LED (דגם A/B/C)",
+"notes": "בספר מוצגים סוגי פנס קדמי A-E: דגמים עם פנסי LED (A/B/C) – מעבר ודרך LED; דגמי הלוגן (D/E) – אורות מעבר H7 55W, אורות דרך HB3 65W. אור בלימה LED.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "163-165 ed01-20 IL",
+"source_title": "Citroën C5 Aircross ספר הוראות ed01-20 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/c5ac.c8/c84/ed01-20/he_il/c5ac.c8_c84_ed01-20_he_il.pdf"
+},
+"degem_cd": [
+"142",
+"147",
+"148",
+"156",
+"157",
+"166",
+"177",
+"202",
+"203",
+"226"
+],
+"kinuy_re": "^C5 AIRCROSS$",
+"tozeret_cd": [
+817
+],
+"year_from": 2019,
+"year_to": 2022
+},
+{
+"data": {
+"brake_light": "LED (+ P21/5W בפנסים הנוספים)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (Full LED) / D5S 25W (קסנון)",
+"headlight_low": "LED (Full LED) / D5S 25W (קסנון)",
+"notes": "בספר: \"דגם בעל פנסים בטכנולוגיית Full LED\" – איתות, מעבר/דרך, תאורת יום, ערפל, אורות דרך נוספים: כולם LED; \"דגם עם פנסי הלוגן וקסנון\" – \"אורות מעבר / אורות דרך (D5S 25W)\", \"פנסי איתות פנייה (PY21W)\", \"אורות דרך נוספים (H7)\", תאורת יום LED, ערפל LED. אחוריים עיקריים – בלימה, חניה, איתות, נסיעה לאחור: LED; נוספים – \"פנסי בלימה / אורות חניה נוספים (P21/5W)\", \"פנסי איתות פנייה נוספים (PY21W)\", \"פנסי ערפל (W16W)\". זהה בספר IL ed02-17 עמ' 246-247. נורת קסנון D5S – החלפה במרכז שירות בלבד.",
+"other_bulbs": [
+{
+"position": "אורות דרך נוספים",
+"type": "H7 (גרסת קסנון) / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W (גרסת קסנון) / LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "בלימה/חניה נוספים (אחורי)",
+"type": "P21/5W"
+},
+{
+"position": "איתות נוסף אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "168-169 (PDF 170-171) ed01-19 IL",
+"source_title": "DS 7 Crossback ספר הוראות ed01-19 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/DSddb/modeles/ds7/x74/ed01-19/he_il/ds7_x74_ed01-19_he_il.pdf"
+},
+"degem_cd": [
+"16",
+"17",
+"19",
+"20",
+"21",
+"25",
+"26",
+"29",
+"30",
+"31",
+"32",
+"33",
+"34",
+"35",
+"36",
+"37",
+"42",
+"44",
+"45",
+"49",
+"51"
+],
+"kinuy_re": "^DS7$",
+"tozeret_cd": [
+57
+],
+"year_from": 2018,
+"year_to": 2021
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED (Full LED)",
+"headlight_low": "H7 55W (הלוגן) / LED (Full LED)",
+"notes": "בספר: \"Model with halogen headlamps: Dipped beam headlamps (H7-55W). Main beam headlamps (HB3). Direction indicators (PY21-21W). Daytime running lamps / sidelamps (LEDs)\"; \"Model with full LED technology headlamps\" – מעבר/דרך LED; \"Front fog lamps (H11)\". אחורי (saloon ו-SW): \"Brake lamps (light emitting diodes LEDs)\", \"Reversing lamps (W16W)\", \"Direction indicators (PY21W amber)\", \"Foglamps (P21W)\", \"Third brake lamp (LED)\", \"Number plate lamps (W5W)\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "חניה אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "235, 240, 242, 244 (PDF 237, 242, 244, 246) ed01-14",
+"source_title": "Peugeot 308 Handbook ed01-14 (en_us, servicebox) – Changing a bulb",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/308n/308n_308/ed01-14/en_us/308n_308n_308_ed01-14_en_us.pdf"
+},
+"degem_cd": [
+"47",
+"89",
+"96",
+"172",
+"202"
+],
+"kinuy_re": "^308$",
+"tozeret_cd": [
+739
+],
+"year_from": 2014,
+"year_to": 2019
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED (Full LED)",
+"headlight_low": "H7 55W (הלוגן) / LED (Full LED)",
+"notes": "בספר: \"Model with halogen headlamps: Dipped beam headlamps (H7-55W). Main beam headlamps (HB3). Direction indicators (PY21-21W). Daytime running lamps / sidelamps (LEDs)\"; \"Model with full LED technology headlamps\" – מעבר/דרך LED; \"Front fog lamps (H11)\". אחורי (saloon ו-SW): \"Brake lamps (light emitting diodes LEDs)\", \"Reversing lamps (W16W)\", \"Direction indicators (PY21W amber)\", \"Foglamps (P21W)\", \"Third brake lamp (LED)\", \"Number plate lamps (W5W)\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "חניה אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (כתום)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "פנס בלימה שלישי",
+"type": "LED"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "235, 240, 242, 244 (PDF 237, 242, 244, 246) ed01-14",
+"source_title": "Peugeot 308 Handbook ed01-14 (en_us, servicebox) – Changing a bulb",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/308n/308n_308/ed01-14/en_us/308n_308n_308_ed01-14_en_us.pdf"
+},
+"degem_cd": [
+"46",
+"97",
+"142"
+],
+"kinuy_re": "^308 ?SW$",
+"tozeret_cd": [
+739
+],
+"year_from": 2015,
+"year_to": 2019
 },
 {
 "data": {
