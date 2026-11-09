@@ -54473,18 +54473,43 @@
 "source_url": "https://public.servicebox.peugeot.com/APddb/modeles/5008/eGuide_5008_5008n_ed01-17/pdfs/9999_9999_187_en-GB.pdf"
 },
 "PE-ALL-5GF-EP6FADTXD-OPELCG4-X": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED (3008 / 5008 / 508)",
+"confidence": "medium-high",
 "front_wipers_driver_mm": 700,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "3008 / 5008: HB3 (הלוגן) / LED (Full LED) · 508: H7 (הלוגן) / LED (Full LED)",
+"headlight_low": "3008 / 5008: H7 (הלוגן) / LED (Full LED) · 508: H7 (הלוגן) / LED (Full LED)",
+"notes": "שורה רב-דגמית (מנוע 5GF): הערכים מסומנים לפי דגם, כל אחד מספר ההוראות הישראלי שלו. 3008/5008: בספר: \"דגם בעל פנסים בטכנולוגיית 'Full LED'\" (החלפה במרכז שירות בלבד) ו-\"דגם בעל פנסי הלוגן\": \"1. פנסי תאורת יום / אורות חניה (LED) 2. אורות מעבר (H7) 3. אורות דרך (HB3) 4. פנסי איתות פנייה (PWY24W) 5. פנסי ערפל (H11)\"; אחוריים: \"1. פנסי בלימה (LED) 2. אורות חניה / פנסי תאורת יום (LED) 3. פנסי איתות פנייה (WY16W ענבר) 4. פנסי נסיעה לאחור (W16W) 5. פנסי ערפל (P21W)\"; \"פנסי תאורת לוחית הרישוי (W5W)\". 508: \"1. תאורת יום / אורות חניה (LED) 2. אורות דרך (H7) 3. אורות מעבר (H7) 4. פנסי איתות פנייה (PWY24W)\"; אחוריים: \"פנסי איתות פנייה (LED), פנסי בלימה (LED), אורות חניה / פנסי תאורת יום (LED), פנסי נסיעה לאחור (P21W), פנסי ערפל (P21W)\"; דגמי Full LED – החלפה במרכז שירות. ספר IL ed01-19 הוא של הדגם לפני מתיחת הפנים; לשנים 2021-2023 (אחרי מתיחת פנים) אין ספר IL נגיש – אותם ערכים כמו בשורות האחיות PE-3008-HN05 / PE-3008-YH01 / PE-5008-HN05 (ספרי en-GB ed.01-17 / ed.01-20; ספר 2020 מתאר LED בלבד) – לבדוק סוג פנס ברכב.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PWY24W (3008 / 5008 / 508)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 (3008 / 5008)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W ענבר (3008 / 5008) · LED (508)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (3008 / 5008) · P21W (508)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W (3008 / 5008 / 508)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (3008 / 5008)"
+}
+],
 "rear_wiper_mm": 280,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "3008 + 5008: 190-194 (PDF 192-196); 508: 167-169 (PDF 169-171)",
+"source_title": "Peugeot 3008 / 5008 / 508 ספרי הוראות ed01-19 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/3008/3008_p84/ed01-19/he_il/3008_3008_p84_ed01-19_he_il.pdf ; https://public.servicebox.peugeot.com/APddb/modeles/5008/5008_5008n/ed01-19/he_il/5008_5008_5008n_ed01-19_he_il.pdf ; https://public.servicebox.peugeot.com/APddb/modeles/508.r8/r823/ed01-19/he_il/508.r8_r823_ed01-19_he_il.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם: Peugeot 3008 II [P84] 2016-2024. קדמיים 700/400 מ״מ, אחורי 280 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24 (A557S, 700/400), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Valeo 2024-25 (אחורי 280) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. Valeo מציין 680/425 מ״מ ו-Bosch מציין אחורי 230 מ״מ – נבחרו המידות שבהן שני מקורות תואמים.",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 (A557S, 700/400) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Valeo 2024-25 (אחורי 280)",
@@ -73279,6 +73304,296 @@
 ],
 "year_from": 2017,
 "year_to": 2020
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED (Full LED)",
+"headlight_low": "H7 (הלוגן) / LED (Full LED)",
+"notes": "בספר: \"דגם בעל פנסים בטכנולוגיית 'Full LED'\" (החלפה במרכז שירות בלבד) ו-\"דגם בעל פנסי הלוגן\": \"1. פנסי תאורת יום / אורות חניה (LED) 2. אורות מעבר (H7) 3. אורות דרך (HB3) 4. פנסי איתות פנייה (PWY24W) 5. פנסי ערפל (H11)\"; אחוריים: \"1. פנסי בלימה (LED) 2. אורות חניה / פנסי תאורת יום (LED) 3. פנסי איתות פנייה (WY16W ענבר) 4. פנסי נסיעה לאחור (W16W) 5. פנסי ערפל (P21W)\"; \"פנסי תאורת לוחית הרישוי (W5W)\". ",
+"other_bulbs": [
+{
+"position": "תאורת יום / חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PWY24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "בלימה",
+"type": "LED"
+},
+{
+"position": "חניה / תאורת יום אחורי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W (ענבר)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "190-194 (PDF 192-196)",
+"source_title": "Peugeot 3008 ספר הוראות ed01-19 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/3008/3008_p84/ed01-19/he_il/3008_3008_p84_ed01-19_he_il.pdf"
+},
+"degem_cd": [
+"163",
+"166",
+"176",
+"179",
+"204",
+"213",
+"214",
+"218",
+"224",
+"235",
+"237",
+"243"
+],
+"kinuy_re": "^3008$",
+"tozeret_cd": [
+739
+],
+"year_from": 2018,
+"year_to": 2020
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן, לפי ספר 2019) / LED (Full LED)",
+"headlight_low": "H7 (הלוגן, לפי ספר 2019) / LED (Full LED)",
+"notes": "בספר: \"דגם בעל פנסים בטכנולוגיית 'Full LED'\" (החלפה במרכז שירות בלבד) ו-\"דגם בעל פנסי הלוגן\": \"1. פנסי תאורת יום / אורות חניה (LED) 2. אורות מעבר (H7) 3. אורות דרך (HB3) 4. פנסי איתות פנייה (PWY24W) 5. פנסי ערפל (H11)\"; אחוריים: \"1. פנסי בלימה (LED) 2. אורות חניה / פנסי תאורת יום (LED) 3. פנסי איתות פנייה (WY16W ענבר) 4. פנסי נסיעה לאחור (W16W) 5. פנסי ערפל (P21W)\"; \"פנסי תאורת לוחית הרישוי (W5W)\". ספר IL ed01-19 הוא של הדגם לפני מתיחת הפנים; לשנים 2021-2023 (אחרי מתיחת פנים) אין ספר IL נגיש – אותם ערכים כמו בשורות האחיות PE-3008-HN05 / PE-3008-YH01 / PE-5008-HN05 (ספרי en-GB ed.01-17 / ed.01-20; ספר 2020 מתאר LED בלבד) – לבדוק סוג פנס ברכב.",
+"other_bulbs": [
+{
+"position": "תאורת יום / חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PWY24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "בלימה",
+"type": "LED"
+},
+{
+"position": "חניה / תאורת יום אחורי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W (ענבר)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "190-194 (PDF 192-196)",
+"source_title": "Peugeot 3008 ספר הוראות ed01-19 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/3008/3008_p84/ed01-19/he_il/3008_3008_p84_ed01-19_he_il.pdf"
+},
+"degem_cd": [
+"218",
+"224",
+"237",
+"243",
+"253",
+"263",
+"275",
+"277",
+"286",
+"289",
+"297",
+"304",
+"308"
+],
+"kinuy_re": "^3008$",
+"tozeret_cd": [
+739
+],
+"year_from": 2021,
+"year_to": 2023
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן) / LED (Full LED)",
+"headlight_low": "H7 (הלוגן) / LED (Full LED)",
+"notes": "בספר: \"דגם בעל פנסים בטכנולוגיית 'Full LED'\" (החלפה במרכז שירות בלבד) ו-\"דגם בעל פנסי הלוגן\": \"1. פנסי תאורת יום / אורות חניה (LED) 2. אורות מעבר (H7) 3. אורות דרך (HB3) 4. פנסי איתות פנייה (PWY24W) 5. פנסי ערפל (H11)\"; אחוריים: \"1. פנסי בלימה (LED) 2. אורות חניה / פנסי תאורת יום (LED) 3. פנסי איתות פנייה (WY16W ענבר) 4. פנסי נסיעה לאחור (W16W) 5. פנסי ערפל (P21W)\"; \"פנסי תאורת לוחית הרישוי (W5W)\". ",
+"other_bulbs": [
+{
+"position": "תאורת יום / חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PWY24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "בלימה",
+"type": "LED"
+},
+{
+"position": "חניה / תאורת יום אחורי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W (ענבר)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "190-194 (PDF 192-196)",
+"source_title": "Peugeot 5008 ספר הוראות ed01-19 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/5008/5008_5008n/ed01-19/he_il/5008_5008_5008n_ed01-19_he_il.pdf"
+},
+"degem_cd": [
+"167",
+"168",
+"182",
+"208",
+"209",
+"225",
+"226",
+"227",
+"232"
+],
+"kinuy_re": "^5008$",
+"tozeret_cd": [
+739
+],
+"year_from": 2018,
+"year_to": 2020
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (הלוגן, לפי ספר 2019) / LED (Full LED)",
+"headlight_low": "H7 (הלוגן, לפי ספר 2019) / LED (Full LED)",
+"notes": "בספר: \"דגם בעל פנסים בטכנולוגיית 'Full LED'\" (החלפה במרכז שירות בלבד) ו-\"דגם בעל פנסי הלוגן\": \"1. פנסי תאורת יום / אורות חניה (LED) 2. אורות מעבר (H7) 3. אורות דרך (HB3) 4. פנסי איתות פנייה (PWY24W) 5. פנסי ערפל (H11)\"; אחוריים: \"1. פנסי בלימה (LED) 2. אורות חניה / פנסי תאורת יום (LED) 3. פנסי איתות פנייה (WY16W ענבר) 4. פנסי נסיעה לאחור (W16W) 5. פנסי ערפל (P21W)\"; \"פנסי תאורת לוחית הרישוי (W5W)\". ספר IL ed01-19 הוא של הדגם לפני מתיחת הפנים; לשנים 2021-2023 (אחרי מתיחת פנים) אין ספר IL נגיש – אותם ערכים כמו בשורות האחיות PE-3008-HN05 / PE-3008-YH01 / PE-5008-HN05 (ספרי en-GB ed.01-17 / ed.01-20; ספר 2020 מתאר LED בלבד) – לבדוק סוג פנס ברכב.",
+"other_bulbs": [
+{
+"position": "תאורת יום / חניה קדמי",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PWY24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "בלימה",
+"type": "LED"
+},
+{
+"position": "חניה / תאורת יום אחורי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W (ענבר)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "190-194 (PDF 192-196)",
+"source_title": "Peugeot 5008 ספר הוראות ed01-19 (he_il, servicebox) – החלפת נורה",
+"source_url": "https://public.servicebox.peugeot.com/APddb/modeles/5008/5008_5008n/ed01-19/he_il/5008_5008_5008n_ed01-19_he_il.pdf"
+},
+"degem_cd": [
+"167",
+"208",
+"225",
+"232",
+"252",
+"266",
+"279",
+"282",
+"285",
+"295",
+"303",
+"327"
+],
+"kinuy_re": "^5008$",
+"tozeret_cd": [
+739
+],
+"year_from": 2021,
+"year_to": 2023
 },
 {
 "data": {
