@@ -1,4 +1,817 @@
 {
+"AR-159-939A000-AT-ALFAR0ME0159-2009": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A000-MT-159-2008": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A5000": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A5000-15922JTS-2007": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A5000-ALFA159-2007": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A5000-ALIAS-ALFA_R0ME0_159": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A5000-YALIAS-2008": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A5000-YALIAS-2008-KALIAS-15922JTS-2008-0": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A5000-YALIAS-2008-KALIAS-15922JTS-2008-1": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A5000-YALIAS-2008-KALIAS-ALFA159-2008-4": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A5000-YALIAS-2008-KALIAS-SELESPEED159-2008-42": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-159-939A6000-2007": {
+"brake_light": "P21/5W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Bixenon D1S\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור גבוה נוסף",
+"type": "H1 55W (אם קיים)"
+},
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H7 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 196",
+"source_title": "Alfa Romeo 159 Owner Handbook 604.31.518 (2005) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/140_ALFA159/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG/83_140_ALFA159_604.31.518_EN_02_09.05_L_LG.pdf"
+},
+"AR-GIULIETTA-940A1000": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H1 55W\", \"Bi-Xenon D1S\", \"Brake/Stop lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום קדמית",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W 24W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W 10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "176 (PDF 180)",
+"source_title": "Alfa Romeo Giulietta Owner Handbook 604.38.300 – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/191_GIULIETTA/83_191_GIULIETTA_604.38.300_EN_06_11.11_L_LG/83_191_GIULIETTA_604.38.300_EN_06_11.11_L_LG.pdf"
+},
+"AR-GIULIETTA-940A2000-A": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H1 55W\", \"Bi-Xenon D1S\", \"Brake/Stop lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום קדמית",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W 24W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W 10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "176 (PDF 180)",
+"source_title": "Alfa Romeo Giulietta Owner Handbook 604.38.300 – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/191_GIULIETTA/83_191_GIULIETTA_604.38.300_EN_06_11.11_L_LG/83_191_GIULIETTA_604.38.300_EN_06_11.11_L_LG.pdf"
+},
+"AR-GIULIETTA-940A2000-ALIAS-LFA": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H1 55W\", \"Bi-Xenon D1S\", \"Brake/Stop lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום קדמית",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W 24W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W 10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "176 (PDF 180)",
+"source_title": "Alfa Romeo Giulietta Owner Handbook 604.38.300 – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/191_GIULIETTA/83_191_GIULIETTA_604.38.300_EN_06_11.11_L_LG/83_191_GIULIETTA_604.38.300_EN_06_11.11_L_LG.pdf"
+},
 "AR-GIULIETTA-940A2000-B": {
 "brake_light": "LED",
 "confidence": "manual-verbatim",
@@ -53,6 +866,533 @@
 "source_page": "98 (PDF 100)",
 "source_title": "Alfa Romeo Giulietta Owner Handbook EN 09/2016 (604.38.862) – In an emergency: Light bulbs",
 "source_url": "https://aftersales.fiat.com/eLumData/EN/83/191_GIULIETTA/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG.pdf"
+},
+"AR-GIULIETTA-940B2000": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H1 55W\", \"Bi-Xenon D1S\", \"Brake/Stop lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום קדמית",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W 24W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W 10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "98 (PDF 100)",
+"source_title": "Alfa Romeo Giulietta Owner Handbook 604.38.862 – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/191_GIULIETTA/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG.pdf"
+},
+"AR-GIULIETTA-940B7000": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H1 55W\", \"Bi-Xenon D1S\", \"Brake/Stop lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום קדמית",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W 24W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W 10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "98 (PDF 100)",
+"source_title": "Alfa Romeo Giulietta Owner Handbook 604.38.862 – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/191_GIULIETTA/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG.pdf"
+},
+"AR-GIULIETTA-940C2000": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H1 55W\", \"Bi-Xenon D1S\", \"Brake/Stop lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום קדמית",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W 24W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W 10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "98 (PDF 100)",
+"source_title": "Alfa Romeo Giulietta Owner Handbook 604.38.862 – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/191_GIULIETTA/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG.pdf"
+},
+"AR-GIULIETTA-940C2000-ALIAS-GIULETTA": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H1 55W\", \"Bi-Xenon D1S\", \"Brake/Stop lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום קדמית",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W 24W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W 10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "98 (PDF 100)",
+"source_title": "Alfa Romeo Giulietta Owner Handbook 604.38.862 – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/191_GIULIETTA/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG/83_191_GIULIETTA_604.38.862_EN_03_09.16_L_LG.pdf"
+},
+"AR-MITO-198A4000-MIT0": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped H7 55W\", \"Main H7 55W\", \"Bi-xenon D1S\", \"Brake lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "179 (PDF 180)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.38.137 (2009) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MiTo/83_145_MiTo_604.38.137_EN_02_09.09_L_LG/83_145_MiTo_604.38.137_EN_02_09.09_L_LG.pdf"
+},
+"AR-MITO-199A8000": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped H7 55W\", \"Main H7 55W\", \"Bi-xenon D1S\", \"Brake lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "179 (PDF 180)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.38.137 (2009) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MiTo/83_145_MiTo_604.38.137_EN_02_09.09_L_LG/83_145_MiTo_604.38.137_EN_02_09.09_L_LG.pdf"
+},
+"AR-MITO-199A8000-MIT0": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped H7 55W\", \"Main H7 55W\", \"Bi-xenon D1S\", \"Brake lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "179 (PDF 180)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.38.137 (2009) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MiTo/83_145_MiTo_604.38.137_EN_02_09.09_L_LG/83_145_MiTo_604.38.137_EN_02_09.09_L_LG.pdf"
+},
+"AR-MITO-199B6000": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. אור נמוך H7 55W ובלימה LED זהים בספרי 2009/2013/2016. אור גבוה הושאר ריק: ספר 2013 \"Main beam H7 55W\" אבל ספר 2016 (604.90.005 עמ' 106) \"H1 55W\", והשורה חוצה את שתי המהדורות.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "155 (PDF 159)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.38.590 (2013) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MiTo/83_145_MiTo_604.38.590_EN_02_06.13_L_LG/83_145_MiTo_604.38.590_EN_02_06.13_L_LG.pdf"
+},
+"AR-MITO-940A2000": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. אור נמוך H7 55W ובלימה LED זהים בספרי 2009/2013/2016. אור גבוה הושאר ריק: ספר 2013 \"Main beam H7 55W\" אבל ספר 2016 (604.90.005 עמ' 106) \"H1 55W\", והשורה חוצה את שתי המהדורות.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "155 (PDF 159)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.38.590 (2013) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MiTo/83_145_MiTo_604.38.590_EN_02_06.13_L_LG/83_145_MiTo_604.38.590_EN_02_06.13_L_LG.pdf"
+},
+"AR-MITO-940A2000-ALIAS-MIT0": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H7 55W\", \"Brake lights LED\". זהה בספר 2009 (604.38.137).",
+"other_bulbs": [
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "155 (PDF 159)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.38.590 (2013) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MiTo/83_145_MiTo_604.38.590_EN_02_06.13_L_LG/83_145_MiTo_604.38.590_EN_02_06.13_L_LG.pdf"
+},
+"AR-MITO-955A2000": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped H7 55W\", \"Main H7 55W\", \"Bi-xenon D1S\", \"Brake lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "179 (PDF 180)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.38.137 (2009) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MiTo/83_145_MiTo_604.38.137_EN_02_09.09_L_LG/83_145_MiTo_604.38.137_EN_02_09.09_L_LG.pdf"
+},
+"AR-MITO-955A6000": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"headlight_low": "H7 55W (הלוגן) / D1S (Bi-xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped H7 55W\", \"Main H7 55W\", \"Bi-xenon D1S\", \"Brake lights LED\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "179 (PDF 180)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.38.137 (2009) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MiTo/83_145_MiTo_604.38.137_EN_02_09.09_L_LG/83_145_MiTo_604.38.137_EN_02_09.09_L_LG.pdf"
+},
+"AR-MITO-955A7000-TCT-13": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H7 55W\", \"Brake lights LED\". זהה בספר 2009 (604.38.137).",
+"other_bulbs": [
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "155 (PDF 159)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.38.590 (2013) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MiTo/83_145_MiTo_604.38.590_EN_02_06.13_L_LG/83_145_MiTo_604.38.590_EN_02_06.13_L_LG.pdf"
+},
+"AR-MITO-TMA-TCT-16": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped beam H7 55W\", \"Main beam H1 55W\", \"Stop LED\".",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "106 (PDF 108)",
+"source_title": "Alfa Romeo MiTo Owner Handbook 604.90.005 (2016) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/145_MITO/83_145_MITO_604.90.005_EN_01_05.16_L_LG/83_145_MITO_604.90.005_EN_01_05.16_L_LG.pdf"
 },
 "BMW-BA-116-P-2525": {
 "brake_light": "LED",
@@ -9177,6 +10517,363 @@
 "source_title": "Citroën C5 Aircross – ספר בעלים רשמי Citroën (eGuide c84 ed01-20, en-GB)",
 "source_url": "https://public.servicebox.peugeot.com/ACddb/modeles/c5ac.c8/eGuide_c84_ed01-20/pdfs/9999_9999_319_en-GB.pdf"
 },
+"CI-G9-9HU-JUMPI_HDI-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
+},
+"CI-G9-9HU-JUMPY-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
+},
+"CI-G9-9HU-JUMPY_HDI-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
+},
+"CI-G9-RHK-JUMPY_HDI-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
+},
+"CI-G9-RHK-JUMPY_HDI_2SP-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
+},
+"CI-G9-RHR-JUMPY_HDI-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
+},
+"CI-G9-RHR-JUMPY_HDI_2SP-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
+},
 "DA-BIGSTER-H5F-X": {
 "brake_light": "LED",
 "confidence": "high",
@@ -11360,6 +13057,281 @@
 "source_title": "トヨタ ラッシュ 取扱書 (2010-07) – メンテナンスデータ 電球のワット数",
 "source_url": "https://manual.toyota.jp/pdf/rush/rush_201007.pdf"
 },
+"FI-500-169A3000-10-CINQECENTO": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam H7 55W\", \"Xenon D1S 35W\", \"Stop P21W\". זהה בספר 603.99.418 (2013).",
+"other_bulbs": [
+{
+"position": "תאורת צד/יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W / PY24W (Xenon)"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "אור אחורי",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "122 (PDF 123)",
+"source_title": "Fiat 500 Owner Handbook 603.81.684 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/150_500/00_150_500_603.81.684_EN_01_02.10_L_LG/00_150_500_603.81.684_EN_01_02.10_L_LG.pdf"
+},
+"FI-500-169A3000-10-CINQUECENTO": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam H7 55W\", \"Xenon D1S 35W\", \"Stop P21W\". זהה בספר 603.99.418 (2013).",
+"other_bulbs": [
+{
+"position": "תאורת צד/יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W / PY24W (Xenon)"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "אור אחורי",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "122 (PDF 123)",
+"source_title": "Fiat 500 Owner Handbook 603.81.684 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/150_500/00_150_500_603.81.684_EN_01_02.10_L_LG/00_150_500_603.81.684_EN_01_02.10_L_LG.pdf"
+},
+"FI-500-169A3000-10-FIAT_500": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam H7 55W\", \"Xenon D1S 35W\", \"Stop P21W\". זהה בספר 603.99.418 (2013).",
+"other_bulbs": [
+{
+"position": "תאורת צד/יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W / PY24W (Xenon)"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "אור אחורי",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "122 (PDF 123)",
+"source_title": "Fiat 500 Owner Handbook 603.81.684 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/150_500/00_150_500_603.81.684_EN_01_02.10_L_LG/00_150_500_603.81.684_EN_01_02.10_L_LG.pdf"
+},
+"FI-500-169A3000-10-FIAT_500_1_4": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam H7 55W\", \"Xenon D1S 35W\", \"Stop P21W\". זהה בספר 603.99.418 (2013).",
+"other_bulbs": [
+{
+"position": "תאורת צד/יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W / PY24W (Xenon)"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "אור אחורי",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "122 (PDF 123)",
+"source_title": "Fiat 500 Owner Handbook 603.81.684 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/150_500/00_150_500_603.81.684_EN_01_02.10_L_LG/00_150_500_603.81.684_EN_01_02.10_L_LG.pdf"
+},
+"FI-500-169A3000-10-FIAT_500_1_4_6AF8": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (Xenon, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam H7 55W\", \"Xenon D1S 35W\", \"Stop P21W\". זהה בספר 603.99.418 (2013).",
+"other_bulbs": [
+{
+"position": "תאורת צד/יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W / PY24W (Xenon)"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "אור אחורי",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "122 (PDF 123)",
+"source_title": "Fiat 500 Owner Handbook 603.81.684 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/150_500/00_150_500_603.81.684_EN_01_02.10_L_LG/00_150_500_603.81.684_EN_01_02.10_L_LG.pdf"
+},
 "FI-500-312-169A4-ALIAS-FIAT2SP500": {
 "brake_light": "",
 "confidence": "",
@@ -11496,6 +13468,20 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/fiat/500/hatchback-2007-10-01/"
 },
+"FI-500-312A2000-EU": {
+"brake_light": "P21W 21W (מודפס \"P2IW\")",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W (מודפס \"HI\")",
+"headlight_low": "H7 55W (הלוגן) / Xenon 35W (אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam headlamps HI 55W\", \"Dipped H7 55W\", \"Stop P2IW\" (שכבת הטקסט מדפיסה I במקום 1); זהה לספר 2010 603.81.684.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "143 (PDF 147)",
+"source_title": "Fiat 500 Owner Handbook 603.99.418 (2013) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/150_500/00_150_500_603.99.418_EN_01_09.13_L_LG/00_150_500_603.99.418_EN_01_09.13_L_LG.pdf"
+},
 "FI-500E-332-EU": {
 "brake_light": "LED",
 "confidence": "high",
@@ -11538,6 +13524,57 @@
 "source_page": "218 (PDF 220)",
 "source_title": "Fiat New 500 (332) electric Owner Handbook EN 03/2021 (603.85.345) – In an emergency: Light bulbs",
 "source_url": "https://aftersales.fiat.com/eLumData/EN/00/332_NUOVA500/00_332_NUOVA500_603.85.345_EN_01_03.21_L_LG/00_332_NUOVA500_603.85.345_EN_01_03.21_L_LG.pdf"
+},
+"FI-500L-843A1000": {
+"brake_light": "P21/5W (21W/5W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Dipped/main beam headlights H7 55W\", \"Rear side lights/Brake lights P21/5 W\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/יום",
+"type": "W21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "198 (PDF 202)",
+"source_title": "Fiat 500L Owner Handbook 603.99.282 (2012) – Lights",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/330_500L/00_330_500L_603.99.282_EN_01_10.12_L_LG/00_330_500L_603.99.282_EN_01_10.12_L_LG.pdf"
 },
 "FI-500X-55263624-EU": {
 "brake_light": "P21W",
@@ -11641,6 +13678,516 @@
 "source_title": "Fiat 500X Owner Handbook 08/2016 (EN, EU)",
 "source_url": "https://aftersales.fiat.com/eLumData/EN/00/334_500X/00_334_500X_603.99.791_EN_02_08.16_L_LG/00_334_500X_603.99.791_EN_02_08.16_L_LG.pdf"
 },
+"FI-ABARTH-14TJ-IL0": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (קסנון, אם קיים)",
+"notes": "ספר הרכב הישראלי של היבואן (סמלת). \"אלומות אור גבוה H1 55W\", \"אלומות אור נמוך H7 55W\", \"פנסי קסנון D1S 35W\" (שכבת הטקסט: \"DIS\"), \"פנסי בלימה P21W\". זהה לספר פיאט 500 האירופי 2010 (603.81.684).",
+"other_bulbs": [
+{
+"position": "פנסי צד קדמיים/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "מחווני כיוון קדמיים",
+"type": "WY21W / PY24W (קסנון)"
+},
+{
+"position": "מחווני כיוון צדדיים",
+"type": "W5W"
+},
+{
+"position": "מחווני כיוון אחוריים",
+"type": "PY21W"
+},
+{
+"position": "פנסי צד אחוריים",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה שלישי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "110 (PDF 111)",
+"source_title": "ספר רכב אבארט – סמלת (26.11.20) – נורות",
+"source_url": "https://www.samelet.com/ebooks/abarth_carbook_261120.pdf"
+},
+"FI-ABARTH-14TJ-IL1": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (קסנון, אם קיים)",
+"notes": "ספר הרכב הישראלי של היבואן (סמלת). \"אלומות אור גבוה H1 55W\", \"אלומות אור נמוך H7 55W\", \"פנסי קסנון D1S 35W\" (שכבת הטקסט: \"DIS\"), \"פנסי בלימה P21W\". זהה לספר פיאט 500 האירופי 2010 (603.81.684).",
+"other_bulbs": [
+{
+"position": "פנסי צד קדמיים/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "מחווני כיוון קדמיים",
+"type": "WY21W / PY24W (קסנון)"
+},
+{
+"position": "מחווני כיוון צדדיים",
+"type": "W5W"
+},
+{
+"position": "מחווני כיוון אחוריים",
+"type": "PY21W"
+},
+{
+"position": "פנסי צד אחוריים",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה שלישי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "110 (PDF 111)",
+"source_title": "ספר רכב אבארט – סמלת (26.11.20) – נורות",
+"source_url": "https://www.samelet.com/ebooks/abarth_carbook_261120.pdf"
+},
+"FI-ABARTH-14TJ-IL2": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (קסנון, אם קיים)",
+"notes": "ספר הרכב הישראלי של היבואן (סמלת). \"אלומות אור גבוה H1 55W\", \"אלומות אור נמוך H7 55W\", \"פנסי קסנון D1S 35W\" (שכבת הטקסט: \"DIS\"), \"פנסי בלימה P21W\". זהה לספר פיאט 500 האירופי 2010 (603.81.684).",
+"other_bulbs": [
+{
+"position": "פנסי צד קדמיים/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "מחווני כיוון קדמיים",
+"type": "WY21W / PY24W (קסנון)"
+},
+{
+"position": "מחווני כיוון צדדיים",
+"type": "W5W"
+},
+{
+"position": "מחווני כיוון אחוריים",
+"type": "PY21W"
+},
+{
+"position": "פנסי צד אחוריים",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה שלישי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "110 (PDF 111)",
+"source_title": "ספר רכב אבארט – סמלת (26.11.20) – נורות",
+"source_url": "https://www.samelet.com/ebooks/abarth_carbook_261120.pdf"
+},
+"FI-ABARTH-14TJ-IL3": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (קסנון, אם קיים)",
+"notes": "ספר הרכב הישראלי של היבואן (סמלת). \"אלומות אור גבוה H1 55W\", \"אלומות אור נמוך H7 55W\", \"פנסי קסנון D1S 35W\" (שכבת הטקסט: \"DIS\"), \"פנסי בלימה P21W\". זהה לספר פיאט 500 האירופי 2010 (603.81.684).",
+"other_bulbs": [
+{
+"position": "פנסי צד קדמיים/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "מחווני כיוון קדמיים",
+"type": "WY21W / PY24W (קסנון)"
+},
+{
+"position": "מחווני כיוון צדדיים",
+"type": "W5W"
+},
+{
+"position": "מחווני כיוון אחוריים",
+"type": "PY21W"
+},
+{
+"position": "פנסי צד אחוריים",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה שלישי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "110 (PDF 111)",
+"source_title": "ספר רכב אבארט – סמלת (26.11.20) – נורות",
+"source_url": "https://www.samelet.com/ebooks/abarth_carbook_261120.pdf"
+},
+"FI-ABARTH-14TJ-IL4": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D1S 35W (קסנון, אם קיים)",
+"notes": "ספר הרכב הישראלי של היבואן (סמלת). \"אלומות אור גבוה H1 55W\", \"אלומות אור נמוך H7 55W\", \"פנסי קסנון D1S 35W\" (שכבת הטקסט: \"DIS\"), \"פנסי בלימה P21W\". זהה לספר פיאט 500 האירופי 2010 (603.81.684).",
+"other_bulbs": [
+{
+"position": "פנסי צד קדמיים/תאורת יום",
+"type": "W21/5W"
+},
+{
+"position": "מחווני כיוון קדמיים",
+"type": "WY21W / PY24W (קסנון)"
+},
+{
+"position": "מחווני כיוון צדדיים",
+"type": "W5W"
+},
+{
+"position": "מחווני כיוון אחוריים",
+"type": "PY21W"
+},
+{
+"position": "פנסי צד אחוריים",
+"type": "R10W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "בלימה שלישי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "110 (PDF 111)",
+"source_title": "ספר רכב אבארט – סמלת (26.11.20) – נורות",
+"source_url": "https://www.samelet.com/ebooks/abarth_carbook_261120.pdf"
+},
+"FI-BRAVO-192B2000-10-BRAVO_1_4": {
+"brake_light": "P5/21W (5W/21W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H1 55W (Longlife) / D2R 35W (פריקה, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Longlife dipped beam H1 55W\", \"Gas-discharge low beam D2R 35W\", \"Rear/stop positions P5/21W\".",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2.3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "171 (PDF 173)",
+"source_title": "Fiat Bravo Owner Handbook 603.81.710 – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/198_BRAVO/00_198_BRAVO_603.81.710_EN_02_05.10_L_LG/00_198_BRAVO_603.81.710_EN_02_05.10_L_LG.pdf"
+},
+"FI-BRAVO-198A4000-10-BRAVO_1_4": {
+"brake_light": "P5/21W (5W/21W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H1 55W (Longlife) / D2R 35W (פריקה, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Longlife dipped beam H1 55W\", \"Gas-discharge low beam D2R 35W\", \"Rear/stop positions P5/21W\".",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2.3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "171 (PDF 173)",
+"source_title": "Fiat Bravo Owner Handbook 603.81.710 – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/198_BRAVO/00_198_BRAVO_603.81.710_EN_02_05.10_L_LG/00_198_BRAVO_603.81.710_EN_02_05.10_L_LG.pdf"
+},
+"FI-CROMA-194A1000-09-CROMA": {
+"brake_light": "P21/5W (21W/5W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H1 55W (Longlife) / D1S 35W (פריקה, אם קיים)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam Longlife H1 55W\", \"Gas-discharge D1S 35W\", \"Taillights/brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY24W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "R10W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2,3W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "171 (PDF 172)",
+"source_title": "Fiat Croma Owner Handbook 603.81.575 (2009) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/194_NUOVACROMA/00_194_NUOVACROMA_603.81.575_EN_02_07.09_L_LG/00_194_NUOVACROMA_603.81.575_EN_02_07.09_L_LG.pdf"
+},
+"FI-DOBLO-13MJ-EU": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Stop P21W 21W\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/צד קדמית",
+"type": "W21W 13W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W 16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "אור צד אחורי",
+"type": "P21/5W 5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W 5W / Xenon 6W (זכוכית כהה)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "125 (PDF 127)",
+"source_title": "Fiat Doblò Combi/Cargo Owner Handbook 603.91.802 (2015) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/263_DOBLOCOMBICARGO2015/77_263_DOBLOCOMBICARGO2015_603.91.802_EN_01_12.18_L_LG/77_263_DOBLOCOMBICARGO2015_603.91.802_EN_01_12.18_L_LG.pdf"
+},
+"FI-DOBLO-225A2000-16-EU": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Stop P21W 21W\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/צד קדמית",
+"type": "W21W 13W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W 16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "אור צד אחורי",
+"type": "P21/5W 5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W 5W / Xenon 6W (זכוכית כהה)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "125 (PDF 127)",
+"source_title": "Fiat Doblò Combi/Cargo Owner Handbook 603.91.802 (2015) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/263_DOBLOCOMBICARGO2015/77_263_DOBLOCOMBICARGO2015_603.91.802_EN_01_12.18_L_LG/77_263_DOBLOCOMBICARGO2015_603.91.802_EN_01_12.18_L_LG.pdf"
+},
 "FI-DOBLO263-13MJ-IL0": {
 "brake_light": "P21W",
 "confidence": "manual-verbatim",
@@ -11687,6 +14234,85 @@
 "source_page": "162 (PDF 167)",
 "source_title": "ספר רכב פיאט דובלו (סמלת, יבואן ישראל)",
 "source_url": "https://www.samelet.com/ebooks/fiatpro_doblo_carbook_151020.pdf"
+},
+"FI-DOBLO263-13MJ-IL1": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר הרכב הישראלי של היבואן (סמלת). \"אור גבוה בפנסים ראשיים H7 55W\", \"אור נמוך H7 55W\", \"פנסי בלימה P21W 21W\".",
+"other_bulbs": [
+{
+"position": "תאורה לנהיגה ביום / פנסי צד",
+"type": "W21W 13W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W 16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "פנסי צד אחוריים",
+"type": "P21/5W 5W"
+},
+{
+"position": "בלימה שלישי",
+"type": "W5W 5W / Xenon 6W (זכוכית כהה)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "162 (PDF 167)",
+"source_title": "ספר רכב פיאט פרופשיונל דובלו – סמלת (15.10.20) – נורות",
+"source_url": "https://www.samelet.com/ebooks/fiatpro_doblo_carbook_151020.pdf"
+},
+"FI-DOBLO263-13MJ-IL3": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beams H1 55W\", \"Dipped beams H7 55W\", \"Brake lights P21W\". רכבים רשומים בשורה זו 2010-2014 בלבד = דובלו 263 לפני מתיחת הפנים (2015), ולכן לא נלקח ספר סמלת 2020 (H7/H7) שהשורה מצטטת לנוזלים.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "171 (PDF 175)",
+"source_title": "Fiat Doblò Panorama Owner Handbook 603.99.148 (2012) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/152_DOBLOPANORAMA/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG.pdf"
+},
+"FI-DOBLO263-13MJ-IL4": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beams H1 55W\", \"Dipped beams H7 55W\", \"Brake lights P21W\". רכבים רשומים בשורה זו 2010-2014 בלבד = דובלו 263 לפני מתיחת הפנים (2015), ולכן לא נלקח ספר סמלת 2020 (H7/H7) שהשורה מצטטת לנוזלים.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "171 (PDF 175)",
+"source_title": "Fiat Doblò Panorama Owner Handbook 603.99.148 (2012) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/152_DOBLOPANORAMA/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG.pdf"
 },
 "FI-DOBLO263-16MJ-IL0": {
 "brake_light": "P21W",
@@ -11735,6 +14361,550 @@
 "source_title": "ספר רכב פיאט דובלו (סמלת, יבואן ישראל)",
 "source_url": "https://www.samelet.com/ebooks/fiatpro_doblo_carbook_151020.pdf"
 },
+"FI-DOBLO263-16MJ-IL1": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר הרכב הישראלי של היבואן (סמלת). \"אור גבוה בפנסים ראשיים H7 55W\", \"אור נמוך H7 55W\", \"פנסי בלימה P21W 21W\".",
+"other_bulbs": [
+{
+"position": "תאורה לנהיגה ביום / פנסי צד",
+"type": "W21W 13W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W 16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "פנסי צד אחוריים",
+"type": "P21/5W 5W"
+},
+{
+"position": "בלימה שלישי",
+"type": "W5W 5W / Xenon 6W (זכוכית כהה)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "162 (PDF 167)",
+"source_title": "ספר רכב פיאט פרופשיונל דובלו – סמלת (15.10.20) – נורות",
+"source_url": "https://www.samelet.com/ebooks/fiatpro_doblo_carbook_151020.pdf"
+},
+"FI-DOBLO263-16MJ-IL3": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beams H1 55W\", \"Dipped beams H7 55W\", \"Brake lights P21W\". רכבים רשומים בשורה זו 2010-2014 בלבד = דובלו 263 לפני מתיחת הפנים (2015), ולכן לא נלקח ספר סמלת 2020 (H7/H7) שהשורה מצטטת לנוזלים.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "171 (PDF 175)",
+"source_title": "Fiat Doblò Panorama Owner Handbook 603.99.148 (2012) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/152_DOBLOPANORAMA/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG.pdf"
+},
+"FI-DOBLO263-16MJ-IL4": {
+"brake_light": "P21W 21W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beams H1 55W\", \"Dipped beams H7 55W\", \"Brake lights P21W\". רכבים רשומים בשורה זו 2010-2014 בלבד = דובלו 263 לפני מתיחת הפנים (2015), ולכן לא נלקח ספר סמלת 2020 (H7/H7) שהשורה מצטטת לנוזלים.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "171 (PDF 175)",
+"source_title": "Fiat Doblò Panorama Owner Handbook 603.99.148 (2012) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/152_DOBLOPANORAMA/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG.pdf"
+},
+"FI-DOBLO263-843A1000-12": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beams H1 55W\", \"Dipped beams H7 55W\", \"Brake lights P21W\".",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "W21W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "אור אחורי/ערפל אחורי",
+"type": "P4/21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W / Xenon 6W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "171 (PDF 175)",
+"source_title": "Fiat Doblò Panorama Owner Handbook 603.99.148 (2012) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/152_DOBLOPANORAMA/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG/00_152_DOBLOPANORAMA_603.99.148_EN_01_01.12_L_LG.pdf"
+},
+"FI-DOBLO263-843A1000-18": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Stop P21W 21W\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/צד קדמית",
+"type": "W21W 13W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W 16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "אור צד אחורי",
+"type": "P21/5W 5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W 5W / Xenon 6W (זכוכית כהה)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "125 (PDF 127)",
+"source_title": "Fiat Doblò Combi/Cargo Owner Handbook 603.91.802 (2015) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/263_DOBLOCOMBICARGO2015/77_263_DOBLOCOMBICARGO2015_603.91.802_EN_01_12.18_L_LG/77_263_DOBLOCOMBICARGO2015_603.91.802_EN_01_12.18_L_LG.pdf"
+},
+"FI-DUCATO-22MJ-IL0": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / FULL LED (לפי גרסה)",
+"headlight_low": "H7 55W / FULL LED (לפי גרסה)",
+"notes": "ספר הרכב הישראלי של היבואן (סמלת). \"אור גבוה H7 55W / FULL LED\", \"אור נמוך H7 55W / FULL LED\", \"פנסי צד אחוריים/פנסי בלימה P21W 21W\".",
+"other_bulbs": [
+{
+"position": "פנסי צד קדמיים/נהיגת יום",
+"type": "W21/5W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W / LED"
+},
+{
+"position": "איתות צד",
+"type": "W16WF / WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "פנסי צד אחוריים",
+"type": "P21/5W"
+},
+{
+"position": "בלימה שלישי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "231 (PDF 232)",
+"source_title": "ספר רכב פיאט דוקאטו – סמלת (12.2024) – נורות",
+"source_url": "https://www.samelet.com/ebooks/Fiat_Ducato_carbook_122024.pdf"
+},
+"FI-DUCATO-22MJ-IL1": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W / FULL LED (לפי גרסה)",
+"headlight_low": "H7 55W / FULL LED (לפי גרסה)",
+"notes": "ספר הרכב הישראלי של היבואן (סמלת). \"אור גבוה H7 55W / FULL LED\", \"אור נמוך H7 55W / FULL LED\", \"פנסי צד אחוריים/פנסי בלימה P21W 21W\".",
+"other_bulbs": [
+{
+"position": "פנסי צד קדמיים/נהיגת יום",
+"type": "W21/5W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W / LED"
+},
+{
+"position": "איתות צד",
+"type": "W16WF / WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "פנסי צד אחוריים",
+"type": "P21/5W"
+},
+{
+"position": "בלימה שלישי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "231 (PDF 232)",
+"source_title": "ספר רכב פיאט דוקאטו – סמלת (12.2024) – נורות",
+"source_url": "https://www.samelet.com/ebooks/Fiat_Ducato_carbook_122024.pdf"
+},
+"FI-FIATDOBLO-16MJ-2017-EU": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H7 55W\", \"Dipped beam H7 55W\", \"Stop P21W 21W\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/צד קדמית",
+"type": "W21W 13W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W 21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W 16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "אור צד אחורי",
+"type": "P21/5W 5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W 5W / Xenon 6W (זכוכית כהה)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "125 (PDF 127)",
+"source_title": "Fiat Doblò Combi/Cargo Owner Handbook 603.91.802 (2015) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/263_DOBLOCOMBICARGO2015/77_263_DOBLOCOMBICARGO2015_603.91.802_EN_01_12.18_L_LG/77_263_DOBLOCOMBICARGO2015_603.91.802_EN_01_12.18_L_LG.pdf"
+},
+"FI-FULLBACK-4N15-FIAT_FULLBACK": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (הלוגן) / D5S 25W (HID)",
+"headlight_low": "H4 60/55W (הלוגן) / D5S 25W (HID)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Headlamps, high/low beam: 60/55 W (H4)\"; HID \"Headlamps, high/low beam: 25 W (D5S)\". פנס בלימה – לא נקרא בוודאות מהטבלה האחורית, הושאר ריק.",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W 5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W/P21W 21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W (הלוגן) / H16 19W (HID)"
+},
+{
+"position": "תאורת יום",
+"type": "P13W 13W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 240",
+"source_title": "Fiat Fullback Owner Handbook 603.91.517 – Bulb location and capacity",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/305_FULLBACK/00_305_FULLBACK_603.91.517_EN_01_01.18_L_LG/00_305_FULLBACK_603.91.517_EN_01_01.18_L_LG.pdf"
+},
+"FI-GPUNTO-199A4000-06-GRANDE_PUNTO1_2": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55W\", \"Dipped beam H4 60W\", \"Brake lights P21/5W\".",
+"other_bulbs": [
+{
+"position": "תאורת צד קדמית",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור אחורי",
+"type": "R5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "2.3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "167 (PDF 169)",
+"source_title": "Fiat Grande Punto Owner Handbook 603.81.203 (2006) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_GRANDEPUNTOACTUAL/00_199_GRANDEPUNTOACTUAL_603.81.203_EN_01_07.06_L_LG/00_199_GRANDEPUNTOACTUAL_603.81.203_EN_01_07.06_L_LG.pdf"
+},
+"FI-GPUNTO-199A4000-10-GRANDE_PUNTO": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55 W\", \"Dipped beam H4 60 W\", \"Brake lights P21/5W\". דגם Grande Punto.",
+"other_bulbs": [
+{
+"position": "תאורת צד קדמית",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור אחורי",
+"type": "R5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "2.3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "148 (PDF 149)",
+"source_title": "Fiat Grande Punto Actual Owner Handbook 603.81.637 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_GRANDEPUNTOACTUAL/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG.pdf"
+},
+"FI-GPUNTO-199A4000-10-PUNTO_1_2": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55 W\", \"Dipped beam H4 60 W\" – זהה גם בספר Punto Evo 603.81.767 עמ' 188 ובספר Grande Punto 2006 עמ' 167. פנס בלימה הושאר ריק: השורה מערבת Grande Punto (P21/5W) ו-Punto Evo/Punto (P21W) – לא ניתן לקבוע לפי שנה.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "148 (PDF 149)",
+"source_title": "Fiat Grande Punto Actual Owner Handbook 603.81.637 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_GRANDEPUNTOACTUAL/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG.pdf"
+},
+"FI-PANDA-188A4000-06-PANDA": {
+"brake_light": "P21/5W (21/5)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 60/55\", \"Dipped beam H4 60/55\", \"Stop/taillights P21/5W\".",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "C5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "138 (PDF 140)",
+"source_title": "Fiat Panda Owner Handbook 603.81.060 (2006) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/169_PANDA/00_169_PANDA_603.81.060_EN_01_03.06_L_LG/00_169_PANDA_603.81.060_EN_01_03.06_L_LG.pdf"
+},
 "FI-PANDA-319-169A4-PANDA": {
 "brake_light": "P21/5W",
 "confidence": "manual-verbatim",
@@ -11782,6 +14952,727 @@
 "source_title": "Fiat Panda Owner Handbook 10/2011 (EN, EU)",
 "source_url": "https://aftersales.fiat.com/eLumData/EN/00/319_PANDA/00_319_PANDA_603.81.704_EN_01_10.11_L_LG/00_319_PANDA_603.81.704_EN_01_10.11_L_LG.pdf"
 },
+"FI-PUNTO14-350A1000-ALIAS-GRANDE": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55 W\", \"Dipped beam H4 60 W\", \"Brake lights P21/5W\". דגם Grande Punto.",
+"other_bulbs": [
+{
+"position": "תאורת צד קדמית",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור אחורי",
+"type": "R5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "2.3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "148 (PDF 149)",
+"source_title": "Fiat Grande Punto Actual Owner Handbook 603.81.637 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_GRANDEPUNTOACTUAL/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG.pdf"
+},
+"FI-PUNTO14-350A1000-ALIAS-GRANDE-KALIAS-GRANDEPUNT0-2008-13": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55 W\", \"Dipped beam H4 60 W\", \"Brake lights P21/5W\". דגם Grande Punto.",
+"other_bulbs": [
+{
+"position": "תאורת צד קדמית",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור אחורי",
+"type": "R5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "2.3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "148 (PDF 149)",
+"source_title": "Fiat Grande Punto Actual Owner Handbook 603.81.637 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_GRANDEPUNTOACTUAL/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG.pdf"
+},
+"FI-PUNTO14-350A1000-EU": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55 W\", \"Dipped beam H4 60 W\" – זהה גם בספר Punto Evo 603.81.767 עמ' 188 ובספר Grande Punto 2006 עמ' 167. פנס בלימה הושאר ריק: השורה מערבת Grande Punto (P21/5W) ו-Punto Evo/Punto (P21W) – לא ניתן לקבוע לפי שנה.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "148 (PDF 149)",
+"source_title": "Fiat Grande Punto Actual Owner Handbook 603.81.637 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_GRANDEPUNTOACTUAL/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG.pdf"
+},
+"FI-PUNTO14-350A1000-EU-KALIAS-GRANDEPUNT0-2009-14": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55 W\", \"Dipped beam H4 60 W\", \"Brake lights P21/5W\". דגם Grande Punto.",
+"other_bulbs": [
+{
+"position": "תאורת צד קדמית",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור אחורי",
+"type": "R5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "2.3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "148 (PDF 149)",
+"source_title": "Fiat Grande Punto Actual Owner Handbook 603.81.637 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_GRANDEPUNTOACTUAL/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG.pdf"
+},
+"FI-PUNTO14-350A1000-EU-KALIAS-PUNT014-2009-36": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55 W\", \"Dipped beam H4 60 W\" – זהה גם בספר Punto Evo 603.81.767 עמ' 188 ובספר Grande Punto 2006 עמ' 167. פנס בלימה הושאר ריק: השורה מערבת Grande Punto (P21/5W) ו-Punto Evo/Punto (P21W) – לא ניתן לקבוע לפי שנה.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "148 (PDF 149)",
+"source_title": "Fiat Grande Punto Actual Owner Handbook 603.81.637 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_GRANDEPUNTOACTUAL/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG.pdf"
+},
+"FI-PUNTO14-NOSPACE-ALIAS": {
+"brake_light": "",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55 W\", \"Dipped beam H4 60 W\" – זהה גם בספר Punto Evo 603.81.767 עמ' 188 ובספר Grande Punto 2006 עמ' 167. פנס בלימה הושאר ריק: השורה מערבת Grande Punto (P21/5W) ו-Punto Evo/Punto (P21W) – לא ניתן לקבוע לפי שנה.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "148 (PDF 149)",
+"source_title": "Fiat Grande Punto Actual Owner Handbook 603.81.637 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_GRANDEPUNTOACTUAL/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG/00_199_GRANDEPUNTOACTUAL_603.81.637_EN_02_04.10_L_LG.pdf"
+},
+"FI-PUNTO188-188A4000-06_CF1A": {
+"brake_light": "P21W 21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam H7 55W\", \"Brake lights P21W\". ספר Punto 188 אחרי מתיחת הפנים (2003); מולא רק לשורות שכל הרכבים בהן 2004-2006.",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "אור אחורי",
+"type": "R10W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W/PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "216 (PDF 217)",
+"source_title": "Fiat Punto Classic Owner Handbook 603.45.868 (2007) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/188_PUNTOCLASSIC/00_188_PUNTOCLASSIC_603.45.868_EN_02_03.07_L_LG/00_188_PUNTOCLASSIC_603.45.868_EN_02_03.07_L_LG.pdf"
+},
+"FI-PUNTO188-188A4000-PUNT0_60": {
+"brake_light": "P21W 21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam H7 55W\", \"Brake lights P21W\". ספר Punto 188 אחרי מתיחת הפנים (2003); מולא רק לשורות שכל הרכבים בהן 2004-2006.",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "אור אחורי",
+"type": "R10W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W/PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "216 (PDF 217)",
+"source_title": "Fiat Punto Classic Owner Handbook 603.45.868 (2007) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/188_PUNTOCLASSIC/00_188_PUNTOCLASSIC_603.45.868_EN_02_03.07_L_LG/00_188_PUNTOCLASSIC_603.45.868_EN_02_03.07_L_LG.pdf"
+},
+"FI-PUNTO188-188A5000-PUNT0_16V": {
+"brake_light": "P21W 21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam H7 55W\", \"Brake lights P21W\". ספר Punto 188 אחרי מתיחת הפנים (2003); מולא רק לשורות שכל הרכבים בהן 2004-2006.",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "אור אחורי",
+"type": "R10W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W/PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "216 (PDF 217)",
+"source_title": "Fiat Punto Classic Owner Handbook 603.45.868 (2007) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/188_PUNTOCLASSIC/00_188_PUNTOCLASSIC_603.45.868_EN_02_03.07_L_LG/00_188_PUNTOCLASSIC_603.45.868_EN_02_03.07_L_LG.pdf"
+},
+"FI-PUNTO188-188A5000-PUNTO_16V": {
+"brake_light": "P21W 21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H1 55W\", \"Dipped beam H7 55W\", \"Brake lights P21W\". ספר Punto 188 אחרי מתיחת הפנים (2003); מולא רק לשורות שכל הרכבים בהן 2004-2006.",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "אור אחורי",
+"type": "R10W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W/PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H3 55W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "216 (PDF 217)",
+"source_title": "Fiat Punto Classic Owner Handbook 603.45.868 (2007) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/188_PUNTOCLASSIC/00_188_PUNTOCLASSIC_603.45.868_EN_02_03.07_L_LG/00_188_PUNTOCLASSIC_603.45.868_EN_02_03.07_L_LG.pdf"
+},
+"FI-PUNTOEVO-169A4000-10-PUNTO_1_2": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Brake lights P21W 21 W\", \"Taillights LED\".",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2.3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "188 (PDF 189)",
+"source_title": "Fiat Punto Evo Owner Handbook 603.81.767 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_PUNTOEVO/00_199_PUNTOEVO_603.81.767_EN_01_07.10_L_LG/00_199_PUNTOEVO_603.81.767_EN_01_07.10_L_LG.pdf"
+},
+"FI-PUNTOEVO-955A6000-10-PUNTO_1_4": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55 W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60 W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Brake lights P21W 21 W\", \"Taillights LED\".",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W2.3W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "188 (PDF 189)",
+"source_title": "Fiat Punto Evo Owner Handbook 603.81.767 (2010) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/199_PUNTOEVO/00_199_PUNTOEVO_603.81.767_EN_01_07.10_L_LG/00_199_PUNTOEVO_603.81.767_EN_01_07.10_L_LG.pdf"
+},
+"FI-QUBO-225A2000-17-QUBO": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55W\", \"Dipped H4 60W\", \"Stop P21W\".",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "אור אחורי/ערפל אחורי",
+"type": "P4/21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "112 (PDF 114)",
+"source_title": "Fiat Qubo Owner Handbook 603.91.436 (2017) – Light bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/300_QUBO/00_300_QUBO_603.91.436_EN_01_08.17_L_LG/00_300_QUBO_603.91.436_EN_01_08.17_L_LG.pdf"
+},
+"FI-QUBO-350A1000-17-QUBO": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (מודפס: Main H4 55W)",
+"headlight_low": "H4 (מודפס: Dipped H4 60W)",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam H4 55W\", \"Dipped H4 60W\", \"Stop P21W\".",
+"other_bulbs": [
+{
+"position": "תאורת צד",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "אור אחורי/ערפל אחורי",
+"type": "P4/21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H1 55W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "112 (PDF 114)",
+"source_title": "Fiat Qubo Owner Handbook 603.91.436 (2017) – Light bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/300_QUBO/00_300_QUBO_603.91.436_EN_01_08.17_L_LG/00_300_QUBO_603.91.436_EN_01_08.17_L_LG.pdf"
+},
+"FI-RENEGADE-55282328-EU": {
+"brake_light": "P21W 21W / LED (לפי גרסה)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W (הלוגן) / LED / Xenon D5S 25W",
+"headlight_low": "H4 60/55W (הלוגן) / LED / Xenon D5S 25W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. שלוש גרסאות פנס ראשי מודפסות: הלוגן H4 60/55W, LED, Xenon D5S 25W.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / PSY24W"
+},
+{
+"position": "איתות אחורי",
+"type": "W16W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "183 (PDF 185)",
+"source_title": "Jeep Renegade Owner Handbook 603.85.069 (10.19) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/57/609_RENEGADE/57_609_RENEGADE_603.85.069_EN_01_10.19_L_LG/57_609_RENEGADE_603.85.069_EN_01_10.19_L_LG.pdf"
+},
+"FI-SEDICI-M16A-EU": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam/dipped beam headlights 12V – 60/55W H4\", \"Brake lights / taillights P21/5W\".",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+},
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "253 (PDF 257)",
+"source_title": "Fiat Sedici Owner Handbook 603.99.082 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/189_SEDICI/00_189_SEDICI_603.99.082_EN_01_10.11_L_LG/00_189_SEDICI_603.99.082_EN_01_10.11_L_LG.pdf"
+},
 "FI-TIPO-55268036-EU": {
 "brake_light": "P21W (Rear side/brake light)",
 "confidence": "manual-verbatim",
@@ -11827,6 +15718,53 @@
 "rear_wiper_mm": "",
 "source_page": "121 (PDF 123)",
 "source_title": "Fiat Tipo (356) Owner Handbook EN 01/2017 (603.91.081) – In an emergency: Types of bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/00/356_TIPO/00_356_TIPO_603.91.081_EN_02_01.17_L_LG/00_356_TIPO_603.91.081_EN_02_01.17_L_LG.pdf"
+},
+"FI-TIPO356-843A1000": {
+"brake_light": "P21W 21W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55W (הלוגן)",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. \"Main beam headlights (halogen) H15 55 W\", \"Dipped headlights H7 55 W\", \"Rear side/brake light P21W\".",
+"other_bulbs": [
+{
+"position": "תאורת צד/יום",
+"type": "H15 15W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY16W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "121 (PDF 123)",
+"source_title": "Fiat Tipo Owner Handbook 603.91.081 (2017) – Light bulbs",
 "source_url": "https://aftersales.fiat.com/eLumData/EN/00/356_TIPO/00_356_TIPO_603.91.081_EN_02_01.17_L_LG/00_356_TIPO_603.91.081_EN_02_01.17_L_LG.pdf"
 },
 "FO-FIESTA7-125": {
@@ -17432,6 +21370,53 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"H-SF-MX5-HEV-IL": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של היבואן (כלמוביל). אור נמוך/גבוה LED, פנס בלימה LED. תואם את ספר יונדאי MX5HEV הרשמי באינטרנט.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "אור חניה/תאורת יום",
+"type": "LED"
+},
+{
+"position": "אור אחורי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED (סוג A) / PY21W 21W (סוג B)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "ערפל",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "2-10 (PDF 43)",
+"source_title": "ספר רכב יונדאי סנטה פה היברידית 2025 – כלמוביל – הספק נורה",
+"source_url": "https://res.cloudinary.com/colmobil/images/v1742998775/SantaFe-HEV_OM_2025_web/SantaFe-HEV_OM_2025_web.pdf"
+},
 "H-SF-TM-G24-IL": {
 "brake_light": "PY21/5W 21/5W (בלימה/אחורי, סוג A) / LED (סוג B)",
 "confidence": "manual-verbatim",
@@ -20367,36 +24352,94 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-CRV-RW-L15B-HU": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי הונדה הונגריה. \"Fényszórók (távolsági/tompított) LED\", \"Fék-/hátsó lámpák LED\", \"A fényszórók LED-es típusúak\".",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H8 35W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "770 (PDF 771); 694 (PDF 695); 697 (PDF 698)",
+"source_title": "Honda CR-V 2019-2021 Kezelési kézikönyv (Honda Magyarország) – Izzók",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/cr-v/CR-V%202019-2021%20MODELL%C3%89V.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda CR-V [RW/RT] 2018-2023. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "HO-CRV15-RW-L15B-HU": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי הונדה הונגריה. \"Fényszórók (távolsági/tompított) LED\", \"Fék-/hátsó lámpák LED\", \"A fényszórók LED-es típusúak\".",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H8 35W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "תאורת יום/חניה",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 300,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "770 (PDF 771); 694 (PDF 695); 697 (PDF 698)",
+"source_title": "Honda CR-V 2019-2021 Kezelési kézikönyv (Honda Magyarország) – Izzók",
+"source_url": "https://www.honda.hu/content/dam/local/hungary/cars/owners/OwnersManual/cr-v/CR-V%202019-2021%20MODELL%C3%89V.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Honda CR-V [RW/RT] 2018-2023. קדמיים 650/400 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -20510,6 +24553,37 @@
 "source_page": "PDF 609, 612",
 "source_title": "Honda HR-V Owner's Manual 2018 (UK)",
 "source_url": "https://www.honda.co.uk/content/dam/local/uk/cars/owners/manuals/HR-V/2018%20HR-V%20Owners%20Manual.pdf"
+},
+"HO-HRVHEV-RV-LEC-UK26": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי הונדה בריטניה: \"Headlights are LED type\", \"Brake/taillights and rear turn signal lights are LED type\". זהה בספרי 2022 ו-2025.",
+"other_bulbs": [
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "578-579 (PDF 580-581)",
+"source_title": "Honda HR-V e:HEV Owner's Manual (UK, 2026) – Replacing bulbs",
+"source_url": "https://www.honda.co.uk/content/honda/en_gb/cars/owners/manuals-and-guides/honda-owners-manuals/_jcr_content/par1/textcolumnwithimagem_1841985346/textColumn/richtextdownload_62a/file.res/26%20HR-V%20HEV%20Sss%20(KE%20KG)-323N06300_web.pdf"
 },
 "HO-INSIGHT-LDA3-IL": {
 "brake_light": "LED",
@@ -21532,18 +25606,55 @@
 "source_url": "https://www.hyundai.fi/wp-content/uploads/i30_wagon_kacc88sikirja_2007-2012.pdf"
 },
 "HY-I30-GD-G4FA-LV": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "LED / P21/5W 21/5W (לפי גרסה)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 55W (מודפס H7L)",
+"headlight_low": "H7 55W (מודפס H7S) / D1S 35W (AFLS עם HID)",
+"notes": "ספר רכב רשמי יונדאי (מהדורה לטבית, בלטי). \"Tuvās gaismas 55 vai 35 (AFLS ar HID) H7S vai D1S\", \"Tālās gaismas 55 H7L\", \"Bremžu un aizmugurējie lukturi (LED) / (spuldzes) 21/5 P21/5W\".",
+"other_bulbs": [
+{
+"position": "פנס פנייה סטטי",
+"type": "H7L 55W"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8L 35W"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
 "rear_wiper_mm": 330,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "8-4 (PDF 479)",
+"source_title": "Hyundai i30 (GD) lietotāja rokasgrāmata 2012 – Spuldžu jauda",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/sites/4/i30_my2012-16_owners_manual_lv.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai i30 [GD] 12.11-12.16. קדמיים 650/340 מ״מ, אחורי 330 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -52630,6 +56741,20 @@
 "source_title": "Lexus UX300h – ספר רכב ישראלי 2024-2026",
 "source_url": "https://books.union-motors.co.il/LexusApp/api/files/69/download"
 },
+"MG-EHS-25-15FKE": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי MG בריטניה: \"The light sources of this model are all LED lamps, which cannot be replaced individually.\"",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "344 (PDF 344)",
+"source_title": "MG Owner Manual (UK) – Bulb replacement",
+"source_url": "https://www.mg.co.uk/sites/default/files/2024-11/MG-HS-Petrol-Plug-in-Hybrid-Owner-Manual.pdf"
+},
 "MG-EHS-PHEV-15E4E": {
 "brake_light": "LED",
 "confidence": "manual-verbatim",
@@ -52656,6 +56781,20 @@
 "source_page": "265 (PDF 281)",
 "source_title": "MG EHS PHEV 2023 Manual de Usuario (ES)",
 "source_url": "https://cdn.mgmotor.eu/images/hero-image/EHS-2023_Manual-Usuario.pdf"
+},
+"MG-HSHYBRID-25-15FKE": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי MG בריטניה: \"The light sources of this model are all LED lamps, which cannot be replaced individually.\" השורה (HS Hybrid+) מצטטת את ספר ה-HS PHEV של אותו דור.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "344 (PDF 344)",
+"source_title": "MG Owner Manual (UK) – Bulb replacement",
+"source_url": "https://www.mg.co.uk/sites/default/files/2024-11/MG-HS-Petrol-Plug-in-Hybrid-Owner-Manual.pdf"
 },
 "MG-MG3-GS64-15FCD": {
 "brake_light": "W21/5W",
@@ -52788,6 +56927,34 @@
 "source_page": "209 (PDF 223)",
 "source_title": "MG5 EV Owner Manual (MG UK) – Emergency information: Bulb Specification",
 "source_url": "https://www.mg.co.uk/sites/default/files/2021-11/MG5%20EV%20Owner%20Manual.pdf"
+},
+"MG-S5-EV": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי MG בריטניה: \"The light sources of this model are all LED lamps, which cannot be replaced individually.\"",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "315 (PDF 315)",
+"source_title": "MG Owner Manual (UK) – Bulb replacement",
+"source_url": "https://www.mg.co.uk/sites/default/files/2025-04/MGS5-EV-Owner-Manual.pdf"
+},
+"MG-S6-EV": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי MG בריטניה: \"The light sources of this model are all LED lamps, which cannot be replaced individually.\"",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "323 (PDF 323)",
+"source_title": "MG Owner Manual (UK) – Bulb replacement",
+"source_url": "https://www.mg.co.uk/sites/default/files/2025-12/MGS6-EV-Owner-Manual.pdf"
 },
 "MG-S9-15FKE-UK": {
 "brake_light": "LED",
@@ -54241,6 +58408,53 @@
 "source_title": "Mitsubishi Motors Australia 25MY ZM Outlander Owner's Manual (BK0341500EN, ICE)",
 "source_url": "https://mitsubishimotorscustomerassist.mmal.com.au/knowledgebase-browse/mmal-article/?id=KA-01778"
 },
+"MI-PAJERO-6G75-NL-CALIAS-GG75": {
+"brake_light": "W21/5W (21/5W)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W",
+"headlight_low": "D2S 35W (פריקה) / H11 55W (ללא פריקה)",
+"notes": "ספר רכב רשמי מיצובישי הולנד (Pajero V80). \"Koplampen grootlicht 65 W (H9)\", \"dimlicht met ontladingslamp 35 W (D2S)\", \"zonder ontladingslamp 55 W (H11)\", \"Rem- en achterlichten 21/5 W (W21/5W)\". מתאים גם לספר Shogun UK 16MY. השורה מסומנת V60 אבל רכבים רשומים 2007-2011 הם V80.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (אם קיים)"
+},
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W16W 16W (או LED)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-24/8-25 (PDF 355)",
+"source_title": "Mitsubishi Pajero Instructieboekje MY12 (OBKD12E1) – Lampvermogen",
+"source_url": "https://www.mitsubishi-motors.nl/content/dam/mitsubishi-motors-nl/downloads/handleidingen/Pajero_MY12.pdf"
+},
 "MI-PAJERO-V60-4M41-NL": {
 "brake_light": "W21/5W 21/5W (בלם ואור אחורי); W16W 16W (אור בלימה עילי)",
 "confidence": "medium",
@@ -54353,6 +58567,53 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (Mitsubishi Pajero [V60,V70] 02.00-08.06) + carwiper.co.il",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"MI-PAJERO-V60-6G75-NL": {
+"brake_light": "W21/5W (21/5W)",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W",
+"headlight_low": "D2S 35W (פריקה) / H11 55W (ללא פריקה)",
+"notes": "ספר רכב רשמי מיצובישי הולנד (Pajero V80). \"Koplampen grootlicht 65 W (H9)\", \"dimlicht met ontladingslamp 35 W (D2S)\", \"zonder ontladingslamp 55 W (H11)\", \"Rem- en achterlichten 21/5 W (W21/5W)\". מתאים גם לספר Shogun UK 16MY. השורה מסומנת V60 אבל רכבים רשומים 2007-2011 הם V80.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W (אם קיים)"
+},
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W16W 16W (או LED)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-24/8-25 (PDF 355)",
+"source_title": "Mitsubishi Pajero Instructieboekje MY12 (OBKD12E1) – Lampvermogen",
+"source_url": "https://www.mitsubishi-motors.nl/content/dam/mitsubishi-motors-nl/downloads/handleidingen/Pajero_MY12.pdf"
+},
 "MI-PAJERO-V80-4M41-UK": {
 "brake_light": "21/5W (W21/5W)",
 "confidence": "manual-verbatim",
@@ -54454,6 +58715,57 @@
 "wiper_notes": "דגם לפי Bosch 2023: Mitsubishi Pajero [V80] 2007→. קדמיים 550/500 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"MI-SPACESTAR-3A90-NL": {
+"brake_light": "P21/5W (21/5W)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "ספר רכב רשמי מיצובישי הולנד. \"Koplampen: 60/55 W (H4)\", \"Rem- en achterlichten: 21/5 W (P21/5 W)\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "אור חניה",
+"type": "W5W"
+},
+{
+"position": "תאורת יום",
+"type": "P13W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (LED עם ספוילר)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-21 (PDF 227)",
+"source_title": "Mitsubishi Space Star Instructieboekje MY13 – Lampvermogen",
+"source_url": "https://www.mitsubishi-motors.nl/content/dam/mitsubishi-motors-nl/downloads/handleidingen/Space_Star_MY13.pdf"
 },
 "MI-SPACESTAR-3A92": {
 "brake_light": "P21/5W 21/5W (Type A); LED (Type B)",
@@ -59838,6 +64150,159 @@
 "wiper_notes": "דגם: Peugeot 3008 II [P84] 2016-2024. קדמיים 700/400 מ״מ, אחורי 280 מ״מ. המידות תואמות בין המקורות: קטלוג Bosch Aerotwin 2023-24 (A557S, 700/400), קטלוג OXIMO (פולין, יישומים אירופיים), קטלוג Valeo 2024-25 (אחורי 280) (סטייה של עד 10 מ״מ). התאמה לרכב עם הגה שמאלי. Valeo מציין 680/425 מ״מ ו-Bosch מציין אחורי 230 מ״מ – נבחרו המידות שבהן שני מקורות תואמים.",
 "wiper_source_title": "קטלוג Bosch Aerotwin 2023-24 (A557S, 700/400) + קטלוג OXIMO (פולין, יישומים אירופיים) + קטלוג Valeo 2024-25 (אחורי 280)",
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/peugeot/3008/"
+},
+"PE-G9-9HU-EXPERT-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
+},
+"PE-G9-RHK-EXPERT-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
+},
+"PE-G9-RHR-EXPERT-X": {
+"brake_light": "P21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55W",
+"headlight_low": "H4 55W",
+"notes": "ספר רכב רשמי (eLUM של פיאט/סטלנטיס, מהדורה אנגלית לאירופה); ערכים כפי שמודפסים בטבלת הנורות. סיטרואן ג'אמפי II הוא רכב תאום של פיאט סקודו 272 (אותו מפעל Sevel); השורה כבר מצטטת את ספר הסקודו. \"Main beam H4 55W\", \"Dipped H4 55W\", \"Brake P21/5W\".",
+"other_bulbs": [
+{
+"position": "אור צד",
+"type": "W5W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H4"
+},
+{
+"position": "איתות קדמי/אחורי",
+"type": "PY21W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "אור אחורי",
+"type": "P21/5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W (דלתות כפולות) / P21W (גג גבוה/דלת הרמה)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "140 (PDF 144)",
+"source_title": "Fiat Scudo Owner Handbook 603.99.040 (2011) – Bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/77/272_SCUDO/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG/77_272_SCUDO_603.99.040_EN_01_07.11_L_LG.pdf"
 },
 "RN-ARKANA-H4M": {
 "brake_light": "P21W (לפי ספר 2025)",
@@ -75400,6 +79865,41 @@
 "source_title": "Volvo V40 Owner's Manual MY16 (en-GB, TP 20104) – 10 Maintenance and service: Lamps - specifications",
 "source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/b7ee6ca9dbd0c514e56ee3c6ab802d99a855e7cf/V40_OwnersManual_MY16_en-GB_TP20104.pdf"
 },
+"VO-XC40B3-B420T4": {
+"brake_light": "H21W LL 21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "אתר התמיכה הרשמי של וולוו בריטניה: \"Main beam/dipped beam (LED)\"; \"Brake lights 21 H21W LL\"; \"Rear direction indicators 24 PY24W\". מאמר 2022 (19/10/2021): \"Main beam (LED)\", \"Dipped beam (LED)\".",
+"other_bulbs": [
+{
+"position": "תאורת חניה/מעבר",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY24W 24W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W LL 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "אתר תמיכה רשמי (עדכון 16/03/2023; 14/10/2022)",
+"source_title": "Volvo XC40 (MY2022-2024) – Lamp positions + Bulb specifications (Volvo Cars UK support)",
+"source_url": "https://www.volvocars.com/uk/support/car/xc40/2024/article/8fdd91c5702eddf9c0a801514e4ef57f/ ; https://www.volvocars.com/uk/support/car/xc40/2024/article/f77875c67059bd68c0a801510a8f9959/"
+},
 "VO-XC40RECHARGET5-B3154T5": {
 "brake_light": "H21W LL 21W",
 "confidence": "medium-high",
@@ -75571,6 +80071,41 @@
 "source_page": "574, 577",
 "source_title": "Volvo XC40 Owner's Manual MY20 (en-GB, TP 29561) – Maintenance and service: Exterior lamp positions / Bulb specifications",
 "source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/d9a228cd7128e6e38f0a8dfd3ec62691f40c4506/XC40_OwnersManual_MY20_en-GB_TP29561.pdf"
+},
+"VO-XC40T5RECHARG-B3154T5": {
+"brake_light": "H21W LL 21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "אתר התמיכה הרשמי של וולוו בריטניה: \"Main beam/dipped beam (LED)\"; \"Brake lights 21 H21W LL\"; \"Rear direction indicators 24 PY24W\". מאמר 2022 (19/10/2021): \"Main beam (LED)\", \"Dipped beam (LED)\".",
+"other_bulbs": [
+{
+"position": "תאורת חניה/מעבר",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY24W 24W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W LL 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "אתר תמיכה רשמי (עדכון 16/03/2023; 14/10/2022)",
+"source_title": "Volvo XC40 (MY2022-2024) – Lamp positions + Bulb specifications (Volvo Cars UK support)",
+"source_url": "https://www.volvocars.com/uk/support/car/xc40/2024/article/8fdd91c5702eddf9c0a801514e4ef57f/ ; https://www.volvocars.com/uk/support/car/xc40/2024/article/f77875c67059bd68c0a801510a8f9959/"
 },
 "VO-XC60B5-D420T2": {
 "brake_light": "LED – מוסך מורשה",
@@ -78918,6 +83453,71 @@
 ],
 "year_from": 2021,
 "year_to": 2023
+},
+{
+"data": {
+"brake_light": "H21W LL 21W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "אתר התמיכה הרשמי של וולוו בריטניה: \"Main beam/dipped beam (LED)\"; \"Brake lights 21 H21W LL\"; \"Rear direction indicators 24 PY24W\". מאמר 2022 (19/10/2021): \"Main beam (LED)\", \"Dipped beam (LED)\".",
+"other_bulbs": [
+{
+"position": "תאורת חניה/מעבר",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY24W 24W"
+},
+{
+"position": "ערפל אחורי",
+"type": "H21W LL 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "אתר תמיכה רשמי (עדכון 16/03/2023; 14/10/2022)",
+"source_title": "Volvo XC40 (MY2022-2024) – Lamp positions + Bulb specifications (Volvo Cars UK support)",
+"source_url": "https://www.volvocars.com/uk/support/car/xc40/2024/article/8fdd91c5702eddf9c0a801514e4ef57f/ ; https://www.volvocars.com/uk/support/car/xc40/2024/article/f77875c67059bd68c0a801510a8f9959/"
+},
+"kinuy_re": "^XC40 B4$",
+"tozeret_cd": [
+388
+],
+"year_from": 2022,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "H21W LL",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "אתר וולוו בריטניה לשנת 2025: \"Brake light H21W LL\". סוג הפנס הראשי לא מודפס במהדורה זו (\"most exterior lights are LEDs\") – הושאר ריק.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "אתר תמיכה רשמי (עדכון 04/04/2025)",
+"source_title": "Volvo XC40 mild hybrid (MY2025) – Replacing brake light bulb (Volvo Cars UK support)",
+"source_url": "https://www.volvocars.com/uk/support/car/xc40-mild-hybrid/article/bfce9b7dd40a54c1c0a8cc370abbc772-0d84f51b3ff0cb2fc0a80183393b43dd-8664b2fa77a7e089c0a8296870d1a409/"
+},
+"kinuy_re": "^XC40 B4$",
+"tozeret_cd": [
+388
+],
+"year_from": 2025,
+"year_to": 2026
 },
 {
 "data": {
