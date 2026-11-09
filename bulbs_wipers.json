@@ -18414,6 +18414,20 @@
 "source_title": "Ford Tourneo Connect/Transit Connect owner's handbook CG3526en 06/2006 (enGBR)",
 "source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3526_TRC_og_200606.pdf"
 },
+"FTH-FRIDAY-EU": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "ספר רכב רשמי פורת'ינג (תקן אירופי). פנס בלימה ובלימה עילי LED. פנסים ראשיים מודפסים \"HI12V55W\" (לא ברור אם H1/H7/H4) – הושארו ריקים.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "196 (PDF 197)",
+"source_title": "Forthing Friday (European Standards) User Manual – Specification of bulb",
+"source_url": "https://cdn.globalso.com/forthingmotor/FRIDAY（European-Standards）.pdf"
+},
 "GE-EX5-BEV-TZ18": {
 "brake_light": "",
 "confidence": "high",
@@ -18487,6 +18501,146 @@
 "wiper_notes": "OXIMO: סט קדמי 600/400 מ״מ; אחורי 300 מ״מ לפי מקורות נוספים (פורום Geely Club Belarus).",
 "wiper_source_title": "OXIMO – Geely Geometry C 2019→",
 "wiper_source_url": "https://www.oximo.pl/en/wiper/geely-geometry-c-suv-2019-01-01-wc400600-0/"
+},
+"GN-G70-IK-G4KL": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי ג'נסיס (webhelp, מהדורה כללית). \"Headlamp Low LED\", \"High LED\", \"Stop lamp LED\" – כל הפנסים החיצוניים LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "ערפל",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Genesis Owner's Manual (webhelp IK 2024 en_GN) – Bulb wattage",
+"source_url": "https://ownersmanual.genesis.com/full_webhelp/IK/2024/en_GN/idfa45cbc54ef.html"
+},
+"GN-G80-RG3-G4KR-23": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי ג'נסיס (webhelp, מהדורה כללית). \"Headlamp Low LED\", \"High LED\", \"Stop lamp LED\" – כל הפנסים החיצוניים LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "ערפל",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Genesis Owner's Manual (webhelp RG3 2023 en_GN) – Bulb wattage",
+"source_url": "https://ownersmanual.genesis.com/full_webhelp/RG3/2023/en_GN/idfa45cbc54ef.html"
+},
+"GN-G80-RG3-G4KR-23-1SP": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי ג'נסיס (webhelp, מהדורה כללית). \"Headlamp Low LED\", \"High LED\", \"Stop lamp LED\" – כל הפנסים החיצוניים LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "ערפל",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Genesis Owner's Manual (webhelp RG3 2023 en_GN) – Bulb wattage",
+"source_url": "https://ownersmanual.genesis.com/full_webhelp/RG3/2023/en_GN/idfa45cbc54ef.html"
+},
+"GN-G80EV-RG3EV-EM14": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי ג'נסיס (webhelp, מהדורה כללית). \"Headlamp Low LED\", \"High LED\", \"Stop lamp LED\" – כל הפנסים החיצוניים LED.",
+"other_bulbs": [
+{
+"position": "איתות קדמי/אחורי",
+"type": "LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "ערפל",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "Bulb wattage",
+"source_title": "Genesis Owner's Manual (webhelp RG3EV 2023 en_GN) – Bulb wattage",
+"source_url": "https://ownersmanual.genesis.com/full_webhelp/RG3EV/2023/en_GN/id547b2e9c4d1.html"
 },
 "GN-GV60-JW-EV": {
 "brake_light": "LED",
@@ -20429,6 +20583,49 @@
 "source_title": "ספר רכב יונדאי איוניק 5 2024 (יבואן ישראל)",
 "source_url": "https://res.cloudinary.com/colmobil/images/v1727073762/Hyundai_Ioniq5_OM_2024_web/Hyundai_Ioniq5_OM_2024_web.pdf"
 },
+"H-IONIQ6-CE-EU": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר רכב רשמי יונדאי אירופה. טבלת \"Bulb wattage\": אור נמוך LED, אור גבוה LED, פנס בלימה LED – כל הפנסים החיצוניים LED. זהה ב-webhelp CE1 2024/2025 en_GN.",
+"other_bulbs": [
+{
+"position": "תאורת יום/מצב",
+"type": "LED"
+},
+{
+"position": "איתות קדמי",
+"type": "LED"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "2-10 (PDF 80)",
+"source_title": "Hyundai IONIQ 6 Owner's Manual (EU) – Bulb wattage",
+"source_url": "https://dmassets.hyundai.com/is/content/hyundaiautoever/Ioniq+6pdf-3"
+},
 "H-IX35-LM-D20-UK": {
 "brake_light": "21/5 W (Stop and tail, outside; type not printed) – P21/5W / W21/5W",
 "bulb_options": [
@@ -22188,18 +22385,43 @@
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
 "H-TUC-NX4-HEV-EE22": {
-"brake_light": "",
-"confidence": "",
+"brake_light": "P21/5W (סוג A) / LED (סוג B/C)",
+"confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "HB3 60W (סוג A) / LED (סוג B/C)",
+"headlight_low": "HB3 60W (סוג A) / LED (סוג B/C)",
+"notes": "ספר רכב רשמי יונדאי אסטוניה. \"Kaugtuli HB3 60 / Lähituli HB3 60\" (Tüüp A), \"LED\" (Tüüp B/C); \"Taga-/pidurituli P21/5W\" (Tüüp A) / \"LED\" (Tüüp B/C).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W (סוג A) / LED (סוג B/C)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "PR21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W / LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W / LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
 "rear_wiper_mm": 275,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "PDF 88",
+"source_title": "Hyundai Tucson HEV/PHEV (NX4e) 2022 kasutusjuhend (Hyundai Eesti) – Lampide võimsused",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/sites/3/tucson_hev_phev_nx4e_owners_manual_2022_ee.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Tucson IV [NX4] 09.20→. קדמיים 650/400 מ״מ, אחורי 275 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -23259,6 +23481,41 @@
 "wiper_notes": "דגם לפי Bosch 2023: Honda Accord [CU] 2008-2015. קדמיים 600/530 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HO-CITY-GN-L15ZD-IN": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 60W (פנסי הלוגן) / LED (פנסי LED)",
+"headlight_low": "H7 55W (פנסי הלוגן) / LED (פנסי LED)",
+"notes": "ספר רכב רשמי הונדה הודו. \"Headlights (Low Beam) 55 W (H7)*1 / LED*2\", \"Headlights (High Beam) 60 W (HB3)*1 / LED*2\", \"Brake Lights LED\".",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H16 19W / H8 35W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "21W ענבר / LED"
+},
+{
+"position": "תאורת יום/מצב",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "21W ענבר"
+},
+{
+"position": "נסיעה לאחור",
+"type": "16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "365 (PDF 367)",
+"source_title": "Honda City (5th generation) Owner's Manual 2022 (Honda Cars India) – Light Bulbs",
+"source_url": "https://www.hondacarindia.com/ownersmanual/webom/eng/city%20-%205th%20generation/city%205th%20generation%20-%202022.pdf"
 },
 "HO-CIVIC-EU-D16-HU": {
 "brake_light": "P21/5W / W21/5W (21/5W)",
@@ -51956,6 +52213,53 @@
 "source_title": "Kia Forte/Cerato YD – Owner's manual MY2018 (en_GB)",
 "source_url": "https://ownersmanual.kia.com/full_pdf/YD/2018/en_GB"
 },
+"K-K2500-PU-D4CB-IL": {
+"brake_light": "PY27/8W 27/8W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 55W (פנס ראשי סוג A) / H4 55/60W (סוג B)",
+"headlight_low": "H7 55W (פנס ראשי סוג A) / H4 55/60W (סוג B)",
+"notes": "ספר רכב רשמי קיה (מהדורה בריטית 2022). \"Headlamp (Low) 55 H7 / Headlamp (High) 55 H7 – Headlamp type A\"; \"Headlamp (Low/High) 55/60 H4 – type B\"; \"Stop and tail lamp 27/8 PY27/8W\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/מצב",
+"type": "P21/5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W"
+},
+{
+"position": "איתות צד",
+"type": "W5W / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY27W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P27W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W10W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9-11 (PDF 339)",
+"source_title": "Kia K2500 (PU) Owner's Manual 2022 en_GB – Light bulbs",
+"source_url": "https://ownersmanual.kia.com/full_pdf/PU/2022/en_GB"
+},
 "K-NIRO-DE-HEV16": {
 "brake_light": "חיצוני: P21/5W (נורה) / LED*",
 "confidence": "manual-verbatim",
@@ -55829,6 +56133,201 @@
 "source_title": "Kia Soul PS – Owner's manual MY2015 (en_GB)",
 "source_url": "https://ownersmanual.kia.com/full_pdf/PS/2015/en_GB"
 },
+"KG-MUSSO-Q300-D22DTR-IL": {
+"brake_light": "LED (פנס אחורי סוג A) / P21/5W (סוג B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (פנס ראשי סוג A) / HB3 60W (סוג B)",
+"headlight_low": "LED (פנס ראשי סוג A) / HB3 60W (סוג B)",
+"notes": "ספר הרכב הישראלי של היבואן (נקרא מתמונת העמוד). פנס ראשי סוג A: \"אלומה גבוהה LED\", \"אלומה נמוכה LED\"; סוג B: \"HB3 60W\" לשתיהן; פנס אחורי סוג A \"פנס בלימה LED\", סוג B \"אור אחורי (פנס בלימה) P21/5W\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי/תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED (סוג A) / PY21W (סוג B)"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-38 (PDF 486)",
+"source_title": "ספר רכב KGM מוסו Q300 (ישראל, 08/2026) – מפרטי וכמות פנסים ונורות",
+"source_url": "https://kgm.co.il/wp-content/uploads/2026/08/260841-MUSSO-Q300-OM-S1-SH-20-08-26.pdf"
+},
+"KG-MUSSO-Q300-D22DTR-IL-ALIAS-MUSSO": {
+"brake_light": "LED (פנס אחורי סוג A) / P21/5W (סוג B)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED (פנס ראשי סוג A) / HB3 60W (סוג B)",
+"headlight_low": "LED (פנס ראשי סוג A) / HB3 60W (סוג B)",
+"notes": "ספר הרכב הישראלי של היבואן (נקרא מתמונת העמוד). פנס ראשי סוג A: \"אלומה גבוהה LED\", \"אלומה נמוכה LED\"; סוג B: \"HB3 60W\" לשתיהן; פנס אחורי סוג A \"פנס בלימה LED\", סוג B \"אור אחורי (פנס בלימה) P21/5W\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי/תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות אחורי",
+"type": "LED (סוג A) / PY21W (סוג B)"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-38 (PDF 486)",
+"source_title": "ספר רכב KGM מוסו Q300 (ישראל, 08/2026) – מפרטי וכמות פנסים ונורות",
+"source_url": "https://kgm.co.il/wp-content/uploads/2026/08/260841-MUSSO-Q300-OM-S1-SH-20-08-26.pdf"
+},
+"KG-MUSSOEV-IL": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של היבואן (נקרא מתמונת העמוד). \"פנס ראשי: אלומה גבוהה LED, אלומה נמוכה LED\", \"מכלול פנס אחורי: פנס בלימה LED\".",
+"other_bulbs": [
+{
+"position": "תאורת יום/איתות",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-21 (PDF 481)",
+"source_title": "ספר רכב KGM מוסו EV (ישראל, 01/2026) – מפרטי וכמות פנסים ונורות",
+"source_url": "https://kgm.co.il/wp-content/uploads/2026/01/251096-MUSSO-EV-2025-OM-7-1-26-PSRF-AllBook.pdf"
+},
+"KG-TIVOLI-G15DTF-PL24": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1-55W (נורה) / LED",
+"headlight_low": "H7-55W (נורה) / LED",
+"notes": "ספר רכב רשמי KGM פולין. \"Światła drogowe: Żarówka H1-55W / LED\", \"Światła mijania: Żarówka H7-55W / LED\", \"Światło stopu LED\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / LED"
+},
+{
+"position": "תאורת יום/צד",
+"type": "W5W / LED"
+},
+{
+"position": "ערפל",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-27 (PDF 418)",
+"source_title": "KGM Tivoli MY2024 – instrukcja obsługi (KGM Polska) – Specyfikacja i liczba lamp/żarówek",
+"source_url": "https://kgm-auto.pl/dokumenty/128/x"
+},
+"KG-TORRES-G15DTF-IL": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של היבואן (נקרא מתמונת העמוד). \"אלומה גבוהה LED\", \"אלומה נמוכה LED\", \"פנס בלימה LED\".",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-26 (PDF 444)",
+"source_title": "ספר רכב KGM טורס בנזין (ישראל, 02/2025) – מפרטי נורות",
+"source_url": "https://kgm.co.il/wp-content/uploads/2025/02/241583-Torres-gasoline-OM-AllBookOptRF-03-02-25.pdf"
+},
 "KG-TORRES-HEV-G15DTF-IL": {
 "brake_light": "LED",
 "confidence": "manual-verbatim",
@@ -58822,6 +59321,92 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"MX-EDELIVER3-EV30": {
+"brake_light": "P21/5W 21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי מקסוס שווייץ (צרפתית). \"Feu de croisement H7 55 W\", \"Feu de route H1 55 W\", \"Feu de freinage/feu de position arrière P21/5W\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת מצב קדמית",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "115 (PDF 121)",
+"source_title": "MAXUS eDELIVER 3 (EV30) Manuel du propriétaire 2020 (Maxus Suisse) – Spécifications des ampoules",
+"source_url": "https://www.maxusmotors.ch/images/bedienungsanleitungen/FR/2020-OM-MAX-EV30-EU-FR.pdf"
+},
+"MX-EDELIVER3-EV30-EDELIVER_3": {
+"brake_light": "P21/5W 21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W",
+"notes": "ספר רכב רשמי מקסוס שווייץ (צרפתית). \"Feu de croisement H7 55 W\", \"Feu de route H1 55 W\", \"Feu de freinage/feu de position arrière P21/5W\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "תאורת מצב קדמית",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "115 (PDF 121)",
+"source_title": "MAXUS eDELIVER 3 (EV30) Manuel du propriétaire 2020 (Maxus Suisse) – Spécifications des ampoules",
+"source_url": "https://www.maxusmotors.ch/images/bedienungsanleitungen/FR/2020-OM-MAX-EV30-EU-FR.pdf"
+},
 "MZ-2-DE-ZY-CA": {
 "brake_light": "W21/5W 21/5W",
 "confidence": "medium",
@@ -60718,6 +61303,146 @@
 "wiper_notes": "דגם לפי Bosch 2023: Nissan Micra [K13K] 07.10→. קדמיים 530/340 מ״מ, אחורי 300 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"NI-MICRA-K14-HR10-ALIAS-MICRAII": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / LED (אם קיים)",
+"headlight_low": "H11 55W (הלוגן) / LED (אם קיים)",
+"notes": "ספר רכב רשמי ניסאן בריטניה. \"Low beam 55 (H11)\", \"High beam 65 (H9)\", \"LED headlight (where fitted)\". פנס בלימה מופיע רק כהספק \"21*\" ללא סוג נורה – הושאר ריק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "תאורת צד קדמית",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "262-263 (PDF 266-267)",
+"source_title": "Nissan Micra (K14) Owner's Manual 2021 (Nissan UK) – Bulbs",
+"source_url": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/micra_0k14_e0_2021/pdf/om21en-0k14e0eur.pdf"
+},
+"NI-MICRA-K14-HR10-ALIAS-MICRAII-YALIAS-MICRAII-2023-x176": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / LED (אם קיים)",
+"headlight_low": "H11 55W (הלוגן) / LED (אם קיים)",
+"notes": "ספר רכב רשמי ניסאן בריטניה. \"Low beam 55 (H11)\", \"High beam 65 (H9)\", \"LED headlight (where fitted)\". פנס בלימה מופיע רק כהספק \"21*\" ללא סוג נורה – הושאר ריק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "תאורת צד קדמית",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "262-263 (PDF 266-267)",
+"source_title": "Nissan Micra (K14) Owner's Manual 2021 (Nissan UK) – Bulbs",
+"source_url": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/micra_0k14_e0_2021/pdf/om21en-0k14e0eur.pdf"
+},
+"NI-MICRA-K14-HR10-UK": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / LED (אם קיים)",
+"headlight_low": "H11 55W (הלוגן) / LED (אם קיים)",
+"notes": "ספר רכב רשמי ניסאן בריטניה. \"Low beam 55 (H11)\", \"High beam 65 (H9)\", \"LED headlight (where fitted)\". פנס בלימה מופיע רק כהספק \"21*\" ללא סוג נורה – הושאר ריק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "תאורת צד קדמית",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "262-263 (PDF 266-267)",
+"source_title": "Nissan Micra (K14) Owner's Manual 2021 (Nissan UK) – Bulbs",
+"source_url": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/micra_0k14_e0_2021/pdf/om21en-0k14e0eur.pdf"
+},
+"NI-MICRA-K14-HR10-UK-CALIAS-H4D-2020": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H9 65W (הלוגן) / LED (אם קיים)",
+"headlight_low": "H11 55W (הלוגן) / LED (אם קיים)",
+"notes": "ספר רכב רשמי ניסאן בריטניה. \"Low beam 55 (H11)\", \"High beam 65 (H9)\", \"LED headlight (where fitted)\". פנס בלימה מופיע רק כהספק \"21*\" ללא סוג נורה – הושאר ריק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "21W"
+},
+{
+"position": "תאורת צד קדמית",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 35W / LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "262-263 (PDF 266-267)",
+"source_title": "Nissan Micra (K14) Owner's Manual 2021 (Nissan UK) – Bulbs",
+"source_url": "https://libs-europe.nissan-cdn.net/nissan-prod-iom/gb/en/micra_0k14_e0_2021/pdf/om21en-0k14e0eur.pdf"
 },
 "NI-NAVARA-D40-YD25-GR08": {
 "brake_light": "P21/5W / W21/5W (21/5W)",
@@ -68479,6 +69204,20 @@
 "source_title": "Renault SCENIC III Vehicle user manual (Ph1 NU 840-6 + Ph2 NU 1095-6, EN)",
 "source_url": "https://www.user-manual.renault.com/sites/renault/files/Scenic_3_Ph2_-_1095-6_ENG.pdf"
 },
+"SE-SERES3-TZ230": {
+"brake_light": "LED",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "",
+"headlight_low": "",
+"notes": "ספר משתמש רשמי SERES 3. \"Hatchback brake light 2×3.4 (LED)\", \"High Brake Light 3.6 (LED)\". הפנסים הראשיים מופיעים רק כהספק (2×55 bulb / LED) ללא סוג נורה – הושארו ריקים.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "191 (PDF 190)",
+"source_title": "SERES 3 User Manual – Exterior Light",
+"source_url": "https://cdn.prod.website-files.com/6461e06872fa898a5520fde6/649a8bf7a7a8348ad4a35dbe_SERES3_User%20Manual_compressed.pdf"
+},
 "SU-B4-BL-EJ20-RU05": {
 "brake_light": "W21/5W (סדאן עם ערפל אחורי וסטיישן) / W21W (סדאן ללא ערפל אחורי)",
 "confidence": "manual-verbatim",
@@ -71343,6 +72082,100 @@
 "source_page": "PDF 331",
 "source_title": "Suzuki Celerio instrukcja obsługi 2014 (PL)",
 "source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/CELERIO/CELERIO%202014.pdf"
+},
+"SZ-GV1-G16B-PL": {
+"brake_light": "W21/5W 12V 21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 12V 60/55W",
+"headlight_low": "H4 12V 60/55W",
+"notes": "ספר רכב רשמי סוזוקי פולין (מהדורת 2003), טבלה \"OPRÓCZ WERSJI XL-7\": \"Reflektory 12V 60/55W H4\", \"Światła hamowania / światła pozycyjne tylne 12V 21/5W W21/5W\". XL-7 לא מולא (סוג 1 H4 / סוג 2 HB2 – לא ניתן להבחין).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "W16W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "תאורת מצב קדמית",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED 1.6W / W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "12-4 (PDF 214)",
+"source_title": "Suzuki Grand Vitara I – instrukcja obsługi 2003 (Suzuki Polska) – Oświetlenie",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/GRAND%20VITARA/GRAND%20VITARA%20I%20-%202003.pdf"
+},
+"SZ-GV1-J20A-PL": {
+"brake_light": "W21/5W 12V 21/5W",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 12V 60/55W",
+"headlight_low": "H4 12V 60/55W",
+"notes": "ספר רכב רשמי סוזוקי פולין (מהדורת 2003), טבלה \"OPRÓCZ WERSJI XL-7\": \"Reflektory 12V 60/55W H4\", \"Światła hamowania / światła pozycyjne tylne 12V 21/5W W21/5W\". XL-7 לא מולא (סוג 1 H4 / סוג 2 HB2 – לא ניתן להבחין).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "W16W"
+},
+{
+"position": "איתות צד",
+"type": "W5W"
+},
+{
+"position": "תאורת מצב קדמית",
+"type": "W5W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED 1.6W / W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "12-4 (PDF 214)",
+"source_title": "Suzuki Grand Vitara I – instrukcja obsługi 2003 (Suzuki Polska) – Oświetlenie",
+"source_url": "https://suzuki.pl/assets/manuals/pdf/AUTO/GRAND%20VITARA/GRAND%20VITARA%20I%20-%202003.pdf"
 },
 "SZ-GV2-J20A-PL": {
 "brake_light": "P21/5W (3 דלתות) / W21/5W (5 דלתות)",
@@ -81064,6 +81897,20 @@
 "source_title": "Volvo S80 Owner's Manual MY12 (EN, TP 14063) – 08 Maintenance and service: Lamps",
 "source_url": "https://ldgsvccassets.blob.core.windows.net/pdfs/567b1ecd87e93a82a543f9ab2ced196ae037db84/S80_owners_manual_MY12_EN_tp14063.pdf"
 },
+"WEY-COFFEE01-E20N-IL": {
+"brake_light": "LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של היבואן: \"כל הפנסים החיצוניים מצוידים בנורות LED שלא ניתן להסיר או להחליף בנפרד\".",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "266 (PDF 267)",
+"source_title": "ספר רכב WEY Coffee 01 (סמלת, 04/2023)",
+"source_url": "https://samelet.com/ebooks/Wey1_Coffee01_carbook_042023.pdf"
+},
 "__models": [
 {
 "data": {
@@ -83518,6 +84365,264 @@
 ],
 "year_from": 2025,
 "year_to": 2026
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W (הלוגן, גרסה בסיסית) / D3S 35W (קסנון)",
+"headlight_low": "H7 55W (הלוגן, גרסה בסיסית) / D3S 35W (קסנון)",
+"notes": "ספר רכב רשמי (eLUM, אנגלית לאירופה). \"Main beam headlights ... H15 55/15W\", \"Dipped beam headlights H7 55W\" (*רק בפנס הלוגן בסיסי), \"Main beam/dipped beam headlights (Xenon gas discharge) D3S 35W\". פנס בלימה לא מופיע בטבלה – הושאר ריק. הוחל רק על שנים 2017-2022 (לפני מתיחת 2023 עם פנסי LED).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY24W 24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "216 (PDF 218)",
+"source_title": "Alfa Romeo Stelvio Owner Handbook 603.93.593 (11.19) – Light bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/630_STELVIO/83_630_STELVIO_603.93.593_EN_01_11.19_L_LG%23AP_603.93.593_01_11.19/83_630_STELVIO_603.93.593_EN_01_11.19_L_LG%23AP_603.93.593_01_11.19.pdf"
+},
+"kinuy_re": "^STELVIO$",
+"tozeret_cd": [
+"74"
+],
+"year_from": 2017,
+"year_to": 2022
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H15 55/15W (הלוגן, גרסה בסיסית) / D5S 25W או D3S 35W (קסנון)",
+"headlight_low": "H7 55W (הלוגן, גרסה בסיסית) / D5S 25W או D3S 35W (קסנון)",
+"notes": "ספר רכב רשמי (eLUM, אנגלית לאירופה). \"H15 55/15W\", \"Dipped beam headlights H7 55W\" (*הלוגן בסיסי), \"Xenon gas discharge D5S 25W\", \"D3S 35W\". פנס בלימה לא מופיע בטבלה – הושאר ריק. הוחל רק על שנים 2016-2022 (לפני מתיחת 2023).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY24W 24W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "166 (PDF 168)",
+"source_title": "Alfa Romeo Giulia Owner Handbook 603.93.670 (03.20) – Light bulbs",
+"source_url": "https://aftersales.fiat.com/eLumData/EN/83/620_GIULIA/83_620_GIULIA_603.93.670_EN_01_03.20_L_LG/83_620_GIULIA_603.93.670_EN_01_03.20_L_LG.pdf"
+},
+"kinuy_re": "^GIULIA$",
+"tozeret_cd": [
+"74"
+],
+"year_from": 2016,
+"year_to": 2022
+},
+{
+"data": {
+"brake_light": "P21/5W 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "ספר רכב רשמי מיצובישי בריטניה (04MY). \"Headlamps, High/low beam 60/55W (H4)\", \"Stop and tail lamps 21/5W (P21/5W)\". הוחל רק על 2002-2005 (אחרי מתיחת הפנים של סוף 2001 עם פנסים חדשים); 1998-2001 נשאר ריק.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "WY21W"
+},
+{
+"position": "תאורת מצב",
+"type": "W5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-34 (PDF 208)",
+"source_title": "Mitsubishi L200 Owner's Manual 04MY (Mitsubishi Motors UK) – Bulb capacity",
+"source_url": "https://mitsubishi-motors.co.uk/wp-content/uploads/2026/02/04MY-L200-Owners-Manual.pdf"
+},
+"kinuy_re": "^L 200$",
+"tozeret_cd": [
+"603"
+],
+"year_from": 2002,
+"year_to": 2005
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1-55W",
+"headlight_low": "H7-55W (נורה) / D8S 25W (קסנון)",
+"notes": "ספר הרכב הישראלי של היבואן (נקרא מתמונת העמוד – שכבת הטקסט פגומה). \"אלומה גבוהה H1-55W\", \"אלומה נמוכה: נורה H7-55W / קסנון* D8S 25W\", \"אור אחורי (פנס בלימה) LED\". הוחל רק על 2017-2020 (2021 = מתיחת פנים).",
+"other_bulbs": [
+{
+"position": "תאורת יום/איתות קדמי",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H16 / LED"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "7-32 (PDF 420)",
+"source_title": "ספר רכב סאנגיונג רקסטון Y400 (קרסו/KGM ישראל, 2018) – מפרטי הנורות",
+"source_url": "https://kgm.co.il/wp-content/uploads/2020/10/new_Rexton_OM_2018-.pdf"
+},
+"kinuy_re": "^REXTON$",
+"tozeret_cd": [
+"712"
+],
+"year_from": 2017,
+"year_to": 2020
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של היבואן (נקרא מתמונת העמוד). כל הפנסים החיצוניים LED (אלומה גבוהה/נמוכה, בלימה). הוחל רק על שנת 2024 – 2021-2023 עשויים להיות מהדורה אחרת ו-2025-2026 עשויים להיות דגם Y470.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-39 (PDF 498)",
+"source_title": "ספר רכב KGM רקסטון Y461 (ישראל, 04/2024) – מפרטי נורות",
+"source_url": "https://kgm.co.il/wp-content/uploads/2024/04/240370_REXTON_OM_Y461-17-04-24-AllBookForWeb.pdf"
+},
+"kinuy_re": "^REXTON$",
+"tozeret_cd": [
+"712"
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "LED",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED",
+"headlight_low": "LED",
+"notes": "ספר הרכב הישראלי של היבואן (נקרא מתמונת העמוד). כל הפנסים החיצוניים LED (אלומה גבוהה/נמוכה, בלימה). הוחל רק על שנת 2024 – 2021-2023 עשויים להיות מהדורה אחרת ו-2025-2026 עשויים להיות דגם Y470.",
+"other_bulbs": [
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "LED"
+},
+{
+"position": "איתות",
+"type": "LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "LED"
+},
+{
+"position": "בלימה עילי (שלישי)",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-39 (PDF 498)",
+"source_title": "ספר רכב KGM רקסטון Y461 (ישראל, 04/2024) – מפרטי נורות",
+"source_url": "https://kgm.co.il/wp-content/uploads/2024/04/240370_REXTON_OM_Y461-17-04-24-AllBookForWeb.pdf"
+},
+"kinuy_re": "^REXTON$",
+"tozeret_cd": [
+"1566"
+],
+"year_from": 2024,
+"year_to": 2024
 },
 {
 "data": {
