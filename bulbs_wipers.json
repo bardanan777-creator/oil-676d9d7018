@@ -87040,6 +87040,420 @@
 },
 {
 "data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 XT4 2021] Wiper Blades: Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm (מודפס בס\"מ). נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\"). 2022 לא מולא – אין ספר מזרח תיכון לשנת 2022 באתר (שאלה פתוחה).",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 330",
+"source_title": "Cadillac XT4 2021 Owner's Manual (GMNA-Localizing-MidEast-14584650, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/download-a-brochure/vehicle-manual/2021/2021-xt4-manual-english.pdf"
+},
+"degem_cd": [
+"60",
+"62",
+"64",
+"80",
+"83",
+"84"
+],
+"kinuy_re": "^XT4$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2021,
+"year_to": 2021
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 XT4 2023] Wiper Blades: Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 296",
+"source_title": "Cadillac XT4 2023 Owner's Manual (GMNA-Localizing-MidEast-16412877, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/download-a-brochure/vehicle-manual/2023/23_CAD_XT4_OwnerManual_EN_HI.pdf"
+},
+"degem_cd": [
+"80",
+"83",
+"84"
+],
+"kinuy_re": "^XT4$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2023,
+"year_to": 2023
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 XT4 2024] Wiper Blades: Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm. זהה בספר 2025 (MidEast-18322201, עמ' 285 / PDF 286). נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 284",
+"source_title": "Cadillac XT4 2024 Owner's Manual (GMNA-Localizing-MidEast-16853893, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/vehicle-manuals/2024/2024-xt4-manual-english.pdf"
+},
+"degem_cd": [
+"80",
+"83",
+"84"
+],
+"kinuy_re": "^XT4$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 XT5 2021] Wiper Blades: Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\"). 2022 לא מולא – אין ספר מזרח תיכון לשנת 2022 באתר (שאלה פתוחה).",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 350 (Rear PDF 351)",
+"source_title": "Cadillac XT5 2021 Owner's Manual (GMNA-Localizing-MidEast-14590488, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/download-a-brochure/vehicle-manual/2021/2021-xt5-manual-english.pdf"
+},
+"degem_cd": [
+"65",
+"66",
+"67",
+"78",
+"79"
+],
+"kinuy_re": "^XT5$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2021,
+"year_to": 2021
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 XT5 2023] Wiper Blades: Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 316-317",
+"source_title": "Cadillac XT5 2023 Owner's Manual (GMNA-Localizing-MidEast-16406259, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/download-a-brochure/vehicle-manual/2023/23_CAD_XT5_OwnerManual_EN_HI.pdf"
+},
+"degem_cd": [
+"78",
+"79"
+],
+"kinuy_re": "^XT5$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2023,
+"year_to": 2023
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 XT5 2024] Wiper Blades: Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm. ספר 2025 ללא טבלת מגבים – 2025 לא מולא. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 320",
+"source_title": "Cadillac XT5 2024 Owner's Manual (GMNA-Localizing-MidEast-17375421, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/vehicle-manuals/2024/2024-xt5-manual-english.pdf"
+},
+"degem_cd": [
+"78",
+"79"
+],
+"kinuy_re": "^XT5$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 XT6 2021] Wiper Blades: Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\"). 2022 לא מולא – אין ספר מזרח תיכון לשנת 2022 באתר (שאלה פתוחה).",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 358",
+"source_title": "Cadillac XT6 2021 Owner's Manual (GMNA-Localizing-MidEast-14574703, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/download-a-brochure/vehicle-manual/2021/2021-xt6-manual-english.pdf"
+},
+"degem_cd": [
+"68",
+"69",
+"76",
+"77"
+],
+"kinuy_re": "^XT6$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2021,
+"year_to": 2021
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 XT6 2023] Wiper Blades: Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 326",
+"source_title": "Cadillac XT6 2023 Owner's Manual (GMNA-Localizing-MidEast-16405825, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/download-a-brochure/vehicle-manual/2023/23_CAD_XT6_OwnerManual_EN_HI.pdf"
+},
+"degem_cd": [
+"5",
+"76",
+"77",
+"8"
+],
+"kinuy_re": "^XT6$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2023,
+"year_to": 2023
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 XT6 2024] Wiper Blades: Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm. ספר 2025 ללא טבלת מגבים – 2025-2026 לא מולאו. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 323 (Rear PDF 324)",
+"source_title": "Cadillac XT6 2024 Owner's Manual (GMNA-Localizing-MidEast-17373259, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/vehicle-manuals/2024/2024-xt6-vehicle-manual-english.pdf"
+},
+"degem_cd": [
+"76",
+"77"
+],
+"kinuy_re": "^XT6$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 CT5 2024] Wiper Blades: Driver Side 60 cm, Passenger Side 45 cm. זהה בספר 2025 (MidEast-17546331, PDF 330). CT5-V Blackwing לא מולא. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "Maintenance Replacement Parts – PDF 327",
+"source_title": "Cadillac CT5 2024 Owner's Manual (GMNA-Localizing-MidEast-17287296, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/vehicle-manuals/2024/2024-ct5-manual-english.pdf"
+},
+"degem_cd": [
+"114",
+"115"
+],
+"kinuy_re": "^CT5$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 550,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 Escalade 2024] Wiper Blades: Driver Side 55 cm, Passenger Side 55 cm, Rear 30 cm. ספרי 2025/2026 ללא טבלת מגבים. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 375",
+"source_title": "Cadillac Escalade 2024 Owner's Manual (GMNA-Localizing-MidEast-17762687, English, Middle East)",
+"source_url": "https://www.cadillacarabia.com/content/dam/cadillac/middle-east/master/english/index/vehicle-manuals/2024/2024-escalade-manual-english.pdf"
+},
+"degem_cd": [
+"120",
+"122",
+"127"
+],
+"kinuy_re": "^ESCALADE$",
+"tozeret_cd": [
+"840"
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 550,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 Tahoe/Suburban/Yukon 2023] Wiper Blades: Driver Side 55 cm, Passenger Side 55 cm, Rear 30 cm. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 364",
+"source_title": "Chevrolet Tahoe/Suburban, GMC Yukon/Yukon XL 2023 Owner's Manual (GMNA-Localizing-MidEast-16417416, English, Middle East)",
+"source_url": "https://www.chevroletarabia.com/content/dam/chevrolet/middle-east/master/english/index/owners-manual/2023-new/tahoe-suburban/23_MUL_Tahoe_Suburban_Yukon_Yukon_Denali_XL_OM_en_US_I_MEO_84979311_2022MAY17_HI.pdf"
+},
+"degem_cd": [
+"450",
+"486"
+],
+"kinuy_re": "^(TAHOE( 4WD)?( Z71)?|SUBURBAN|YUKON( XL)?)$",
+"tozeret_cd": [
+"961",
+"201"
+],
+"year_from": 2023,
+"year_to": 2023
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 550,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 Tahoe/Suburban/Yukon 2024] Wiper Blades: Driver Side 55 cm, Passenger Side 55 cm, Rear 30 cm. ספר 2025 ללא טבלת מגבים. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": 300,
+"source_page": "Maintenance Replacement Parts – PDF 364",
+"source_title": "Chevrolet Tahoe/Suburban, GMC Yukon 2024 Owner's Manual (GMNA-Localizing-MidEast-17746374, English, Middle East)",
+"source_url": "https://www.chevroletarabia.com/content/dam/chevrolet/middle-east/master/english/index/owners-manual/2024/tahoe/new/24_MUL_Tahoe_Suburban_Yukon_OM_en_US_I_MEO_85657857_2023OCT13_HI.pdf"
+},
+"degem_cd": [
+"495",
+"61",
+"86"
+],
+"kinuy_re": "^(TAHOE( 4WD)?( Z71)?|SUBURBAN|YUKON( XL)?)$",
+"tozeret_cd": [
+"961",
+"201"
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 558,
+"front_wipers_passenger_mm": 508,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 Camaro 2024] Wiper Blades: Driver Side 55.8 cm, Passenger Side 50.8 cm (=558/508 מ\"מ). נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "Maintenance Replacement Parts – PDF 293",
+"source_title": "Chevrolet Camaro 2024 Owner's Manual (GMNA-Localizing-MidEast-17485748, English, Middle East)",
+"source_url": "https://www.chevroletarabia.com/content/dam/chevrolet/middle-east/master/english/index/owners-manual/2024/camaro/new/24_CHEV_Camaro_OM_en_US_I_MEO_85536898_2023AUG04_HI.pdf"
+},
+"degem_cd": [
+"478",
+"487",
+"489",
+"492"
+],
+"kinuy_re": "^CAMARO$",
+"tozeret_cd": [
+"961"
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 525,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-57 Corvette 2024] Wiper Blades: Driver Side 600 mm, Passenger Side 525 mm. נורות לא מולאו – בספר אין טבלת סוגי נורות (מכלולי LED, \"פנה לסוכן\").",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "Maintenance Replacement Parts – PDF 310",
+"source_title": "Chevrolet Corvette 2024 Owner's Manual (GMNA-Localizing-MidEast-17273054, English, Middle East)",
+"source_url": "https://www.chevroletarabia.com/content/dam/chevrolet/middle-east/master/english/index/owners-manual/2024/corvette-stingray/new/24_CHEV_Corvette_OM_en_US_I_MEO_84948183_2023SEP01_HI.pdf"
+},
+"degem_cd": [
+"464",
+"476",
+"477",
+"484",
+"494",
+"499",
+"502"
+],
+"kinuy_re": "^CORVETTE( STINGR)?$",
+"tozeret_cd": [
+"961"
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
 "brake_light": "W21/5W 21/5W (סוג נורה); LED (סוג LED)",
 "confidence": "medium",
 "front_wipers_driver_mm": "",
