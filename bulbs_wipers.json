@@ -8773,8 +8773,8 @@
 "CH-MALIBU-LFV-IL16": {
 "brake_light": "W21W (פנס אור בלם/אחורי/מחוון כיוון אחורי – LS ו-LT) / LED",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "9005SL+ (פנסי חזית עם אורות מעבר ואורות דרך)",
 "headlight_low": "9005SL+ (פנסי חזית עם אורות מעבר ואורות דרך)",
 "notes": "טבלת \"נורות חלופיות\" בספר הישראלי 2016 (דור 9): פנסי חזית עם אורות מעבר ואורות דרך 9005SL+; מחוון כיוון קדמי ואור חניה (LS בלבד) 7444NA; סימון צד 194; אור בלם/אחורי/מחוון כיוון אחורי (LS ו-LT) W21W; נסיעה לאחור W16W; לוחית רישוי (LS ו-LT) W5W. לפי עמ' 237 \"רכב זה כולל מספר נורות LED\" – החלפה במרכז שירות. 2019+ (מתיחת פנים) לא מופה.",
@@ -8799,13 +8799,17 @@
 "rear_wiper_mm": "",
 "source_page": "240 (PDF 240)",
 "source_title": "Chevrolet Malibu ספר רכב 2016 (GMNA-Localize-Israel-9371381, עברית) – נורות חלופיות",
-"source_url": "https://web.archive.org/web/20170102080501id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Malibu.pdf"
+"source_url": "https://web.archive.org/web/20170102080501id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Malibu.pdf",
+"wiper_confidence": "high",
+"wiper_notes": "[BW-56] נהג 650 מ\"מ, נוסע 450 מ\"מ (הספר שהשורה כבר מצטטת לנורות).",
+"wiper_source_title": "Chevrolet Malibu ספר רכב 2016 (GMNA-Localize-Israel-9371381, עברית) – מגבים",
+"wiper_source_url": "https://web.archive.org/web/20170102080501id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Malibu.pdf"
 },
 "CH-MALIBU-LT-LFV-IL16": {
 "brake_light": "W21W (פנס אור בלם/אחורי/מחוון כיוון אחורי – LS ו-LT) / LED",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
 "headlight_high": "9005SL+ (פנסי חזית עם אורות מעבר ואורות דרך)",
 "headlight_low": "9005SL+ (פנסי חזית עם אורות מעבר ואורות דרך)",
 "notes": "טבלת \"נורות חלופיות\" בספר הישראלי 2016 (דור 9): פנסי חזית עם אורות מעבר ואורות דרך 9005SL+; מחוון כיוון קדמי ואור חניה (LS בלבד) 7444NA; סימון צד 194; אור בלם/אחורי/מחוון כיוון אחורי (LS ו-LT) W21W; נסיעה לאחור W16W; לוחית רישוי (LS ו-LT) W5W. לפי עמ' 237 \"רכב זה כולל מספר נורות LED\" – החלפה במרכז שירות. 2019+ (מתיחת פנים) לא מופה.",
@@ -8830,13 +8834,17 @@
 "rear_wiper_mm": "",
 "source_page": "240 (PDF 240)",
 "source_title": "Chevrolet Malibu ספר רכב 2016 (GMNA-Localize-Israel-9371381, עברית) – נורות חלופיות",
-"source_url": "https://web.archive.org/web/20170102080501id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Malibu.pdf"
+"source_url": "https://web.archive.org/web/20170102080501id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Malibu.pdf",
+"wiper_confidence": "high",
+"wiper_notes": "[BW-56] נהג 650 מ\"מ, נוסע 450 מ\"מ (הספר שהשורה כבר מצטטת לנורות).",
+"wiper_source_title": "Chevrolet Malibu ספר רכב 2016 (GMNA-Localize-Israel-9371381, עברית) – מגבים",
+"wiper_source_url": "https://web.archive.org/web/20170102080501id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Malibu.pdf"
 },
 "CH-MALIBU-LTG-IL14": {
 "brake_light": "7440 (LS ו-LT) / LED",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
 "headlight_high": "LL 9005 (דגם בסיסי) / H7 LL (רמת אבזור גבוהה)",
 "headlight_low": "H11 LL",
 "notes": "טבלת \"נורות חלופיות\" בספר הרכב הישראלי (עברית): פנס חזית אור מעבר (דגם בסיסי ודגם ברמת אבזור גבוהה) H11 LL; פנס חזית אור דרך (דגם בסיסי) LL 9005; פנס חזית אור דרך (רמת אבזור גבוהה) H7 LL; פנס אור בלם/אור אחורי (LS ו-LT) 7440. בגרסאות HID אור המעבר לא מופיע בטבלה; לפי הספר \"פנס אור הבלם/האור האחורי הוא פנס LED\" בגרסאות שבהן הוא LED – החלפה במרכז שירות. זהה בספר 2015 (GMNA-Localizing-Israel-8087585) עמ' 10-26 (PDF 216).",
@@ -8885,13 +8893,17 @@
 "rear_wiper_mm": "",
 "source_page": "10-28 – 10-29 (PDF 234-235)",
 "source_title": "Chevrolet Malibu ספר רכב 2014 (BH301_14Malibu_Israel, עברית) – נורות חלופיות",
-"source_url": "https://web.archive.org/web/20170102081124id_/http://chevrolet.co.il/Owners-area/Manuals/2014/Malibu14.pdf"
+"source_url": "https://web.archive.org/web/20170102081124id_/http://chevrolet.co.il/Owners-area/Manuals/2014/Malibu14.pdf",
+"wiper_confidence": "high",
+"wiper_notes": "[BW-56] נהג 60 ס\"מ, נוסע 47.5 ס\"מ – זהה בספרי 2013, 2014 ו-2015 של דור 8.",
+"wiper_source_title": "Chevrolet Malibu ספרי רכב 2013/2014/2015 (עברית, יבואן ישראל) – מגבים",
+"wiper_source_url": "https://web.archive.org/web/20170102081124id_/http://chevrolet.co.il/Owners-area/Manuals/2014/Malibu14.pdf"
 },
 "CH-MALIBU-LTG-IL15": {
 "brake_light": "7440 (LS ו-LT) / LED",
 "confidence": "manual-verbatim",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
 "headlight_high": "LL 9005 (דגם בסיסי) / H7 LL (רמת אבזור גבוהה)",
 "headlight_low": "H11 LL",
 "notes": "טבלת \"נורות חלופיות\" בספר הרכב הישראלי (עברית): פנס חזית אור מעבר (דגם בסיסי ודגם ברמת אבזור גבוהה) H11 LL; פנס חזית אור דרך (דגם בסיסי) LL 9005; פנס חזית אור דרך (רמת אבזור גבוהה) H7 LL; פנס אור בלם/אור אחורי (LS ו-LT) 7440. בגרסאות HID אור המעבר לא מופיע בטבלה; לפי הספר \"פנס אור הבלם/האור האחורי הוא פנס LED\" בגרסאות שבהן הוא LED – החלפה במרכז שירות. זהה בספר 2014 (BH301_14Malibu_Israel) עמ' 10-28 – 10-29.",
@@ -8940,13 +8952,17 @@
 "rear_wiper_mm": "",
 "source_page": "10-26 (PDF 216)",
 "source_title": "Chevrolet Malibu ספר רכב 2015 (GMNA-Localizing-Israel-8087585, עברית) – נורות חלופיות",
-"source_url": "https://web.archive.org/web/20170102135335id_/http://chevrolet.co.il/Owners-area/Manuals/2015/Malibu.pdf"
+"source_url": "https://web.archive.org/web/20170102135335id_/http://chevrolet.co.il/Owners-area/Manuals/2015/Malibu.pdf",
+"wiper_confidence": "high",
+"wiper_notes": "[BW-56] נהג 60 ס\"מ, נוסע 47.5 ס\"מ – זהה בספרי 2013, 2014 ו-2015 של דור 8.",
+"wiper_source_title": "Chevrolet Malibu ספרי רכב 2013/2014/2015 (עברית, יבואן ישראל) – מגבים",
+"wiper_source_url": "https://web.archive.org/web/20170102081124id_/http://chevrolet.co.il/Owners-area/Manuals/2014/Malibu14.pdf"
 },
 "CH-MALIBULT-V300-LE5-KR": {
 "brake_light": "7440 (LS ו-LT) / LED",
 "confidence": "medium-high",
-"front_wipers_driver_mm": "",
-"front_wipers_passenger_mm": "",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
 "headlight_high": "LL 9005 (דגם בסיסי) / H7 LL (רמת אבזור גבוהה)",
 "headlight_low": "H11 LL",
 "notes": "טבלת \"נורות חלופיות\" בספר הרכב הישראלי (עברית): פנס חזית אור מעבר (דגם בסיסי ודגם ברמת אבזור גבוהה) H11 LL; פנס חזית אור דרך (דגם בסיסי) LL 9005; פנס חזית אור דרך (רמת אבזור גבוהה) H7 LL; פנס אור בלם/אור אחורי (LS ו-LT) 7440. בגרסאות HID אור המעבר לא מופיע בטבלה; לפי הספר \"פנס אור הבלם/האור האחורי הוא פנס LED\" בגרסאות שבהן הוא LED – החלפה במרכז שירות. השורה (V300, 2012-2013) היא אותו דור 8 של מאליבו; הנורות נלקחו מהספר הישראלי 2014 של אותו דור (זהה ל-2015). נתוני הנוזלים בשורה מספר קוריאני – לא שונו.",
@@ -8995,7 +9011,11 @@
 "rear_wiper_mm": "",
 "source_page": "10-28 – 10-29 (PDF 234-235)",
 "source_title": "Chevrolet Malibu ספר רכב 2014 (BH301_14Malibu_Israel, עברית) – נורות חלופיות",
-"source_url": "https://web.archive.org/web/20170102081124id_/http://chevrolet.co.il/Owners-area/Manuals/2014/Malibu14.pdf"
+"source_url": "https://web.archive.org/web/20170102081124id_/http://chevrolet.co.il/Owners-area/Manuals/2014/Malibu14.pdf",
+"wiper_confidence": "medium-high",
+"wiper_notes": "[BW-56] נהג 60 ס\"מ, נוסע 47.5 ס\"מ (זהה בספרי 2014/2015). השורה (V300 2012-2013) היא אותו דור 8.",
+"wiper_source_title": "Chevrolet Malibu ספר רכב 2013 (עברית, יבואן ישראל) – מגבים",
+"wiper_source_url": "https://web.archive.org/web/20170102001749id_/http://chevrolet.co.il/Owners-area/Manuals/Malibu%202013.pdf"
 },
 "CH-ORLANDO-LNP-IL1213": {
 "brake_light": "P21/5W / W21/5W (21/5W, סוג 1) / LED (סוג 2)",
@@ -86672,6 +86692,351 @@
 ],
 "year_from": 2015,
 "year_to": 2018
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 625,
+"front_wipers_passenger_mm": 533,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-56 Traverse 2010-12] טבלת \"נורות חלופיות\": לוחית רישוי 194; סימון צידי אחורי 194; מחוון כיוון אחורי ופנסים אחוריים 7443 (W21/5W). פנסי חזית ואור בלם לא מופיעים בטבלה (\"נורות שאינן מופיעות בטבלה יוחלפו במוסך\") – לא מולאו. מגבים: נהג 62.5 ס\"מ, נוסע 53.3 ס\"מ, אחורי 30 ס\"מ. 2009 ו-2013+ לא מכוסים בספר זה.",
+"other_bulbs": [
+{
+"position": "תאורת לוחית רישוי",
+"type": "194"
+},
+{
+"position": "פנסי סימון צידי אחורי",
+"type": "194"
+},
+{
+"position": "פנס מחוון כיוון אחורי ופנסים אחוריים",
+"type": "7443 (W21/5W)"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "נורות 5-21 (PDF 195); מגבים 5-22 (PDF 196)",
+"source_title": "Chevrolet Traverse ספר רכב 2010 (עברית, יבואן ישראל; פורסם באתר היבואן גם כספר 2011 ו-2012 – קובץ זהה)",
+"source_url": "https://web.archive.org/web/20130815152038id_/http://chevrolet.co.il/Owners-area/Manuals/Traverse%2010.pdf"
+},
+"degem_cd": [
+"1",
+"101",
+"13",
+"14",
+"15",
+"16",
+"54",
+"71",
+"81",
+"91"
+],
+"kinuy_re": "^TRAVERSE( LT)?$",
+"tozeret_cd": [
+"961"
+],
+"year_from": 2010,
+"year_to": 2012
+},
+{
+"data": {
+"brake_light": "7444 LL (אור אחורי/אור בלם)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 625,
+"front_wipers_passenger_mm": 530,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-56 Traverse 2013] טבלת \"נורות חילופיות\": פנס לוחית רישוי 194 LL; מחוון כיוון ימני 7443 NA; אור אחורי/אור בלם 7444 LL. פנסי חזית לא בטבלה (מוסך) – לא מולאו. מגבים: נהג 62.5 ס\"מ, נוסע 53.0 ס\"מ, אחורי 30.0 ס\"מ. 2014-2017 (אותו דור) לא מולאו – אין ספר ישראלי לשנים אלה.",
+"other_bulbs": [
+{
+"position": "פנס לוחית רישוי",
+"type": "194 LL"
+},
+{
+"position": "מחוון כיוון (כמודפס: \"מחוון כיוון ימני\")",
+"type": "7443 NA"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "נורות 10-26 (PDF 298); מגבים 11-3 (PDF 345)",
+"source_title": "Chevrolet Traverse ספר רכב 2013 (עברית, יבואן ישראל)",
+"source_url": "https://web.archive.org/web/20130815073006id_/http://chevrolet.co.il/Owners-area/Manuals/Traverse%2013.pdf"
+},
+"degem_cd": [
+"14",
+"15",
+"17",
+"24",
+"25",
+"26",
+"27",
+"28",
+"29",
+"34",
+"35",
+"36",
+"37",
+"38"
+],
+"kinuy_re": "^TRAVERSE$",
+"tozeret_cd": [
+"961"
+],
+"year_from": 2013,
+"year_to": 2013
+},
+{
+"data": {
+"brake_light": "7443 LL (אור בלם/פנס אחורי/מחוון כיוון אחורי)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"headlight_high": "HIR2 (9012) – אלומה משולבת גבוהה/נמוכה (פנס בסיסי)",
+"headlight_low": "HIR2 (9012) – אלומה משולבת גבוהה/נמוכה (פנס בסיסי)",
+"notes": "[BW-56 Impala 2014-15] טבלת \"נורות חלופיות\": פנס חזית אלומה משולבת גבוהה/נמוכה (בסיסי) HIR2 (9012); אור בלם/אחורי/מחוון כיוון אחורי 7443 LL; נסיעה לאחור 7440; מכסה תא מטען 194; חניה/איתות קדמי 7444 NA PLATINUM; סימון צד 194; לוחית W5W LL. גרסאות HID/LED לא בטבלה. מגבים: נהג 60 ס\"מ, נוסע 47.5 ס\"מ. זהה בספר 2015 (GMNA-Localizing-Israel-8087683) עמ' 10-24 (PDF 218), מגבים 11-3 (PDF 259): https://web.archive.org/web/20170102135504id_/http://chevrolet.co.il/Owners-area/Manuals/2015/Impala.pdf",
+"other_bulbs": [
+{
+"position": "אור נסיעה לאחור",
+"type": "7440"
+},
+{
+"position": "מנורת מכסה תא המטען",
+"type": "194"
+},
+{
+"position": "אור חניה/מחוון כיוון קדמי",
+"type": "7444 NA PLATINUM"
+},
+{
+"position": "פנס סימון צד",
+"type": "194"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "נורות 10-32 (PDF 280); מגבים 11-4 (PDF 332)",
+"source_title": "Chevrolet Impala ספר רכב 2014 (H14HE_OM_01_14Impala_Mideast, עברית, יבואן ישראל)",
+"source_url": "https://web.archive.org/web/20140327184408id_/http://chevrolet.co.il/Owners-area/Manuals/Impala14.pdf"
+},
+"degem_cd": [
+"4",
+"5",
+"6",
+"8"
+],
+"kinuy_re": "^IMPALA( LTZ?)?$",
+"tozeret_cd": [
+"962"
+],
+"year_from": 2014,
+"year_to": 2015
+},
+{
+"data": {
+"brake_light": "7443 LL (אור בלם/פנס אחורי/מחוון כיוון אחורי)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"headlight_high": "HB3 (9005SL+)",
+"headlight_low": "HB3 (9005SL+)",
+"notes": "[BW-56 Impala 2016] ספר 2016 מדפיס לפנס החזית HB3 (9005SL+) (שונה מספרי 2014-2015: HIR2). מגבים: נהג 60 ס\"מ, נוסע 47.5 ס\"מ. 2017-2020 לא מולאו – אין ספר ישראלי לשנים אלה.",
+"other_bulbs": [
+{
+"position": "אור נסיעה לאחור",
+"type": "7440"
+},
+{
+"position": "מנורת מכסה תא המטען",
+"type": "194"
+},
+{
+"position": "אור חניה/מחוון כיוון קדמי",
+"type": "7444 NA"
+},
+{
+"position": "פנס סימון צד",
+"type": "194"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "W5W LL"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "נורות PDF 201; מגבים PDF 239",
+"source_title": "Chevrolet Impala ספר רכב 2016 (GMNA-Localize-Israel-9371383, עברית, יבואן ישראל)",
+"source_url": "https://web.archive.org/web/20170102080556id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Impala.pdf"
+},
+"degem_cd": [
+"10",
+"11",
+"29",
+"33",
+"4",
+"6",
+"8",
+"9"
+],
+"kinuy_re": "^IMPALA( LTZ?)?$",
+"tozeret_cd": [
+"962"
+],
+"year_from": 2016,
+"year_to": 2016
+},
+{
+"data": {
+"brake_light": "7443LL (פנס אחורי/פנס מחוון כיוון/אור בלמים)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 425,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-56 Equinox 2016] טבלת \"נורות חלופיות\": נסיעה לאחור 921; ערפל קדמי H8LL; לוחית W5WLL; אור צד אחורי 194; פנס אחורי/מחוון כיוון/אור בלמים 7443LL. פנסי חזית לא בטבלה – לא מולאו. מגבים: נהג 60 ס\"מ, נוסע 42.5 ס\"מ, אחורי 32.5 ס\"מ. 2017-2018 לא מולאו.",
+"other_bulbs": [
+{
+"position": "פנס נסיעה לאחור",
+"type": "921"
+},
+{
+"position": "פנס ערפל קדמי",
+"type": "H8LL"
+},
+{
+"position": "תאורת לוחית הרישוי",
+"type": "W5WLL"
+},
+{
+"position": "אור צד אחורי",
+"type": "194"
+}
+],
+"rear_wiper_mm": 325,
+"source_page": "נורות 192 (PDF 192); מגבים PDF 230",
+"source_title": "Chevrolet Equinox ספר רכב 2016 (GMNA-Localizing-Israel-10060922, עברית, יבואן ישראל)",
+"source_url": "https://web.archive.org/web/20170102012908id_/http://chevrolet.co.il/Owners-area/Manuals/2016/Equinox.pdf"
+},
+"degem_cd": [
+"13",
+"14",
+"15",
+"16",
+"17",
+"18",
+"19",
+"20",
+"21",
+"25",
+"26",
+"27",
+"28",
+"30"
+],
+"kinuy_re": "^EQUINOX$",
+"tozeret_cd": [
+"962"
+],
+"year_from": 2016,
+"year_to": 2016
+},
+{
+"data": {
+"brake_light": "3057 (פנס מחוון כיוון אחורי, אור בלם ואור אחורי)",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-56 Captiva Sport 2012-13] טבלת \"נורות חילופיות\": נסיעה לאחור 3156; מחוון כיוון קדמי 3157K; לוחית 168LL; מחוון כיוון אחורי/אור בלם/אור אחורי 3057. פנס החזית לא מולא: השורה מודפסת \"פנס קדמי – אור מעבר/אור נסיעה ביום: 9005 או HB3\" (לא ברור אם אור נמוך או גבוה) – שאלה פתוחה. פנס ערפל מודפס \"P5X24W\" (כנראה שגיאת דפוס) – לא מולא. מגבים: נהג 60.0 ס\"מ, נוסע 40.0 ס\"מ, אחורי 30.0 ס\"מ. 2014-2015 לא מולאו.",
+"other_bulbs": [
+{
+"position": "אור נסיעה לאחור",
+"type": "3156"
+},
+{
+"position": "פנס מחוון כיוון קדמי",
+"type": "3157K"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "168LL"
+}
+],
+"rear_wiper_mm": 300,
+"source_page": "נורות 10-26 (PDF 241); מגבים 11-2 (PDF 282)",
+"source_title": "Chevrolet Captiva Sport ספר רכב 2012 (עברית, יבואן ישראל; פורסם גם כספר 2013 – קובץ זהה)",
+"source_url": "https://web.archive.org/web/20130815122232id_/http://chevrolet.co.il/Owners-area/Manuals/Captiva%20Sport%2012.pdf"
+},
+"degem_cd": [
+"1",
+"10",
+"11",
+"12",
+"2",
+"3",
+"4",
+"5",
+"6",
+"8",
+"9"
+],
+"kinuy_re": "^CAPTIVA SPORT$",
+"tozeret_cd": [
+"981"
+],
+"year_from": 2012,
+"year_to": 2013
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 500,
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-56 Malibu 2011-12] טבלת נורות חלופיות: אור נסיעה לאחור ואור אחורי 921; לוחית רישוי 168; מחוון כיוון 3156. פנסי חזית ואור בלם לא בטבלה – לא מולאו. מגבים: נהג 55 ס\"מ, נוסע 50 ס\"מ. 2010 לא מכוסה בספר זה.",
+"other_bulbs": [
+{
+"position": "אור נסיעה לאחור ואור אחורי",
+"type": "921"
+},
+{
+"position": "תאורת לוחית רישוי",
+"type": "168"
+},
+{
+"position": "פנס מחוון כיוון",
+"type": "3156"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "נורות 159 (PDF 159); מגבים 168 (PDF 168)",
+"source_title": "Chevrolet Malibu ספר רכב 2011 (sh3-Malibu 2011, עברית, יבואן ישראל; פורסם גם כספר 2012 – קובץ זהה)",
+"source_url": "https://web.archive.org/web/20130815072755id_/http://chevrolet.co.il/Owners-area/Manuals/Malibu%2011.pdf"
+},
+"degem_cd": [
+"12",
+"2",
+"231",
+"241",
+"3",
+"5",
+"531",
+"541",
+"6"
+],
+"kinuy_re": "^MALIBU +LT$",
+"tozeret_cd": [
+"961"
+],
+"year_from": 2011,
+"year_to": 2012
 },
 {
 "data": {
