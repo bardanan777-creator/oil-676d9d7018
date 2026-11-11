@@ -114392,6 +114392,784 @@
 ],
 "year_from": 2025,
 "year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Chery Arrizo 8 PHEV (M1E). OXIMO 2026 עמ׳ 34: \"Chery | Arrizo 8 (M1E) | sedan | 08.2022- | C | 600 | 450\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): HEYNER Arrizo 8 549095: 600/450 – תואם. הנחה: גרסת ה-PHEV על אותו מרכב M1E. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=34"
+},
+"degem_cd": [
+"33",
+"34",
+"67",
+"72",
+"73",
+"76"
+],
+"kinuy_re": "^ARRIZO 8 PHEV$",
+"tozeret_cd": [
+1450
+],
+"year_from": 2024,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Deepal S05. OXIMO 2026 עמ׳ 40: \"Deepal | S05 | suv | 10.2024- | C | 600 | 425 | … | 250\" (נהג/נוסע במ\"מ, אחורי). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 250,
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=40"
+},
+"degem_cd": [
+"3",
+"4",
+"5",
+"6",
+"7",
+"8"
+],
+"kinuy_re": "^S05$",
+"tozeret_cd": [
+1634
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Dongfeng BOX. OXIMO 2026 עמ׳ 41: \"DongFeng (DFSK) | Box | hatchback | 09.2024- | U | 600 | 475\" (נהג/נוסע במ\"מ). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=41"
+},
+"degem_cd": [
+"3",
+"4",
+"5"
+],
+"kinuy_re": "^BOX$",
+"tozeret_cd": [
+1465
+],
+"year_from": 2024,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Omoda 7 PHEV. OXIMO 2026 עמ׳ 68: \"Omoda | 7 | suv | 10.2025- | 600 | 450\" (נהג/נוסע במ\"מ). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=68"
+},
+"degem_cd": [
+"3",
+"6",
+"7",
+"8"
+],
+"kinuy_re": "^OMODA 7 PHEV$",
+"tozeret_cd": [
+1605
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Omoda 9 PHEV. OXIMO 2026 עמ׳ 68: \"Omoda | 9 | suv | 03.2024- | 600 | 450 | … | 300\" (נהג/נוסע במ\"מ, אחורי). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=68"
+},
+"degem_cd": [
+"1",
+"2",
+"4",
+"5"
+],
+"kinuy_re": "^OMODA 9 PHEV$",
+"tozeret_cd": [
+1605
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Aiways U5. OXIMO 2026 עמ׳ 24: \"Aiways | U5 | suv | 12.2019- | C | 600 | 475\" (נהג/נוסע במ\"מ). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=24"
+},
+"degem_cd": [
+"1",
+"3",
+"4",
+"5",
+"6",
+"7",
+"8"
+],
+"kinuy_re": "^U5$",
+"tozeret_cd": [
+1236
+],
+"year_from": 2020,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Aiways U6. OXIMO 2026 עמ׳ 24: \"Aiways | U6 | suv | 12.2021- | C | 600 | 475\" (נהג/נוסע במ\"מ). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=24"
+},
+"degem_cd": [
+"9"
+],
+"kinuy_re": "^U6$",
+"tozeret_cd": [
+1236
+],
+"year_from": 2023,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 625,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Xpeng G9. OXIMO 2026 עמ׳ 89: \"Xpeng | G9 | suv | 09.2022- | C1 | 625 | 450 | MT600* (מוצר חלופי 600)\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): אתר oximo.pl מציג מוצר 600/450 (חלופי). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=89"
+},
+"degem_cd": [
+"3",
+"4",
+"8",
+"9",
+"10",
+"12",
+"13",
+"14",
+"17",
+"18",
+"19",
+"21",
+"29",
+"39",
+"40",
+"41",
+"42",
+"43"
+],
+"kinuy_re": "^G9$",
+"tozeret_cd": [
+1547
+],
+"year_from": 2023,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: GAC AION V (2nd gen). OXIMO 2026 עמ׳ 47: \"GAC | AION V | suv | 11.2024- | C/C1 | 650 | 425\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): HEYNER GAC AION V 10.2024-: 650/450. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=47"
+},
+"degem_cd": [
+"1"
+],
+"kinuy_re": "^AION V$",
+"tozeret_cd": [
+1694
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: GAC AION V (2nd gen). OXIMO 2026 עמ׳ 47: \"GAC | AION V | suv | 11.2024- | C/C1 | 650 | 425\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): HEYNER GAC AION V 10.2024-: 650/450. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=47"
+},
+"degem_cd": [
+"4"
+],
+"kinuy_re": "^AION V$",
+"tozeret_cd": [
+1231
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: GAC AION UT. OXIMO 2026 עמ׳ 47: \"GAC | AION UT | suv | 03.2025- | C/C1 | 650 | 425\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): wiperblade.com.au AION UT 2026-2028: 650/425/250 – תואם. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=47"
+},
+"degem_cd": [
+"2",
+"3",
+"7"
+],
+"kinuy_re": "^AION UT$",
+"tozeret_cd": [
+1694
+],
+"year_from": 2026,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: GAC AION HT = Hyptec HT. OXIMO 2026 עמ׳ 47: \"GAC | Hyptec HT | suv | 01.2023- | C/C1 | 650 | 400\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): AION HT = שם השוק של Hyptec HT. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=47"
+},
+"degem_cd": [
+"2"
+],
+"kinuy_re": "^AION HT$",
+"tozeret_cd": [
+1231
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 525,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Changan Avatr 11. OXIMO 2026 עמ׳ 34: \"Changan | Avatr 11 | liftback | 11.2021- | C1 | 600 | 525\" (נהג/נוסע במ\"מ). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=34"
+},
+"degem_cd": [
+"2",
+"4",
+"5"
+],
+"kinuy_re": "^AVATR11$",
+"tozeret_cd": [
+1658
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: NIO EL7 (= ES7). OXIMO 2026 עמ׳ 66: \"NIO | ES7 | suv | 06.2022- | C1 | 600 | 500\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): HEYNER NIO EL7 01.2023-: 600/500 – תואם. EL7 = שם השוק האירופי של ES7. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=66"
+},
+"degem_cd": [
+"11",
+"12",
+"13",
+"23",
+"24"
+],
+"kinuy_re": "^EL7$",
+"tozeret_cd": [
+1582
+],
+"year_from": 2024,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Maxus EUNIQ 5. OXIMO 2026 עמ׳ 59: \"Maxus | EUNIQ 5 | suv | 04.2022- | U | 600 | 400 | … | 300\" (נהג/נוסע במ\"מ, אחורי). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=59"
+},
+"degem_cd": [
+"7",
+"11"
+],
+"kinuy_re": "^MAXUS EUNIQ5( PL)?$",
+"tozeret_cd": [
+1152
+],
+"year_from": 2022,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 575,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Forthing S7 (EV). OXIMO 2026 עמ׳ 47: \"FORTHING | S7 REEV | suv | 09.2024- | C1 | 575 | 450\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): הנחה: גרסת ה-EV על אותו מרכב של S7 REEV. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=47"
+},
+"degem_cd": [
+"4"
+],
+"kinuy_re": "^S7$",
+"tozeret_cd": [
+1512
+],
+"year_from": 2024,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: JAC e-JS4. OXIMO 2026 עמ׳ 53: \"JAC | JS4 | suv | 10.2018- | C | 600 | 400\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): HEYNER JAC JS4 01.2022-: 600/400 – תואם. הנחה: e-JS4 החשמלי על מרכב JS4. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=53"
+},
+"degem_cd": [
+"7",
+"10"
+],
+"kinuy_re": "^E-JS4$",
+"tozeret_cd": [
+1213
+],
+"year_from": 2022,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: JAC e-JS4 (JAC 40). OXIMO 2026 עמ׳ 53: \"JAC | JS4 | suv | 10.2018- | C | 600 | 400\" (נהג/נוסע במ\"מ). השוואה (לא בשימוש): HEYNER JAC JS4 01.2022-: 600/400 – תואם. הנחה: e-JS4 החשמלי על מרכב JS4. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים 2026 (יצרן מגבים פולני, PDF, אורכי OE לנהג/נוסע, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=53"
+},
+"degem_cd": [
+"4"
+],
+"kinuy_re": "^JAC 40$",
+"tozeret_cd": [
+1120
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Seres 3. Valeo 2024-25 עמ׳ 139: \"SERES 3 … HF60(A) + HF40(A) … 07/20\" (HF60 = 600 מ\"מ, HF40 = 400 מ\"מ). השוואה (לא בשימוש): OXIMO 2026 עמ׳ 78: 600/400 – תואם; HEYNER SERES 3 09.2023-: 650/400. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Valeo Silencio/HydroConnect 2024-25 (הגה שמאלי)",
+"source_url": "https://cld.bz/9eL0uwt/139/"
+},
+"degem_cd": [
+"1"
+],
+"kinuy_re": "^SERES 3$",
+"tozeret_cd": [
+1294
+],
+"year_from": 2021,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: BYD Seal 5 (DM-i). oximo.pl \"BYD Seal 5 SEDAN 2025-02-01 - now\": \"Driver: 650 mm / 26\"\", \"Passenger: 400 mm / 16\"\" (סט WC3506001). השוואה (לא בשימוש): thansen.dk: 600/400. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "OXIMO – קטלוג מגבים לפי רכב (oximo.pl, יצרן מגבים פולני, הגה שמאלי)",
+"source_url": "https://www.oximo.pl/en/wiper-car/byd/seal-5/sedan-2025-02-01/"
+},
+"degem_cd": [
+"39",
+"54"
+],
+"kinuy_re": "^BYD SEAL 5$",
+"tozeret_cd": [
+1014
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 430,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Lynk & Co 02 (2024-). HEYNER \"Scheibenwischer-Set für LYNK & CO 02 von 12.2024\": Länge 600 mm, Länge 2 430 mm, Bosch RefNr 3 397 014 744. השוואה (לא בשימוש): 2dvornika: 600/430 – תואם. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-lynk-co-02-842012/"
+},
+"degem_cd": [
+"6",
+"7",
+"8"
+],
+"kinuy_re": "^LYNKCO 02$",
+"tozeret_cd": [
+1346
+],
+"year_from": 2024,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Hongqi EHS7. HEYNER \"Scheibenwischer-Set für HONGQI EHS7 von 10.2024\": Länge 650 mm, Länge 2 450 mm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-hongqi-ehs7-650081/"
+},
+"degem_cd": [
+"13",
+"14",
+"15",
+"19"
+],
+"kinuy_re": "^EHS7$",
+"tozeret_cd": [
+1381
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 430,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Hongqi EH7. HEYNER \"Scheibenwischer-Set für HONGQI EH7 von 10.2024\": Länge 600 mm, Länge 2 430 mm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-hongqi-eh7-650078/"
+},
+"degem_cd": [
+"9",
+"10",
+"11"
+],
+"kinuy_re": "^EH7$",
+"tozeret_cd": [
+1381
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Forthing T5 Friday. HEYNER \"Scheibenwischer-Set für FORTHING T5 / T5 FRIDAY von 09.2021\": Länge 600 mm, Länge 2 450 mm, Bosch RefNr 3 397 014 419, Valeo Ref 577824. השוואה (לא בשימוש): OXIMO 2026 עמ׳ 47 T5 EVO: 600/450 – תואם. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-forthing-t5-friday-550553/"
+},
+"degem_cd": [
+"1",
+"3",
+"5"
+],
+"kinuy_re": "^FRIDAY$",
+"tozeret_cd": [
+1512
+],
+"year_from": 2023,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 560,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: WEY Coffee 01. HEYNER \"Scheibenwischer-Set für WEY Coffee 01 von 01.2021\": Länge 560 mm, Länge 2 450 mm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-wey-coffee-01-555957/"
+},
+"degem_cd": [
+"1",
+"2",
+"3",
+"4",
+"11"
+],
+"kinuy_re": "^WEY COFFEE 01$",
+"tozeret_cd": [
+1462
+],
+"year_from": 2023,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 560,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: WEY Coffee 02. HEYNER \"Scheibenwischer-Set für WEY Coffee 02 von 01.2021\": Länge 560 mm, Länge 2 500 mm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-wey-coffee-02-555961/"
+},
+"degem_cd": [
+"5",
+"6",
+"7",
+"8",
+"9",
+"10"
+],
+"kinuy_re": "^WEY COFFEE 02$",
+"tozeret_cd": [
+1462
+],
+"year_from": 2023,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 430,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Voyah Free. HEYNER \"Scheibenwischer-Set für VOYAH FREE von 06.2021\": Länge 600 mm, Länge 2 430 mm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-voyah-free-654111/"
+},
+"degem_cd": [
+"2",
+"3"
+],
+"kinuy_re": "^FREE$",
+"tozeret_cd": [
+1468
+],
+"year_from": 2022,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Voyah Dream (2024 FL). HEYNER \"Scheibenwischer-Set für VOYAH DREAM von 10.2024\": Länge 700 mm, Länge 2 400 mm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-voyah-dream-789931/"
+},
+"degem_cd": [
+"2",
+"4"
+],
+"kinuy_re": "^DREAM$",
+"tozeret_cd": [
+1468
+],
+"year_from": 2025,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: NIO EL6. HEYNER \"Scheibenwischer-Set für NIO EL6 von 10.2023\": Länge 600 mm, Länge 2 500 mm, Bosch RefNr 3 397 007 297, Valeo Ref 574462. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-nio-el6-655679/"
+},
+"degem_cd": [
+"15",
+"20",
+"21",
+"22",
+"25",
+"30",
+"31",
+"32"
+],
+"kinuy_re": "^EL6$",
+"tozeret_cd": [
+1582
+],
+"year_from": 2024,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 480,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Maxus e-Deliver 5. HEYNER \"Scheibenwischer-Set für MAXUS e-DELIVER 5 von 01.2024\": Länge 600 mm, Länge 2 480 mm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "HEYNER – קטלוג מגבים לפי רכב (heyner.com, יצרן מגבים גרמני, הגה שמאלי)",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-maxus-e-deliver-5-980105/"
+},
+"degem_cd": [
+"8",
+"9",
+"23",
+"28",
+"35"
+],
+"kinuy_re": "^(EDELIVER 5|EDELIVER5 COMBI)$",
+"tozeret_cd": [
+1152
+],
+"year_from": 2024,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Xpeng P7i. 2dvornika.com.ua Xpeng P7 (2023-2026): \"550 мм … та 450 мм\". השוואה (לא בשימוש): 2dvornika.ru Xpeng P7 2020-2024: 550/450 – תואם. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "2dvornika – קטלוג מגבים לפי רכב (2dvornika.com.ua, הגה שמאלי)",
+"source_url": "https://www.2dvornika.com.ua/ua/xpeng/xpeng_p7/25400529.html"
+},
+"degem_cd": [
+"1",
+"2",
+"5",
+"6",
+"7",
+"11",
+"22",
+"23",
+"25",
+"28",
+"48"
+],
+"kinuy_re": "^P7I$",
+"tozeret_cd": [
+1547
+],
+"year_from": 2023,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: BYD ETP3. Silbak, BYD ETP3 01/2024 > ..., סט SB2416U: \"Right and left flat wiper blade set … 600 mm (left) / 400 mm (right)\". רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "Silbak – קטלוג מגבים לפי רכב (silbak.com, טורקיה, הגה שמאלי)",
+"source_url": "https://www.silbak.com/en/urun/SB2416U/byd-etp3-01-2024-to"
+},
+"degem_cd": [
+"1"
+],
+"kinuy_re": "^ETP3$",
+"tozeret_cd": [
+1014
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-65: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Foton Tunland (V7/V9). wiperblade.com.au \"2025-2027 Foton Tunland V9: 600 mm driver / 450 mm passenger\" (וגם Tunland V7 2025-2027: 600/450). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "wiperblade.com.au – קטלוג מידות מגבים (שוק אוסטרליה, הגה ימני)",
+"source_url": "https://wiperblade.com.au/foton/tunland-v9/2025-2027"
+},
+"degem_cd": [
+"3"
+],
+"kinuy_re": "^TUNLAND$",
+"tozeret_cd": [
+807
+],
+"year_from": 2024,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-65: שני מקורות ומעלה תואמים (כלל שני המקורות). דגם: Polestar 2. Bosch 2023: \"Polestar 2 03.20→ 3 SDA A 620 S\"; \"A 620 S 3 397 007 620 600/475 LHD\". Valeo 2024-25 עמ׳ 126: \"POLESTAR 2 … 01/20 … VF376 (600/475)\". carwiper.co.il Polestar 2 2020-2025: 24\"/19\" – שלושה מקורות תואמים. השוואה (לא בשימוש): OXIMO 2026 עמ׳ 72: 600/475 – תואם. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 + קטלוג Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"1",
+"2",
+"3",
+"4",
+"5",
+"6"
+],
+"kinuy_re": "^POLESTAR2 ELECT$",
+"tozeret_cd": [
+1414
+],
+"year_from": 2022,
+"year_to": 2024
 }
 ]
 }
