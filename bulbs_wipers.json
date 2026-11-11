@@ -112640,6 +112640,570 @@
 ],
 "year_from": 2023,
 "year_to": 2025
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 625,
+"front_wipers_passenger_mm": 530,
+"notes": "BW-63: דגם: Traverse 1st gen 2015-2016. \"מגבים\" עמ׳ 11-3 (PDF 397): צד הנהג 62.5 ס\"מ, צד הנוסע 53.0 ס\"מ, החלון העורפי 30.0 ס\"מ. 2014 ו-2017 (אותו דור) לא מולאו – אין ספר ישראלי לשנים אלה. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "Chevrolet Traverse ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2015 (קובץ זהה ל-2016, aadd554a/טרווארס-2016.pdf)",
+"source_url": "https://www.chevrolet.co.il/media/ddkply1k/טראוורס-2015.pdf"
+},
+"degem_cd": [
+"2",
+"36",
+"37",
+"38",
+"44",
+"45",
+"48",
+"54",
+"55",
+"56",
+"57",
+"58",
+"59",
+"76",
+"77",
+"79",
+"80",
+"85",
+"86",
+"87"
+],
+"kinuy_re": "^TRAVERSE$",
+"tozeret_cd": [
+961
+],
+"year_from": 2015,
+"year_to": 2016
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-63: דגם: Traverse 2nd gen 2018. טבלת \"חלפים לתחזוקה\" (PDF 324): קדמי בצד הנהג 60.0 ס\"מ, קדמי בצד הנוסע 50.0 ס\"מ, אחורי 25.0 ס\"מ. קודי דגם של 2018 שמופיעים גם עם מנוע הדור הקודם (LLT) לא מולאו. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 250,
+"source_title": "Chevrolet Traverse ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2018 (GMNA-Localizing-Israel-11374201)",
+"source_url": "https://www.chevrolet.co.il/media/goqbhqsb/טרווארס-2018.pdf"
+},
+"degem_cd": [
+"9",
+"98",
+"99",
+"100",
+"117",
+"118",
+"119",
+"120",
+"129",
+"134",
+"135",
+"136",
+"137"
+],
+"kinuy_re": "^TRAVERSE$",
+"tozeret_cd": [
+961
+],
+"year_from": 2018,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-63: דגם: Traverse 2nd gen 2019-2023. טבלת \"חלפים לתחזוקה\" – להבי מגבים: קדמי בצד הנהג 60.0 ס\"מ, קדמי בצד הנוסע 50.0 ס\"מ, אחורי 25.0 ס\"מ – זהה בכל הספרים: 2018 PDF 324 (goqbhqsb/טרווארס-2018.pdf), 2019 PDF 330, 2020 PDF 293 (3lqbmhkc/טראוורס-2020.pdf = 1x4nhtop/טראוורס-2021.pdf), 2022 PDF 340 (53cebdpu/טרוורס-2022new.pdf), 2023 PDF 333 (aa5bjgvy/טרוורס-2023-new.pdf). 2017 ו-2024 לא מולאו (ספר 2024 הישראלי – PATAC – בלי טבלת מגבים). ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 250,
+"source_title": "Chevrolet Traverse ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2018 (GMNA-Localizing-Israel-11374201), 2019 (-12470522), 2020 (-13537882, מפורסם גם כספר 2021), 2022 (-15253201), 2023 (-16411539)",
+"source_url": "https://www.chevrolet.co.il/media/r0jdzkhu/טראוורס-2019.pdf"
+},
+"degem_cd": [
+"41",
+"43",
+"53",
+"56",
+"62",
+"63",
+"66",
+"76",
+"86",
+"88",
+"89",
+"117",
+"118",
+"119",
+"120",
+"129",
+"135",
+"136",
+"137",
+"138",
+"139",
+"163",
+"243",
+"244",
+"245",
+"246",
+"247",
+"355",
+"366",
+"367",
+"368",
+"369",
+"370",
+"372",
+"373",
+"426",
+"514"
+],
+"kinuy_re": "^TRAVERSE$",
+"tozeret_cd": [
+961
+],
+"year_from": 2019,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-63: דגם: Equinox 2nd gen 2017. טבלת \"חלפים לתחזוקה\" (PDF 232): צד הנהג 60 ס\"מ, צד הנוסע 42.5 ס\"מ, אחורי 32.5 ס\"מ (זהה לספר 2016 שכבר שימש ב-BW-56). ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 325,
+"source_title": "Chevrolet Equinox ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2017 (GMNA-Localizing-Israel-10260843)",
+"source_url": "https://www.chevrolet.co.il/media/brsiiqzj/אקווינוקס-2017.pdf"
+},
+"degem_cd": [
+"24",
+"25",
+"28"
+],
+"kinuy_re": "^EQUINOX$",
+"tozeret_cd": [
+962
+],
+"year_from": 2017,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-63: דגם: Equinox 3rd gen 2018-2023. טבלת \"חלפים לתחזוקה\" – להבי מגבים: צד הנהג 60 ס\"מ, צד הנוסע 45.0 ס\"מ, אחורי 30.0 ס\"מ – זהה בכל הספרים: 2018 PDF 272 (mj5fqubb/אקווינוקס-2018.pdf), 2019 PDF 251, 2020 PDF 262 (yctdl1oz/אקווינוקס-2020.pdf), 2021 PDF 290 (z05jntwc/אקווינוקס-2021.pdf), 2022 PDF 289 (r5ff231y/newאקווינוקס-2022.pdf), 2023 PDF 276 (3fdliln4/newאקווינוקס-2023.pdf). 2017 (דור 3 שיוצר ב-2017) לא מולא – אין ספר 2017 לדור זה. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "Chevrolet Equinox ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2018 (GMNA-Localizing-Israel-11041979), 2019 (-12533232), 2020, 2021 (-14422823), 2022 (-15231000), 2023 (-16540734)",
+"source_url": "https://www.chevrolet.co.il/media/11vhwidc/אקווינוקס-2019.pdf"
+},
+"degem_cd": [
+"1",
+"30",
+"31",
+"37",
+"38",
+"39",
+"40",
+"52",
+"53",
+"56",
+"57",
+"62",
+"65",
+"66",
+"67",
+"70",
+"71",
+"72",
+"73",
+"74",
+"78",
+"80"
+],
+"kinuy_re": "^EQUINOX$",
+"tozeret_cd": [
+981
+],
+"year_from": 2018,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-63: דגם: Trailblazer 2021-2024. טבלת \"חלפים לתחזוקה\" – להבי מגבים: צד הנהג 60.0 ס\"מ, צד הנוסע 45.0 ס\"מ, אחורי 30.0 ס\"מ – זהה בכל הספרים: 2021 PDF 316, 2022/2023 PDF 303 (ul5fcq2s/newטרייל-בלייזר-2022.pdf = phapwndv/טרייל-בלייזר-2023new.pdf), 2024 PDF 272 (djtfp4dj/24_chev_trailblazer_om_he_il_i_il_308bh24_2023jun02_hi_compressed.pdf). 2020 (16 רכבים) לא מולא. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "Chevrolet Trailblazer ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2021 (GMK-Localizing-NonEU/Israel-14746296), 2023 (GMK-Localizing-Israel-16570640, מפורסם כספר 2022 וכספר 2023), 2024 (-17538980)",
+"source_url": "https://www.chevrolet.co.il/media/rpsdjbkl/טרייל-בלייזר-2021.pdf"
+},
+"degem_cd": [
+"317",
+"318",
+"323",
+"324",
+"325",
+"326",
+"328",
+"329",
+"330",
+"333",
+"336",
+"357",
+"358"
+],
+"kinuy_re": "^TRAIL ?BLAZER$",
+"tozeret_cd": [
+751
+],
+"year_from": 2021,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-63: דגם: Trax 2nd gen 2023-2024. טבלת \"חלפים לתחזוקה\" – להבי מגבים: צד הנהג 60.0 ס\"מ, צד הנוסע 45.0 ס\"מ, אחורי 30.0 ס\"מ (ספר \"2023\" PDF 274; p20bi13a/24_chev_trax_om_he_il_i_il_2023mar06_hi_rvsd_2023apr05_compressed.pdf PDF 280). 2025-2026 לא מולאו – אין ספר ישראלי לשנים אלה. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "Chevrolet Trax ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): \"2023\" (GMK-Localizing-Israel-17375258, שנת דגם 2024) + 24_chev_trax_om_he_il (אותו מזהה)",
+"source_url": "https://www.chevrolet.co.il/media/wgklpgvb/2023-טראקס.pdf"
+},
+"degem_cd": [
+"343",
+"344",
+"346",
+"348",
+"349",
+"350",
+"353",
+"354",
+"355"
+],
+"kinuy_re": "^TRAX$",
+"tozeret_cd": [
+751
+],
+"year_from": 2023,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-63: דגם: Blazer 2019-2020. טבלת \"חלפים לתחזוקה\" – להבי מגבים: קדמי בצד הנהג 60.0 ס\"מ, בצד הנוסע הקדמי 50 ס\"מ, אחורי 30.0 ס\"מ (2019 PDF 305; 2020 PDF 294, x0knsiaf/בלייזר-2020.pdf). ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "Chevrolet Blazer ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2019 (GMNA-Localizing-Israel-12586270), 2020 (-13557846)",
+"source_url": "https://www.chevrolet.co.il/media/bjchxiwl/בלייזר-2019.pdf"
+},
+"degem_cd": [
+"10",
+"54",
+"55",
+"58",
+"59",
+"61",
+"63",
+"64"
+],
+"kinuy_re": "^BLAZER$",
+"tozeret_cd": [
+981
+],
+"year_from": 2019,
+"year_to": 2020
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-63: דגם: Blazer 2021. טבלת \"חלפים לתחזוקה\" (PDF 327): קדמי בצד הנהג 60.0 ס\"מ, בצד הנוסע הקדמי 45 ס\"מ, אחורי 30 ס\"מ. (ספרי 2019-2020 מדפיסים נוסע 50 ס\"מ – לכן לפי שנה.) ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "Chevrolet Blazer ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2021 (GMNA-Localizing-Israel-14608511)",
+"source_url": "https://web.archive.org/web/20210113152219id_/https://www.chevrolet.co.il/media/2809/21_chev_blazer_om_he_il_i_il_bh45821_2020oct02_hi.pdf"
+},
+"degem_cd": [
+"54",
+"61",
+"63",
+"64",
+"68",
+"69"
+],
+"kinuy_re": "^BLAZER$",
+"tozeret_cd": [
+981
+],
+"year_from": 2021,
+"year_to": 2021
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-63: דגם: Blazer 2023. טבלת \"חלפים לתחזוקה\" (PDF 321): קדמי בצד הנהג 60.0 ס\"מ, בצד הנוסע הקדמי 45 ס\"מ, אחורי 30 ס\"מ. 2022 (ספר סרוק ללא טקסט) ו-2024 לא מולאו. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "Chevrolet Blazer ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2023 (GMNA-Localizing-Israel-16401993)",
+"source_url": "https://www.chevrolet.co.il/media/yrlos5wo/2023-בלייזר.pdf"
+},
+"degem_cd": [
+"68",
+"69",
+"82",
+"83"
+],
+"kinuy_re": "^BLAZER$",
+"tozeret_cd": [
+981
+],
+"year_from": 2023,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 600,
+"notes": "BW-63: דגם: Cruze J400 sedan 2017-2019. טבלת \"חלפים לתחזוקה\" – להבי מגבים: צד הנהג 70 ס\"מ, נוסע 60 ס\"מ (2017 PDF 254, 3rcdkhp4/קרוז-2017.pdf; 2018 PDF 264; 2019 PDF 251, 5s2bd3ll/קרוז-2019.pdf). מגב אחורי מודפס רק ל\"דגמי דלת עורפית\" – לא מולא לסדאן. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "Chevrolet Cruze ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2017 (GMNA-Localizing-Israel-10655814), 2018, 2019 (GMK-Localizing-Israel-12588495)",
+"source_url": "https://www.chevrolet.co.il/media/qpwjz03x/קרוז-2018.pdf"
+},
+"degem_cd": [
+"21",
+"22",
+"23",
+"24",
+"26",
+"29",
+"43",
+"44",
+"46",
+"49",
+"50"
+],
+"kinuy_re": "^CRUZE$",
+"tozeret_cd": [
+981
+],
+"year_from": 2017,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 600,
+"notes": "BW-63: דגם: Cruze J400 hatchback 2018-2019. טבלת \"חלפים לתחזוקה\" – להבי מגבים: צד הנהג 70 ס\"מ, נוסע 60 ס\"מ, אחורי (דגמי דלת עורפית) 25 ס\"מ (2018 PDF 264; 2019 PDF 251). מרכב האצ׳בק לפי WLTP. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 250,
+"source_title": "Chevrolet Cruze ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2018, 2019 (GMK-Localizing-Israel-12588495)",
+"source_url": "https://www.chevrolet.co.il/media/qpwjz03x/קרוז-2018.pdf"
+},
+"degem_cd": [
+"27",
+"42",
+"47"
+],
+"kinuy_re": "^CRUZE$",
+"tozeret_cd": [
+981
+],
+"year_from": 2018,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 600,
+"notes": "BW-63: דגם: Cruze J400 hatchback 2017. טבלת \"חלפים לתחזוקה\" (PDF 254): צד הנהג 70 ס\"מ, נוסע 60 ס\"מ. ספר 2017 לא מדפיס מגב אחורי – לא מולא. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "Chevrolet Cruze ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2017 (GMNA-Localizing-Israel-10655814)",
+"source_url": "https://www.chevrolet.co.il/media/3rcdkhp4/קרוז-2017.pdf"
+},
+"degem_cd": [
+"27"
+],
+"kinuy_re": "^CRUZE$",
+"tozeret_cd": [
+981
+],
+"year_from": 2017,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-63: דגם: Impala 2017-2019. טבלת \"חלפים לתחזוקה\" – להבי מגבים: צד הנהג 60 ס\"מ, צד הנוסע 47.5 ס\"מ (2017 PDF 241, 4mdhpuar/אימפלה-2017.pdf; 2018 PDF 238, f53hdsbp/אימפלה-2018.pdf; 2019 PDF 243). ללא מגב אחורי (סדאן). 2020 לא מולא. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "Chevrolet Impala ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2017 (GMNA-Localizing-Israel-10260848), 2018 (-11354416), 2019 (-12163112)",
+"source_url": "https://www.chevrolet.co.il/media/dglc5lke/אימפלה-2019.pdf"
+},
+"degem_cd": [
+"10",
+"29",
+"33",
+"34",
+"35",
+"37",
+"38",
+"39",
+"40",
+"41",
+"42",
+"44"
+],
+"kinuy_re": "^IMPALA$",
+"tozeret_cd": [
+962
+],
+"year_from": 2017,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 558,
+"front_wipers_passenger_mm": 508,
+"notes": "BW-63: דגם: Camaro 6th gen 2016-2021. טבלת \"חלפים לתחזוקה\" – להבי מגבים: צד הנהג 55.8 ס\"מ, צד הנוסע 50.8 ס\"מ – זהה בכל הספרים (2016 PDF 238; 2017 PDF 239; 2018 PDF 243; 2019 PDF 246; 2020/\"2021\" PDF 237, mu1j4cby/קאמרו-2021.pdf). 2022-2023 לא מולאו. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "Chevrolet Camaro ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2016 (GMNA-Localizing-Israel-9568590), 2017 (-10260834), 2018 (-11354438), 2019 (-12470620), 2020 (-13556357, מפורסם כספר 2021)",
+"source_url": "https://www.chevrolet.co.il/media/3hdijq05/קמארו-2019.pdf"
+},
+"degem_cd": [
+"63",
+"64",
+"70",
+"72",
+"78",
+"84",
+"88",
+"109",
+"122",
+"123",
+"140",
+"147",
+"149",
+"150",
+"154",
+"155",
+"156",
+"165",
+"166",
+"167",
+"172",
+"173",
+"174",
+"175",
+"176",
+"177",
+"180",
+"182",
+"184",
+"185",
+"187",
+"190",
+"192",
+"195",
+"197",
+"202",
+"205",
+"207",
+"210",
+"219",
+"222",
+"223",
+"224",
+"234",
+"256",
+"267",
+"273",
+"274",
+"277",
+"278",
+"283",
+"286",
+"289",
+"295",
+"297",
+"300",
+"307",
+"309",
+"311",
+"314",
+"316",
+"317",
+"318",
+"320",
+"327",
+"328",
+"330",
+"354"
+],
+"kinuy_re": "^CAMARO$",
+"tozeret_cd": [
+961
+],
+"year_from": 2016,
+"year_to": 2021
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-63: דגם: Malibu 9th gen 2019-2022. טבלת \"חלפים לתחזוקה\" – להבי מגבים: צד הנהג 650 מ\"מ, צד הנוסע 450 מ\"מ – זהה בכל הספרים (2019 PDF 248; 2020 PDF 232; 2021 PDF 269; 2022 PDF 272). 2023 (ספר סרוק) ו-2024 לא מולאו. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "Chevrolet Malibu ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2019 (GMNA-Localizing-Israel-12470765), 2020 (-13555856), 2021 (-14584288), 2022 (GMK-Localizing-Israel-15740443)",
+"source_url": "https://www.chevrolet.co.il/media/xvykchiq/מאליבו-2019.pdf"
+},
+"degem_cd": [
+"124",
+"125",
+"142",
+"143",
+"144",
+"145",
+"152",
+"153",
+"248",
+"249"
+],
+"kinuy_re": "^MALIBU$",
+"tozeret_cd": [
+961
+],
+"year_from": 2019,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-63: דגם: Colorado 2024. טבלת \"חלפים לתחזוקה\" (PDF 313): צד הנהג 55 ס\"מ, צד הנוסע 45 ס\"מ. 2025-2026 לא מולאו. ערכים מילה במילה מספר הרכב הרשמי של היבואן (שברולט ישראל); רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "Chevrolet Colorado ספר רכב רשמי בעברית (יבואן ישראל, chevrolet.co.il): 2024 (GMNA-Localizing-Israel-17725400)",
+"source_url": "https://www.chevrolet.co.il/media/03znhr55/24_chev_colorado_om_he_il_i_il_bh47024_2023dec15_hi_compressed.pdf"
+},
+"degem_cd": [
+"69"
+],
+"kinuy_re": "^COLORADO$",
+"tozeret_cd": [
+961
+],
+"year_from": 2024,
+"year_to": 2024
 }
 ]
 }
