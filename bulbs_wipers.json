@@ -112353,6 +112353,293 @@
 ],
 "year_from": 2019,
 "year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 500,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-62: דגם: Honda Civic 6th gen (EK sedan / EJ9 hatchback) 1995-2001. Valeo 2024-25 (עמ׳ 77-78): CIVIC 6 3c/4c/5c/w 01/95-08/01 HU50+HU45 = 500/450 (קונבנציונלי V51+V45 = 510/450). carwiper.co.il: Civic Saloon 1996-2001 20\"/18\", Civic Hatchback 1996-2001 20\"/18\". שני המקורות תואמים (Bosch 2023 לא מפרט את הדור הזה). מגב אחורי לא מולא (מקור אחד בלבד: carwiper 15\"). הדור זוהה לפי degem_nm ברישוי (EK1x / EJ9x) ושורת ספר הרכב HO-CIVIC-EK. (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%94%D7%95%D7%A0%D7%93%D7%94/426-Civic"
+},
+"degem_cd": [
+"230",
+"241",
+"310",
+"311",
+"321",
+"500",
+"501",
+"510",
+"511",
+"610",
+"611",
+"1000",
+"1010",
+"1011",
+"1021",
+"1030",
+"1031"
+],
+"kinuy_re": "^CIVIC$",
+"tozeret_cd": [
+312
+],
+"year_from": 1996,
+"year_to": 2000
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": "",
+"notes": "BW-62: דגם: Honda Civic 7th gen sedan (ES) 2001-2005 – driver only. Bosch 2023 (HONDA B34): Civic Sedan [ES] 02.01-01.06 AR531S 530/450 (גם בודדים AR530U/AR450U). carwiper.co.il: Civic Saloon 2002-2005 21\"/19\" (530/480). נהג 530 תואם בשני המקורות; צד נוסע לא מולא (450 מול 480). Valeo 2024-25 לא מפרט סדאן דור 7. ללא מגב אחורי (סדאן). הדור זוהה לפי degem_nm ES5x/ES7x ברישוי; 2001 (שנת הדור הראשונה, carwiper עדיין בדור הקודם) ו-2006 (Bosch עד 01.06, carwiper כבר FD) לא מולאו. (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"150",
+"151",
+"450",
+"451",
+"460",
+"461",
+"470",
+"471",
+"481"
+],
+"kinuy_re": "^CIVIC$",
+"tozeret_cd": [
+312
+],
+"year_from": 2002,
+"year_to": 2005
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": "",
+"notes": "BW-62: דגם: Honda Civic 7th gen sedan (ES) 2001-2005 – driver only. Bosch 2023 (HONDA B34): Civic Sedan [ES] 02.01-01.06 AR531S 530/450 (גם בודדים AR530U/AR450U). carwiper.co.il: Civic Saloon 2002-2005 21\"/19\" (530/480). נהג 530 תואם בשני המקורות; צד נוסע לא מולא (450 מול 480). Valeo 2024-25 לא מפרט סדאן דור 7. ללא מגב אחורי (סדאן). הדור זוהה לפי degem_nm ES5x/ES7x ברישוי; 2001 (שנת הדור הראשונה, carwiper עדיין בדור הקודם) ו-2006 (Bosch עד 01.06, carwiper כבר FD) לא מולאו. (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"10",
+"21",
+"31",
+"41",
+"51",
+"61",
+"71"
+],
+"kinuy_re": "^CIVIC$",
+"tozeret_cd": [
+155
+],
+"year_from": 2002,
+"year_to": 2005
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": "",
+"notes": "BW-62: דגם: Honda Civic 7th gen hatchback (EU/EP) 2001-2005 – driver + rear. Bosch 2023 (HONDA B34): Civic Hatchback [EU/EP] 02.01-12.05 AR605S (סט 600/340; בודדים AR600U/AR380U), אחורי H301 = 300. Valeo 2024-25: CIVIC 7 5c 04/01-12/05 HU60+HU35 / V60+V38 (600/350–380), אחורי 300. carwiper.co.il: Civic Hatchback 2002-2006 24\"/15\"/12\" (600/380/300). נהג 600 ואחורי 300 תואמים בשלושת המקורות; צד נוסע לא מולא (340/350/380 – תלוי בסוג המגב). הדור זוהה לפי degem_nm EU8x/EP2x ברישוי (2001 – לפי Bosch+Valeo). (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"321",
+"701",
+"711",
+"721",
+"741"
+],
+"kinuy_re": "^CIVIC$",
+"tozeret_cd": [
+346
+],
+"year_from": 2001,
+"year_to": 2005
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 550,
+"notes": "BW-62: דגם: Honda Civic 8th gen sedan (FD) 2008-2011. Bosch 2023 (HONDA B34): Civic Sedan [FD] 12.07-12.11 (L65) AR991S 650/575. Valeo 2024-25 (עמ׳ 78): CIVIC 8 (4 דלתות, השורה מסומנת HYBRID 4c, 03/08→) HU65+HU55B / V65+V55 / VM20+VM11 = 650/550. carwiper.co.il: Civic Saloon 2006-2011 26\"/22\" (650/550). נהג 650 תואם בשלושת המקורות; נוסע 550 לפי Valeo + carwiper (Bosch 575). ללא מגב אחורי (סדאן). הדור זוהה לפי degem_nm FD1x/FD7x ברישוי; 2006-2007 לא מולאו (Bosch: גרסת L70 עם נהג 700 או L65 עם 650), 2012 לא מולא (שנת מעבר ל-FB). (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%94%D7%95%D7%A0%D7%93%D7%94/426-Civic"
+},
+"degem_cd": [
+"20",
+"30",
+"81",
+"91",
+"101",
+"111",
+"121",
+"141",
+"151",
+"161"
+],
+"kinuy_re": "^CIVIC$",
+"tozeret_cd": [
+155
+],
+"year_from": 2008,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 550,
+"notes": "BW-62: דגם: Honda Civic 8th gen sedan (FD) 2008-2011. Bosch 2023 (HONDA B34): Civic Sedan [FD] 12.07-12.11 (L65) AR991S 650/575. Valeo 2024-25 (עמ׳ 78): CIVIC 8 (4 דלתות, השורה מסומנת HYBRID 4c, 03/08→) HU65+HU55B / V65+V55 / VM20+VM11 = 650/550. carwiper.co.il: Civic Saloon 2006-2011 26\"/22\" (650/550). נהג 650 תואם בשלושת המקורות; נוסע 550 לפי Valeo + carwiper (Bosch 575). ללא מגב אחורי (סדאן). הדור זוהה לפי degem_nm FD1x/FD7x ברישוי; 2006-2007 לא מולאו (Bosch: גרסת L70 עם נהג 700 או L65 עם 650), 2012 לא מולא (שנת מעבר ל-FB). (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%94%D7%95%D7%A0%D7%93%D7%94/426-Civic"
+},
+"degem_cd": [
+"62",
+"70",
+"82"
+],
+"kinuy_re": "^CIVIC$",
+"tozeret_cd": [
+312
+],
+"year_from": 2008,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 550,
+"notes": "BW-62: דגם: Honda Civic Hybrid 8th gen (FD3) 2008-2010. Bosch 2023 (HONDA B34): Civic Hybrid [FD] 01.08-12.10 AR991S 650/575. Valeo 2024-25 (עמ׳ 78): CIVIC 8 HYBRID 4c 03/08→ HU65+HU55B / V65+V55 = 650/550. carwiper.co.il: Civic Hybrid 2008-2010 26\"/22\" (650/550). נהג 650 תואם בשלושת המקורות; נוסע 550 לפי Valeo + carwiper (Bosch 575). ללא מגב אחורי (סדאן). 2006-2007 (Bosch A392S 700/575 מול carwiper 28\"/28\") ו-2011 (מקור אחד) לא מולאו. degem_nm FD3x. (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%94%D7%95%D7%A0%D7%93%D7%94/425-Civic"
+},
+"degem_cd": [
+"651"
+],
+"kinuy_re": "^CIVIC HYBRID$",
+"tozeret_cd": [
+312
+],
+"year_from": 2008,
+"year_to": 2010
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": "",
+"notes": "BW-62: דגם: Honda Civic 8th gen 5-door hatchback (FK) 2006-2011 – driver only. Bosch 2023 (HONDA B34): Civic Hatchback [FK/FN] 09.05-12.11 A392S (Special) 700/575. carwiper.co.il: Civic Hatchback 2007-2012 28\"/28\". נהג 700 תואם בשני המקורות; צד נוסע לא מולא (575 מול 700), מגב אחורי לא מולא. Valeo 2024-25 לא מפרט את ההאצ׳בק דור 8. הדור זוהה לפי שורת ספר הרכב הממופה (HO-CIVIC-FD, דור 8) ומרכב האצ׳בק ברישוי (FK27/FK28); 2006 ו-2012 (שנות מעבר) לא מולאו. (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"10",
+"30",
+"40",
+"41",
+"42",
+"50",
+"51",
+"70",
+"131",
+"141",
+"151",
+"881",
+"891"
+],
+"kinuy_re": "^CIVIC$",
+"tozeret_cd": [
+346
+],
+"year_from": 2007,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-62: דגם: Honda Civic Type R 9th gen (FK2) 2015-2017. Bosch 2023 (HONDA B34): Civic Hatchback [FK] 09.11-02.17 AR813S 650/450, אחורי H450 = 450. Valeo 2024-25: CIVIC 9 5c 02/12-02/17 650/450. carwiper.co.il: Civic Hatchback 2013-2018 26\"/18\"/18\" (650/450/450). קדמיים תואמים בשלושת המקורות, אחורי 450 לפי Bosch + carwiper. הדור זוהה לפי שורת ספר הרכב HO-TYPER-FK2 (FK27). (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 450,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"46"
+],
+"kinuy_re": "^CIVIC$",
+"tozeret_cd": [
+346
+],
+"year_from": 2016,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-62: דגם: Honda Civic 10th gen hatchback (FK7 / FK8 Type R) 2017-2021. Bosch 2023 (HONDA B34): Civic Hatchback [FC/FK] 03.17→ AR813S 650/450, אחורי H341 = 340. Valeo 2024-25: CIVIC 10 5c (FK) 03/17-03/22 650/450. carwiper.co.il: Civic Hatchback 2019-2021 26\"/18\"/13\" (650/450/330). קדמיים תואמים בשלושת המקורות, אחורי 340 לפי Bosch (carwiper 330, בטווח 10 מ״מ). הדור זוהה לפי שורת ספר הרכב HO-TYPER-FK8 / HO-CIVIC5D (FK78/FK87). (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 340,
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"54",
+"72",
+"78",
+"80",
+"88",
+"104"
+],
+"kinuy_re": "^CIVIC( +5D( 2\\.0)?)?$",
+"tozeret_cd": [
+346
+],
+"year_from": 2018,
+"year_to": 2021
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-62: דגם: Honda Civic e:HEV 11th gen (FL4) 2022-. Bosch 2023 (HONDA B34): Civic Hatchback [FL] 09.21→ A620S 600/475. Valeo 2024-25: CIVIC (FK) E:HEV 5c 09/22→ VF376 600/475. carwiper.co.il: Civic Hybrid 2022-2025 24\"/19\" (600/480). שלושת המקורות תואמים. מגב אחורי לא מולא (Valeo בלבד). degem_nm FL4. (מידות carwiper.co.il באינצ׳ים, לפי מידת מגב נומינלית) התאמה לרכב אירופי עם הגה שמאלי; רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"88",
+"89",
+"93",
+"113",
+"114",
+"115"
+],
+"kinuy_re": "^CIVIC HYBRID$",
+"tozeret_cd": [
+312
+],
+"year_from": 2023,
+"year_to": 2025
 }
 ]
 }
