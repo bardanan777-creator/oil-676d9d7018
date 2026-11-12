@@ -60822,17 +60822,66 @@
 },
 "MZ-3-Z6-BMGLOBAL": {
 "brake_light": "",
-"confidence": "",
+"confidence": "medium",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
+"gens": [
+{
+"brake_light": "W21/5W 21/5W (נורה) / LED (לפי גרסה)",
+"confidence": "medium",
+"gen_label": "Mazda3 BL (2010-2013)",
+"headlight_high": "HB3 60W (הלוגן) / D2S 35W (קסנון – אותה נורה לנמוך ולגבוה)",
+"headlight_low": "H11 55W (הלוגן) / D2S 35W (קסנון, לפי גרסה)",
+"notes": "[BW-70] ספר בעלים רשמי של מאזדה יפן לאותו דור (BL) – מהדורה יפנית, לא ישראלית; רכבי מאזדה 3 BL בישראל הם בגרסה אירופית, לכן רמת ביטחון בינונית – מומלץ לוודא ברכב. הוחל רק לשנות רישום 2010-2013 (כל הרכבים בשורה בשנים אלה הם BL לפי degem_nm); 2004-2009 (BK, ו-2009 מעורב BK/BL) נשארו ריקים. מהספר 2011-09 (טבלה עם עמודת \"規格 (ECE R (SAE))\"): \"上向き (ハイビーム) 60W HB3 (#9005)\"; \"下向き (ロービーム) 55W H11 (H11)\" (ללא קסנון); \"ディスチャージヘッドランプ装備車 35W D2S (D2S)\" (קסנון – לאור נמוך וגבוה); \"制動灯/尾灯 バルブタイプ 21/5W 21/5W (#7443)\" (בסיס טריז = W21/5W), \"LEDタイプ LED\"; \"前面方向指示灯 21W WY21W\"; \"後面方向指示灯 21W WY21W (32CP)\"; \"後退灯 21W W21W (#7440)\"; \"番号灯 5W W5W\"; \"車幅灯 5W W5W\"; \"側面方向指示灯 バルブタイプ 5W WY5W / ミラー内蔵タイプ LED\"; \"ハイマウントストップランプ セダン 21W W21W; ハッチバック Aタイプ 16W W16W / Bタイプ 21W W21W / LEDタイプ LED\"; \"フォグランプ 55W H11\". ספר 2010-09 (לפני מתיחת הפנים) מדפיס הספק בלבד וזהה בכל המיקומים (גבוה 60W, נמוך 55W, קסנון 35W, בלם/אחורי 21/5W, איתות 21W, נסיעה לאחור 21W) – למעט ערפל 51W (במקום 55W). לידיעה: ספר Mazda USA של BL (לא בשימוש לרכבים ישראליים) מדפיס אותם סוגים (H11 / HB3 / D2S / W21/5W).",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "איתות קדמי",
+"type": "WY21W 21W"
+},
+{
+"position": "ערפל קדמי (לפי גרסה)",
+"type": "H11 55W / 51W לפני מתיחת פנים (סוג לא מודפס)"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W (בכנף, היחידה מוחלפת בשלמותה) / LED (במראה)"
+},
+{
+"position": "איתות אחורי",
+"type": "WY21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W21W 21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "בלימה עילי",
+"type": "W21W 21W (סדאן) / W16W 16W או W21W 21W (האצ׳בק, לפי סוג) / LED"
+}
+],
+"source_page": "376-377 (PDF 393-394) בספר 2011-09; אימות הספקים: 390-391 (PDF 390-391) בספר 2010-09 (Bウ_2版)",
+"source_title": "マツダ アクセラ (Mazda Axela/Mazda3 BL, マイナーチェンジ後) 取扱説明書 2011年9月版 – 6. 車両スペック: 電気部品/電球 (バルブ) の容量 (mazda.co.jp, Mazda Japan) ; Axela 取扱説明書 2010年9月版 (Bウ_2版)",
+"source_url": "https://www.mazda.co.jp/content/dam/mazda/official/mazda-co-jp/owner_support/manual/axela/pdf/axela_201109.pdf ; https://www.mazda.co.jp/content/dam/mazda/official/mazda-co-jp/owner_support/manual/axela/pdf/axela_201009.pdf",
+"y0": 2010,
+"y1": 2013
+}
+],
 "headlight_high": "",
 "headlight_low": "",
-"notes": "",
+"notes": "[BW-70] נתוני נורות מוצגים רק לשנים 2010-2013 (מאזדה 3 BL); ל-BK (2004-2009) לא נמצא ספר רשמי.",
 "other_bulbs": [],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "376-377 (PDF 393-394) בספר 2011-09; אימות הספקים: 390-391 (PDF 390-391) בספר 2010-09 (Bウ_2版)",
+"source_title": "マツダ アクセラ (Mazda Axela/Mazda3 BL, マイナーチェンジ後) 取扱説明書 2011年9月版 – 6. 車両スペック: 電気部品/電球 (バルブ) の容量 (mazda.co.jp, Mazda Japan)",
+"source_url": "https://www.mazda.co.jp/content/dam/mazda/official/mazda-co-jp/owner_support/manual/axela/pdf/axela_201109.pdf",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Mazda 3 [BM] 07.13-2019. קדמיים 600/450 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ). המגב האחורי הושמט (סדאן/האצ׳בק באותה שורה).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
