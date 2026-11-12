@@ -15646,6 +15646,49 @@
 "source_title": "Jeep Renegade Owner Handbook 603.85.069 (10.19) – Bulbs",
 "source_url": "https://aftersales.fiat.com/eLumData/EN/57/609_RENEGADE/57_609_RENEGADE_603.85.069_EN_01_10.19_L_LG/57_609_RENEGADE_603.85.069_EN_01_10.19_L_LG.pdf"
 },
+"FI-SCUDOK0-DW10-VIVAROCG4-X": {
+"brake_light": "P21/5W 21/5W",
+"confidence": "manual-verbatim",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 55W",
+"headlight_low": "H7 55W (הלוגן) / D8S 25W (קסנון)",
+"notes": "[BW-71] ספר הרכב הישראלי של היבואן. בספר: הלוגן – \"אורות חניה (W5W-5W)\", \"אור דרך בפנסים הראשיים (H1-55W)\", \"אור מעבר בפנסים ראשיים (H7-55W)\", \"פנסי תאורת יום (W21W LL-21W)\", \"פנסי איתות PY21W-21W (כתום)\"; קסנון – \"אור דרך בפנסים הראשיים (H1-55W)\", \"אור מעבר בפנסים ראשיים (D8S-25W)\"; \"פנסי ערפל קדמיים (H11-55W)\"; אחוריים – \"פנסי בלימה / פנסי צד (P21/5W-21/5W)\", \"פנסי איתות PY21W-21W (כתום)\", \"פנס נסיעה לאחור (P21W-21W)\", \"פנסי ערפל/פנסי צד (P21/4W-21/4W)\".",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "תאורת יום",
+"type": "W21W LL 21W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W 21W (כתום)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+},
+{
+"position": "ערפל אחורי / פנס צד",
+"type": "P21/4W 21/4W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "223-225 (PDF 224-226)",
+"source_title": "פיאט סקודו – ספר רכב ישראלי (סמלת מוטורס) 03/2023 – החלפת נורות",
+"source_url": "https://www.samelet.com/ebooks/Fiat_Scudo_carbook_032023.pdf"
+},
 "FI-SEDICI-M16A-EU": {
 "brake_light": "P21/5W (21/5W)",
 "confidence": "manual-verbatim",
@@ -18433,6 +18476,108 @@
 "source_page": "47-50 – Changing a bulb",
 "source_title": "Ford Tourneo Connect/Transit Connect owner's handbook CG3526en 06/2006 (enGBR)",
 "source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3526_TRC_og_200606.pdf"
+},
+"FO-TCONNECT1-18D-1113": {
+"brake_light": "P21/5W 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55/60W",
+"headlight_low": "H4 55/60W",
+"notes": "[BW-71] ספר רשמי של פורד אירופה; בתחתית העמוד: \"Vehicles Built From: 24-05-2011, Vehicles Built Up To: 31-12-2013\". בטבלה: \"Headlamp main and dipped beam H4 55/60\"; \"Brake and tail lamp P21/5W 21/5\"; \"Central high mounted brake lamp W16W 16\". רכבים משנת רישום 2011 שיוצרו לפני 24-05-2011 – אותו דור (במהדורת 06/2006 גם כן H4 55/60).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W 16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "R10W 10W (דלת עילית) / W5W 5W (דלתות כפולות)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "47 (PDF 49)",
+"source_title": "Ford Tourneo Connect/Transit Connect (TC7) owner's handbook CG3526en 07/2012 (enGBR) – Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3526_TRC_og_201207.pdf"
+},
+"FO-TCONNECT1-18D-1113-XCODES": {
+"brake_light": "P21/5W 21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 55/60W",
+"headlight_low": "H4 55/60W",
+"notes": "[BW-71] ספר רשמי של פורד אירופה; בתחתית העמוד: \"Vehicles Built From: 24-05-2011, Vehicles Built Up To: 31-12-2013\". בטבלה: \"Headlamp main and dipped beam H4 55/60\"; \"Brake and tail lamp P21/5W 21/5\"; \"Central high mounted brake lamp W16W 16\". רכבים משנת רישום 2011 שיוצרו לפני 24-05-2011 – אותו דור (במהדורת 06/2006 גם כן H4 55/60).",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H11 55W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "איתות צד",
+"type": "WY5W 5W"
+},
+{
+"position": "בלימה עילי",
+"type": "W16W 16W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W LL 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "R10W 10W (דלת עילית) / W5W 5W (דלתות כפולות)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W 21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "47 (PDF 49)",
+"source_title": "Ford Tourneo Connect/Transit Connect (TC7) owner's handbook CG3526en 07/2012 (enGBR) – Bulb Specification Chart",
+"source_url": "https://www.fordservicecontent.com/Ford_Content/catalog/owner_guides/ENUSA_CG3526_TRC_og_201207.pdf"
 },
 "FTH-FRIDAY-EU": {
 "brake_light": "LED",
@@ -53341,6 +53486,148 @@
 "source_title": "Kia Optima JF – Owner's manual MY2016 (en_GB)",
 "source_url": "https://ownersmanual.kia.com/full_pdf/JF/2016/en_GB"
 },
+"K-OPTIMA-TF-D4FD-GB14": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"gens": [
+{
+"brake_light": "P21/5W 21/5W (נורה) / LED (לפי גרסה)",
+"confidence": "high",
+"gen_label": "Kia Optima TF מתיחת פנים (2014+)",
+"headlight_high": "H7L 55W",
+"headlight_low": "H7SL 55W (הלוגן) / D1S 35W (HID, לפי גרסה)",
+"notes": "[BW-71] ספר בעלים רשמי של קיה (en_GB MY2014, ownersmanual.kia.com, רשום תחת ישראל). הוחל רק לשנות רישום 2014 ואילך (מתיחת פנים, degem_nm GN419B / GN414B); 2012-2013 (לפני מתיחת פנים) נשארו ריקים – מהדורות TF/2012-2013 לא זמינות. בספר: \"Headlamps (Low) 55 H7SL; Headlamps (Low) - HID type* 35 D1S; Headlamps (High) 55 H7L\"; \"Rear Stop/Tail lamps (outside) – Bulb type 21 P21/5W; LED type LED\"; \"High mounted stop lamp* LED\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W 21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8L 35W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"source_page": "8-5 (Bulb wattage)",
+"source_title": "Kia Optima (TF) – Owner's manual MY2014 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/TF/2014/en_GB",
+"y0": 2014,
+"y1": 2015
+}
+],
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-71] נתוני נורות מוצגים לשנות רישום 2014 ואילך בלבד (מתיחת פנים של TF); ל-2012-2013 לא נמצאה מהדורה רשמית.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "8-5 (Bulb wattage)",
+"source_title": "Kia Optima (TF) – Owner's manual MY2014 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/TF/2014/en_GB"
+},
+"K-OPTIMA-TF-G4KD-GB14": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"gens": [
+{
+"brake_light": "P21/5W 21/5W (נורה) / LED (לפי גרסה)",
+"confidence": "high",
+"gen_label": "Kia Optima TF מתיחת פנים (2014+)",
+"headlight_high": "H7L 55W",
+"headlight_low": "H7SL 55W (הלוגן) / D1S 35W (HID, לפי גרסה)",
+"notes": "[BW-71] ספר בעלים רשמי של קיה (en_GB MY2014, ownersmanual.kia.com, רשום תחת ישראל). הוחל רק לשנות רישום 2014 ואילך (מתיחת פנים, degem_nm GN419B / GN414B); 2012-2013 (לפני מתיחת פנים) נשארו ריקים – מהדורות TF/2012-2013 לא זמינות. בספר: \"Headlamps (Low) 55 H7SL; Headlamps (Low) - HID type* 35 D1S; Headlamps (High) 55 H7L\"; \"Rear Stop/Tail lamps (outside) – Bulb type 21 P21/5W; LED type LED\"; \"High mounted stop lamp* LED\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W 21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8L 35W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"source_page": "8-5 (Bulb wattage)",
+"source_title": "Kia Optima (TF) – Owner's manual MY2014 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/TF/2014/en_GB",
+"y0": 2014,
+"y1": 2015
+}
+],
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-71] נתוני נורות מוצגים לשנות רישום 2014 ואילך בלבד (מתיחת פנים של TF); ל-2012-2013 לא נמצאה מהדורה רשמית.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "8-5 (Bulb wattage)",
+"source_title": "Kia Optima (TF) – Owner's manual MY2014 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/TF/2014/en_GB"
+},
 "K-PIC-JA-10": {
 "brake_light": "P21/5W LL או LED 21W או LED (צד חיצוני)",
 "confidence": "manual-verbatim",
@@ -56852,6 +57139,77 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"KF-OPTIMA-TF-G4ND-FI14": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"gens": [
+{
+"brake_light": "P21/5W 21/5W (נורה) / LED (לפי גרסה)",
+"confidence": "high",
+"gen_label": "Kia Optima TF מתיחת פנים (2014+)",
+"headlight_high": "H7L 55W",
+"headlight_low": "H7SL 55W (הלוגן) / D1S 35W (HID, לפי גרסה)",
+"notes": "[BW-71] ספר בעלים רשמי של קיה (en_GB MY2014, ownersmanual.kia.com, רשום תחת ישראל). הוחל רק לשנות רישום 2014 ואילך (מתיחת פנים, degem_nm GN419B / GN414B); 2012-2013 (לפני מתיחת פנים) נשארו ריקים – מהדורות TF/2012-2013 לא זמינות. בספר: \"Headlamps (Low) 55 H7SL; Headlamps (Low) - HID type* 35 D1S; Headlamps (High) 55 H7L\"; \"Rear Stop/Tail lamps (outside) – Bulb type 21 P21/5W; LED type LED\"; \"High mounted stop lamp* LED\".",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "P21W 21W"
+},
+{
+"position": "פנסי חניה",
+"type": "W5W / LED"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8L 35W / LED"
+},
+{
+"position": "איתות צד",
+"type": "WY5W / LED"
+},
+{
+"position": "תאורת יום",
+"type": "LED"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W 16W"
+},
+{
+"position": "בלימה עילי",
+"type": "LED"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+}
+],
+"source_page": "8-5 (Bulb wattage)",
+"source_title": "Kia Optima (TF) – Owner's manual MY2014 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/TF/2014/en_GB",
+"y0": 2014,
+"y1": 2016
+}
+],
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-71] נתוני נורות מוצגים לשנות רישום 2014 ואילך בלבד (מתיחת פנים של TF); ל-2012-2013 לא נמצאה מהדורה רשמית.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "8-5 (Bulb wattage)",
+"source_title": "Kia Optima (TF) – Owner's manual MY2014 (en_GB)",
+"source_url": "https://ownersmanual.kia.com/full_pdf/TF/2014/en_GB"
+},
 "KF-SOUL-PS-D4FB-FI15": {
 "brake_light": "P21/5W / LED",
 "confidence": "high",
@@ -58104,6 +58462,73 @@
 "source_page": "344 (PDF 344)",
 "source_title": "MG Owner Manual (UK) – Bulb replacement",
 "source_url": "https://www.mg.co.uk/sites/default/files/2024-11/MG-HS-Petrol-Plug-in-Hybrid-Owner-Manual.pdf"
+},
+"MG-MG3-15S4C-16": {
+"brake_light": "",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"gens": [
+{
+"brake_light": "PR21/5W 21/5W",
+"confidence": "high",
+"gen_label": "MG3 MY16",
+"headlight_high": "H4 60/55W",
+"headlight_low": "H4 60/55W",
+"notes": "[BW-71] ספר בעלים רשמי של MG בריטניה (MY16). בטבלה: \"Headlamp High/Low Beam H4 60/55W\"; \"Stop/Tail Lamps PR21/5W 21/5W\"; \"High Mounted Stop Lamp W5W 5W\".",
+"other_bulbs": [
+{
+"position": "פנסי חניה",
+"type": "W5W 5W"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W 21W"
+},
+{
+"position": "איתות צד (במראה)",
+"type": "WY5W 5W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "H21W 21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W 21W"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W 5W"
+},
+{
+"position": "איתות אחורי",
+"type": "P21W 21W"
+},
+{
+"position": "בלימה עילי",
+"type": "W5W 5W"
+},
+{
+"position": "תאורת יום",
+"type": "LED (לא ניתן להחלפה)"
+}
+],
+"source_page": "174 (PDF 190)",
+"source_title": "MG3 MY16 Owner Manual (MG Motor UK) – Bulb Specification",
+"source_url": "https://www.mg.co.uk/sites/default/files/2021-11/MG3%20MY16%20Owner%20Manual.pdf",
+"y0": 2016,
+"y1": 2017
+}
+],
+"headlight_high": "",
+"headlight_low": "",
+"notes": "[BW-71] נתוני נורות לשנות רישום 2016-2017 בלבד (מהדורת MY16); 2019 נשאר ריק.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "174 (PDF 190)",
+"source_title": "MG3 MY16 Owner Manual (MG Motor UK) – Bulb Specification",
+"source_url": "https://www.mg.co.uk/sites/default/files/2021-11/MG3%20MY16%20Owner%20Manual.pdf"
 },
 "MG-MG3-GS64-15FCD": {
 "brake_light": "W21/5W",
@@ -60216,6 +60641,29 @@
 "source_page": "115 (PDF 121)",
 "source_title": "MAXUS eDELIVER 3 (EV30) Manuel du propriétaire 2020 (Maxus Suisse) – Spécifications des ampoules",
 "source_url": "https://www.maxusmotors.ch/images/bedienungsanleitungen/FR/2020-OM-MAX-EV30-EU-FR.pdf"
+},
+"MX-EUNIQ6": {
+"brake_light": "",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "H7",
+"notes": "[BW-71] ספר בעלים רשמי של Maxus אירופה (הולנדית, מהדורת 2024) לרכבים משנים 2022-2023 – רמת ביטחון בינונית. בטבלה: \"Lamp dimlicht koplamp H7\"; \"Lamp grootlicht koplamp H7\"; \"Lamp mistlamp achteraan P21W-12V\"; \"Kentekenplaatverlichting W5W\". נורת בלימה אינה מופיעה בטבלה – לא מולא.",
+"other_bulbs": [
+{
+"position": "ערפל אחורי",
+"type": "P21W 12V"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "191 (PDF 199)",
+"source_title": "Maxus eUNIQ 6 – Gebruikershandleiding (Maxus Europe, NL, 2024) – Lampspecificatie",
+"source_url": "https://a.storyblok.com/f/234888/x/0624cbb590/2024-om-max-euniq6-eu-nl.pdf"
 },
 "MZ-2-DE-ZY-CA": {
 "brake_light": "W21/5W 21/5W",
@@ -88360,6 +88808,202 @@
 ],
 "year_from": 2007,
 "year_to": 2007
+},
+{
+"data": {
+"brake_light": "P21/5W",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7",
+"headlight_low": "H7 Long Life",
+"notes": "[BW-71] ספר בעלים רשמי של SEAT (מהדורת בריטניה, seat.co.uk). לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. בספר: \"Double headlights – Dipped beam: H7 Long Life; Main beam: H7; Side lights: W5W Long Life; Turn signals: PY21W NA; Daytime driving lights: P21W Super Long Life\"; אחורי: \"Turn signals: PY21W NA LL; Side lights-brake lights: P21/5W; Side lights: P21/5W\". ערפל קדמי – סוג לא מודפס.",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W Long Life"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W NA"
+},
+{
+"position": "תאורת יום",
+"type": "P21W Super Long Life"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W NA LL"
+},
+{
+"position": "אור צד אחורי",
+"type": "P21/5W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "MY14: עמ' 222, 228 (PDF 224, 230); MY13: PDF 215, 222",
+"source_title": "SEAT Toledo (KG) Owner's manual MY14 (reprint 15.10.13) ; MY13 (reprint 15.05.12) – Changing bulbs / List of bulbs",
+"source_url": "https://www.seat.co.uk/datamanual-manual/toledo/my14_w45/en-uk/Toledo_EN.pdf ; https://www.seat.co.uk/datamanual-manual/toledo/my13_w45/en-uk/Toledo_EN.pdf"
+},
+"kinuy_re": "^TOLEDO$",
+"tozeret_cd": [
+423,
+778
+],
+"year_from": 2013,
+"year_to": 2015
+},
+{
+"data": {
+"brake_light": "P21/5W (פנס אחורי בנורות) / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 LL (הלוגן) / LED (Full-LED)",
+"headlight_low": "H7 LL (הלוגן) / LED (Full-LED)",
+"notes": "[BW-71] ספר בעלים רשמי של SEAT (מהדורת בריטניה, seat.co.uk). לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. בספר: \"Halogen headlights – Daytime running light/side light P21W SLL; Dipped beam headlights H7 LL; Main beam headlights H7 LL; Turn signal PY21W\"; \"Full-LED main headlights – No bulbs may be replaced\"; \"Fog/cornering lights* H8\"; \"Rear bulb light – Brake light/tail light P21/5W; Side lights P21/5W (side panel) R5W (rear lid); Turn signal PY21W; Retro fog light P21W; Reverse lights P21W\"; \"LED rear lights – Turn signal PY21W; Retro fog light P21W; Reverse lights P21W; The remaining functions work with LEDs\". מהדורות 05/16 ו-11/18 זהות; לשנת רישום 2016 ייתכנו רכבים מייצור 2015 (אותו דור KG3).",
+"other_bulbs": [
+{
+"position": "תאורת יום/חניה",
+"type": "P21W SLL (הלוגן)"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל/פנייה קדמי",
+"type": "H8"
+},
+{
+"position": "אור צד אחורי",
+"type": "P21/5W (בכנף) / R5W (בדלת תא המטען)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W"
+},
+{
+"position": "נסיעה לאחור",
+"type": "P21W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "05/16: עמ' 44 (PDF 46); 11/18: עמ' 46 (PDF 48)",
+"source_title": "SEAT Toledo Owner's manual 05/16 (MY17) ; 11/18 – Bulbs (12 V)",
+"source_url": "https://www.seat.co.uk/datamanual-manual/toledo/my17_w22/en-uk/TOLEDO_05_16_EN.pdf ; https://www.seat.co.uk/datamanual-manual/toledo/my19_w48/en-uk/TOLEDO_11_18_EN.pdf"
+},
+"kinuy_re": "^TOLEDO$",
+"tozeret_cd": [
+423,
+778
+],
+"year_from": 2016,
+"year_to": 2019
+},
+{
+"data": {
+"brake_light": "אין נתון",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H4 (פנס יחיד) / D1S (קסנון)",
+"headlight_low": "H7 Long Life / H4 (פנס יחיד) / D1S (קסנון)",
+"notes": "[BW-71] שנת רישום 2017 (שנת המעבר 6J→KJ): לפי קוד הדגם ברישוי (degem_nm 6J*, degem_cd 165, 166, 176, 178, 183, 184, 185, 186, 187, 196, 197) – אותם נתונים ואותו מקור כמו איביזה 6J שכבר מוצגת ל-2013-2016. לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור חניה",
+"type": "W5W LL"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "ערפל קדמי",
+"type": "H11"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 197",
+"source_title": "SEAT Ibiza (6J) Owner's manual MY15",
+"source_url": "https://www.seat.com/datamanual-manual/ibiza/my15_w45/en-uk/Gama%20Ibiza_EN.pdf"
+},
+"degem_cd": [
+"165",
+"166",
+"176",
+"178",
+"183",
+"184",
+"185",
+"186",
+"187",
+"196",
+"197"
+],
+"kinuy_re": "^IBIZA$",
+"tozeret_cd": 778,
+"year_from": 2017,
+"year_to": 2017
+},
+{
+"data": {
+"brake_light": "P21W LL / LED",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (הלוגן) / LED",
+"headlight_low": "H7 Long Life (הלוגן) / LED",
+"notes": "[BW-71] שנת רישום 2017 (שנת המעבר 6J→KJ): לפי קוד הדגם ברישוי (degem_nm KJ*, degem_cd 289, 292, 293, 294, 295, 296, 297, 298, 299, 303, 305) – אותם נתונים ואותו מקור כמו איביזה KJ שכבר מוצגת ל-2018-2021. לפי סוג הפנס (הלוגן/LED) – יש לוודא מול הרכב. ",
+"other_bulbs": [
+{
+"position": "אור יום/חניה",
+"type": "W21W / LED"
+},
+{
+"position": "איתות קדמי",
+"type": "PY21W"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W NA LL"
+},
+{
+"position": "ערפל אחורי",
+"type": "W21W"
+},
+{
+"position": "רוורס",
+"type": "W16W"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "עמ' 49, 94",
+"source_title": "SEAT Ibiza (KJ) Owner's manual 01/17",
+"source_url": "https://www.seat.com/datamanual-manual/ibiza/my18_w04/en-uk/IBIZA_01_17_EN.pdf"
+},
+"degem_cd": [
+"289",
+"292",
+"293",
+"294",
+"295",
+"296",
+"297",
+"298",
+"299",
+"303",
+"305"
+],
+"kinuy_re": "^IBIZA$",
+"tozeret_cd": 778,
+"year_from": 2017,
+"year_to": 2017
 },
 {
 "data": {
