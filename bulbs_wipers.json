@@ -74987,9 +74987,17 @@
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 340,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Auris Hybrid E18 2014-2015",
+"y0": 2014,
+"y1": 2015
+}
+],
 "headlight_high": "D4S 35W (קסנון); HIR2 55W (הלוגן)",
 "headlight_low": "D4S 35W (קסנון); HIR2 55W (הלוגן)",
-"notes": "Brake/tail 21/5W row is marked \"except hybrid model\", so no brake bulb for this hybrid row. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 48 PDF 352 (עמ׳ 351); מיקום PDF 341): \"נורות LED: פנס בלמים גבוה, ... פנסים אחוריים/בלמים (דגם היברידי) כוללים מספר נורות לד\"; רק לשנים 2014-2015. Brake/tail 21/5W row is marked \"except hybrid model\", so no brake bulb for this hybrid row. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים*",
@@ -75305,9 +75313,17 @@
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "C-HR Hybrid 2017-2018 (ספר 11/2016)",
+"y0": 2017,
+"y1": 2018
+}
+],
 "headlight_high": "HIR2 55W (הלוגן)",
 "headlight_low": "HIR2 55W (הלוגן)",
-"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 355 PDF 570 (עמ׳ 569)): \"פנסים עם נורות LED ... פנסי בלימה/פנסים אחוריים\"; רק לשנים 2017-2018. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים (סוג נורה)*",
@@ -76326,9 +76342,17 @@
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 400,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Prius XW30 2009-2012 (ZVW30 בלבד)",
+"y0": 2009,
+"y1": 2012
+}
+],
 "headlight_high": "HB3 60W",
 "headlight_low": "H11 55W (נורות הלוגן)*",
-"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 211 PDF 323 (עמ׳ 322)): \"פנסי LED: אורות נסיעה, פנסי בלימה/תאורה אחורית, פנסי איתות הפניה הצידיים ופנס בלמים גבוה כוללים מספר נורות לד\"; רק לשנים 2009-2012. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים",
@@ -76950,9 +76974,17 @@
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Yaris Hybrid XP210 2023-2024 (ספר 07/2023)",
+"y0": 2023,
+"y1": 2024
+}
+],
 "headlight_high": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
 "headlight_low": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
-"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 1127 PDF 305 (עמ׳ 304)): \"תאורות אחרות מאלו המתוארות להלן כוללות כל אחת מספר נורות LED (פנסי בלימה אינם ברשימת הנורות; מופיעים ברשימת נורות המצריכות החלפה בידי מוסך)\"; רק לשנים 2023-2024. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים (סוג נורה)",
@@ -77160,13 +77192,13 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/toyota/yaris-cross/suv-mxp-2020-09-01/"
 },
 "T-YCROSS-HV-A": {
-"brake_light": "",
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
 "headlight_high": "HIR2 55W (סוג נורה)",
 "headlight_low": "HIR2 55W (סוג נורה)",
-"notes": "Brake light not in the bulb table (not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 862 PDF 351 (עמ׳ 350)): \"תאורות אחרות מאלו המתוארות להלן כוללות כל אחת מספר נורות LED (פנסי בלימה אינם ברשימת הנורות; מופיעים ברשימת נורות המצריכות החלפה בידי מוסך)\". Brake light not in the bulb table (not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנס איתות קדמי (סוג נורה)",
@@ -77195,13 +77227,13 @@
 "wiper_source_url": "https://www.oximo.pl/en/wiper-car/toyota/yaris-cross/suv-mxp-2020-09-01/"
 },
 "T-YCROSS-HV-B": {
-"brake_light": "",
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
 "headlight_high": "HIR2 55W (סוג נורה)",
 "headlight_low": "HIR2 55W (סוג נורה)",
-"notes": "Brake light not in the bulb table (not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 943 PDF 350 (עמ׳ 349)): \"תאורות אחרות מאלו המתוארות להלן כוללות כל אחת מספר נורות LED (פנסי בלימה אינם ברשימת הנורות; מופיעים ברשימת נורות המצריכות החלפה בידי מוסך)\". Brake light not in the bulb table (not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנס איתות קדמי (סוג נורה)",
@@ -77468,9 +77500,17 @@
 "confidence": "high",
 "front_wipers_driver_mm": "",
 "front_wipers_passenger_mm": "",
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Avensis T27 2009-2011 (ספר 2009-2012)",
+"y0": 2009,
+"y1": 2011
+}
+],
 "headlight_high": "HB3 65W (2009-2012) / H9 65W (2012-2014) / D4S קסנון; HIR2 55W (2015-2019)",
 "headlight_low": "H11 55W הלוגן / D4S 35W קסנון (2009-2014); HIR2 55W הלוגן (2015-2019)",
-"notes": "ספר הרכב הישראלי (יוניון מוטורס). טבלת \"נורות פנסים\": הפנס הראשי שונה לפי שנה – יש לבדוק לפי שנת הרכב. נורת בלימה אינה מופיעה בטבלה.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 1 PDF 312 (עמ׳ 311)): \"פנסי LED: פנסי הבלמים, פנסי איתות הפניה הצידיים, פנס הבלמים הגבוה כוללים מספר נורות לד\"; רק לשנים 2009-2011. שנים 2012 ואילך: ספר 11/2012 (file 8) מונה רק \"פנסים אחוריים ופנס בלמים מותקן גבוה\" – לא מולא. ספר הרכב הישראלי (יוניון מוטורס). טבלת \"נורות פנסים\": הפנס הראשי שונה לפי שנה – יש לבדוק לפי שנת הרכב. נורת בלימה אינה מופיעה בטבלה.",
 "other_bulbs": [
 {
 "position": "איתות קדמי",
@@ -77660,9 +77700,17 @@
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": "",
 "front_wipers_passenger_mm": "",
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Aygo X 2023-2025 (ספרים 03/2022, 01/2025)",
+"y0": 2023,
+"y1": 2025
+}
+],
 "headlight_high": "HB3 60W",
 "headlight_low": "H11 55W",
-"notes": "ספר הרכב הישראלי (יוניון מוטורס). נורת בלימה אינה מופיעה בטבלה.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 952 PDF 275 (עמ׳ 274) + 1065 PDF 274 (עמ׳ 273)): \"הפנסים, מלבד הפנסים הבאים, מורכבים כל אחד ממספר נורות LED (פנסי בלימה אינם ברשימת הנורות)\"; רק לשנים 2023-2025. ספר הרכב הישראלי (יוניון מוטורס). נורת בלימה אינה מופיעה בטבלה.",
 "other_bulbs": [
 {
 "position": "ערפל קדמי",
@@ -77695,13 +77743,13 @@
 "source_url": "https://books.union-motors.co.il/app/api/files/952/download ; https://books.union-motors.co.il/app/api/files/1065/download"
 },
 "TM-AYGOX-HV-26": {
-"brake_light": "",
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
 "confidence": "high",
 "front_wipers_driver_mm": "",
 "front_wipers_passenger_mm": "",
 "headlight_high": "HIR2 55W (סוג נורה)",
 "headlight_low": "HIR2 55W (סוג נורה)",
-"notes": "ספר הרכב הישראלי (יוניון מוטורס). נורת בלימה אינה מופיעה בטבלה (לא מולא). בגרסאות LED – מוסך.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 1256 PDF 306 (עמ׳ 305)): \"הפנסים, מלבד הפנסים הבאים, מורכבים כל אחד ממספר נורות LED (פנסי בלימה אינם ברשימת הנורות; מופיעים ברשימת נורות שיש להחליף רק במוסך)\". ספר הרכב הישראלי (יוניון מוטורס). נורת בלימה אינה מופיעה בטבלה (לא מולא). בגרסאות LED – מוסך.",
 "other_bulbs": [
 {
 "position": "חניה קדמי",
@@ -78579,9 +78627,17 @@
 "confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Land Cruiser 150 2016-2017 (ספר 11/2016)",
+"y0": 2016,
+"y1": 2017
+}
+],
 "headlight_high": "HB3 60W",
 "headlight_low": "H11 55W (הלוגן)*",
-"notes": "ספר 2016-2017; לשנים 2018-2019 ספר 2020-2026 (669) מפרט אותם ערכים (H11/HB3). טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 198 PDF 486 (עמ׳ 485)): \"פנסי LED: ... פנס בלמים גבוה, פנסי בלימה/אחוריים כוללים מספר נורות LED\"; רק לשנים 2016-2017. ספר 2016-2017; לשנים 2018-2019 ספר 2020-2026 (669) מפרט אותם ערכים (H11/HB3). טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים*",
@@ -78626,9 +78682,17 @@
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (\"פנסי בלימה/אחוריים (אם קיים)\" ברשימת פנסי הלד; אין נורת בלימה בטבלה), החלפה במוסך מורשה",
+"gen_label": "Land Cruiser 150 2020-2023 (ספר 11/2020)",
+"y0": 2020,
+"y1": 2023
+}
+],
 "headlight_high": "HB3 60W",
 "headlight_low": "H11 55W (הלוגן)*",
-"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 669 PDF 626 (עמ׳ 625)): \"פנסי לד: ... פנס בלימה עליון, פנסי בלימה/אחוריים (אם קיים) כוללים מספר נורות לד\"; רק לשנים 2020-2023. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי איתות קדמיים",
@@ -78665,9 +78729,17 @@
 "confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Land Cruiser 150 2016-2017 (ספר 11/2016)",
+"y0": 2016,
+"y1": 2017
+}
+],
 "headlight_high": "HB3 60W",
 "headlight_low": "H11 55W (הלוגן)*",
-"notes": "ספר 2016-2017; לשנים 2018-2019 ספר 2020-2026 (669) מפרט אותם ערכים (H11/HB3). טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 198 PDF 486 (עמ׳ 485)): \"פנסי LED: ... פנס בלמים גבוה, פנסי בלימה/אחוריים כוללים מספר נורות LED\"; רק לשנים 2016-2017. ספר 2016-2017; לשנים 2018-2019 ספר 2020-2026 (669) מפרט אותם ערכים (H11/HB3). טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים*",
@@ -78712,9 +78784,17 @@
 "confidence": "manual-verbatim",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (\"פנסי בלימה/אחוריים (אם קיים)\" ברשימת פנסי הלד; אין נורת בלימה בטבלה), החלפה במוסך מורשה",
+"gen_label": "Land Cruiser 150 2020-2023 (ספר 11/2020)",
+"y0": 2020,
+"y1": 2023
+}
+],
 "headlight_high": "HB3 60W",
 "headlight_low": "H11 55W (הלוגן)*",
-"notes": "Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 669 PDF 626 (עמ׳ 625)): \"פנסי לד: ... פנס בלימה עליון, פנסי בלימה/אחוריים (אם קיים) כוללים מספר נורות לד\"; רק לשנים 2020-2023. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי איתות קדמיים",
@@ -78876,9 +78956,17 @@
 "confidence": "high",
 "front_wipers_driver_mm": 650,
 "front_wipers_passenger_mm": 500,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Land Cruiser 150 2010-2013 (ספר 12/2009)",
+"y0": 2010,
+"y1": 2013
+}
+],
 "headlight_high": "HB3 60W",
 "headlight_low": "H11 55W (הלוגן)*; D4S 35W (קסנון)* – לפי גרסה",
-"notes": "ספרי 2009-2013 (183) ו-2013-2015 (193) ו-2015-2016 (192): H11 55W אור נמוך הלוגן, HB3 60W אור גבוה; בספר 2009-2013 קיימת גם גרסת קסנון D4S 35W. טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה. ",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 183 PDF 431 (עמ׳ 430)): \"נורות LED: פנסי איתות הפניה הצידיים, פנסי התאורה האחורית/בלמים ופנס בלמים גבוה כוללים מספר נורות לד\"; רק לשנים 2010-2013. ספרי 2009-2013 (183) ו-2013-2015 (193) ו-2015-2016 (192): H11 55W אור נמוך הלוגן, HB3 60W אור גבוה; בספר 2009-2013 קיימת גם גרסת קסנון D4S 35W. טבלת \"נורות פנסים\" בספר הישראלי: מודפס הספק + אות סוג; קוד ECE מודפס לפנסים ראשיים/ערפל בלבד. נורת בלימה אינה מופיעה בטבלה.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים*",
@@ -79764,9 +79852,17 @@
 "confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Yaris Hybrid XP210 2023-2024 (ספר 07/2023)",
+"y0": 2023,
+"y1": 2024
+}
+],
 "headlight_high": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
 "headlight_low": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
-"notes": "שורת יריס ללא קוד דור (2023-2026) = XP210 היברידי; אותו ספר רכב 2023-2024. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 1127 PDF 305 (עמ׳ 304)): \"תאורות אחרות מאלו המתוארות להלן כוללות כל אחת מספר נורות LED (פנסי בלימה אינם ברשימת הנורות; מופיעים ברשימת נורות המצריכות החלפה בידי מוסך)\"; רק לשנים 2023-2024. שורת יריס ללא קוד דור (2023-2026) = XP210 היברידי; אותו ספר רכב 2023-2024. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים (סוג נורה)",
