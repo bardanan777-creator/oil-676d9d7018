@@ -117188,6 +117188,119 @@
 ],
 "year_from": 2013,
 "year_to": 2013
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-68: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: BYD Atto 2 DM-i (plug-in hybrid). EasyCarParts.nl, דף \"BYD Atto 2 SUV (2025)\" – סוגי הרכב בדף כוללים במפורש \"1.5 DM-i Active – BYD472QA 11-2025\" ו-\"1.5 DM-i Boost – BYD472QA 11-2025\" לצד גרסאות החשמל; סט Bosch לדגם: \"Lengte 1: 600mm, Lengte 2: 475mm, LHD\" (נהג/נוסע). השוואה (לא בשימוש): Bosch A 620 S לאטו 2 החשמלית 600/475 (BW-64) – תואם. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "מקור רשת יחיד: EasyCarParts.nl (Bosch)",
+"source_url": "https://www.easycarparts.nl/bosch-retrofit-ruitenwissers/byd/atto-2-suv-2025"
+},
+"degem_cd": [
+"53",
+"59",
+"63",
+"64"
+],
+"kinuy_re": "^BYD ATTO 2 DM-I$",
+"tozeret_cd": [
+1014
+],
+"year_from": 2026,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-68: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: BYD Atto 3 EVO (2026). OXIMO 2026 עמ׳ 33: \"BYD | Atto 3 (BYD Yuan Plus) | suv | 02.2022- | C | 600 | 425\" (הגה שמאלי, ללא סיום ייצור). אישור שה-EVO שמר על אותם מגבים: Vipa Car Parts (בריטניה, הגה ימני) \"BYD ATTO 3 - EVO SUV, manufactured from Feb 2026 Onwards … Drivers: 24\" / 600mm - Passenger: 17\" / 430mm - Rear: 11\" / 250mm\"; EV Accessories Australia: \"Fits: BYD Atto 3 2022–Present & / Atto 3 Evo … 24\" (driver) & 17\" (passenger)\". מגב אחורי לא מולא (מקור הגה ימני בלבד). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "מקור רשת יחיד: OXIMO 2026 + Vipa Car Parts (UK)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=33"
+},
+"degem_cd": [
+"4",
+"57",
+"58"
+],
+"kinuy_re": "^ATTO 3 EVO$",
+"tozeret_cd": [
+1014
+],
+"year_from": 2026,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-68: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Voyah Courage. mirdvornikov.ru (קטלוג מגבים רוסי, הגה שמאלי) \"Щетки стеклоочистителя для Voyah Courage 08.24→ … Длины, мм водительская 600 мм пассажирская 450 мм\". רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "מקור רשת יחיד: mirdvornikov.ru",
+"source_url": "https://www.mirdvornikov.ru/cars/voyah-courage/2428113/"
+},
+"degem_cd": [
+"1",
+"5",
+"6",
+"7",
+"8",
+"9",
+"10",
+"11"
+],
+"kinuy_re": "^COURAGE$",
+"tozeret_cd": [
+1468
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 380,
+"notes": "BW-68: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Maxus EUNIQ 6. OXIMO 2026 עמ׳ 60: \"EUNIQ 6 | suv | 09.2019- | U | 600 | 380 | WU600 | WU375* | … | 250\" (נהג/נוסע במ\"מ לפי עמודות האורך, אחורי 250; להב הנוסע המוצע 375). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 250,
+"source_title": "מקור רשת יחיד: OXIMO 2026",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=60"
+},
+"degem_cd": [
+"9"
+],
+"kinuy_re": "^MAXUS  ?EUNIQ 6$",
+"tozeret_cd": [
+1152
+],
+"year_from": 2022,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": "",
+"notes": "BW-68: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Leapmotor T03 (T03D) – single front blade. OXIMO 2026 עמ׳ 58: \"LEAPMOTOR | T03 | liftback | 05.2020- | U | 600 | 0\" (מגב קדמי יחיד 600). carwiper.co.il \"לLeapmotor T03\" 2020-2025: נהג 24\", נוסע \"-\" (כמו BW-64 ל-T03). T03D = אותו דגם ברישוי. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "מקור רשת יחיד: OXIMO 2026 + carwiper.co.il",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf#page=58"
+},
+"degem_cd": [
+"18",
+"20"
+],
+"kinuy_re": "^T03D$",
+"tozeret_cd": [
+1436
+],
+"year_from": 2024,
+"year_to": 2026
 }
 ]
 }
