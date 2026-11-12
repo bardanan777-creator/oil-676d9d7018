@@ -23035,17 +23035,36 @@
 },
 "HF-SANTAFE-CM-G6EA-FI06": {
 "brake_light": "",
-"confidence": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W) / קסנון 35W (HID – סוג לא מודפס)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"전조등(하향) 55/35 (HID일 경우 35)\"; \"전조등(상향) 55\"; \"앞면 안개등 27\"; \"후진등 16\"; \"번호등 5\"; \"제동등/미등 27/8\". הספר הבריטי של CM (מתיחת פנים, BW-45) מדפיס בלם 21/5W. שורת FI06: הספר הפיני 2006-2010 סרוק בלבד; נלקח הספר הקוריאני 2008 של אותו דור (לפני מתיחת פנים). ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "6장 (PDF 2)",
+"source_title": "현대 싼타페 (Santa Fe CM) 2008 취급설명서 – 6장 제원: 전구 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715180128443596.PDF",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Santa Fe [CM] 2006-2012. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -25584,6 +25603,254 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"HX-SANTAFE-CM-G6EA-X": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W) / קסנון 35W (HID – סוג לא מודפס)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"전조등(하향) 55/35 (HID일 경우 35)\"; \"전조등(상향) 55\"; \"앞면 안개등 27\"; \"후진등 16\"; \"번호등 5\"; \"제동등/미등 27/8\". הספר הבריטי של CM (מתיחת פנים, BW-45) מדפיס בלם 21/5W. שורת FI06: הספר הפיני 2006-2010 סרוק בלבד; נלקח הספר הקוריאני 2008 של אותו דור (לפני מתיחת פנים). ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6장 (PDF 2)",
+"source_title": "현대 싼타페 (Santa Fe CM) 2008 취급설명서 – 6장 제원: 전구 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715180128443596.PDF"
+},
+"HY-ACCENT-LC-G4EB-KR": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"헤드라이트(HIGH/LOW) 60/55\" – נורה משולבת = H4; \"안개등 27\"; \"후퇴등 16\"; \"번호판등 5\"; \"정지등/미등 27/8\". זהה ב-2000 וב-2004. ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5-34 (PDF 34) בשני הספרים",
+"source_title": "현대 베르나 (Verna LC) 2000 / 뉴 베르나 2004 취급설명서 – 5장 자가정비: 전구 용량 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715151625943160.pdf ; https://www.hyundai.com/files/kr/ko/lib//20120715145814742111.pdf"
+},
+"HY-ACCENT-MC-G4ED-KR06": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (55/60W, בסיס P43t-38)",
+"headlight_low": "H4 (55/60W, בסיס P43t-38)",
+"notes": "[BW-69] טבלה: \"헤드라이트(HIGH/LOW) 55/60 P43t-38\" – הספק + בסיס P43t מתאימים ל-H4 בלבד; \"안개등 27 PG13\"; \"후진등 16\"; \"하이 마운티드 스톱 램프 16\"; \"정지등/미등 27/8 BAY15d\". ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 (27W, בסיס PG13)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W, בסיס W2.1×9.5d)"
+},
+{
+"position": "בלם עליון",
+"type": "W16W (16W, בסיס W2.1×9.5d)"
+},
+{
+"position": "איתות צד",
+"type": "W5W / WY5W (5W, בסיס W2.1×9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5-32 (PDF 32)",
+"source_title": "현대 베르나 (Verna/Accent MC) 취급설명서 2006-05 – 5장 자가정비: 전구 용량 및 소켓 (hyundai.com KR, 06_new_verna_060512)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715145915646118.PDF"
+},
+"HY-ACCENT-MC-G4EE-KR06": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (55/60W, בסיס P43t-38)",
+"headlight_low": "H4 (55/60W, בסיס P43t-38)",
+"notes": "[BW-69] טבלה: \"헤드라이트(HIGH/LOW) 55/60 P43t-38\" – הספק + בסיס P43t מתאימים ל-H4 בלבד; \"안개등 27 PG13\"; \"후진등 16\"; \"하이 마운티드 스톱 램프 16\"; \"정지등/미등 27/8 BAY15d\". ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 (27W, בסיס PG13)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W, בסיס W2.1×9.5d)"
+},
+{
+"position": "בלם עליון",
+"type": "W16W (16W, בסיס W2.1×9.5d)"
+},
+{
+"position": "איתות צד",
+"type": "W5W / WY5W (5W, בסיס W2.1×9.5d)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5-32 (PDF 32)",
+"source_title": "현대 베르나 (Verna/Accent MC) 취급설명서 2006-05 – 5장 자가정비: 전구 용량 및 소켓 (hyundai.com KR, 06_new_verna_060512)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715145915646118.PDF"
+},
+"HY-ELANTRA-XD-G4ED-KR05": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 (55W, בסיס P14.5s)",
+"headlight_low": "H7 (55W, בסיס PX26d)",
+"notes": "[BW-69] טבלה: \"헤드라이트 (하이 빔 / 로우 빔) 55/55 P14,5s / PX 26d\" – הבסיס קובע: אור גבוה P14.5s = H1, אור נמוך PX26d = H7; \"안개등 51 P22d\" = HB4; \"번호판등 5 S8.5/8.5\"; \"정지등 / 미등 27/8 BAY 15d\". ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "HB4 (51W, בסיס P22d)"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W (בסיס S8.5/8.5 – פסטון)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 38 (XD-new 5장 페이지39)",
+"source_title": "현대 아반떼 XD (Avante/Elantra XD) 취급설명서 2005-06 – 5장 정기 점검: 전구 용량 및 소켓 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715154311573191.pdf"
+},
+"HY-ELANTRA-XD-G4GC-KR05": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H1 (55W, בסיס P14.5s)",
+"headlight_low": "H7 (55W, בסיס PX26d)",
+"notes": "[BW-69] טבלה: \"헤드라이트 (하이 빔 / 로우 빔) 55/55 P14,5s / PX 26d\" – הבסיס קובע: אור גבוה P14.5s = H1, אור נמוך PX26d = H7; \"안개등 51 P22d\" = HB4; \"번호판등 5 S8.5/8.5\"; \"정지등 / 미등 27/8 BAY 15d\". ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "HB4 (51W, בסיס P22d)"
+},
+{
+"position": "לוחית רישוי",
+"type": "5W (בסיס S8.5/8.5 – פסטון)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 38 (XD-new 5장 페이지39)",
+"source_title": "현대 아반떼 XD (Avante/Elantra XD) 취급설명서 2005-06 – 5장 정기 점검: 전구 용량 및 소켓 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715154311573191.pdf"
+},
+"HY-GALLOPER-D4BH-KR": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"전조등(상향/하향) 60/55\" – נורה משולבת = H4; \"미등/정지등 5/21\"; \"후진등 21\"; \"안개등(OPTION) 55\".",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "ערפל קדמי (אופציה)",
+"type": "55W – סוג לא מודפס"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 31",
+"source_title": "현대 갤로퍼 (Galloper) 2000 취급설명서 – 5장 자가정비: 전구의 용량 및 교환 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715173022869498.pdf"
+},
+"HY-GALLOPER-D4BH-KR-CALIAS-4D56-1999": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. (שורת כינוי של אותו גלופר II) \"전조등(상향/하향) 60/55\" → H4; \"미등/정지등 5/21\"; \"후진등 21\".",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "P21W / W21W (21W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 31",
+"source_title": "현대 갤로퍼 (Galloper) 2000 취급설명서 – 5장 자가정비: 전구의 용량 및 교환 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715173022869498.pdf"
+},
 "HY-GETZ-G4EA-KR": {
 "brake_light": "P21/5W (21/5W, בסיס BA15d)",
 "bulb_options": [
@@ -25779,6 +26046,74 @@
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Getz [TB] 09.02-06.09. קדמיים 550/340 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HY-H1-A1-D4BH-KR-0": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"헤드라이트 (하이 빔 / 로우 빔) 55/60\" – נורה משולבת = H4; \"후진등 16\"; \"번호판등 5\"; \"정지등 / 미등 27/8\". ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 34",
+"source_title": "현대 스타렉스 (Starex A1 / H-1) 2005 취급설명서 – 5장: 전구 용량 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715174015778531.pdf"
+},
+"HY-H1-TQ-D4CB-KR19": {
+"brake_light": "",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 (55W)",
+"headlight_low": "H7 (55W)",
+"notes": "[BW-69] טבלה עם עמודת \"전구 형식\": \"전조등(상향) H7 55\"; \"전조등(하향) H7 55\"; \"방향지시등 PY21W\"; \"안개등* H8 35\"; \"방향지시등(옆)* WY5W\"; \"후퇴등 W16W\"; \"번호등 W5W\"; \"보조제동등 LED\"; בלם/אחורי \"P28/8W 27/8 / LED\" – P28/8W הוא סוג קוריאני/אמריקאי, לא מולא (ראה לעיל). ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני P28/8W (סוג שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H8 (35W)"
+},
+{
+"position": "איתות צד",
+"type": "WY5W (5W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-3 (PDF 374)",
+"source_title": "현대 그랜드 스타렉스 (H-1 TQ facelift) 취급설명서 MY2019 (ownersmanual.hyundai.com, ko_KR) – 8장 차량 정보: 전구의 용량",
+"source_url": "https://ownersmanual.hyundai.com/full_pdf/TQ/2019/ko_KR"
 },
 "HY-I30-FD-G4FC-KR0811": {
 "brake_light": "P21/5W / W21/5W (21/5W)",
@@ -26016,23 +26351,364 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"HY-MATRIX-G4ED-KR05": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"헤드라이트(HIGH/LOW) 60/55\" – נורה משולבת = H4; \"번호판등 5\"; \"사이드 램프 5\"; \"정지등/미등 28/8\". ספר 2005; רכבי 2008-2010 (מתיחת פנים) – לבדוק ברכב. ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות צד",
+"type": "W5W / WY5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5-33 (PDF 33)",
+"source_title": "현대 라비타 (Lavita/Matrix) 2005 취급설명서 – 5장 정기 점검: 전구 용량 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715172657053484.pdf"
+},
 "HY-SANTAFE-CM-D4EB-KR": {
 "brake_light": "",
-"confidence": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 450,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W) / קסנון 35W (HID – סוג לא מודפס)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"전조등(하향) 55/35 (HID일 경우 35)\"; \"전조등(상향) 55\"; \"앞면 안개등 27\"; \"후진등 16\"; \"번호등 5\"; \"제동등/미등 27/8\". הספר הבריטי של CM (מתיחת פנים, BW-45) מדפיס בלם 21/5W. ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
 "rear_wiper_mm": 350,
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "6장 (PDF 2)",
+"source_title": "현대 싼타페 (Santa Fe CM) 2008 취급설명서 – 6장 제원: 전구 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715180128443596.PDF",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Hyundai Santa Fe [CM] 2006-2012. קדמיים 600/450 מ״מ, אחורי 350 מ״מ. התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"HY-SONATA-DN8-G4FP-KR20": {
+"brake_light": "LED",
+"confidence": "medium",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "HB3 (60W, פנס נורה) / LED (פנס LED)",
+"headlight_low": "HB3 (60W, פנס נורה) / LED (פנס LED)",
+"notes": "[BW-69] טבלה עם עמודת \"전구 형식\": \"전조등(상향/하향)-벌브타입 HB3 60\"; \"전조등/주간주행등/차폭등/방향지시등-LED타입 LED\"; \"제동등 LED\"; \"후미등 LED\"; \"주간주행등/차폭등-벌브타입 P21/5W\"; \"방향지시등-벌브타입 PY21W\"; \"후퇴등 W16W\"; \"번호판등 W5W\". ספר שוק קוריאה; סוג הפנס (נורה/LED) לפי רמת גימור.",
+"other_bulbs": [
+{
+"position": "אור יום/חניה (פנס נורה)",
+"type": "P21/5W (21/5W)"
+},
+{
+"position": "איתות קדמי (פנס נורה)",
+"type": "PY21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W (21W) / LED"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "1-11 (PDF 17)",
+"source_title": "현대 쏘나타 (Sonata DN8) 취급설명서 MY2020 (ownersmanual.hyundai.com, ko_KR) – 1장: 전구의 용량",
+"source_url": "https://ownersmanual.hyundai.com/full_pdf/DN8/2020/ko_KR"
+},
+"HY-SONATA-NF-G4KA": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"Galvenie lukturi (tuvās gaismas) 55; (tālās gaismas) 55\" – נורות נפרדות; \"Stopsignāls un aizmugurējie lukturi 21/5\"; \"Priekšējais virzienrādītājs 21\"; \"Priekšējie miglas lukturi 27\"; \"Atpakaļgaitas lukturi 16\"; \"Augšējais stopsignāls 16\"; \"Valsts numura zīmes apgaismojums 5\". ספר אירופי (אותו ספר כמו שורת הנוזלים LV).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "בלם עליון",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9 (PDF 370)",
+"source_title": "Hyundai Sonata (NF) lietošanas instrukcija MY2005-2010 (Hyundai Baltic, LV) – Spuldžu jauda vatos",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/sites/4/sonata_my2005-2010_owners_manual_lv.pdf"
+},
+"HY-SONATA-NF-G4KC": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"Galvenie lukturi (tuvās gaismas) 55; (tālās gaismas) 55\" – נורות נפרדות; \"Stopsignāls un aizmugurējie lukturi 21/5\"; \"Priekšējais virzienrādītājs 21\"; \"Priekšējie miglas lukturi 27\"; \"Atpakaļgaitas lukturi 16\"; \"Augšējais stopsignāls 16\"; \"Valsts numura zīmes apgaismojums 5\". ספר אירופי (אותו ספר כמו שורת הנוזלים LV).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "בלם עליון",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9 (PDF 370)",
+"source_title": "Hyundai Sonata (NF) lietošanas instrukcija MY2005-2010 (Hyundai Baltic, LV) – Spuldžu jauda vatos",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/sites/4/sonata_my2005-2010_owners_manual_lv.pdf"
+},
+"HY-SONATA-NF-G4KD-LV": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"Galvenie lukturi (tuvās gaismas) 55; (tālās gaismas) 55\" – נורות נפרדות; \"Stopsignāls un aizmugurējie lukturi 21/5\"; \"Priekšējais virzienrādītājs 21\"; \"Priekšējie miglas lukturi 27\"; \"Atpakaļgaitas lukturi 16\"; \"Augšējais stopsignāls 16\"; \"Valsts numura zīmes apgaismojums 5\". ספר אירופי (אותו ספר כמו שורת הנוזלים LV).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "בלם עליון",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9 (PDF 370)",
+"source_title": "Hyundai Sonata (NF) lietošanas instrukcija MY2005-2010 (Hyundai Baltic, LV) – Spuldžu jauda vatos",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/sites/4/sonata_my2005-2010_owners_manual_lv.pdf"
+},
+"HY-SONATA-NF-G6DB": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"Galvenie lukturi (tuvās gaismas) 55; (tālās gaismas) 55\" – נורות נפרדות; \"Stopsignāls un aizmugurējie lukturi 21/5\"; \"Priekšējais virzienrādītājs 21\"; \"Priekšējie miglas lukturi 27\"; \"Atpakaļgaitas lukturi 16\"; \"Augšējais stopsignāls 16\"; \"Valsts numura zīmes apgaismojums 5\". ספר אירופי (אותו ספר כמו שורת הנוזלים LV).",
+"other_bulbs": [
+{
+"position": "איתות קדמי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "ערפל אחורי",
+"type": "P21W / W21W (21W)"
+},
+{
+"position": "איתות אחורי",
+"type": "PY21W / P21W (21W)"
+},
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "בלם עליון",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "9 (PDF 370)",
+"source_title": "Hyundai Sonata (NF) lietošanas instrukcija MY2005-2010 (Hyundai Baltic, LV) – Spuldžu jauda vatos",
+"source_url": "https://www.hyundai.fi/wp-content/uploads/sites/4/sonata_my2005-2010_owners_manual_lv.pdf"
+},
+"HY-TERRACAN-J3-KR": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"헤드라이트(하이 빔 / 로우 빔) 55/55\" – שתי נורות נפרדות 55W; \"후진등 16\"; \"번호판등 5\"; \"정지등/미등 27/8\"; ערפל 55W לא מולא (אין סט אפשרויות מוגדר). ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 34",
+"source_title": "현대 테라칸 (Terracan) 2005 취급설명서 – 5장: 전구 용량 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715173650133516.pdf"
+},
+"HY-TRAJET-D4EA-KR07": {
+"brake_light": "P21/5W / W21/5W (21/5W)",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W) (באותו פנס עם אור חניה 8W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"헤드라이트 (하이 빔) / 미등 55/8\"; \"헤드라이트 (로우 빔) 55\"; \"정지등 / 미등 21/5\"; \"방향지시등 / 후진등 21/16\"; \"번호판등 5\".",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "PDF 31 (מודפס 32)",
+"source_title": "현대 트라제 XG (Trajet) 취급설명서 2007-02 – 5장: 전구 용량 (hyundai.com KR)",
+"source_url": "https://www.hyundai.com/files/kr/ko/lib//20120715175004553574.pdf"
 },
 "IZ-DMAX-4JK1-17": {
 "brake_light": "LED / P21/5W / W21/5W (5/21W)",
@@ -55892,6 +56568,68 @@
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
 "wiper_source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
 },
+"KE-CARNIVAL-VQ-J3-LATE": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"전조등(하향) 55\"; \"전조등(상향) 55\" – נורות נפרדות; \"후진등 16\"; \"번호등 5\"; \"보조제동등 LED\"; \"제동등/미등 27/8\"; ערפל 35W (11 מושבים) / 51W (9 מושבים) לא מולא. מוגבל לשורת 2010-2013 (מתיחת פנים); 2006-2009 לא מולא. ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "5-42 (PDF 449)",
+"source_title": "기아 그랜드 카니발 (Carnival VQ) 취급설명서 MY2012 (ownersmanual.kia.com, ko_KR) – 5장 자가정비: 전구의 용량",
+"source_url": "https://ownersmanual.kia.com/full_pdf/VQ/2012/ko_KR"
+},
+"KE-RIO-JB-D4FA": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. אותו מרכב JB (גרסת דיזל D4FA); טבלת הנורות בספר אחת לכל המנועים: \"전조등(하향/상향) 55/60\" → H4. ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "6-4 (PDF 268)",
+"source_title": "기아 프라이드 (Pride/Rio JB) 취급설명서 MY2011 (ownersmanual.kia.com, ko_KR) – 6장 제원: 전구의 용량",
+"source_url": "https://ownersmanual.kia.com/full_pdf/JB/2011/ko_KR"
+},
 "KE-RIO-UB-D4FC": {
 "brake_light": "חיצוני: P21/5W LL או LED; פנימי: LED",
 "confidence": "manual-verbatim",
@@ -56391,19 +57129,71 @@
 "source_title": "ספר נהג KGM טורס היברידית 2025 (יבואן ישראל)",
 "source_url": "https://kgm.co.il/wp-content/uploads/2026/03/251095-TORRES-HYBRID-2025-OM-Print.pdf"
 },
+"KI-FORTE-TD-G4FC-KR12": {
+"brake_light": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"전조등(하향/상향) 55/55\" – אור נמוך וגבוה שניהם 55W בנורות נפרדות (לכן לא H4). \"후진등 16\"; \"번호등 5\"; \"앞면 방향지시등(옆) 5\"; \"제동등/미등 28/8 또는 LED\". ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות צד",
+"type": "W5W / WY5W (5W)"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-3 (PDF 304)",
+"source_title": "기아 포르테 (Forte/Cerato TD) 취급설명서 MY2012 (ownersmanual.kia.com, ko_KR) – 8장 차량 정보: 전구의 용량",
+"source_url": "https://ownersmanual.kia.com/full_pdf/TD/2012/ko_KR"
+},
 "KI-RIO-JB-G4EE-KR11": {
 "brake_light": "",
-"confidence": "",
+"bulb_options": [
+"headlight_low",
+"headlight_high",
+"brake_light",
+"other_bulbs"
+],
+"confidence": "low",
 "front_wipers_driver_mm": 550,
 "front_wipers_passenger_mm": 400,
-"headlight_high": "",
-"headlight_low": "",
-"notes": "",
-"other_bulbs": [],
+"headlight_high": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"headlight_low": "H4 (60/55W, נורה משולבת נמוך/גבוה)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"전조등(하향/상향) 55/60\" (4도어 ו-5도어) מודפס כנורה אחת 55/60W – נורה משולבת בהספק זה היא H4 (תקדים Tucson JM). \"안개등 27\"; \"번호등 5\"; \"방향지시등(옆) 5\"; \"제동등/미등 27/8 (4도어) 28/8 (5도어)\". ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "ערפל קדמי",
+"type": "H27W/1 / H27W/2 (27W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "איתות צד",
+"type": "W5W / WY5W (5W)"
+}
+],
 "rear_wiper_mm": "",
-"source_page": "",
-"source_title": "",
-"source_url": "",
+"source_page": "6-4 (PDF 268)",
+"source_title": "기아 프라이드 (Pride/Rio JB) 취급설명서 MY2011 (ownersmanual.kia.com, ko_KR) – 6장 제원: 전구의 용량",
+"source_url": "https://ownersmanual.kia.com/full_pdf/JB/2011/ko_KR",
 "wiper_confidence": "medium-high",
 "wiper_notes": "דגם לפי Bosch 2023: Kia Rio [JB] 03.05-09.11. קדמיים 550/400 מ״מ, מגב אחורי: אין נתון (לא צוין או משתנה לפי סוג המרכב). התאמה לרכב אירופי עם הגה שמאלי. אומת מול קטלוג Valeo 2024-25 – המידות תואמות (סטייה של עד 10 מ״מ).",
 "wiper_source_title": "קטלוג מגבים Bosch 2023 (יישומים אירופיים, הגה שמאלי) + קטלוג מגבים Valeo 2024-25",
@@ -87451,6 +88241,76 @@
 ],
 "year_from": 2024,
 "year_to": 2024
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"전조등(상향) 55\"; \"전조등(하향) 55\" – נורות נפרדות; \"후진등 16\"; \"번호등 5\"; \"제동등/미등 27/8\"; \"보조제동등 LED\". הספר הפיני 2008-2010 (BW-45) מדפיס אותם הספקים לפנס הראשי. ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב.",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-3 (PDF 347)",
+"source_title": "현대 그랜드 스타렉스 (H-1 TQ) 취급설명서 MY2015 (ownersmanual.hyundai.com, ko_KR) – 8장 차량 정보: 전구의 용량",
+"source_url": "https://ownersmanual.hyundai.com/full_pdf/TQ/2015/ko_KR"
+},
+"kinuy_re": "^H1$",
+"tozeret_cd": [
+"481"
+],
+"year_from": 2015,
+"year_to": 2017
+},
+{
+"data": {
+"brake_light": "",
+"confidence": "low",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "H7 / H1 / H11 (55W)",
+"headlight_low": "H7 / H1 / H11 (55W)",
+"notes": "[BW-69] הספר מדפיס הספק בלבד (ללא סוג נורה). מוצגות האפשרויות הקיימות להספק ולמיקום הזה – יש לבדוק איזו נורה מותקנת ברכב (הכיתוב על בסיס הנורה הישנה) לפני רכישה. \"전조등(상향) 55\"; \"전조등(하향) 55\" – נורות נפרדות; \"후진등 16\"; \"번호등 5\"; \"제동등/미등 27/8\"; \"보조제동등 LED\". הספר הפיני 2008-2010 (BW-45) מדפיס אותם הספקים לפנס הראשי. ספר בעלים רשמי לשוק הקוריאני (אותו ספר שמצוטט בשורת הנוזלים של הרכב). נורת בלם/אחורי לא מולאה: בספר הקוריאני 27/8W (בסיס BAY15d, סוג אמריקאי שאינו ECE) – ברכב ישראלי ייתכן P21/5W כמו בספרים האירופיים של אותו דגם; יש לבדוק ברכב. (רכבי tozeret 845 שנת 2007 – דור TQ ראשון).",
+"other_bulbs": [
+{
+"position": "נסיעה לאחור",
+"type": "W16W (16W)"
+},
+{
+"position": "לוחית רישוי",
+"type": "W5W (5W)"
+},
+{
+"position": "בלם עליון",
+"type": "LED"
+}
+],
+"rear_wiper_mm": "",
+"source_page": "8-3 (PDF 347)",
+"source_title": "현대 그랜드 스타렉스 (H-1 TQ) 취급설명서 MY2015 (ownersmanual.hyundai.com, ko_KR) – 8장 차량 정보: 전구의 용량",
+"source_url": "https://ownersmanual.hyundai.com/full_pdf/TQ/2015/ko_KR"
+},
+"kinuy_re": "^H1$",
+"tozeret_cd": [
+"845"
+],
+"year_from": 2007,
+"year_to": 2007
 },
 {
 "data": {
