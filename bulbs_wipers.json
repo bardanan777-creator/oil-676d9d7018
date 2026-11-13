@@ -57763,6 +57763,90 @@
 "source_title": "Kia cee'd ED 2010-2011 – Käyttöohjekirja (fi_FI)",
 "source_url": "https://www.kia.com/content/dam/kwcms/kme/fi/fi/assets/contents/service/service-care/help-books/ceed-2010-2011/Kaayttoohjekirja.pdf"
 },
+"LK-01-CX11-0": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר הרכב הדיגיטלי הרשמי של Lynk & Co (Car Guide), בנושא \"Replace exterior lights\": \"The car is equipped with LED lights, which cannot be replaced. Usually, the entire lamp unit must be replaced.\" – כל הפנסים החיצוניים LED; פנס תקול מוחלף כיחידה במוסך מורשה. לא מודפסת טבלת נורות (נורות אחרות הושארו ריקות). אותו נוסח גם במהדורות MY2025/MY2026.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "topic:Replacing_exterior_lights",
+"source_title": "Lynk & Co 01 Car Guide (MY2021 HEV/PHEV, MY2022, MY2023) – Replace exterior lights",
+"source_url": "https://car-guide.lynkco.biz/#/CX11_2023/en-US | https://gw.api.lynkco.biz/mobile-app/car-guide/v1/api/v1/guide/type/CX11_2023/data/asset/topic-2A101C30F9B4D2E4A6558A22496B42F8E470A185.xml?language=en-US"
+},
+"LK-01-CX11-1": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר הרכב הדיגיטלי הרשמי של Lynk & Co (Car Guide), בנושא \"Replace exterior lights\": \"The car is fitted with LED lights, which are unable to be replaced. Usually, the entire lamp unit needs replacing.\" – כל הפנסים החיצוניים LED; פנס תקול מוחלף כיחידה במוסך מורשה. לא מודפסת טבלת נורות (נורות אחרות הושארו ריקות). אותו נוסח במהדורות MY2021-2023.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "topic de3abd03-b224-4d06-9405-be040a0e6e59",
+"source_title": "Lynk & Co 01 Car Guide (MY2025 CORE/MORE) – Replace exterior lights",
+"source_url": "https://car-guide.lynkco.biz/#/CX11_CORE/en-US | https://gw.api.lynkco.biz/mobile-app/car-guide/v1/api/v1/guide/type/CX11_CORE/data/asset/sha256-VrW8tMxNeLaXzHXuTreTA79rfGPaJGmRsiDvvOahbtQ?language=en-US"
+},
+"LK-01-CX11FL": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר הרכב הדיגיטלי הרשמי של Lynk & Co (Car Guide), בנושא \"Replace exterior lights\": \"The car is fitted with LED lights, which are unable to be replaced. Usually, the entire lamp unit needs replacing.\" – כל הפנסים החיצוניים LED; פנס תקול מוחלף כיחידה במוסך מורשה. לא מודפסת טבלת נורות (נורות אחרות הושארו ריקות).",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "topic de3abd03-b224-4d06-9405-be040a0e6e59",
+"source_title": "Lynk & Co 01 Car Guide (MY2025 / MY2026 CORE/MORE) – Replace exterior lights",
+"source_url": "https://car-guide.lynkco.biz/#/CX11_2026_CORE/en | https://gw.api.lynkco.biz/mobile-app/car-guide/v1/api/v1/guide/type/CX11_2026_CORE/data/asset/sha256-VrW8tMxNeLaXzHXuTreTA79rfGPaJGmRsiDvvOahbtQ?language=en-US"
+},
+"LK-02-E335-1": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר הרכב הדיגיטלי הרשמי של Lynk & Co (Car Guide), בנושא \"Replace exterior lights\": \"The car is fitted with LED lights, which are unable to be replaced. Usually, the entire lamp unit needs replacing.\" – כל הפנסים החיצוניים LED; פנס תקול מוחלף כיחידה במוסך מורשה. לא מודפסת טבלת נורות (נורות אחרות הושארו ריקות).",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "topic de3abd03-b224-4d06-9405-be040a0e6e59",
+"source_title": "Lynk & Co 02 Car Guide (E335 MY2025 CORE/MORE, MY2027) – Replace the exterior lights",
+"source_url": "https://car-guide.lynkco.biz/#/E335_CORE/en-US | https://gw.api.lynkco.biz/mobile-app/car-guide/v1/api/v1/guide/type/E335_CORE/data/asset/sha256-VrW8tMxNeLaXzHXuTreTA79rfGPaJGmRsiDvvOahbtQ?language=en-US"
+},
+"LK-02-E335-2": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר הרכב הדיגיטלי הרשמי של Lynk & Co (Car Guide), בנושא \"Replace exterior lights\": \"The car is fitted with LED lights, which are unable to be replaced. Usually, the entire lamp unit needs replacing.\" – כל הפנסים החיצוניים LED; פנס תקול מוחלף כיחידה במוסך מורשה. לא מודפסת טבלת נורות (נורות אחרות הושארו ריקות).",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "topic de3abd03-b224-4d06-9405-be040a0e6e59",
+"source_title": "Lynk & Co 02 Car Guide (E335 MY2025 CORE/MORE, MY2027) – Replace the exterior lights",
+"source_url": "https://car-guide.lynkco.biz/#/E335_CORE/en-US | https://gw.api.lynkco.biz/mobile-app/car-guide/v1/api/v1/guide/type/E335_CORE/data/asset/sha256-VrW8tMxNeLaXzHXuTreTA79rfGPaJGmRsiDvvOahbtQ?language=en-US"
+},
+"LK-08-DX11": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר הרכב הדיגיטלי הרשמי של Lynk & Co (Car Guide), בנושא \"Replace exterior lights\": \"The car is fitted with LED lights, which you can’t replace. It usually requires replacement of the entire lamp unit.\" – כל הפנסים החיצוניים LED; פנס תקול מוחלף כיחידה במוסך מורשה. לא מודפסת טבלת נורות (נורות אחרות הושארו ריקות).",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "topic 8e55091e-aa34-4a60-8834-dee9fb259e02",
+"source_title": "Lynk & Co 08 Car Guide (DX11 CORE/MORE) – Replace exterior lights",
+"source_url": "https://car-guide.lynkco.biz/#/DX11_CORE/en-US | https://gw.api.lynkco.biz/mobile-app/car-guide/v1/api/v1/guide/type/DX11_CORE/data/asset/sha256-yelpngfdfTbLm8DZhdNkcEr6pVdF2dpWHte0VbxEUqA?language=en-US"
+},
 "LX-CT200H-2ZR": {
 "brake_light": "",
 "confidence": "manual-verbatim",
@@ -126510,6 +126594,282 @@
 ],
 "year_from": 2023,
 "year_to": 2023
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-77: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: VW ID.5 (E39) 2022-2026. Bosch 2023: \"VW ID.5 [E39] 07.21→ A 027 S\" (A 027 S = 700/450). Valeo 2024-25 עמ׳ 159: \"ID.5 / ID.5 GTX … 03/22\" HU 700/450. carwiper.co.il VW ID - ID.5 2021-2023: 28\"/18\" (700/450). אין מגב אחורי באף קטלוג (מרכב קופה-SUV) – אחורי לא מולא. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"582",
+"595",
+"598",
+"602",
+"603",
+"608",
+"609",
+"614",
+"619",
+"624",
+"626",
+"628",
+"633",
+"639",
+"642",
+"655",
+"666",
+"667",
+"668",
+"669"
+],
+"kinuy_re": "^ID[ .]?5( PRO.*| GTX.*)?$",
+"tozeret_cd": [
+724
+],
+"year_from": 2022,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-77: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Cupra Leon (KL) 2024-2026 – front only. Bosch 2023: \"SEAT Leon IV [KL1] 05.20→ A 863 S\" (650/450) ו-\"Leon ST [KL8] 05.20→ A 863 S\". OXIMO 2026 עמ׳ 38: \"Cupra Leon (KL1) hatchback 10.2020- | 650 | 450 | 325\" ו-\"Leon Sportstourer (KL8) estate 09.2020- | 650 | 450 | 350\". Valeo 2024-25 עמ׳ 61: \"LEON 5 … 04/20-\" 650/450. carwiper.co.il Seat Leon Hatchback 2020: 26\"/18\". אחורי לא מולא: תלוי מרכב (האצ׳בק 320-330, סטיישן 350) ולפי הרישוי אי אפשר להבחין. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"12",
+"13",
+"20",
+"21",
+"22",
+"26",
+"27",
+"28",
+"33",
+"35",
+"36"
+],
+"kinuy_re": "^CUPRA LEON( VZ)?$",
+"tozeret_cd": [
+1583
+],
+"year_from": 2024,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 480,
+"notes": "BW-77: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Honda HR-V (RV, e:HEV) 2024-2026 – front. Valeo 2024-25 עמ׳ 79: \"HR-V / E:HEV … 01/22-\" HU 550/480, R345. carwiper.co.il Honda HR-V 2024: 22\"/19\" (550/480). אחורי לא מולא (carwiper ללא אחורי). Bosch 2023 מציג רק HR-V [RU] ולא את הדור RV. רק קוד דגם RV לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://cld.bz/9eL0uwt/79/"
+},
+"degem_cd": [
+"117",
+"118",
+"119"
+],
+"kinuy_re": "^HR-V( 1\\.5| HYBRID)?$",
+"tozeret_cd": [
+312
+],
+"year_from": 2024,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": "",
+"notes": "BW-77: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Ford Ranger 2023-2026 – driver only. Valeo 2024-25 עמ׳ 74: \"RANGER 2 / WILDTRAK … 03/23-\" HU 600/430. carwiper.co.il Ford Ranger 2024: 24\"/18\" (600/450). Bosch 2023: \"FORD Ranger 09.15→ A 292 S\" (600/380). צד נוסע לא מולא (Valeo 430 מול carwiper 450). נהג 600 זהה גם בדור הקודם. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"2",
+"3",
+"4",
+"6",
+"7",
+"8",
+"9",
+"10",
+"12",
+"13",
+"14",
+"15",
+"16"
+],
+"kinuy_re": "^RANGER$",
+"tozeret_cd": [
+1378
+],
+"year_from": 2023,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": "",
+"notes": "BW-77: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Lexus RX (ALA10/TALH17) RX350h / RX500h 2023-2026 – driver only. HEYNER \"LEXUS RX _LA1_, _LH1_ von 06.2022\": Länge 650 mm, Länge 2 450 mm. carwiper.co.il Lexus RX 450H 2023: 26\"/20\" (650/500). צד נוסע לא מולא (450 מול 500). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: HEYNER + carwiper.co.il",
+"source_url": "https://heyner.com/"
+},
+"degem_cd": [
+"4",
+"7",
+"307",
+"308",
+"309",
+"349",
+"368",
+"369",
+"370",
+"394",
+"395",
+"401"
+],
+"kinuy_re": "^(LEXUS +)?RX ?(350H|500H)$",
+"tozeret_cd": [
+404
+],
+"year_from": 2023,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-77: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: SsangYong Rodius I 2005-2012. Bosch 2023: \"SSANGYONG Rodius 08.04-12.12 AR 604 S\" (600/450), אחורי H 282 (280). Valeo 2024-25 עמ׳ 143: \"RODIUS 1 … 12/04-02/13\" 600/450. אחורי לא מולא (מקור יחיד). Rodius II ‏2013+ לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"11",
+"13",
+"30",
+"31",
+"131",
+"161"
+],
+"kinuy_re": "^RODIUS$",
+"tozeret_cd": [
+712
+],
+"year_from": 2005,
+"year_to": 2012
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": 340,
+"notes": "BW-77: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Toyota Corolla sedan hybrid (E21, ZWE219) 2025-2026. Bosch 2023: \"TOYOTA Corolla [E21] 01.19→ AR 705 S\" (700/340). carwiper.co.il Toyota Corolla Saloon 2019: 28\"/14\" (700/350). אותן מידות כמו רשומות Corolla E21 הקיימות. רק קוד דגם ZWE219 לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"679",
+"812"
+],
+"kinuy_re": "^COROLLA SDN HSD$",
+"tozeret_cd": [
+413
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": 500,
+"notes": "BW-77: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Audi Q7 (4M) 2015-2019 – passenger + rear. Bosch 2023: \"AUDI Q7 [4MB] 01.15→ A 535 S … A 360 H\" (700/500, אחורי 380). OXIMO 2026 עמ׳ 27: \"Q7 (4MB) suv 01.2015- | 700 | 500 | 380\". Valeo 2024-25 עמ׳ 46: \"Q7 / SQ7 … 06/15-\" HU 650/500, R380. carwiper.co.il Q7/SQ7 2016: 27\"/20\"/15\" (680/500/380). נהג לא מולא (700 מול 650/680). רק קודי דגם 4M לפי degem_nm (4L לא נכלל). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 380,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"20",
+"79",
+"80",
+"82",
+"83",
+"84",
+"85",
+"86",
+"87",
+"88",
+"89",
+"90",
+"93",
+"94",
+"95",
+"96",
+"97",
+"98",
+"99",
+"100",
+"102",
+"103",
+"104",
+"105",
+"106",
+"107",
+"114",
+"115",
+"116",
+"117",
+"122",
+"126",
+"128",
+"132"
+],
+"kinuy_re": "^Q7$",
+"tozeret_cd": [
+19,
+21,
+283
+],
+"year_from": 2015,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-77: רמת ביטחון נמוכה: מותג סיני (Geely), שני מקורות רשת קמעונאיים מסכימים, ללא קטלוג יצרן מגבים; מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Lynk & Co 08 (DX11) 2025-2026. topwipers.com \"Lynk & Co 08 05.23→\": 600 mm נהג, 475 mm נוסע. 2dvornika.com.ua DENSO Flat DF-002 \"Lync & Co 8 SUV 2023-2026\": 600 מ\"מ ו-475 מ\"מ (מידה מקורית). אחורי לא מולא (אין מידה). Lynk & Co טופל כמותג סיני (כמו Lynk 01/02 ב-BW-64/65). HEYNER, Bosch, Valeo, OXIMO ו-carwiper לא מציגים את 08. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: topwipers.com + 2dvornika.com.ua (DENSO)",
+"source_url": "https://topwipers.com/en-pl/auto/wiper-blades/lynk-co/08/2023"
+},
+"degem_cd": [
+"11",
+"12"
+],
+"kinuy_re": "^LYNKCO ?08( PHEV)?$",
+"tozeret_cd": [
+1346
+],
+"year_from": 2025,
+"year_to": 2026
 }
 ]
 }
