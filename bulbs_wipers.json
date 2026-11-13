@@ -57847,6 +57847,48 @@
 "source_title": "Lynk & Co 08 Car Guide (DX11 CORE/MORE) – Replace exterior lights",
 "source_url": "https://car-guide.lynkco.biz/#/DX11_CORE/en-US | https://gw.api.lynkco.biz/mobile-app/car-guide/v1/api/v1/guide/type/DX11_CORE/data/asset/sha256-yelpngfdfTbLm8DZhdNkcEr6pVdF2dpWHte0VbxEUqA?language=en-US"
 },
+"LM-B10-EV": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר הבעלים הרשמי של Leapmotor (המהדורה שכבר מקור לשורת הנוזלים): \"The vehicle uses LED bulbs, which do not support individual replacement and require replacing the corresponding assembly parts. For replacement, it is recommended to contact the authorized dealer.\" – כל הפנסים LED; פנס תקול מוחלף כמכלול אצל סוכן מורשה. לא מודפסת טבלת נורות (נורות אחרות הושארו ריקות). המהדורה מ-09/2025; רכבי 2025 מוקדמים יותר – אותו דגם.",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "PDF 201",
+"source_title": "Leapmotor B10 EV User Manual (Y0B10AO2507EN-1, 09-2025-present) – Light bulb replacement",
+"source_url": "https://www.leapmotor.net/docs/default-source/b10---2024/1757078910881y0b10ao2507en-1_user_manual_09-2025-present_compressed-1.pdf?sfvrsn=97798b08_49"
+},
+"LM-B10-REEV": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר הבעלים הרשמי של Leapmotor (המהדורה שכבר מקור לשורת הנוזלים): \"The vehicle uses LED bulbs, which do not support individual replacement and require replacing the corresponding assembly parts. For replacement, it is recommended to contact the authorized dealer.\" – כל הפנסים LED; פנס תקול מוחלף כמכלול אצל סוכן מורשה. לא מודפסת טבלת נורות (נורות אחרות הושארו ריקות).",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "PDF 173",
+"source_title": "Leapmotor B10 REEV User Manual (2026, 03-2026-present) – Light bulb replacement",
+"source_url": "https://www.leapmotor.net/docs/default-source/b10-reev-documents/b10reev_2026_03-2026-present_compressed.pdf?sfvrsn=5203c551_48"
+},
+"LM-C10-EV-26": {
+"brake_light": "LED – החלפה במוסך מורשה",
+"confidence": "high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"headlight_high": "LED – החלפה במוסך מורשה",
+"headlight_low": "LED – החלפה במוסך מורשה",
+"notes": "בספר הבעלים הרשמי של Leapmotor (המהדורה שכבר מקור לשורת הנוזלים): \"The entire vehicle uses LED bulbs. The bulbs cannot be replaced individually and the corresponding assembly parts need to be replaced. For replacement, please contact the authorized dealer.\" – כל הפנסים LED; פנס תקול מוחלף כמכלול אצל סוכן מורשה. לא מודפסת טבלת נורות (נורות אחרות הושארו ריקות).",
+"other_bulbs": [],
+"rear_wiper_mm": "",
+"source_page": "PDF 51 (+ PDF 53)",
+"source_title": "Leapmotor C10 EV Owner's Manual (Y0C10AO2507EN-1, 10-2025-present) – Exterior lights, NOTE",
+"source_url": "https://www.leapmotor.net/docs/default-source/c10---documents/y0c10ao2507en-1_content_print_10-2025-present_compressed-1.pdf?sfvrsn=b3fd07c1_48"
+},
 "LX-CT200H-2ZR": {
 "brake_light": "",
 "confidence": "manual-verbatim",
@@ -79942,11 +79984,17 @@
 "gen_label": "Yaris Hybrid XP210 2023-2024 (ספר 07/2023)",
 "y0": 2023,
 "y1": 2024
+},
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Yaris Hybrid XP210 2025-2026 (ספרים 2024-2026, 12/2025, 05/2026)",
+"y0": 2025,
+"y1": 2026
 }
 ],
 "headlight_high": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
 "headlight_low": "HIR2 55W (פנסים קדמיים מסוג הלוגן, סוג נורה)",
-"notes": "BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 1127 PDF 305 (עמ׳ 304)): \"תאורות אחרות מאלו המתוארות להלן כוללות כל אחת מספר נורות LED (פנסי בלימה אינם ברשימת הנורות; מופיעים ברשימת נורות המצריכות החלפה בידי מוסך)\"; רק לשנים 2023-2024. שורת יריס ללא קוד דור (2023-2026) = XP210 היברידי; אותו ספר רכב 2023-2024. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-78: נורת בלימה 2025-2026 = LED לפי רשימת \"פנסי LED\" בספרי הרכב הישראליים (Union Motors files 1202 PDF 340 (עמ׳ 339), 1204 PDF 311 (עמ׳ 309), 1225 PDF 315 (עמ׳ 313)): \"תאורות אחרות מאלו המתוארות להלן כוללות כל אחת מספר נורות LED (פנסי בלימה אינם ברשימת הנורות; מופיעים ברשימת נורות המצריכות החלפה בידי מוסך)\"; רק לשנים 2025-2026. BW-72: נורת בלימה = LED לפי רשימת \"פנסי LED\" בספר הרכב (Union Motors file 1127 PDF 305 (עמ׳ 304)): \"תאורות אחרות מאלו המתוארות להלן כוללות כל אחת מספר נורות LED (פנסי בלימה אינם ברשימת הנורות; מופיעים ברשימת נורות המצריכות החלפה בידי מוסך)\"; רק לשנים 2023-2024. שורת יריס ללא קוד דור (2023-2026) = XP210 היברידי; אותו ספר רכב 2023-2024. Brake light not in the bulb table. Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנסי ערפל קדמיים (סוג נורה)",
@@ -80084,9 +80132,17 @@
 "confidence": "medium-high",
 "front_wipers_driver_mm": 600,
 "front_wipers_passenger_mm": 400,
+"gens": [
+{
+"brake_light": "LED – לפי ספר הרכב הישראלי (פנסי LED), החלפה במוסך מורשה",
+"gen_label": "Yaris Cross Hybrid 2025 (ספרים 04/2024-2025, 05/2025-2026, 12/2025)",
+"y0": 2025,
+"y1": 2025
+}
+],
 "headlight_high": "HIR2 55W (סוג נורה)",
 "headlight_low": "HIR2 55W (סוג נורה)",
-"notes": "שורת יריס קרוס ללא קוד דור (2023-2025) = XP210 קרוס היברידי; אותו ספר רכב 2022-2024. Brake light not in the bulb table (not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
+"notes": "BW-78: נורת בלימה 2025 = LED לפי רשימת \"פנסי LED\" בספרי הרכב הישראליים (Union Motors files 1194 PDF 379 (עמ׳ 378), 1196 PDF 359 (עמ׳ 358), 1198 PDF 334 (עמ׳ 332)): \"תאורות אחרות מאלו המתוארות להלן כוללות כל אחת מספר נורות LED (פנסי בלימה אינם ברשימת הנורות; מופיעים ברשימת נורות המצריכות החלפה בידי מוסך)\"; רק לשנת 2025. שורת יריס קרוס ללא קוד דור (2023-2025) = XP210 קרוס היברידי; אותו ספר רכב 2022-2024. Brake light not in the bulb table (not user-replaceable). Israeli Union Motors book (image pages rendered and read). Toyota tables print wattage + bulb category letter; ECE code is printed only for halogen headlamp/fog bulbs. The book does not print wiper blade sizes.",
 "other_bulbs": [
 {
 "position": "פנס איתות קדמי (סוג נורה)",
@@ -126867,6 +126923,538 @@
 "kinuy_re": "^LYNKCO ?08( PHEV)?$",
 "tozeret_cd": [
 1346
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Jeep Grand Cherokee V (WL, incl. L / 4xe) 2022-2026 – front. OXIMO 2026 עמ׳ 54: \"Jeep Grand Cherokee (L V WL) suv 05.2021- | 650 | 500 | 250\" ו-\"Grand Cherokee (V WL) suv 03.2023- | 650 | 500 | 250\". HEYNER \"JEEP GRAND CHEROKEE V WL von 05.2021\": Länge 650 mm, Länge 2 500 mm (וכן GRAND CHEROKEE L V). אחורי לא מולא (מקור יחיד – OXIMO). כל קודי הדגם ברישוי 2022-2026 הם WL (WK2 הסתיים 2021). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"20",
+"36",
+"141",
+"148",
+"151",
+"153",
+"169",
+"170",
+"173",
+"183",
+"186",
+"187",
+"190",
+"202",
+"207",
+"217",
+"222",
+"225",
+"234",
+"246",
+"257",
+"273",
+"279",
+"280",
+"298",
+"320",
+"326",
+"347",
+"351",
+"352",
+"353",
+"354",
+"355",
+"358",
+"366",
+"367",
+"368",
+"372",
+"380",
+"402",
+"410",
+"414",
+"415",
+"416",
+"417",
+"418",
+"419",
+"420",
+"429",
+"431",
+"432",
+"436",
+"438",
+"457",
+"459",
+"463",
+"464",
+"465",
+"466",
+"467",
+"469",
+"470",
+"471",
+"474",
+"479",
+"481",
+"483",
+"484",
+"485",
+"491",
+"495",
+"498",
+"502",
+"505",
+"508",
+"513",
+"514",
+"515",
+"516",
+"524",
+"525",
+"530",
+"538",
+"539",
+"544",
+"558",
+"566",
+"587",
+"588",
+"596",
+"610",
+"617",
+"623",
+"629",
+"643",
+"650",
+"688",
+"719"
+],
+"kinuy_re": "^GRAND CHEROKEE$",
+"tozeret_cd": [
+239
+],
+"year_from": 2022,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Peugeot 208 II facelift 2025-2026. Bosch 2023: \"PEUGEOT 208 II [P21E] 07.19→ A 295 S\" (600/400). Valeo 2024-25 עמ׳ 123: \"208 2 / E-208 … 10/19-\" HU 600/400. carwiper.co.il פיג׳ו 208 ‏2024: 24\"/16\" (600/400). אחורי לא מולא (Bosch בלבד עם קוד להב; עמודת אחורי של Valeo לא נספרת). רק קוד דגם UPHP* לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"101",
+"102",
+"103",
+"112",
+"113",
+"114"
+],
+"kinuy_re": "^208$",
+"tozeret_cd": [
+743
+],
+"year_from": 2025,
+"year_to": 2026
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Skoda Fabia III (NJ) 2020-2021. Bosch 2023: \"SKODA Fabia Combi [NJ5] 08.14→ A 138 S\" (600/400). HEYNER \"SKODA FABIA III NJ3 von 08.2014 - 06.2021\": Länge 600 mm, Länge 2 400 mm. carwiper.co.il סקודה Fabia Hatchback 2015: 24\"/16\" (600/400). אחורי לא מולא (carwiper בלבד). רק קודי דגם NJ* (Fabia III) לפי degem_nm; Fabia IV ‏PJ לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + HEYNER + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"1113",
+"1116",
+"1119",
+"1122"
+],
+"kinuy_re": "^FABIA$",
+"tozeret_cd": [
+676
+],
+"year_from": 2020,
+"year_to": 2021
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 650,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Seat Leon II (1P) 2013. Bosch 2023: \"SEAT Leon II 03.09-12.12 A 099 S … A 281 H\" (650/650, אחורי 280). OXIMO 2026 עמ׳ 77: \"Seat Leon (1P1) hatchback 03.2009-12.2012 | 650 | 650 | 280\". Valeo 2024-25 עמ׳ 139: \"LEON 05/09-12/12\" HU 650/650. carwiper.co.il סיאט Leon Hatchback 2005: 26\"/26\"/11\" (650/650/280). שנת רישום 2013 של Leon II – רק קוד דגם 1P* לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 280,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"97",
+"98",
+"99"
+],
+"kinuy_re": "^LEON$",
+"tozeret_cd": [
+778
+],
+"year_from": 2013,
+"year_to": 2013
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Seat Leon III (5F) 2020. Bosch 2023: \"SEAT Leon III [5F1] 09.12→ A 945 S … A 331 H\" (650/400, אחורי 330). OXIMO 2026 עמ׳ 77: \"Seat Leon (5F1) hatchback 09.2012-08.2020 | 650 | 400 | 330\". Valeo 2024-25 עמ׳ 139: \"LEON 3 … 01/13-04/20\" HU 650/400. carwiper.co.il סיאט Leon Hatchback 2013: 26\"/16\"/13\" (650/400/330). שנת מעבר 2020 – רק קוד דגם 5F* (Leon III) לפי degem_nm; Leon IV ‏KL לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 330,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"423",
+"425",
+"426",
+"432"
+],
+"kinuy_re": "^LEON$",
+"tozeret_cd": [
+778
+],
+"year_from": 2020,
+"year_to": 2020
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": 400,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Alfa Romeo MiTo (955) 2009-2019 – passenger only. OXIMO 2026 עמ׳ 25: \"Alfa Romeo Mito (955) hatchback 05.2008-12.2018 | 625 | 400 | 300\". Valeo 2024-25 עמ׳ 42: \"MITO 3 … 09/08-12/18\" HU 600/400. צד נהג לא מולא (625 מול 600). אחורי לא מולא (עמודת אחורי של Valeo לא נספרת). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"1",
+"2",
+"5",
+"8",
+"9",
+"12",
+"13",
+"22",
+"24",
+"25",
+"26",
+"28",
+"29",
+"33",
+"34",
+"35",
+"36",
+"57",
+"59",
+"82",
+"83",
+"146",
+"149",
+"152",
+"153",
+"164",
+"165",
+"167",
+"170",
+"180",
+"440",
+"441",
+"451",
+"461",
+"520"
+],
+"kinuy_re": "^ALFA MITO$",
+"tozeret_cd": [
+74
+],
+"year_from": 2009,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": 500,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Audi A6 C8 (4A2) 2018-2025 – passenger only. Bosch 2023: \"AUDI A6 [4A2;C8] 04.18→ A 725 S\" (625/500). carwiper.co.il אודי A6/S6/RS6 Saloon 2019: 24\"/20\" (600/500). צד נהג לא מולא (625 מול 600). רק קוד דגם 4A2* (סדאן C8) לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"875",
+"876",
+"883",
+"898",
+"899",
+"967",
+"983",
+"985",
+"1030",
+"1036",
+"1062",
+"1066",
+"1087",
+"1115",
+"1116",
+"1140",
+"1197",
+"1198",
+"1227",
+"1319",
+"1354",
+"1362"
+],
+"kinuy_re": "^A6$",
+"tozeret_cd": [
+19
+],
+"year_from": 2018,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 550,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Audi A6 C6 (4F2) 2011. Bosch 2023: \"AUDI A6 [4F2;C6] 04.04-09.11 A 934 S\" (550/550). carwiper.co.il אודי A6/S6/RS6 Saloon 2002: 22\"/22\" (550/550). רק קוד דגם 4F2* (C6) לפי degem_nm; A6 C7 ‏4G באותה שנה לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"8",
+"24",
+"2491",
+"2521",
+"2551",
+"2591"
+],
+"kinuy_re": "^A6$",
+"tozeret_cd": [
+19
+],
+"year_from": 2011,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Audi A3 Limousine (8VS/8VM) 2019-2020. Bosch 2023: \"AUDI A3 Limousine [8VS] 05.13-02.20 A 102 S\" (650/475). HEYNER \"AUDI A3 Limousine 8VS, 8VM von 10.2013 - 08.2021\": Länge 650 mm, Länge 2 480 mm. carwiper.co.il אודי A3/S3/RS3 Saloon 2013: 26\"/18\" (650/450 נומינלי). כמו רשומת A3 Limousine של BW-75; רק קוד דגם 8V* לפי degem_nm (8Y לא נכלל). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + HEYNER + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"888",
+"889",
+"894",
+"925",
+"952"
+],
+"kinuy_re": "^A3 SEDAN$",
+"tozeret_cd": [
+19
+],
+"year_from": 2019,
+"year_to": 2020
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 450,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: MINI One / Cooper (R56) 2013-2014. OXIMO 2026 עמ׳ 64: \"Mini Cooper (R56) hatchback 04.2012-11.2013 | 450 | 475 | 250\". carwiper.co.il מיני Hatch – Cooper 2013: 18\"/19\" (450/480); Hatch – One 2007-2018: 18\"/19\" (450/480). אחורי לא מולא (250 / 290 / 230 – סתירה). 2012 לא כלול בצד הנוסע (OXIMO: 450 עד 03.2012, 475 מ-04.2012). רק קודי דגם SR31/SU31 (R56) לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + carwiper.co.il",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"23",
+"24",
+"25",
+"26",
+"48",
+"49",
+"52",
+"53",
+"54",
+"55",
+"63",
+"67",
+"68",
+"69",
+"76",
+"77",
+"83"
+],
+"kinuy_re": "^MINI (ONE|COOPER)$",
+"tozeret_cd": [
+32
+],
+"year_from": 2013,
+"year_to": 2014
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 450,
+"front_wipers_passenger_mm": "",
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: MINI One / Cooper (R56) 2007-2012 – driver only. OXIMO 2026 עמ׳ 64: \"Mini Cooper (R56) hatchback 11.2006-03.2012 | 450 | 450 | 250\". Valeo 2024-25 עמ׳ 107: \"MINI ONE / COOPER … 11/06-04/12\" 450/480. carwiper.co.il מיני Hatch – Cooper 2007: 18\"/19\" (450/480). צד נוסע לא מולא (450 מול 480; ב-2012 גם 475). אחורי לא מולא. רק קודי דגם MF31/MF71/ML31/SU31/SR31 (R56) לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"1",
+"2",
+"3",
+"4",
+"23",
+"24",
+"26",
+"40",
+"51",
+"60",
+"61",
+"141",
+"161",
+"181"
+],
+"kinuy_re": "^MINI (ONE|COOPER)$",
+"tozeret_cd": [
+32
+],
+"year_from": 2007,
+"year_to": 2012
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 450,
+"front_wipers_passenger_mm": "",
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: MINI One / Cooper (F56) 2014 – driver only. OXIMO 2026 עמ׳ 64: \"Mini One (F56) hatchback 09.2013-02.2021 | 450 | 475 | 240\" ו-\"Mini Cooper (F56) 09.2013- | 450 | 475\". Valeo 2024-25 עמ׳ 108: \"MINI ONE / COOPER S … 10/14-\" 450/480. carwiper.co.il מיני Hatch 2014/2015: 18\"/18\" (450/450). צד נוסע לא מולא (475/480 מול 450). רק קודי דגם XN71/XM51/XS51 (F56) לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"105",
+"106",
+"112",
+"115",
+"116",
+"122",
+"123",
+"124",
+"125",
+"126"
+],
+"kinuy_re": "^MINI (ONE|COOPER)$",
+"tozeret_cd": [
+32
+],
+"year_from": 2014,
+"year_to": 2014
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Opel Astra J hatchback (PD6) 2011-2015 – rear only. OXIMO 2026 עמ׳ 69: \"Opel Astra (J, P10) hatchback 12.2009-04.2016 | 675 | 625 | 300\". carwiper.co.il Vauxhall Astra Hatchback 2010: 28\"/24\"/12\" (אחורי 300). קדמי לא מולא (OXIMO 675/625, Valeo 650/650, carwiper 700/600 – סתירה). רק קוד דגם PD6* לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "קטלוגי מגבים: OXIMO 2026 + carwiper.co.il",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"4",
+"10",
+"11",
+"19",
+"21",
+"22",
+"24",
+"31",
+"51",
+"61"
+],
+"kinuy_re": "^ASTRA$",
+"tozeret_cd": [
+188
+],
+"year_from": 2011,
+"year_to": 2015
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": "",
+"notes": "BW-78: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Opel Astra J Sports Tourer (PD8) 2013-2017 – rear only. Bosch 2023: \"OPEL Astra Sports Tourer [J] 09.10→ A 540 S … H 311\" (אחורי 300). OXIMO 2026 עמ׳ 69: \"Opel Astra (J Sports Tourer) estate 10.2010-10.2015 | 675 | 625 | 300\". carwiper.co.il Vauxhall Astra Estate 2010: 28\"/24\"/12\" (אחורי 300). קדמי לא מולא (Bosch 680 / OXIMO 675 מול carwiper 700 – סתירה). רק קוד דגם PD8* לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"3",
+"4",
+"7",
+"8",
+"10",
+"13",
+"14",
+"19"
+],
+"kinuy_re": "^ASTRA ST$",
+"tozeret_cd": [
+76
+],
+"year_from": 2013,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": "",
+"notes": "BW-78: רמת ביטחון נמוכה: מקור רשת יחיד (החלטת בר 11.11.2026 למותגים סיניים, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Chery Tiggo 9 PHEV (T28) 2025-2026 – driver only. OXIMO (oximo.pl) \"Chery Tiggo 9 [T28] SUV 2023-04-01 – 2024-09-01\": Driver 650 mm, Passenger 450 mm. wipertech.com.au \"Chery Tiggo 9 2025-2026\": Front Driver 26\"/650mm, Front Passenger 19\"/475mm. autogener.ru Tiggo 9 2024-2026: נהג 625-655 מ\"מ. צד נוסע לא מולא (450 / 475 / 565-585 – מקורות סותרים). אחורי לא מולא. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + wipertech.com.au + autogener.ru",
+"source_url": "https://www.oximo.pl/en/wiper/chery-tiggo-9-t28-suv-2023-04-01-wc350550-0/"
+},
+"degem_cd": [
+"1",
+"65",
+"66",
+"75",
+"80"
+],
+"kinuy_re": "^TIGGO 9 PHEV$",
+"tozeret_cd": [
+1450
 ],
 "year_from": 2025,
 "year_to": 2026
