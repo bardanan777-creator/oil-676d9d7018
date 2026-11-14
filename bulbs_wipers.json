@@ -135733,6 +135733,358 @@
 ],
 "year_from": 2017,
 "year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Volvo S60 III (224) 2019-2025. Bosch 2023 (קטלוג EU, LHD): \"S60 III [224] 11.18→ … A 007 J\"; טבלת הסטים הרשמית של Bosch (bosch.co.jp, Aerotwin): \"A 007 J | 3 397 110 007 | 600/500 | L | V60 II [225]\". Valeo 2024-25 (AquaBlade, עמ׳ 1 ו-9): \"VA310/VA312 | 24 | 20 | VOLVO | V60 II (09/2018 >), S60 III (2019 >) | Front | 600 | 500\". אורך הסט A 007 J נלקח מטבלת הסטים הרשמית של Bosch (בקטלוג 2023 מופיע רק קוד הסט). OXIMO 2026 לא מפרט S60 III; carwiper.co.il S60 2019-2025 ריק – אין סתירה. סדאן – אין מגב אחורי. רק קודי ZS* (S60 III) לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + Valeo 2024-25",
+"source_url": "https://cld.bz/9eL0uwt/1/"
+},
+"degem_cd": [
+"1",
+"2",
+"3",
+"4",
+"5",
+"7",
+"8",
+"11",
+"13",
+"25",
+"29",
+"35",
+"36",
+"39",
+"42",
+"43",
+"44",
+"45",
+"46"
+],
+"kinuy_re": "^S60",
+"tozeret_cd": [
+226,
+361,
+571
+],
+"year_from": 2019,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Volvo V60 II (225) 2018-2025 (not Cross Country). Bosch 2023: \"V60 II [225] 02.18→ … A 007 J\" (טבלת הסטים הרשמית של Bosch, bosch.co.jp: A 007 J = 600/500, LHD, V60 II [225]). Valeo 2024-25 (AquaBlade עמ׳ 1/9): \"V60 II (09/2018 >), S60 III (2019 >) | Front | 600 | 500\"; אחורי \"VR565 | VOLVO | V60 II (06/2018 >) | Rear | 260\". OXIMO 2026 עמ׳ 85: \"V60 II (225) | estate | 02.2018- | V | 600 | 500 | … | 260\". אחורי 260 לפי Valeo + OXIMO (ב-Bosch 2023 אין אחורי לשורה זו). V60 Cross Country II (ZZL1) לא מולא – OXIMO 650/500 מול Bosch/Valeo 600/500. רק קודי ZW* לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 260,
+"source_title": "קטלוגי מגבים: Bosch 2023 + Valeo 2024-25 + OXIMO 2026",
+"source_url": "https://cld.bz/9eL0uwt/1/"
+},
+"degem_cd": [
+"166",
+"169",
+"203",
+"206",
+"218",
+"245",
+"268"
+],
+"kinuy_re": "^V60(?! ?CC)",
+"tozeret_cd": [
+226,
+361,
+571
+],
+"year_from": 2018,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Volvo S90 II 2024-2025. Bosch 2023: \"S90 II 03.16→\" 600/500 (LHD). OXIMO 2026 עמ׳ 85: \"S90 (II) | sedan | 03.2016- | C1 | 600 | 500\". carwiper.co.il וולוו S90 ‏2024-2025: ‏24\"/20\" (600/500). רק 2024-2025: ב-carwiper שנים 2016-2023 מופיע נהג 28\" (700) – סתירה, ולכן 2016-2023 לא מולאו. סדאן – אין מגב אחורי. רק קודי PS* לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + carwiper.co.il",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"37",
+"38"
+],
+"kinuy_re": "^S90",
+"tozeret_cd": [
+361,
+571
+],
+"year_from": 2024,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 600,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Mercedes Sprinter (907/910, VS30) 2024-2025 – new registry codes. Bosch 2023: \"Sprinter [VS30] 07.18→ … A 004 J\" (Bosch Brasil, עלון רשמי: \"3397110004 A 004 J … Mercedes-Benz Sprinter (2018 à 2025) … 650mm / 600mm\"). OXIMO 2026 עמ׳ 63: \"Sprinter furgon (B907, B910 bez zintegrowanych dysz) | van | 02.2018- | M | 650 | 600\". Valeo 2024-25 (AquaBlade עמ׳ 1/9): \"VA328 | MERCEDES-BENZ | Sprinter (2018 >) | Front | 650 | 600\". carwiper.co.il מרצדס Sprinter ‏2019-2025: ‏26\"/24\" (650/600). זהה לשורות Sprinter ‏907.xxx הקיימות (650/600). רק 2024-2025 (2026 – שורות קטלוג פתוחות, שאלה פתוחה). אחורי לא מולא (דלתות אחוריות בלי מגב ברוב הגרסאות; אין נתון בקטלוגים). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://www.carwiper.co.il/%D7%9E%D7%92%D7%91%D7%99%D7%9D-%D7%9C-%D7%9E%D7%A8%D7%A6%D7%93%D7%A1/1762-Sprinter"
+},
+"degem_cd": [
+"121",
+"122",
+"143",
+"145",
+"146"
+],
+"kinuy_re": "^SPRINTER$",
+"tozeret_cd": [
+593
+],
+"year_from": 2024,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Hyundai Sonata DN8 (non-hybrid) 2021-2024. OXIMO 2026 עמ׳ 52: \"Sonata (VIII DN8) | sedan | 03.2019- | U | 650 | 450\". HEYNER: \"HYUNDAI SONATA VIII DN8 von 03.2019\" – Länge 650 mm / Länge 2 450 mm (הפניה ל-Bosch 3 397 118 912). זהה לסונטה היברידית DN8 הקיימת (650/450). סדאן – אין מגב אחורי. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-hyundai-sonata-viii-551122/"
+},
+"degem_cd": [
+"316",
+"317"
+],
+"kinuy_re": "^SONATA$",
+"tozeret_cd": [
+481
+],
+"year_from": 2021,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Chrysler Pacifica RU 2018-2025. OXIMO 2026 עמ׳ 36: \"Pacifica | mpv | 02.2016- | U | 650 | 500 | … | 350\". HEYNER: \"CHRYSLER PACIFICA RU von 02.2016\" – Länge 650 mm / Länge 2 500 mm. אחורי (350) רק ב-OXIMO – לא מולא. 2026 לא מולא (שורת קטלוג פתוחה – שאלה פתוחה). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-chrysler-pacifica-549279/"
+},
+"degem_cd": [
+"25",
+"26",
+"29",
+"30",
+"35",
+"36",
+"37",
+"38",
+"45",
+"46",
+"47",
+"49",
+"50",
+"52",
+"53",
+"56",
+"57",
+"58",
+"62",
+"63",
+"65",
+"121"
+],
+"kinuy_re": "^PACIFICA$",
+"tozeret_cd": [
+899
+],
+"year_from": 2018,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Alfa Romeo Junior 2025. OXIMO 2026 עמ׳ 25: \"Junior | suv | 04.2024- | C | 600 | 400 | … | 330\". HEYNER: \"ALFA ROMEO JUNIOR von 04.2024\" – Länge 600 mm / Länge 2 400 mm. אחורי (330) רק ב-OXIMO – לא מולא. 2026 לא מולא (שורת קטלוג פתוחה – שאלה פתוחה). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-alfa-romeo-junior-818199/"
+},
+"degem_cd": [
+"1",
+"2",
+"3",
+"4",
+"5",
+"6",
+"7"
+],
+"kinuy_re": "^JUNIOR$",
+"tozeret_cd": [
+1629
+],
+"year_from": 2025,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Infiniti G sedan (V36) 2009-2014. OXIMO 2026 עמ׳ 53: \"G | sedan | 01.2007-12.2014 | U | 650 | 400\". HEYNER: \"INFINITI G Stufenheck von 10.2008\" – Länge 650 mm / Länge 2 400 mm (הפניה ל-Bosch 3 397 118 911). רק קודי סדאן B?V36 לפי degem_nm (קודי G*/2* – קופה/קבריולט – לא מולאו כי OXIMO מפרט רק סדאן). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-infiniti-g-stufenheck-551176/"
+},
+"degem_cd": [
+"191",
+"341",
+"351",
+"361",
+"371",
+"441"
+],
+"kinuy_re": "^INFINITI$",
+"tozeret_cd": [
+624
+],
+"year_from": 2009,
+"year_to": 2014
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Chevrolet Malibu V400 2023-2024. OXIMO 2026 עמ׳ 36: \"Malibu (V400) | sedan | 09.2015- | U | 650 | 450\". HEYNER: \"CHEVROLET MALIBU 9. von 07.2016\" – Länge 650 mm / Länge 2 450 mm. זהה לשורות Malibu ‏Z95ST ‏2016-2022 הקיימות (650/450). רק קוד Z95ST לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-chevrolet-malibu-564871/"
+},
+"degem_cd": [
+"153",
+"248"
+],
+"kinuy_re": "^MALIBU",
+"tozeret_cd": [
+961
+],
+"year_from": 2023,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Hyundai Palisade LX2 2019-2025. OXIMO 2026 עמ׳ 52: \"Palisade (LX2) | suv | 11.2018- | U | 650 | 500 | … | 300\". HEYNER: \"HYUNDAI PALISADE LX2 von 12.2018\" – Länge 650 mm / Länge 2 500 mm (הפניה ל-Bosch 3 397 007 706). אחורי (300) רק ב-OXIMO – לא מולא. 2026 (דור חדש LX3) לא מולא. רק קודי R6* לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-hyundai-palisade-782472/"
+},
+"degem_cd": [
+"78",
+"276",
+"277",
+"278",
+"288",
+"289"
+],
+"kinuy_re": "^PALISADE$",
+"tozeret_cd": [
+481
+],
+"year_from": 2019,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 400,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Jeep Gladiator JT 2021-2025. Valeo 2024-25 עמ׳ 86: \"GLADIATOR | 01/20 →\" – 400/400 (Hydroconnect + Valeo Silencio). HEYNER: \"JEEP GLADIATOR JT_ von 04.2019\" – Länge 400 mm / Länge 2 400 mm. 2026 לא מולא (שורות קטלוג פתוחות – שאלה פתוחה). רק קודי JT* לפי degem_nm; שורות בכינוי \"JEEP\" לא נכללו. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Valeo 2024-25 + HEYNER",
+"source_url": "https://cld.bz/9eL0uwt/86/"
+},
+"degem_cd": [
+"1",
+"2",
+"3",
+"5",
+"6",
+"7",
+"8",
+"15",
+"16",
+"19",
+"21",
+"22",
+"26",
+"28",
+"31",
+"35",
+"42",
+"43"
+],
+"kinuy_re": "^GLADIATOR$",
+"tozeret_cd": [
+239
+],
+"year_from": 2021,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Hyundai Elantra CN7 (non-hybrid / N) 2021-2025. OXIMO 2026 עמ׳ 52: \"Elantra (VII CN7) | sedan | 03.2020- | U(H) | 600 | 450\". HEYNER: \"HYUNDAI ELANTRA VII CN7 von 03.2020\" – Länge 600 mm / Länge 2 450 mm. זהה לשורות Elantra HEV/Hybrid CN7 הקיימות (600/450). Elantra N ‏2026 לא מולא (שורת קטלוג פתוחה – שאלה פתוחה). רק קודי LR4*/LW4* לפי degem_nm. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER",
+"source_url": "https://heyner.com/scheibenwischer-set-hybrid-hyundai-elantra-vii-550906/"
+},
+"degem_cd": [
+"319",
+"515",
+"516"
+],
+"kinuy_re": "^ELANTRA( N)? *$",
+"tozeret_cd": [
+481
+],
+"year_from": 2021,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-88: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Dacia Sandero III Stepway (facelift) 2025. Bosch 2023: \"Sandero III Stepway 01.21→ … A 994 S … H 840\"; טבלת הסטים באותו קטלוג: \"A 994 S NEW 3 397 014 877 – 600/400 LHD\"; \"H 840 … 290\". OXIMO 2026: \"Sandero (III) | liftback | 01.2021- | K | 600 | 400 | … | 290\". HEYNER: \"DACIA SANDERO STEPWAY von 01.2021\" – Länge 600 mm / Länge 2 400 mm (הפניה ל-Bosch 3 397 014 215). קדמי לפי Bosch + OXIMO + HEYNER; אחורי 290 לפי Bosch + OXIMO. אורך הסט A 994 S לא פוענח בעבר (סטים המסומנים NEW בקטלוג Bosch 2023). 2026 לא מולא (שורת קטלוג פתוחה – שאלה פתוחה). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 290,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + HEYNER",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"190"
+],
+"kinuy_re": "^SANDERO STEPWAY$",
+"tozeret_cd": [
+351
+],
+"year_from": 2025,
+"year_to": 2025
 }
 ]
 }
