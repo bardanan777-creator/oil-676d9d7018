@@ -138941,6 +138941,316 @@
 ],
 "year_from": 2019,
 "year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Renault Megane II hatchback (BM) 2007-2008 – front only. Bosch 2023: \"Mégane II Hatchback 02.06-10.08\" 600/450 (אחורי 230). OXIMO 2026 עמ׳ 75: \"Megane (II BM, CM, GM, SM) | hatchback | 02.2006-10.2008 | 600 | 450 | אחורי 230\". HEYNER: \"RENAULT MEGANE II BM0/1_, CM0/1_ 02.2006-10.2008\" 600/450. carwiper.co.il רנו Megane Hatchback ‏2003-2008: ‏24\"/18\" (600/450). אותו קוד דגם BM1R0A כמו שורות MEGANE II ‏2006 הקיימות (600/450 קדמי בלבד). מגב אחורי לא מולא (Bosch/OXIMO 230 מול carwiper ‏10\"). 2009 לא מולא (שנת מעבר – carwiper 2009 = Megane III). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + HEYNER + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"261",
+"262",
+"281",
+"282"
+],
+"kinuy_re": "^MEGANE II$",
+"tozeret_cd": [
+940
+],
+"year_from": 2007,
+"year_to": 2008
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: SEAT Cordoba (6L2) \"CORDOVA\" 2007-2008. Bosch 2023: \"Cordoba 02.06-11.09\" 530/475. OXIMO 2026 עמ׳ 77: \"Cordoba (6L2) | sedan | 05.2006-11.2009 | 525 | 475\". Valeo 2024-25 עמ׳ 138: \"CORDOBA 5 04/06-12/09 | 530 | 475\". carwiper.co.il סיאט Cordoba Saloon ‏1999-2009: ‏21\"/19\" (530/480). סדאן – אין מגב אחורי. זהה לשורות CORDOBA ‏6L2 ‏2007-2008 הקיימות (530/475). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"1920",
+"1921",
+"1940",
+"1950"
+],
+"kinuy_re": "^CORDOVA$",
+"tozeret_cd": [
+778
+],
+"year_from": 2007,
+"year_to": 2008
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 530,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Range Rover Evoque (L538) 2011 / 2019 – front only. Bosch 2023: \"Range Rover Evoque 09.11→\" ו-\"03.16-06.20\" 600/530. OXIMO 2026 עמ׳ 58: \"Range Rover Evoque (L538) | suv | 06.2011-08.2017 | 600 | 525\". Valeo 2024-25: \"Evoque 1 (L538) 09/11-01/19\" ‏HF60+HF53 = 600/530. HEYNER: \"RANGE ROVER EVOQUE L538 09.2011-12.2019\" 600/530. רק קודי L538 ‏(A1BG/A2BG ב-2011, VA2BX/VA2BN ב-2019) – אותם קודים כמו שורות Evoque ‏L538 הקיימות (600/530). L551 ‏(ZA*) לא נגעו. מגב אחורי לא מולא (Bosch בלבד). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + HEYNER",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"5",
+"6",
+"12",
+"296",
+"339",
+"357",
+"385",
+"401",
+"427",
+"451"
+],
+"kinuy_re": "EVOQUE",
+"tozeret_cd": [
+941,
+1245
+],
+"year_from": 2011,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 530,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Range Rover Evoque (L551) \"EVOQUE P300E\" 2022 – front only. Bosch 2023: \"Range Rover Evoque [LZ,L551] 11.18→\" 650/530. OXIMO 2026 עמ׳ 58: \"Range Rover Evoque (L551) | suv | 12.2018- | 650 | 525\". HEYNER: \"RANGE ROVER EVOQUE L551 12.2018-11.2026\" 650/530. P300e קיים רק בדור L551; זהה לשורות EVOQUE P300E ‏2022 הקיימות (650/530). מגב אחורי לא מולא. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + HEYNER",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"1025"
+],
+"kinuy_re": "^EVOQUE P300E$",
+"tozeret_cd": [
+941
+],
+"year_from": 2022,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: VW T-Roc Cabriolet (AC7) 2021-2022 – kinuy \"T-ROC\". Bosch 2023: \"T-Roc Cabriolet [AC7] 08.19-08.21\" ו-\"[AC8] 01.22→\" 650/500. OXIMO 2026 עמ׳ 89: \"T-Roc (AC7,AC8) | cabriolet | 09.2020- | 650 | 500\". קוד AC73KE (AC7 = קבריולט), כמו שורות \"T ROC\" ‏AC75KE/AC85KE הקיימות (650/500). קבריולט – אין מגב אחורי. שורות \"A1\" ‏2023-2024 לא מולאו (מרכב לא ברור). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"485"
+],
+"kinuy_re": "^T-ROC$",
+"tozeret_cd": [
+724
+],
+"year_from": 2021,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Hyundai Santa Fe IV (TM) tozeret 174 2020-2022. Bosch 2023: \"HYUNDAI Santa Fe [TM] 02.18→\" 650/400, אחורי 300. OXIMO 2026 עמ׳ 52: \"Santa Fe (IV TM, TMA) | suv | 02.2018- | 650 | 400 | אחורי 300\". carwiper.co.il יונדאי Santa Fe ‏2018-2025: ‏26\"/16\" (650/400). שורות ממופות לספרי Santa Fe ‏TM; זהה לשורות SANTA FE ‏TM ‏2019-2024 הקיימות (650/400/300). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"1",
+"2",
+"3",
+"5"
+],
+"kinuy_re": "^SANTA FE$",
+"tozeret_cd": [
+174
+],
+"year_from": 2020,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Hyundai Santa Fe IV (TM) HEV 2024. Bosch 2023: \"HYUNDAI Santa Fe [TM] 02.18→\" 650/400, אחורי 300. OXIMO 2026 עמ׳ 52: \"Santa Fe (IV TM, TMA) | suv | 02.2018- | 650 | 400 | אחורי 300\". carwiper.co.il יונדאי Santa Fe ‏2018-2025: ‏26\"/16\" (650/400). אותו קוד דגם S3811 כמו שורות SANTA FE HEV ‏2023 הקיימות (650/400/300). הדור החדש (MX5, קודי P*) לא נגעו. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"377",
+"378"
+],
+"kinuy_re": "^SANTA FE HEV$",
+"tozeret_cd": [
+481
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Hyundai Santa Fe I (SM) 2006 – front only. Bosch 2023: \"HYUNDAI Santa Fe [SM] 09.99-12.05\" 550/500. OXIMO 2026 עמ׳ 52: \"Santa Fe (I SM) | suv | 09.1999-12.2005 | 550 | 500\". carwiper.co.il יונדאי Santa Fe ‏1999-2006: ‏22\"/20\" (550/500). אותו קוד דגם SC81D כמו שורות SANTA FE ‏2001-2005 הקיימות (550/500 קדמי בלבד). מגב אחורי לא מולא (Bosch 340 מול OXIMO 325). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"131"
+],
+"kinuy_re": "^SANTA FE$",
+"tozeret_cd": [
+481
+],
+"year_from": 2006,
+"year_to": 2006
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Mitsubishi Lancer Evolution IX (CT9A) 2006-2008. OXIMO 2026 עמ׳ 65: \"Lancer (CS_A, EVO VII-IX) | sedan | 09.2003-04.2010 | 600 | 450\". Valeo 2024-25 עמ׳ 110: \"LANCER EVOLUTION 8 04/04-04/08 | 600 | 450\". Bosch 2023: \"Lancer [CS/CT] 12.00-04.10\" 600/450. HEYNER: \"MITSUBISHI LANCER VII CS_A, CT_A 03.2000-12.2013\" 600/450. carwiper.co.il מיצובישי Lancer Evolution ‏2000-2025: ‏24\"/18\" (600/450). סדאן – אין מגב אחורי. רק קודי CT9A (Evo X ‏CZ4A כבר מכוסה 600/400). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + HEYNER + carwiper.co.il",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"80",
+"90",
+"380",
+"382"
+],
+"kinuy_re": "^LANCER EVOLUTIO",
+"tozeret_cd": [
+590
+],
+"year_from": 2006,
+"year_to": 2008
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: BMW M235i xDrive Gran Coupé (F44) 2020-2023. Bosch 2023: \"Serie 2 Gran Coupé 09.19→\" 650/425. OXIMO 2026 עמ׳ 30: \"2 (Grand Coupe F44) | coupe | 11.2019- | 650 | 425\". Valeo 2024-25 עמ׳ 49: \"2-Series GRAN COUPÉ 03/20→ | 650 | 425\". HEYNER: \"BMW 2 Gran Coupe F44 11.2019-11.2026\" 650/430. M235i xDrive ‏2020+ קיים רק כ-F44 ‏Gran Coupé (קוד 11AL). אין מגב אחורי. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + HEYNER",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"1173",
+"1619",
+"1676",
+"2028"
+],
+"kinuy_re": "^M235I XDRIVE$",
+"tozeret_cd": [
+143
+],
+"year_from": 2020,
+"year_to": 2023
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: BMW M240i (G42) 2022 / 2024. Bosch 2023: \"Serie 2 Coupé [G42] 09.21→\" סט A605S ‏600/475. OXIMO 2026 עמ׳ 30: \"2 (G42) | coupe | 08.2021- | 600 | 475\". Valeo 2024-25: \"2-Series (G42) 01/22→ VF370\" ‏600/475. HEYNER: \"BMW 2 Coupe G42, G87 08.2021-11.2026\" 600/480. אותו קוד 51CM/41CM כמו שורות M240I XDRIVE ‏2023/2025 הקיימות (600/475). קופה – אין מגב אחורי. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + HEYNER",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"2",
+"3",
+"4",
+"5",
+"7",
+"12",
+"34",
+"44",
+"50",
+"53",
+"2033"
+],
+"kinuy_re": "^M240I( XDRIVE)?$",
+"tozeret_cd": [
+1349,
+143
+],
+"year_from": 2022,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: BMW M440i (G22/G23/G26) 2020-2025. OXIMO 2026 עמ׳ 31: \"4 (G22, G82) | coupe | 07.2020- | 600 | 475\", \"4 (G23) | cabriolet | 07.2020- | 600 | 475\", \"4 Gran Coupe (G26) | 07.2021- | 600 | 475\". Valeo 2024-25 עמ׳ 50: \"(G22) 10/20→ VF370 | 600 | 475\" ו-\"GRAN COUPÉ 10/21→ | 600 | 475\". carwiper.co.il BMW 4 Series Coupe / Cabrio ‏2020/2021-2025: ‏24\"/19\" (600/480). כל המרכבים (קופה/קבריו/גראן קופה) באותן מידות; זהה לשורות M440I הקיימות (600/475). 2026 לא מולא (קווים פתוחים – שאלה פתוחה). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"1309",
+"1896",
+"2016",
+"2165",
+"2215",
+"2390",
+"2392",
+"2458",
+"2858"
+],
+"kinuy_re": "^M440I( XDRIVE)?$",
+"tozeret_cd": [
+143
+],
+"year_from": 2020,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-95: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Chevrolet Trailblazer (crossover) 2020 – front only. OXIMO 2026 עמ׳ 36: \"Trailblazer (Crossover) | suv | 05.2020- | 600 | 450\". ספר הרכב הרשמי בעברית של Chevrolet Trailblazer (יבואן ישראל, chevrolet.co.il, 2021): \"להבי מגבים: צד הנהג 60.0 ס\"מ, צד הנוסע 45.0 ס\"מ, אחורי 30.0 ס\"מ\". אותם קודי דגם 9M1SL/9M2SL/9M3SL כמו שורות TRAIL BLAZER ‏2021-2024 הקיימות (600/450/300, ספר רשמי). מגב אחורי לא מולא לשנת 2020 (רק הספר של 2021 מציין אותו). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוג מגבים OXIMO 2026 + ספר רכב רשמי Chevrolet Trailblazer (chevrolet.co.il)",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"319",
+"322",
+"323",
+"324",
+"325",
+"326"
+],
+"kinuy_re": "^TRAIL BLAZER$",
+"tozeret_cd": [
+751
+],
+"year_from": 2020,
+"year_to": 2020
 }
 ]
 }
