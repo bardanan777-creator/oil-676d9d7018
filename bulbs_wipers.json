@@ -139400,6 +139400,73 @@
 ],
 "year_from": 2015,
 "year_to": 2016
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-97: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Renault Megane IV (RFB00) 2022-2024 – front only. OXIMO 2026 עמ׳ 75: \"Megane (IV B9) | hatchback | 05.2017-04.2024 | 600 | 450\", \"Megane (IV Grandtour K9) | estate | 05.2017-04.2024 | 600 | 450\", \"Megane (IV Grand Coupe) | sedan | 10.2016- | 600 | 450\". Bosch 2023: \"RENAULT Mégane IV [B9] 12.15-05.17\" 600/450, \"Mégane IV Grand [LV] 02.17→\" 600/450, \"Mégane IV Grandtour 04.16-05.17\" 600/450. קוד RFB00 – אותו קוד כמו שורות MEGANE ‏2016-2021 הקיימות (600/450). מגב אחורי לא מולא (המרכב לא ודאי; לסדאן אין מגב אחורי). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"157",
+"166",
+"184",
+"193"
+],
+"kinuy_re": "^MEGANE$",
+"tozeret_cd": [
+940
+],
+"year_from": 2022,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-97: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Audi A3 Limousine (8VM/8VS) kinuy \"A3 SEDAN\" 2019. Bosch 2023: \"AUDI A3 Limousine [8VS] 05.13-02.20\" 650/475. OXIMO 2026 עמ׳ 26: \"A3 Limousine (8VS, 8VM) | sedan | 05.2013-10.2020 | 650 | 475\". קודי 8VM – אותם קודים כמו שורות A3 SEDAN ‏2017-2018 הקיימות (650/475). סדאן – אין מגב אחורי. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"154",
+"155",
+"158"
+],
+"kinuy_re": "^A3 SEDAN$",
+"tozeret_cd": [
+990
+],
+"year_from": 2019,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": 450,
+"notes": "BW-97: שני מקורות ומעלה תואמים (כלל שני המקורות, בטווח 10 מ\"מ לכל שדה). דגם: Fiat Punto II (188) kinuy \"PUNT0*\" 2001-2006 – passenger only. Bosch 2023: \"FIAT Punto [188..] 07.99-12.10\" 530/450. Valeo 2024-25 עמ׳ 69: \"PUNTO 2 10/99-10/09\" 530/450. OXIMO 2026 עמ׳ 43: \"Punto (188) | hatchback | 09.1999-12.2010 | 550 | 450\". כינוי עם אפס במקום O; קודי 188 – כמו שורות PUNTO ‏188 הקיימות. מולא רק צד הנוסע 450 (שלושת הקטלוגים תואמים); מגב הנהג לא מולא (Bosch/Valeo 530 מול OXIMO 550). מגב אחורי לא מולא (Bosch/Valeo ללא, OXIMO 360). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"50",
+"60",
+"1511"
+],
+"kinuy_re": "^PUNT0",
+"tozeret_cd": [
+737
+],
+"year_from": 2001,
+"year_to": 2006
 }
 ]
 }
