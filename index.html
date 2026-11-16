@@ -86,7 +86,7 @@ details summary{cursor:pointer;color:var(--gold);font-size:12px}
 footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spacing:.1em}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 .bimgs{display:flex;flex-wrap:wrap;gap:8px;margin-top:6px}.bimg{display:inline-flex;align-items:center;gap:8px;background:#f6f9fc;border:1px solid #c9d6e2;border-radius:10px;padding:4px 10px 4px 4px;min-width:150px}.bimg svg{width:64px;height:64px;flex:0 0 64px;background:#fff;border-radius:8px}.bcap{font-size:13px;line-height:1.35;color:#223}.bcap b{font-size:15px;color:#0b2540}.nod{color:#e8a87a;font-size:13px}.bgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(86px,1fr));gap:6px;margin-top:4px}.bcard{background:#f6f9fc;border:1px solid #c9d6e2;border-radius:10px;padding:5px 4px;text-align:center;color:#223;min-width:0}.bth{display:flex;justify-content:center;gap:3px;height:48px;align-items:center}.bth img,.bth svg{width:48px;height:48px;object-fit:contain;background:#fff;border-radius:8px}.bcard .bth>*+*{width:36px!important;height:36px!important}.bpos{font-size:11.5px;font-weight:700;margin-top:4px;line-height:1.25;color:#0b2540}.bcode{font-size:11.5px;margin-top:2px;word-break:break-word;color:#123}.bbase{font-size:11px;color:#5a6a7a;margin-top:1px}.bnone{color:#999}.bcred{font-size:11px;color:var(--mut);margin-top:8px}.bcred a{color:var(--mut)}.vchip{display:inline-block;padding:1px 10px;border-radius:999px;border:1px solid #d8b86a88;margin:0 0 2px 4px;font-weight:700;direction:ltr}.vchip.va{border-style:dashed;font-weight:500}.vall summary{cursor:pointer;color:var(--gold);font-size:12px;margin-top:4px}.cdot{display:inline-block;flex:0 0 14px;width:14px;min-width:14px!important;max-width:14px;height:14px;padding:0;border-radius:50%;border:1px solid #fff8;vertical-align:-2px;margin-left:5px}.nod small,.nod>small{display:block;color:var(--mut);font-size:12px;margin-top:2px}
-.bopt{margin-top:5px;font-size:11px;line-height:1.35;color:#8a4b00;font-weight:600;background:#fff3d6;border-radius:6px;padding:3px 4px}.bwarn{margin:0 0 10px;padding:9px 11px;border:1px solid #e0a33a88;border-radius:10px;background:#e0a33a1a;color:#f3d9a4;font-size:13px;line-height:1.5}.bwarn b{color:#f0c463}
+.bgrid>:not(.bcard){grid-column:1/-1;min-width:0}.bopt{margin-top:5px;font-size:11px;line-height:1.35;color:#8a4b00;font-weight:600;background:#fff3d6;border-radius:6px;padding:3px 4px}.bwarn{margin:0 0 10px;padding:9px 11px;border:1px solid #e0a33a88;border-radius:10px;background:#e0a33a1a;color:#f3d9a4;font-size:13px;line-height:1.5}.bwarn b{color:#f0c463}
 </style>
 </head>
 <body>
@@ -104,7 +104,7 @@ footer{text-align:center;color:#6b6456;font-size:11px;margin-top:26px;letter-spa
 <div id="out"></div>
 <footer>שימוש פנימי בלבד · נתוני רישוי: data.gov.il</footer>
 </div>
-<script src="bulbimg.js?v=20261108e"></script>
+<script src="bulbimg.js?v=20261116a"></script>
 <script>
 const API='https://data.gov.il/api/3/action/datastore_search';
 const RES_WLTP='142afde2-6228-49f9-8a29-9b6c3a0cbe40';
@@ -112,7 +112,7 @@ const RES_MAIN='053cea08-09bc-40ec-8f7a-156f0677aff3', RES_PI='03adc637-b6fe-402
 let DATA=null;
 const $=id=>document.getElementById(id);
 const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261110zx')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
+async function loadData(){ if(!DATA){ $('status').textContent='טוען קטלוג…'; DATA=await (await fetch('data.json?v=20261110zy')).json(); try{BW=await (await fetch('bulbs_wipers.json',{cache:'no-cache'})).json();}catch(e){BW={};} } return DATA; }
 async function reg(res,plate){
   const u=API+'?resource_id='+res+'&filters='+encodeURIComponent(JSON.stringify({mispar_rechev:Number(plate)}));
   const r=await fetch(u); if(!r.ok) throw new Error('registry '+r.status);
