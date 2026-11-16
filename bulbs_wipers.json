@@ -140904,6 +140904,868 @@
 ],
 "year_from": 2008,
 "year_to": 2009
+},
+{
+"data": {
+"confidence": "medium",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Toyota Land Cruiser Prado (J250) 2024-2025 – front only. OXIMO 2026 עמ׳ 83: \"Land Cruiser Prado (J250) | suv | 10.2023- | 550 | 500\". wiperblade.com.au, Toyota Land Cruiser Prado 250 Series 2025-2027: 550/500 (אחורי 250 – גרסה אוסטרלית). carwiper.co.il (טווח 2010-2025 של דור J150, 26\"/20\") – במיעוט. רק קודי GDJ250/TJH250 (דור J250). אחורי לא מולא (מקור יחיד). שנת 2026 לא נכללה. הערה: חלק משורות GDJ250 ‏2024 הקיימות מחזיקות 650/500/300 (מידות J150) – לא שונו, מדווח לבר. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + wiperblade.com.au",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"161",
+"162",
+"163",
+"169",
+"171",
+"467",
+"472",
+"474",
+"479",
+"480",
+"484",
+"487",
+"498",
+"500",
+"505",
+"506",
+"509",
+"510",
+"514",
+"515",
+"516",
+"517",
+"518",
+"520",
+"523",
+"524",
+"525",
+"529",
+"530",
+"536",
+"537",
+"543",
+"548",
+"550",
+"555",
+"556",
+"557",
+"558",
+"563",
+"566",
+"567",
+"570",
+"579",
+"580",
+"583",
+"588",
+"594",
+"597",
+"599",
+"600",
+"603",
+"604",
+"609",
+"614",
+"615",
+"616",
+"618",
+"619",
+"628",
+"630",
+"633",
+"634",
+"635",
+"636",
+"637",
+"638",
+"642",
+"649",
+"652",
+"654",
+"662",
+"668",
+"674"
+],
+"kinuy_re": "^LAND CRUISER$",
+"tozeret_cd": [
+413
+],
+"year_from": 2024,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 380,
+"front_wipers_passenger_mm": 380,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Jeep Wrangler III (JK) 2007-2019. OXIMO 2026: \"Wrangler (III JK)\" 375/375, אחורי 350. HEYNER: \"JEEP WRANGLER III JK von 06.2006 bis 10.2017\" 380/380. carwiper.co.il Wrangler ‏2008-2016: 15\"/15\"/14\". Bosch 2023: Wrangler JK אחורי 350. רק קודי JK (AB41/AB91/A2D1/A3H1/A5H1/JW*G); דור JL (JX*) כבר מכוסה 400/400/300. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 350,
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER + carwiper.co.il + Bosch 2023",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"1",
+"4",
+"6",
+"20",
+"22",
+"43",
+"44",
+"45",
+"54",
+"66",
+"67",
+"72",
+"88",
+"89",
+"123",
+"124",
+"125",
+"126",
+"140",
+"142",
+"143",
+"251",
+"261",
+"561",
+"601",
+"2401",
+"2501",
+"3911",
+"3921"
+],
+"kinuy_re": "^WRANGLER$",
+"tozeret_cd": [
+869
+],
+"year_from": 2007,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Toyota Proace City Verso (kinuy \"TOYOTA CITY\", BKY) 2020-2025 – front only. OXIMO 2026: \"Proace City Verso | 01.2019- | 650 | 425\". HEYNER: \"TOYOTA PROACE CITY VERSO BKY_\" 650/430. רק קודי BKY (נוסעים). גרסת הוואן (BPZ, כולל TOYOTA CITY VAN) לא מולאה – מקור יחיד. אחורי לא מולא (תלוי בדלת אחורית אחת/כפולה). 2026 לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: OXIMO 2026 + HEYNER",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"3",
+"7",
+"8",
+"10",
+"11",
+"12"
+],
+"kinuy_re": "^TOYOTA CITY$",
+"tozeret_cd": [
+1242
+],
+"year_from": 2020,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Opel Combo E (Combo Life) 2019-2025 – front only. Bosch 2023: Opel Combo E 650/425, אחורי 350. OXIMO 2026: Combo (E) 650/425, אחורי 350. HEYNER: Combo E 650/430. Valeo 2024-25: Combo E 600/430, אחורי 350. נהג 650 לפי רוב (3 מול Valeo 600). אחורי לא מולא – בגרסאות ואן עם דלתות כנף/ללא חלון אין מגב 350. 2026 לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + HEYNER + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"8",
+"52",
+"55",
+"56",
+"57",
+"64",
+"65",
+"66",
+"67",
+"68",
+"69",
+"73",
+"74",
+"78",
+"79",
+"85",
+"86",
+"93",
+"94",
+"104",
+"105",
+"107",
+"115",
+"117",
+"118",
+"134",
+"137",
+"138",
+"139",
+"146",
+"147"
+],
+"kinuy_re": "^COMBO$",
+"tozeret_cd": [
+103,
+138
+],
+"year_from": 2019,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 700,
+"front_wipers_passenger_mm": "",
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Citroën C5 Aircross (facelift) 2023-2025 – driver only. Bosch 2023: \"C5 Aircross 11.18→ A557S\" 700/400. OXIMO 2026: C5 Aircross 700/400. HEYNER: 700/430 (ובשורה נוספת 650/400). Valeo 2024-25: \"C5 Aircross 11/18→ VF930\" 680/425. נהג 700 לפי רוב (Bosch, OXIMO, HEYNER מול Valeo 680). נוסע לא מולא (400 מול 425/430 – אין רוב ברור). דור חדש (KAHPY) ושנת 2026 לא נכללו. הערה: שורות 2019-2022 הקיימות (BW-60) מחזיקות 680/425 – נהג סותר את הרוב; לא שונו, מדווח לבר. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + HEYNER + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"224",
+"225",
+"226",
+"236",
+"237",
+"238",
+"239",
+"243",
+"248",
+"249",
+"256",
+"263",
+"264",
+"266",
+"272",
+"275"
+],
+"kinuy_re": "^C5 AIRCROSS$",
+"tozeret_cd": [
+817
+],
+"year_from": 2023,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Honda Civic VII sedan (ES) 2001 / 2006. Bosch 2023: Civic VII sedan [ES] 530/450. HEYNER: \"HONDA CIVIC VII Stufenheck ES\" 530/450. OXIMO 2026: 600/375 (במיעוט). רק קודי ES5x/ES7x (סדאן דור 7). אין מגב אחורי. שורות ES הקיימות מחזיקות נהג 530 בלבד. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + HEYNER + OXIMO 2026",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"10",
+"21",
+"31",
+"41",
+"51",
+"450",
+"451",
+"460",
+"461",
+"470",
+"471",
+"481"
+],
+"kinuy_re": "^CIVIC$",
+"tozeret_cd": [
+312,
+155
+],
+"year_from": 2001,
+"year_to": 2006
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 625,
+"front_wipers_passenger_mm": 550,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: VW Tiguan II facelift (AX1) kinuy \"TIGUAN FL\" 2023-2024. Bosch 2023: Tiguan [AD1/AX1] 625/550, אחורי 380. OXIMO 2026: Tiguan (II) 625/550, אחורי 380. Valeo 2024-25: 630/550, אחורי 340. carwiper.co.il: 26\"/21\"/15\". קוד 5N-AX13CZ. אחורי 380 לפי רוב (Bosch, OXIMO, carwiper מול Valeo 340). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 380,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"636",
+"644",
+"662"
+],
+"kinuy_re": "^TIGUAN FL( 1\\.5L?)?$",
+"tozeret_cd": [
+724
+],
+"year_from": 2023,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Volvo S90 II 2016-2025. Bosch 2023: \"VOLVO S90 II 03.16→\" 600/500. OXIMO 2026 עמ׳ 85: \"S90 (II) | sedan | 03.2016- | 600 | 500\". Valeo 2024-25: \"S90 09/16→\" 630/500. carwiper.co.il S90 ‏2016-2023: 28\"/20\", ‏2024-2025: 24\"/20\". נהג 600 לפי רוב (Bosch, OXIMO + carwiper 2024-25 מול Valeo 630 / carwiper 2016-23 700). סדאן – אין מגב אחורי. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"1",
+"2",
+"4",
+"6",
+"10",
+"11",
+"12",
+"16",
+"22",
+"23",
+"24",
+"30",
+"31",
+"32",
+"34",
+"37",
+"38",
+"62",
+"66",
+"68",
+"72",
+"76"
+],
+"kinuy_re": "^S90 ?(RECHARGE )?(T[568]|B5)$",
+"tozeret_cd": [
+571,
+361
+],
+"year_from": 2016,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 625,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Audi RS Q3 (F3B) 2020-2022 – front only. Bosch 2023: Q3/RS Q3 [F3B] 625/500, אחורי 330. OXIMO 2026: Q3 (F3B) 600/500, אחורי 400. Valeo 2024-25: 630/500, אחורי 350. carwiper.co.il: 24\"/20\". נהג 625 לפי רוב (Bosch 625 / Valeo 630 מול OXIMO / carwiper 600 – 2 מול 2 בטווח; Bosch ו-Valeo בהפרש 5 מ\"מ). אחורי לא מולא (330/400/350 – אין רוב). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"187",
+"199",
+"200",
+"225"
+],
+"kinuy_re": "^RSQ3$",
+"tozeret_cd": [
+990
+],
+"year_from": 2020,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": "",
+"front_wipers_passenger_mm": 500,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Audi RS Q3 Sportback (F3N) 2020-2025 – passenger only. Bosch 2023: Q3 Sportback [F3N] 625/500. OXIMO 2026: 600/500. Valeo 2024-25: 630/500. carwiper.co.il: 24\"/20\". נוסע 500 – כל המקורות. נהג לא מולא (2 מול 2: ‏625/630 מול 600). אחורי לא מולא. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"188",
+"189",
+"198",
+"202",
+"208",
+"209",
+"294"
+],
+"kinuy_re": "^RSQ3 SPORTBACK$",
+"tozeret_cd": [
+990
+],
+"year_from": 2020,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Audi RS Q8 (4M) 2020-2025. Bosch 2023: Q8 [4MN] 650/500, אחורי 400. OXIMO 2026: Q8 (4MN) 650/500, אחורי 400. Valeo 2024-25: 625/500 (אחורי 630/400). נהג 650 לפי רוב. 2026 לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 400,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"153",
+"154",
+"158",
+"160",
+"162",
+"170",
+"172",
+"176",
+"177",
+"184",
+"187",
+"212",
+"217",
+"218",
+"219",
+"230",
+"237",
+"240",
+"243",
+"248",
+"255",
+"265",
+"275",
+"277",
+"278",
+"286",
+"287",
+"290",
+"292",
+"297",
+"299",
+"304"
+],
+"kinuy_re": "^(RS Q8|RSQ8|RSQ8 PERFORMANC)$",
+"tozeret_cd": [
+21
+],
+"year_from": 2020,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: BMW X1 (E84) sDrive20i 2015. Bosch 2023: X1 [E84] 600/475, אחורי 330. OXIMO 2026: X1 (E84) 600/475, אחורי 330. Valeo / carwiper.co.il X1 ‏2009-2015 – בהתאם לרוב. קוד VL91 (E84). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 330,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"62",
+"222"
+],
+"kinuy_re": "^X1 SDRIVE 20I$",
+"tozeret_cd": [
+143
+],
+"year_from": 2015,
+"year_to": 2015
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 550,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: BMW X5 (E53) 2000-2006. Bosch 2023: \"BMW X5 [E53] 03.99-06.02\" 600/530, אחורי 425. OXIMO 2026 עמ׳ 32: \"X5 (E53) | suv | 03.1999-06.2002 / 07.2002-10.2006 | 600 | 550 | … 425\". Valeo 2024-25 / carwiper.co.il X5 E53: 600/550. נוסע 550 לפי רוב (OXIMO, Valeo, carwiper מול Bosch 530). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 425,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25 + carwiper.co.il",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"30",
+"40",
+"50",
+"91",
+"100",
+"200",
+"241"
+],
+"kinuy_re": "^X5( 3\\.[0O][ID]| 4\\.4I)?$",
+"tozeret_cd": [
+722
+],
+"year_from": 2000,
+"year_to": 2006
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: BMW X5 (E70 LCI) xDrive30d/35i/40d 2013. Bosch 2023: \"BMW X5 [E70] 11.06-09.11\" 600/500, אחורי 380. OXIMO 2026 עמ׳ 32: \"X5 (E70) | suv | 10.2011-06.2013 | 600 | 500 | … 380\". קודי ZV41/ZW41/ZW61 (E70). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 380,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"3",
+"4",
+"6",
+"16",
+"17",
+"18"
+],
+"kinuy_re": "^X5 XDRIVE (30D|35I|40D)$",
+"tozeret_cd": [
+722
+],
+"year_from": 2013,
+"year_to": 2013
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": "",
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Honda CR-V III (RE) kinuy \"HONDA CR-V\" 2008 / 2011 – driver + rear. Bosch 2023: \"HONDA CR-V [RE] 01.07-10.12\" 650/400, אחורי 350. OXIMO 2026 עמ׳ 50: \"CR-V (III RE) | 01.2007-12.2012 | 650 | 425\". Valeo 2024-25: \"CR-V 01/07-09/12\" 650/430, אחורי 345. קוד RE78. נוסע לא מולא (400 מול 425/430 ו-carwiper 16\" – שוויון). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 350,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"121"
+],
+"kinuy_re": "^HONDA CR-V$",
+"tozeret_cd": [
+346
+],
+"year_from": 2008,
+"year_to": 2011
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Subaru Forester (SG) turbo kinuy \"FORESTER TORBO\" 2008. Bosch 2023: \"SUBARU Forester 06.05-11.07\" 530/475, אחורי 350. OXIMO 2026 עמ׳ 80: \"Forester (SG) | suv | 06.2005-11.2007 | 525 | 475 | … 350\". קוד SG9FL9T (דור SG). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 350,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"791"
+],
+"kinuy_re": "^FORESTER TORBO$",
+"tozeret_cd": [
+650
+],
+"year_from": 2008,
+"year_to": 2008
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 575,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Porsche 911 (991) 2012-2019 – front only. Bosch 2023: Porsche 911 [991] 530/575. OXIMO 2026 עמ׳ 73: \"911 (991) | coupe | 12.2011- | 525 | 575\". HEYNER: 911 (991) נוסע 560. רק קוד דגם 991/991.2. אין מגב אחורי. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + HEYNER",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"38",
+"63",
+"64",
+"69",
+"76",
+"93",
+"97",
+"98",
+"108",
+"114",
+"133",
+"138",
+"144",
+"148",
+"158",
+"187",
+"203",
+"204",
+"205",
+"218",
+"227",
+"248",
+"249",
+"256",
+"276",
+"277",
+"293",
+"299",
+"317",
+"319",
+"881"
+],
+"kinuy_re": "^(911.*|CARRERA.*|991)$",
+"tozeret_cd": [
+735
+],
+"year_from": 2012,
+"year_to": 2019
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 530,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Renault Clio II (BB/CB) 1999-2004. Bosch 2023: \"RENAULT Clio II [BB./CB./SB.] 03.98-05.09\" 530/450, אחורי 300. OXIMO 2026 עמ׳ 74: \"Clio (II BB, CB, SB) | hatchback | 03.1998-05.2009 | 525 | 450\". Valeo 2024-25: \"CLIO 2 03/98-05/09\" 530/450, אחורי 300. רק קודי BB/CB (האצ׳בק). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"50",
+"51",
+"60",
+"61",
+"150",
+"220",
+"260",
+"290",
+"410",
+"411",
+"700",
+"2001",
+"3000"
+],
+"kinuy_re": "^CLIO (II|B)$",
+"tozeret_cd": [
+940,
+928
+],
+"year_from": 1999,
+"year_to": 2004
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Skoda Octavia IV liftback (NX3) 2021-2022 – front only. Bosch 2023: Octavia IV [NX3] 650/475. OXIMO 2026 עמ׳ 79: \"Octavia (IV, NX3) | liftback | 01.2020- | 650 | 475 | … 400\". אחורי לא מולא (OXIMO בלבד). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"1159",
+"1217",
+"1259",
+"1298",
+"1315",
+"1402",
+"1435",
+"1447",
+"1483",
+"1484",
+"1499"
+],
+"kinuy_re": "^OCTAVIA (IV|RS)$",
+"tozeret_cd": [
+676
+],
+"year_from": 2021,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 475,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Skoda Octavia IV Combi (NX5) kinuy \"OCTAVIA SPACE\" 2021-2022. Bosch 2023: Octavia IV Combi [NX5] 650/475, אחורי 330. OXIMO 2026 עמ׳ 79: \"Octavia (IV, NX5) | estate | 11.2019-06.2022 / 06.2022- | 650 | 475 | … 330\". רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 330,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"1156",
+"1162",
+"1198",
+"1199",
+"1202",
+"1216",
+"1248"
+],
+"kinuy_re": "^OCTAVIA SPACE$",
+"tozeret_cd": [
+676
+],
+"year_from": 2021,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Renault Fluence Z.E. 2012-2014. Bosch 2023: \"RENAULT Fluence [L38] 11.09-12.17\" 600/400. OXIMO 2026 עמ׳ 74: \"Fluence (L30) | sedan | 11.2009-07.2016 | 600 | 400\". Valeo 2024-25: \"FLUENCE 01/10-12/17\" 600/400. carwiper.co.il: 26\"/16\" (במיעוט). סדאן – אין מגב אחורי. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"631",
+"641"
+],
+"kinuy_re": "^FLUENCE Z\\.E\\.$",
+"tozeret_cd": [
+771
+],
+"year_from": 2012,
+"year_to": 2014
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 400,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Audi S1 (8X) 2014-2018. Bosch 2023: Audi A1/S1 [8X] 600/400, אחורי 380. OXIMO 2026: A1 (8X) 600/400, אחורי 380. Valeo 2024-25: A1/S1 600/400. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 380,
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"42",
+"63",
+"84"
+],
+"kinuy_re": "^S1$",
+"tozeret_cd": [
+551
+],
+"year_from": 2014,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Alfa Romeo Giulia (952) Quadrifoglio / Q4 2017-2025. OXIMO 2026 עמ׳ 25: \"Giulia (952) | sedan | 10.2015- | 600 | 450\". Valeo 2024-25 עמ׳ 42: \"GIULIA 06/16→\" 600/450. Bosch 2023: Giulia [952] 625/450. נהג 600 לפי רוב (OXIMO, Valeo מול Bosch 625). סדאן – אין מגב אחורי. 2026 לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://www.oximo.pl/wp-content/uploads/2026/03/OXIMO_wiper_blades_catalog_2026_EN.pdf"
+},
+"degem_cd": [
+"155",
+"162",
+"163",
+"189",
+"192",
+"202",
+"215",
+"226",
+"237",
+"246",
+"255",
+"257"
+],
+"kinuy_re": "^GIULIA (QUADRIFO|Q4)$",
+"tozeret_cd": [
+74
+],
+"year_from": 2017,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Dacia Duster I facelift (HS) 2017 – front only. Bosch 2023: \"Duster 12.16→\" 600/450. OXIMO 2026 עמ׳ 39: \"Duster (HS) | suv | 12.2016-05.2018 | 600 | 450 | … 350\". Valeo 2024-25: \"DUSTER 11/16-12/17\" 600/450. רק קודי HS. אחורי לא מולא (רכבי 2017 עשויים להיות מייצור לפני 12.2016 – אחורי 300). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"25",
+"35",
+"37",
+"58"
+],
+"kinuy_re": "^DUSTER$",
+"tozeret_cd": [
+351
+],
+"year_from": 2017,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "medium-high",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-103: לפי רוב הקטלוגים (החלטת בר 16.11.2026: כשהקטלוגים לא מסכימים הולכים לפי הרוב; שוויון 2 מול 2 – השדה נשאר ריק). דגם: Renault Kangoo III (RFK) 2025 – front only. Bosch 2023: \"RENAULT Kangoo III [FF/KF] 07.21→\" 650/450. OXIMO 2026 עמ׳ 75: \"Kangoo III | mpv | 06.2021- | 650 | 450\". Valeo 2024-25: \"KANGOO 3 06/21→\" 650/450. אחורי לא מולא (תלוי בדלת אחורית: 330/320/250). 2026 לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "קטלוגי מגבים: Bosch 2023 + OXIMO 2026 + Valeo 2024-25",
+"source_url": "https://media.motoral.ee/catalog/phpuat16y_bosch-sulkaluettelo-2023.pdf"
+},
+"degem_cd": [
+"136",
+"137"
+],
+"kinuy_re": "^KANGOO$",
+"tozeret_cd": [
+928
+],
+"year_from": 2025,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 650,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-103: רמת ביטחון נמוכה: מקור רשת (החלטות בר 11.11.2026 ו-16.11.2026 למותגים סיניים כולל GWM ORA, מקסוס MIFA 7 וזיקר, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: Maxus MIFA 7 2024-2025 – front only. teilehaber.de, Maxus Mifa 7: Blue Print AD26FL660 \"26 Zoll, 660 mm\" + AD17FL430 \"17 Zoll, 430 mm\". eswiperblade.com, MAXUS MIFA T/7 (2024-2025): \"[17寸] 425mm\" + \"[26寸] 650mm\". שני המקורות: 26\"/17\" (נומינלי 650/425). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "מקורות רשת: teilehaber.de + eswiperblade.com",
+"source_url": "https://www.teilehaber.de/autoteile-shop/scheibenwaschanlage/wischblatt-2470/maxus-mifa-7-tm6630.html"
+},
+"degem_cd": [
+"16",
+"17",
+"18",
+"19"
+],
+"kinuy_re": "^MIFA ?7$",
+"tozeret_cd": [
+1152
+],
+"year_from": 2024,
+"year_to": 2025
+},
+{
+"data": {
+"confidence": "low",
+"front_wipers_driver_mm": 575,
+"front_wipers_passenger_mm": 430,
+"notes": "BW-103: רמת ביטחון נמוכה: מקור רשת (החלטות בר 11.11.2026 ו-16.11.2026 למותגים סיניים כולל GWM ORA, מקסוס MIFA 7 וזיקר, \"מה שיש ברשת\"); מקורות שונים ברשת לא תמיד מסכימים – מומלץ למדוד את המגב הקיים לפני רכישה. דגם: GWM ORA 07 2024-2025 – front only. autoscheibenwischer24.com, ORA 07 (Lighting Cat) 04.2024→: Bosch Aerotwin A026S \"Links: 575 mm Rechts: 400 mm\". alca.de, ORA 07 04.2024-10.2026: 580 mm / 430 mm. tjm.com.my, PIAA GWM Ora 07 2025→: 22\" & 17\". לפי רוב: נהג 575 (Bosch 575 / alca 580 מול PIAA 22\"), נוסע 430 (alca + PIAA 17\" מול Bosch 400). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "מקורות רשת: Bosch A026S (autoscheibenwischer24.com) + alca.de + PIAA",
+"source_url": "https://www.autoscheibenwischer24.com/collections/ora-07-lighting-cat-scheibenwischer"
+},
+"degem_cd": [
+"6",
+"7",
+"8",
+"10"
+],
+"kinuy_re": "^ORA 07$",
+"tozeret_cd": [
+1426
+],
+"year_from": 2024,
+"year_to": 2025
 }
 ]
 }
