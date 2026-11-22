@@ -141766,6 +141766,217 @@
 ],
 "year_from": 2024,
 "year_to": 2025
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-104: מקור רשמי: ספר הרכב של היצרן (GM, מהדורת ארה\"ב – לא המהדורה הקנדית) בהסכמה עם קטלוג מגבים נוסף / ספרי היבואן לשנים סמוכות של אותו דור. דגם: Chevrolet Blazer (C1XX) 2022. ספר הרכב הרשמי Chevrolet Blazer 2022 (GMNA-Localizing-U.S./Canada/Mexico-15165663, en_US, עמ׳ 349 \"Wiper Blades\"): Front Driver 60 cm, Front Passenger 45 cm, Rear 30 cm. HEYNER: \"CHEVROLET BLAZER 1N_ von 09.2019\" 600/450. ספרי היבואן בעברית 2021 ו-2023 (כבר בקטלוג, BW-63): 60.0/45/30 – זהה. ספר היבואן הישראלי 2022 סרוק ללא שכבת טקסט – לכן נעשה שימוש בספר האמריקאי של אותה שנה. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "ספר רכב רשמי Chevrolet Blazer 2022 (GM, en_US) + HEYNER",
+"source_url": "https://www.chevrolet.com/support/vehicle/manuals-guides"
+},
+"degem_cd": [
+"68",
+"69",
+"76"
+],
+"kinuy_re": "^BLAZER$",
+"tozeret_cd": [
+981
+],
+"year_from": 2022,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-104: מקור רשמי: ספר הרכב של היצרן (GM, מהדורת ארה\"ב – לא המהדורה הקנדית) בהסכמה עם קטלוג מגבים נוסף / ספרי היבואן לשנים סמוכות של אותו דור. דגם: Chevrolet Blazer (C1XX FL) 2024. ספר הרכב הרשמי Chevrolet Blazer 2024 (GMNA-Localizing-U.S./Canada/Mexico-17375389, en_US, עמ׳ 320 \"Wiper Blades\"): Front Driver 60 cm, Front Passenger 45 cm, Rear 30 cm. HEYNER: \"CHEVROLET BLAZER 1N_ von 09.2019 - 10.2026\" 600/450. ספר היבואן 2023 (BW-63): 60.0/45/30 – זהה. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "ספר רכב רשמי Chevrolet Blazer 2024 (GM, en_US) + HEYNER",
+"source_url": "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2024/24_CHEV_Blazer_OM_en_US_U_85528966B_2023OCT10_2P.pdf"
+},
+"degem_cd": [
+"68",
+"69"
+],
+"kinuy_re": "^BLAZER$",
+"tozeret_cd": [
+981
+],
+"year_from": 2024,
+"year_to": 2024
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-104: מקור רשמי: ספר הרכב של היצרן (GM, מהדורת ארה\"ב – לא המהדורה הקנדית) בהסכמה עם קטלוג מגבים נוסף / ספרי היבואן לשנים סמוכות של אותו דור. דגם: Cadillac XT4 2019/2020/2022. ספרי הרכב הרשמיים Cadillac XT4 (en_US, \"Maintenance Replacement Parts\" – Wiper Blades): 2019 (23272680B) / 2020 (13527548) / 2022 (84683981B): Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm – זהה בשלושתם. HEYNER: \"CADILLAC XT4 von 01.2016 - 12.2025\" 600/500. ספרי המזרח התיכון 2021/2023/2024 (כבר בקטלוג, BW-57): 600/500/300 – זהה. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "ספרי רכב רשמיים Cadillac XT4 2019/2020/2022 (GM, en_US) + HEYNER",
+"source_url": "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2022/22_CAD_XT4_OM_en_US_U_84683981B_2022JAN14_2P.pdf"
+},
+"degem_cd": [
+"60",
+"62",
+"64",
+"80",
+"83",
+"84"
+],
+"kinuy_re": "^XT4$",
+"tozeret_cd": [
+840
+],
+"year_from": 2019,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-104: מקור רשמי: ספר הרכב של היצרן (GM, מהדורת ארה\"ב – לא המהדורה הקנדית) בהסכמה עם קטלוג מגבים נוסף / ספרי היבואן לשנים סמוכות של אותו דור. דגם: Cadillac XT6 2020/2022. ספרי הרכב הרשמיים Cadillac XT6 (en_US, Wiper Blades): 2020 (GMNA-Localizing-U.S./Canada-12984300) ו-2022 (-15218998, gmc.com ownercenter): Driver Side 60 cm, Passenger Side 50 cm, Rear 30 cm. HEYNER: \"CADILLAC XT6 NX26 von 01.2019 - 12.2025\" 600/500. ספר המזרח התיכון 2021/2023/2024 (BW-57): 600/500/300 – זהה. 2025 לא מולא – בספר 2025 אין טבלת מגבים; 2026 לא נכלל. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "ספרי רכב רשמיים Cadillac XT6 2020/2022 (GM, en_US) + HEYNER",
+"source_url": "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2020/20_CAD_XT6_OM_en_US_U_84321179A_2019MAR22.pdf"
+},
+"degem_cd": [
+"8",
+"10",
+"68",
+"76",
+"77"
+],
+"kinuy_re": "^XT6$",
+"tozeret_cd": [
+840
+],
+"year_from": 2020,
+"year_to": 2022
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 625,
+"front_wipers_passenger_mm": 530,
+"notes": "BW-104: מקור רשמי: ספר הרכב של היצרן (GM, מהדורת ארה\"ב – לא המהדורה הקנדית) בהסכמה עם קטלוג מגבים נוסף / ספרי היבואן לשנים סמוכות של אותו דור. דגם: Chevrolet Traverse I (CR/CV14526) 2009/2014/2017/2018. ספרי הרכב הרשמיים Chevrolet Traverse (en_US, Maintenance Replacement Parts – Wiper Blades): 2009 (2k09traverse): Front Driver 24.6 in (62.5 cm), Front Passenger 20.8 in (53.0 cm), Rear 30.0 cm; 2014 (2k14traverse2ndPrint) ו-2017 (2k17traverse2ndPrint): 62.5 / 53.0 / 30.0 cm. זהה לספרי היבואן בעברית 2010-2016 של אותו דור שכבר בקטלוג (625/530-533/300). HEYNER (09.2008-): 600/530 – נהג במיעוט. רק קודי הדור הראשון CR14526/CV14526 (שנת 2018 – רכבי דור ראשון לפי קוד הדגם). קודי הדור השני ER8KW/EV8KW ‏2017 לא מולאו. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "ספרי רכב רשמיים Chevrolet Traverse 2009/2014/2017 (GM, en_US) + ספרי היבואן 2010-2016",
+"source_url": "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2014/2k14traverse2ndPrint.pdf"
+},
+"degem_cd": [
+"3",
+"25",
+"27",
+"31",
+"35",
+"36",
+"37",
+"38",
+"39",
+"44",
+"45",
+"47",
+"48",
+"50",
+"52",
+"53",
+"54",
+"55",
+"71",
+"76",
+"77",
+"79",
+"80",
+"81",
+"85",
+"90",
+"91",
+"92",
+"101",
+"113",
+"115",
+"116"
+],
+"kinuy_re": "^TRAVERSE( LT)?$",
+"tozeret_cd": [
+961
+],
+"year_from": 2009,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 450,
+"notes": "BW-104: מקור רשמי: ספר הרכב של היצרן (GM, מהדורת ארה\"ב – לא המהדורה הקנדית) בהסכמה עם קטלוג מגבים נוסף / ספרי היבואן לשנים סמוכות של אותו דור. דגם: Chevrolet Equinox III (AX9EV) 2017. ספר הרכב הרשמי Chevrolet Equinox 2018 (הדור השלישי, en_US, Wiper Blades): Driver Side 60 cm, Passenger Side 45.0 cm, Rear 30.0 cm. HEYNER: \"CHEVROLET EQUINOX von 03.2017 - 12.2024\" 600/450. אותו קוד דגם AX9EV ב-2018-2019 כבר בקטלוג 600/450/300. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 300,
+"source_title": "ספר רכב רשמי Chevrolet Equinox 2018 (GM, en_US) + HEYNER",
+"source_url": "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2018/18_CHEV_Equinox_OM_U_en_US_23143657D_2017AUG18_4P.pdf"
+},
+"degem_cd": [
+"30",
+"31"
+],
+"kinuy_re": "^EQUINOX$",
+"tozeret_cd": [
+981
+],
+"year_from": 2017,
+"year_to": 2017
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 600,
+"front_wipers_passenger_mm": 425,
+"notes": "BW-104: מקור רשמי: ספר הרכב של היצרן (GM, מהדורת ארה\"ב – לא המהדורה הקנדית) בהסכמה עם קטלוג מגבים נוסף / ספרי היבואן לשנים סמוכות של אותו דור. דגם: Chevrolet Equinox II (AL9EK) 2018. ספר הרכב הרשמי Chevrolet Equinox 2017 (הדור השני, en_US, Wiper Blades): Driver Side 60 cm, Passenger Side 42.5 cm, Rear 32.5 cm. HEYNER: \"CHEVROLET EQUINOX von 10.2009 - 05.2017\" 600/430. אותו קוד דגם AL9EK ב-2016-2017 כבר בקטלוג 600/425/325. רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": 325,
+"source_title": "ספר רכב רשמי Chevrolet Equinox 2017 (GM, en_US) + HEYNER",
+"source_url": "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2017/2k17equinox2ndPrint.pdf"
+},
+"degem_cd": [
+"25",
+"28"
+],
+"kinuy_re": "^EQUINOX$",
+"tozeret_cd": [
+962
+],
+"year_from": 2018,
+"year_to": 2018
+},
+{
+"data": {
+"confidence": "high",
+"front_wipers_driver_mm": 550,
+"front_wipers_passenger_mm": 500,
+"notes": "BW-104: מקור רשמי: ספר הרכב של היצרן (GM, מהדורת ארה\"ב – לא המהדורה הקנדית) בהסכמה עם קטלוג מגבים נוסף / ספרי היבואן לשנים סמוכות של אותו דור. דגם: Chevrolet Malibu VI sedan (1ZT69) 2005-2008 – front only. ספר הרכב הרשמי Chevrolet Malibu 2007 (en_US, Maintenance Replacement Parts – Wiper Blades): Driver's Side 22.0 inches (55.0 cm), Passenger's Side 19.6 inches (50.0 cm) (אחורי 46.7 ס\"מ – רק Malibu Maxx). HEYNER: \"CHEVROLET MALIBU 6. von 10.2003 - 12.2007\" 560/500. רק קודי 1ZT69/IZT69 (סדאן דור 6). אחורי לא מולא (סדאן ללא מגב אחורי). דור 7 (1ZH69) לא מולא – סתירה בין המקורות (ראו הערות F-104). רק רכבים שלא היה להם מידע מגבים.",
+"rear_wiper_mm": "",
+"source_title": "ספר רכב רשמי Chevrolet Malibu 2007 (GM, en_US) + HEYNER",
+"source_url": "https://contentdelivery.ext.gm.com/content/dam/cope/en_us/public/pdf_assets/active/owners_manuals_browse/2007/2k07malibu.pdf"
+},
+"degem_cd": [
+"21",
+"31",
+"41",
+"51",
+"1711",
+"1712",
+"1812"
+],
+"kinuy_re": "^MALIBU( LT)?$",
+"tozeret_cd": [
+961
+],
+"year_from": 2005,
+"year_to": 2008
 }
 ]
 }
